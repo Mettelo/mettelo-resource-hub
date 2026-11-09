@@ -15,7 +15,7 @@
 | Global Talent: academia and research | [Read migrated handbook](immigration/global-talent/academia-and-research.md) | Draft — editorial review pending |
 | Global Talent preparation trackers | [Read tracker guide](immigration/global-talent/tracker-guide.md) | Markdown guides available; Excel downloads pending |
 | Innovator Founder guide and tracker | [Read guide and tracker](immigration/innovator-founder/README.md) | Draft guide; tracker Markdown available |
-| Nigerian passport renewal (UK) | [Passport](immigration/nigerian-passport/README.md) | Planned |
+| Nigerian passport renewal (UK) | [Read migrated guide](immigration/nigerian-passport/passport-renewal-uk.md) | Draft — editorial review pending |
 | GitHub learning resources | [GitHub](technical/github/README.md) | Inventory pending |
 | Project documentation templates | [Templates](technical/project-documentation/README.md) | Inventory pending |
 | NHS and Civil Service guidance | [UK careers](uk-careers/README.md) | Inventory pending |

@@ -94,3 +94,9 @@ Never store passwords, confidential company names, restricted links, personal id
 **Source:** `Professional Project Experience Catalogue.xlsx`, seven worksheets, inspected 9 November 2026. This Markdown guide is an explanation of the existing workbook rather than a replacement for its calculations.
 
 **Mettelo · Prepared by Johnson Taiwo.**
+
+---
+
+### Find your way around
+
+[← Project documentation](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

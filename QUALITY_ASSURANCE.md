@@ -13,7 +13,7 @@
 | Homepage clarity | Reviewed the old root README against the current resource collection | **Fixed:** removed false claim that guides had not been converted; added goal-based menus |
 | First-time user flow | Created a [Start Here](START_HERE.md) task selector and a [complete directory](RESOURCE_INDEX.md) | **Fixed:** direct routes from goal → guide → supporting template |
 | Category navigation | Inspected and rewrote career, technical, UK careers and immigration menus and specialist category pages | **Fixed:** consistent home/category/starting links and clearer labels |
-| Deep-page return links | Added a standard **Find your way around** footer to 26 current guides/checklists/templates (preserved original archives) | **Fixed:** readers can return directly to category, Start Here, directory or home |
+| Deep-page return links | Added a standard **Find your way around** footer to 30 current guides/checklists/templates (preserved original archives) | **Fixed:** readers can return directly to category, Start Here, directory or home |
 | Internal relative file links | Checked **491 relative links** across **17 navigation pages and 33 guide/archival files** against the inventory of their known repository destinations | **No missing destinations found** by the text/path inspection |
 | In-page table-of-contents anchors | Checked **562 in-document anchor links** across 33 resource files against their explicit ids/headings using a Markdown slug approximation | **No unresolved anchors found** by the text inspection |
 | Publication statuses | Compared prominent root/category claims with actual work completed | **Fixed:** reclassified drafts and enhanced guides instead of implying all are verified |

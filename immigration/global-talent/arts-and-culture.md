@@ -592,3 +592,9 @@ Read [official letter requirements](https://www.gov.uk/global-talent-arts-cultur
 A final legal/content audit, rendered Markdown review, and link QA remain outstanding before marking this as fully published.
 
 **Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**
+
+---
+
+### Find your way around
+
+[← Global Talent pathways](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

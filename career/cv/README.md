@@ -1,10 +1,17 @@
 # CV and résumé resources
 
-[← Career development](../README.md)
+[← Career development](../README.md) · [← Resource Hub](../../README.md)
 
-**Planned guides**
+## Available now
 
-- `cv-development-workflow.md` — a seven-step process from understanding a role to preparing the final CV.
-- `cv-template.md` — a reusable, evidence-based CV structure.
+### [CV Development Workflow — seven steps](cv-development-workflow.md)
 
-The original PDF/DOCX materials have been received. Full Markdown pages will be linked here once reviewed; they are not published yet.
+A complete, copy-friendly Markdown edition of the Mettelo CV development guide. Covers role analysis, selecting work examples, checking evidence, planning, drafting, reviewing and formatting.
+
+**Source edition:** Simplified edition 2, 23 October 2026. **Status:** Published.
+
+## Coming next
+
+- `cv-template.md` — reusable CV structure (conversion pending).
+
+The original Word template remains separate until it has been converted and checked.

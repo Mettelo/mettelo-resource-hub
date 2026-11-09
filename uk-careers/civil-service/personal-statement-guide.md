@@ -1,175 +1,141 @@
-# Civil Service and NHS Personal Statement AI Writing Guide
+# NHS & Civil Service — Supporting Statements and Personal Statements
 
-[← Civil Service resources](README.md) · [← UK careers](../README.md) · [← Resource Hub](../../README.md)
+[🏠 Home](../../README.md) · [Start Here](../../START_HERE.md) · [UK careers](../README.md) · [NHS](../nhs/README.md) · [Civil Service](README.md)
 
-**Mettelo resource · Prepared by Johnson Taiwo**
+**Mettelo practical writing guide · Revised 9 November 2026 · Prepared by Johnson Taiwo**
 
-> **Editorial status: Source migration — review required.** Text below is taken from the uploaded PDF, including its original instructions and example prompts. The original source uses some blanket assumptions (such as all Civil Service applications being blind, every employment-history bullet exceeding 25 words, or a prescribed number of examples). Those are **source-specific suggestions, not universal rules**. Always follow the exact live vacancy and employer instructions, and never manufacture evidence or use AI contrary to the assessment rules.
+> **Editorial status: Improved working guide.** This replaces the poorly formatted three-page PDF extraction with a structured, source-informed adaptation. The original suggested sector-specific prompts, reviewing the full advert, matching criteria, using genuine STAR evidence and checking AI-generated text. This edition adds a rigorous mapping process, worked fictional examples, question-first AI prompts and employer-specific safeguards. Original source remains recoverable through Git history. The vacancy instructions always override this guide.
 
-## Contents
+## Choose your application route
 
-- [Original page 1](#source-page-1)
-- [Original page 2](#source-page-2)
-- [Original page 3](#source-page-3)
+| You are applying to… | The document may be called | Start here |
+| --- | --- | --- |
+| **NHS Trust, ICB or NHS organisation** | Supporting Information, Supporting Statement, personal statement | [NHS step-by-step guide](#nhs-route-prepare-supporting-information-that-shortlisters-can-assess) |
+| **Civil Service department or agency** | Personal Statement, Suitability Statement, supporting evidence | [Civil Service step-by-step guide](#civil-service-route-write-to-the-actual-essential-criteria) |
 
-<a id="source-page-1"></a>
+A supporting statement is **not** a second copy of your employment history. It should show how your experience, knowledge, qualifications and values meet the *specific requirements* of the vacancy.
 
-## Original page 1
+## The process in six steps
 
-CIVIL SERVICE PERSONAL STATEMENT PROMPT
-(BLIND)
-Use this after pasting the full job description, person specification, and your CV.
+| Step | What to do | Output |
+| --- | --- | --- |
+| **1** | Read the whole advert, job description, person specification and application instructions | Requirement checklist with actual word limit |
+| **2** | Match every essential criterion to a real example or qualification | Evidence-to-criterion table |
+| **3** | Ask targeted questions about what you personally did | Verified evidence, with gaps identified |
+| **4** | Group related criteria and plan concise paragraphs | Paragraph outline |
+| **5** | Draft in plain British English, showing actions, judgement and results | Complete candidate-controlled statement |
+| **6** | Review criterion coverage, truth, clarity, originality, length and confidentiality | Submission-ready candidate-reviewed text |
 
-“Using my current CV together with the full job description and person specification for the targeted Civil
-Service role, write a blind personal statement of up to 1,000 words (target approximately 750 words) that
-clearly demonstrates my suitability against the essential criteria, required behaviours, and Civil Service values.
-Do not name specific employers or organisations; instead, refer to them using sector-based descriptors only
-(such as Central Government Department, National Public Sector Body, Regulated Organisation, or Private
-Sector Organisation). Begin with a concise introduction summarising my professional background, total years
-of relevant experience, motivation for joining the Civil Service, and clear rationale for applying for this specific
-role and grade. Structure the main body into thematic paragraphs aligned directly to the job description, each
-beginning with a strong topic sentence and containing 4–6 STAR-based examples drawn only from my current
-role, clearly outlining the Situation, Task, Action, and Result. Integrate relevant tools, methodologies,
-governance processes, service improvement approaches, and analytical or digital techniques where applicable,
-and demonstrate measurable impact wherever credible. Embed Civil Service behaviours and values naturally
-through evidence of delivery, leadership, collaboration, communication, integrity, impartiality, inclusivity, and
-public value without naming behaviours explicitly. Conclude with a strong summary of my key strengths,
-reaffirming my motivation to serve and commitment to continuous professional development. Write in fluent,
-professional British English, avoiding jargon, robotic phrasing, or exaggeration, and ensure the statement is
-authentic, reflective, and submission-ready.”
+### Step 1 — extract the requirements, not just job keywords
 
-Note: Civil Service word limits vary (e.g. 500, 750, or 1,000 words). Adjust the number and depth of STAR
-examples to fit the stated limit. Shorter limits require fewer, stronger examples focused on essential criteria;
-longer limits allow broader coverage. Always prioritise impact and relevance.
+| Exact criterion | Essential or desirable? | Where I can show evidence | What the panel must understand | Gap |
+| --- | --- | --- | --- | --- |
+| [Example: ability to analyse complex information] | Essential | [Actual role and date] | Data type, method, decision, users, outcome | [Specific missing detail] |
+| [Example: effective multidisciplinary communication] | Essential | [Actual situation] | Who needed the information, how it was adapted, what followed | [Unknown result] |
+| [Example: relevant registration] | Essential | [Real credential] | Current registration/eligibility | [Check expiry] |
 
+**A necessary qualification or professional registration cannot be replaced by a persuasive anecdote.** If you do not meet a genuinely mandatory criterion, do not invent credentials or imply equivalent status without the employer's acceptance.
 
-NHS SUPPORTING STATEMENT PROMPT (NOT BLIND)
-“Using my current CV together with the full job description, person specification, and Trust values for the
-targeted NHS role, write a Supporting Statement of up to 1,450 words (target approximately 1450 words) that
-directly addresses the essential and desirable criteria listed in the person specification. Retain organisation and
-NHS Trust names where applicable. Structure the statement clearly under aligned headings or structured
-paragraphs corresponding to the criteria, ensuring each essential requirement is explicitly evidenced using
-strong STAR-based examples (Situation, Task, Action, Result) drawn from my current or most relevant role. The
-Action phase of each example must be detailed and specific, clearly explaining the steps I personally took, the
-decisions I made, the methods or frameworks I applied, how I collaborated with others, and how I managed
-risks, governance, and quality considerations. Demonstrate measurable impact on patient care, service
-delivery, operational performance, compliance, quality improvement, or stakeholder outcomes wherever
-credible. Integrate relevant governance frameworks, safeguarding awareness, multidisciplinary collaboration,
-service improvement methodologies, digital systems, and regulatory compliance processes where applicable.
-Embed NHS values naturally through practical examples of compassion, collaboration, accountability, respect,
+### Step 2 — build a small evidence bank
 
-[↑ Contents](#contents)
+For each candidate example record **the problem, your exact responsibility, actions taken, decisions made, other people involved, safeguards, result and evidence source**. Include both measurable and defensible non-numerical outcomes. A reliable handover or correctly escalated risk can be a meaningful outcome; you do not need a fabricated percentage.
 
----
+### Step 3 — turn evidence into a paragraph
 
-<a id="source-page-2"></a>
+**Illustrative example only (fictional):**
 
-## Original page 2
+*Weak:* “I have excellent communication skills and always work well with stakeholders.”
 
-and commitment to high-quality patient-centred care. Conclude with a concise summary reinforcing my
-suitability, service ethos, and commitment to continuous professional development. Write in professional British
-English with a clear, authentic, and evidence-based tone, ensuring the final output is tailored, credible, and
-submission-ready without generic or exaggerated language.”
+*More informative, if genuinely true:* “During a monthly reporting cycle, different teams used inconsistent definitions for the same indicator. I clarified the reporting requirement with service leads, documented a shared definition, checked the revised reports and explained the change before publication. This enabled the teams to use a consistent measure in their service reviews.”
 
+This is one example of **communication and quality assurance**. It says what happened, what the applicant did and why. It should be shortened, expanded or replaced depending on the actual criterion; do not copy fictional details into an application.
 
-            HOW TO USE THESE PERSONAL STATEMENT PROMPTS
-Purpose
+## NHS route: prepare supporting information that shortlisters can assess
 
-These prompts help you generate a structured, high-quality personal statement tailored to either a Civil Service
-or NHS role using AI tools such as ChatGPT.
+NHS organisations assess against the job's person specification; values-based recruitment may also be relevant. Specific employer guidance encourages applicants to use the person specification, give concrete individual examples, explain their motivation and avoid simply repeating employment history. See [NHS Trust application guidance](https://www.covwarkpt.nhs.uk/application-guidance-) and [NHS Employers' values-based recruitment](https://www.nhsemployers.org/articles/values-based-recruitment).
 
+### Practical NHS structure
 
-                                 How to Use for Civil Service
-Step 1 – Prepare Documents
-   You must have:
-       1.   Full Job Description
-       2.   Full Person Specification
-       3.   Civil Service behaviours (if listed)
-       4.   Your complete CV
+| Paragraph | Purpose | Useful evidence |
+| --- | --- | --- |
+| **Opening** | Identify role, clinical/non-clinical context and genuine reason for applying to *this* organisation | Actual relevant background, understood service or Trust priorities |
+| **Qualifications and technical requirements** | Address mandatory experience/qualifications/registrations | Correct qualification, professional capability, safeguards |
+| **Service and delivery evidence** | Show how you meet essential work requirements | One or two actual examples of delivery, service quality, safety or problem-solving |
+| **Communication and collaboration** | Show real working with users, patients, colleagues or teams | Communication adapted to needs, handling challenge, documented handover |
+| **Values and judgement** | Demonstrate published Trust values through behaviour, not copied slogans | Respect, inclusion, confidentiality, service-user focus **where genuinely evidenced** |
+| **Conclusion** | Reconnect evidence to role without repeating claims | Concise motivation and suitability |
 
-Do not summarise or shorten them.
+**For non-clinical NHS jobs:** Focus on the relevant analyst, administration, finance, digital, operations or service criteria. Do **not** invent patient-facing experience, clinical interventions, safeguarding responsibility or improved patient outcomes because the organisation is an NHS employer.
 
-Step 2 – Open a New Chat
-Use ChatGPT or a similar advanced AI tool.
+**For clinical/support positions:** Distinguish what you personally did from actions requiring licensed clinical authority. If you escalated a concern, say *escalated*, not *diagnosed* or *treated*.
 
-Step 3 – Paste in This Exact Order
-       1.   Full Job Description
-       2.   Full Person Specification
-       3.   Civil Service behaviours (if separate)
-       4.   Your full CV
-       5.   The Civil Service personal statement prompt
+### NHS writing prompt — question-first and evidence-locked
 
-Then submit.
+```text
+Help me prepare an NHS Supporting Information statement for [EXACT JOB TITLE] at [NHS ORGANISATION]. I will supply the complete job advert, person specification, organisational values, application instructions and my factual CV/evidence.
 
-Step 4 – Review Carefully
-Check that:
+Do not write the statement immediately. First:
+1. Extract every ESSENTIAL criterion exactly and mark desirable criteria separately.
+2. Produce a criterion → actual experience/qualification → gap table. Do not infer clinical registration, patient care experience or mandatory eligibility.
+3. Ask up to six precise questions about my personal actions, service quality, communication, safety/governance and confirmed outcomes. Only ask what is relevant to the position.
+4. Check whether the employer has required anonymisation, specific headings, length or restrictions on AI.
+After I answer, propose a concise paragraph plan, grouped by related criteria. Then draft in natural UK English with explicit evidence and no fictional metrics.
+Keep employer names only where the specific form allows them. Avoid repeating my employment history; demonstrate why the examples meet criteria. Use actual organisational values, but do not claim an action happened just to match a value.
+After drafting, audit each essential criterion against the exact statement passage, list unsupported claims and revise them. Never guarantee shortlisting.
+```
 
-       •    No employer names appear (Blind rule).
-       •    STAR examples are clear and structured.
-       •    Evidence comes from your current role.
-       •    The statement aligns directly to essential criteria.
+## Civil Service route: write to the actual essential criteria
 
-[↑ Contents](#contents)
+The Civil Service uses **Success Profiles**, drawing from behaviours, experience, strengths, technical skills and ability. **Not every vacancy assesses every element.** A personal statement is commonly used to show evidence against relevant essential criteria, but the actual advert specifies the method and word count. Consult [Civil Service Careers' personal statement advice](https://www.civil-service-careers.gov.uk/how-to-write-your-ps/) and [Success Profiles](https://www.gov.uk/government/publications/success-profiles/success-profiles-civil-service-behaviours).
 
----
+### Practical Civil Service statement structure
 
-<a id="source-page-3"></a>
+**Opening (short):** State your specific relevant professional background and why you fit the role, without overloading the introduction with unassessed motivation.
 
-## Original page 3
+**Main sections (most of the space):** Organise by significant essential criteria or closely linked requirement groups; show real Situation/Task → detailed personal Action/decision → Result. For senior jobs add why you chose an approach, trade-offs, risk or assurance, stakeholder challenge and organisational implications.
 
-• The tone is natural and credible.
+**Closing (brief):** Link evidence to delivery responsibilities without generic declarations.
 
-                                       How to Use for NHS
-Step 1 – Prepare Documents
-You must have:
+**Illustrative 500-word plan (not a rule):** opening ~40 words, two or three evidence paragraphs ~135–200 words each, closing ~30 words, adjusted to the actual criteria. Never try to force four to six STAR examples into each paragraph. Often one strong example can cover several related criteria when clearly explained.
 
-       •    Job Description
-       •    Person Specification
-       •    Trust Values
-       •    Your full CV
+**Blind recruitment:** Many Civil Service campaigns use name-blind processes, but **anonymisation instructions vary**. Remove specific identifiers only where the vacancy/field instructs you. Do not automatically strip employer names from a field where employer history is expressly requested.
 
-Step 2 – Open a New Chat
-Step 3 – Paste in This Exact Order
-       1.   Job Description
-       2.   Person Specification
-       3.   Trust Values
-       4.   Your CV
-       5.   The NHS personal statement prompt
+### Civil Service personal statement prompt
 
-Submit.
+```text
+Act as a Civil Service application reviewer and writing coach. Target: [ROLE], [GRADE], [DEPARTMENT], [ADVERT WORD LIMIT]. I will supply the full advert, person specification, named Success Profile elements and my genuine CV/evidence bank.
 
-Step 4 – Review Carefully
-Check that:
+First quote or accurately extract the essential criteria and distinguish assessed experience, technical skills and behaviours. Map each criterion to an actual example or mark a gap. Ask me targeted questions about my own decisions, leadership/judgement appropriate for the grade, implementation, risk management, quality controls, collaboration and results.
 
-       •    Organisation and Trust names remain included.
-       •    Patient or service impact is clearly demonstrated.
-       •    STAR examples are strong and measurable.
-       •    Trust values are reflected through evidence, not slogans.
+Before drafting, confirm the precise anonymisation, word limit and AI-use rules in the vacancy; don't impose general rules. Propose a criterion-led paragraph plan within the limit. Use only verified facts; explain my personal actions, reasoning, and value delivered. If an example is too thin, ask before writing rather than inventing.
 
-⚠ Personal Statement Disclaimer
-AI-generated personal statements are drafting tools and must not be submitted without thorough review and
-refinement. While AI can help structure examples and align content to the person specification, it may
-misinterpret context, overstate impact, or omit important nuance. You are responsible for ensuring all
-examples are accurate, truthful, and genuinely reflective of your experience. Before submission, strengthen
-weaker sections, sharpen measurable impact, personalise the tone, and ensure alignment with the role’s
-essential criteria. The final statement must reflect your authentic voice, judgement, and professional
-integrity, not solely automated content.
+Then provide the complete candidate-review draft. Audit essential-criterion coverage, unsupported numbers, incorrect ownership, repetition, unexplained acronyms and the word count. Do not manufacture scores or guarantee selection.
+```
 
-[↑ Contents](#contents)
+## A final quality check that prevents generic AI writing
 
----
+| Problem | How to diagnose it | Correction |
+| --- | --- | --- |
+| “I am passionate about…” fills the introduction | Could it fit almost any applicant? | Mention genuine relevant work and this role's remit |
+| Every paragraph says “I collaborated” | No named decisions or responsibilities | Specify the parties, disagreement/need, action and outcome |
+| Same example repeated | Multiple criteria map to identical sentences | Use a distinctive second example or clearly show different evidence |
+| Unsupported metric | No denominator, time period or real record | Remove percentage; state confirmed outcome |
+| NHS service impact overstated | Implies personal clinical outcome from a back-office task | Describe validated reporting/service contribution accurately |
+| CS grade ignored | Example describes only following an instruction in a senior leadership role | Explain actual autonomy, judgement and risk where genuinely present |
+| Forced word count | Original source assumed particular word limits | Follow the exact application field, not the template |
+| Uncertain AI permission | Employer/assessment may restrict assistance | Consult the advert and follow its policy; never paste protected data |
 
-## Before you apply
+### Free official guidance and references
 
-- Check the specific job advert for word limits, assessed criteria, anonymity and permitted AI assistance.
-- Validate each claim, tool, date, responsibility and outcome against your own evidence.
-- Never submit a prompt response without personal editing and factual checking.
-- Use this resource for preparation; it does not guarantee shortlisting or an interview.
+- [NHS Employers — values-based recruitment](https://www.nhsemployers.org/articles/values-based-recruitment).
+- [NHS Trust example — applying against a person specification](https://www.covwarkpt.nhs.uk/application-guidance-).
+- [NHS Trust example — supporting information and employment history](https://www.jobs.sath.nhs.uk/find-job/applicant-guidance).
+- [NHS Employers — AI use in candidate applications](https://www.nhsemployers.org/articles/guidance-use-artificial-intelligence-candidate-applications).
+- [Civil Service Careers — writing personal statements](https://www.civil-service-careers.gov.uk/how-to-write-your-ps/).
+- [Civil Service — official Success Profiles behaviours](https://www.gov.uk/government/publications/success-profiles/success-profiles-civil-service-behaviours).
 
-**Source:** User-supplied 3-page PDF. Markdown adaptation keeps source text in original page order; layout may need editorial formatting before marking fully published.
-
----
+**Source and change record:** Original Mettelo three-page PDF offered one Civil Service and one NHS prompt, document-order instructions and review/disclaimer guidance. This revision retains the two-track method but **corrects blanket blind/non-blind assumptions, unrealistic example counts and unverified word targets** and adds concrete criterion mapping, NHS non-clinical safeguards and question-first prompts. Enhanced editorial draft; final manual source/render review pending.
 
 ### Find your way around
 
-[← Civil Service/NHS guides](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)
+[← Civil Service resources](README.md) · [← NHS resources](../nhs/README.md) · [Start Here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

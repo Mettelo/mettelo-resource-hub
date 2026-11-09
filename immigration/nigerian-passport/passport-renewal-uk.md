@@ -10,6 +10,30 @@ Prepared by **Johnson Taiwo**
 >
 > **Important:** This is an independent community guide, not an official Nigerian government service. Always confirm the current NIS instructions, payment screen and Nigeria High Commission requirements. The guide's source was checked 23 October 2026, and procedures may change.
 
+## Start here: which renewal process actually applies to you?
+
+**Critical current-rule check (9 November 2026):** The Nigeria Immigration Service publishes both a [general passport renewal process](https://immigration.gov.ng/info-center/renewal-of-passport/) that describes **in-person biometric appointments** and a [contactless passport service](https://immigration.gov.ng/contactless/) for qualifying cases. Therefore, **do not assume that every UK applicant can renew fully contactlessly or must post the same documents**. The eligibility and route shown in your actual official application portal, supported by the High Commission's instructions, govern your case.
+
+| Your situation | First practical step | Do not do this |
+| --- | --- | --- |
+| Adult renewing an existing passport with unchanged details | Check official renewal portal for current contactless eligibility and country/processing-centre availability | Do not buy postal orders or post your existing passport solely because an old guide mentions them |
+| First Nigerian passport | Use [official NIS fresh application information](https://immigration.gov.ng/passports/) and relevant High Commission instructions | Do not follow an adult renewal-only workflow |
+| Lost/damaged passport or changes to name/date/details | Use the correct [NIS replacement/data correction process](https://immigration.gov.ng/passports/) | Do not select ordinary renewal to bypass additional documents |
+| Under-18 applicant | Check current minor requirements, parental consent and biometric route | Do not assume adult contactless eligibility |
+| App payment/OTP/biometric error | Save official reference and seek NIS support through its current [contact page](https://immigration.gov.ng/contact/) or actual app help | Do not pay unofficial agents to “unlock” an application |
+
+### Do this before paying or mailing anything
+
+1. Open the [Nigeria Immigration Service](https://immigration.gov.ng/) and the **official** [passport portal](https://passport.immigration.gov.ng/), selecting the **outside Nigeria** application route when appropriate.
+2. Choose the accurate application type. Check whether your exact case is eligible for mobile contactless capture or requires an appointment.
+3. Confirm NIN/passport details, processing centre, payment method, approved documents, postage and address on the **live official instructions**.
+4. Save the official application reference privately and track progress through the portal. Use app support for technical problems; the [NIS contactless incident notice](https://immigration.gov.ng/nis-addresses-technical-challenges-on-contactless-passport-application-system/) documents payment/OTP and technical challenges.
+5. Protect personal documents and credentials. Never paste NIN, passport number, application codes, receipt images or home addresses into public GitHub issues or AI prompts.
+
+**What changed compared with the original Mettelo handbook?** The source's 11-page process remains below as a reference for eligible contactless renewals, but **postal orders, envelopes, fees, app eligibility and physical appearance cannot be presumed current or universal**. Treat the official current portal as authoritative.
+
+---
+
 ## Quick navigation
 
 - [1. Overview and eligibility](#section-1)

@@ -34,4 +34,4 @@ The original resources are held separately. Duplicate formats of one guide will 
 - [Civil Service and NHS Employment History Guide](uk-careers/civil-service/employment-history-guide.md).
 - [Civil Service and NHS Interview Preparation Guide](uk-careers/civil-service/interview-preparation-guide.md).
 
-Additional uploaded CV templates, the GitHub Handbook and the Professional Project Experience Catalogue are not yet migrated.
+The two Data/AI CV templates are now [listed in CV resources](career/cv/README.md). The GitHub Handbook and Professional Project Experience Catalogue are awaiting source review.

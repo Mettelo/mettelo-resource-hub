@@ -9,11 +9,58 @@ Prepared by **Johnson Taiwo**, Mettelo
 
 > **Important:** This guide is a practical *career and evidence-development plan*, not a legal eligibility determination or a promise of endorsement. A two-year period is **not** an official application requirement. Some people already have sufficient evidence; others may need considerably longer. The October 2026 Mettelo source is preserved separately. This enhanced guide adds independently researched public resources, practical workflows, examples and a month-by-month table. **Source material and new recommendations are distinguished below.**
 
+## Start here — what is the Global Talent visa for digital technology?
+
+### What is this visa?
+
+The UK's **Global Talent visa** is an immigration route for people who are already recognised as leaders in a field, or who can show strong potential to become leaders. **Digital technology** is one of its fields. Examples include artificial intelligence, software engineering, cybersecurity, financial technology, data technology and digital products. The route is intended to attract people who can make an important contribution to the UK's technology sector. It is not a general training visa or a visa awarded simply for knowing Python, obtaining certificates or completing online courses.
+
+Unlike many employer-sponsored routes, you **do not need a UK job offer** to apply. With the appropriate permission you can generally work as an employee, be self-employed, run a business or change jobs without obtaining a new sponsor. It normally involves an assessment of your achievements by **Tech Nation** (endorsement), followed by a separate immigration application to the **Home Office**. A qualifying prestigious prize can provide an alternative to endorsement in certain circumstances. The rules also cover family members, renewal and possible settlement. Read the [official digital technology overview](https://www.gov.uk/global-talent-digital-technology) before making plans.
+
+### Who is this guide for?
+
+This guide is for data scientists, analysts with genuinely relevant technology contributions, software and data engineers, AI/ML professionals, technical founders, digital product leaders and eligible commercial professionals who want to build a strong, truthful professional record. It is especially useful for people based in **Nigeria, the UK or elsewhere** who are planning their next two years of work. Nationality by itself is not the qualifying criterion.
+
+A person doing routine reporting for a non-technology organisation may need to examine whether their role and achievements fit Tech Nation's digital-technology scope. An impressive job title, a senior grade, a master's degree or years of experience alone does not settle eligibility. Conversely, someone at an early stage of their **technology career** may have relevant exceptional-promise evidence without already being a highly experienced technology leader.
+
+### What is exceptional talent versus exceptional promise?
+
+| Question | Exceptional talent | Exceptional promise |
+| --- | --- | --- |
+| Broad meaning | Already recognised as a **leader** in digital technology | Recognised as having the potential to become a **leader**; must be at an early stage of the technology career |
+| Evidence focus | Established, demonstrably substantial recognition and contributions | Promising but still credible recognition and contributions relative to career stage |
+| Optional requirements | Evidence for **two** of the four qualifying contribution areas | Evidence for **two** qualifying contribution areas, with category-specific wording |
+| Settlement in general | Potential eligibility after **3 years**, subject to all settlement conditions | Potential eligibility after **5 years**, subject to all settlement conditions |
+
+The actual criteria are those in [Immigration Rules Appendix Global Talent, GTE 7](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-global-talent), not the simplified explanation above. Do not choose exceptional promise merely because talent evidence is not yet strong.
+
+### Understand the journey in five steps
+
+| Step | What happens | What you should do |
+| --- | --- | --- |
+| **1 — Check fit** | Determine whether the digital technology route and talent/promise category apply | Read the official criteria, identify your actual technical or product contribution and record gaps |
+| **2 — Build credible achievement** | Deliver useful technology work and gain real external recognition where relevant | Use the optional 24-month development plan, but do not mistake its activities for visa requirements |
+| **3 — Seek endorsement** | Tech Nation assesses the submitted career, recommendations and evidence | Collect only admissible, independently checkable work; follow current document and AI/authorship instructions |
+| **4 — Apply for the visa** | The Home Office separately considers immigration requirements | Check immigration status, identity and any required documents, fees and timing |
+| **5 — Work and maintain records** | Permission allows qualifying activities, subject to conditions | Preserve evidence for extension/settlement and comply with the actual permission granted |
+
+**Example for a newcomer:** A data engineer with only a course certificate and a copied project has evidence of learning, but not necessarily recognition or qualifying contribution. A stronger professional record would involve developing an original or substantial solution, proving that someone independent used or assessed it, and keeping real records of their own technical decisions. Even that is **not automatically sufficient** for endorsement.
+
+### Why a 24-month plan?
+
+The month-by-month table in this resource is **Mettelo's suggested career-development schedule**, not a government requirement. You may already qualify, or the work may take longer than two years. The main objective is to build and verify meaningful achievements before considering an endorsement application.
+
+**Read first:** [Global Talent overview](https://www.gov.uk/global-talent-digital-technology) · [Eligibility](https://www.gov.uk/global-talent-digital-technology/eligibility) · [Documents](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement) · [Tech Nation applicant guidance](https://technation-globaltalentvisa-guide.notion.site/e645304dc1ba4f77a1f095d224a8a7b9).
+
+---
+
 ## Contents
 
+0. [Start here: what is this visa?](#start-here--what-is-the-global-talent-visa-for-digital-technology)
 1. [Understand the actual rules](#1-understand-the-actual-rules)
 2. [Choose the right professional pathway](#2-choose-the-right-professional-pathway)
 3. [Map evidence to the criteria](#3-map-evidence-to-the-criteria)
+- [Successful applicant evidence patterns](#practical-evidence-patterns-observed-in-successful-applicants)
 4. [Choose one practical evidence-building strategy](#4-choose-one-practical-evidence-building-strategy)
 5. [Build and validate a meaningful technology product](#5-build-and-validate-a-meaningful-technology-product)
 6. [Make open-source contributions that matter](#6-make-open-source-contributions-that-matter)
@@ -105,6 +152,94 @@ A single blog, GitHub star count, paid news placement, attendance certificate or
 ### The evidence-selection test
 
 For every potential document, answer all six questions: (1) what exact criterion? (2) what did I personally do? (3) what independent record confirms it? (4) when did it happen? (5) what makes the achievement significant beyond routine duties? (6) can it be shared legally and honestly? Retain items only when the answers are substantive.
+
+---
+
+## Practical evidence patterns observed in successful applicants
+
+**Where these examples come from:** The [Tech Nation Global Talent Ambassador success stories](https://technation.io/global-talent-success-stories/) report professional achievements and advice from people who successfully secured the visa. The [Home Office's evaluation of Global Talent visa holders](https://www.gov.uk/government/publications/global-talent-visa-evaluation-wave-2-report/global-talent-visa-evaluation-wave-2-report) also records applicants' experiences gathering letters, using work evidence and obtaining guidance. The **patterns below are anonymised summaries**, not reconstructions of anyone's confidential application dossier. Public success stories rarely reveal which specific documents an assessor accepted, so no activity here should be described as a proven approval tactic.
+
+### Pattern 1 — A substantial product contribution at work
+
+**What successful holders reported:** Some described designing and shipping digital products used at meaningful scale, improving a product's capabilities or addressing expensive technical problems. Their public stories emphasised work actually delivered, not simply their employers' reputation.
+
+**A practical approach to adopt:**
+1. Select a specific product or system where you have genuine technical/commercial responsibility; verify the organisation qualifies as a product-led digital technology business if using that optional criterion.
+2. Document the before-state: users, reliability, error rate, cost or other appropriate measure.
+3. Record your design decisions, exact ownership, releases and verification: approved architecture notes, issues, pull requests, tests, deployment records or product reviews.
+4. Ask an authorised technical/product leader to review a **fact summary** of what you contributed and confirm permitted metrics; keep confidential artefacts private.
+5. If the product outcome is verifiable and significant, assess it against the correct optional criterion. Separately identify any real independent recognition needed for the mandatory criterion.
+
+**Possible records:** Dated product brief, release evidence, permitted metric extract, independent senior review. **Weak substitute:** employment contract plus an assertion that the company is famous.
+
+### Pattern 2 — Open-source work with independent peer acknowledgement
+
+**Why this matters:** GOV.UK explicitly identifies open-source contribution **acknowledged by peers as advancing the field** as a possible form of evidence; merely opening a repository does not prove it.
+
+**A practical approach to adopt:**
+1. Choose a real package used by others and find an issue affecting users.
+2. Reproduce the problem, agree an approach with maintainers, implement and test a substantial fix.
+3. Get it reviewed and merged; then maintain the feature, handle bugs, and document adoption when legitimately measurable.
+4. Preserve issue/PR links, independent maintainer comments, release notes and confirmed adoption. Explain why your contribution mattered beyond routine editing.
+5. Record how any work genuinely undertaken **outside your paid occupation** differs from ordinary employment duties if claiming beyond-occupation advancement.
+
+**Possible records:** Public accepted PR and discussion, maintainer review, user or release reference. **Weak substitute:** green contribution squares, star counts or a cloned tutorial repository.
+
+### Pattern 3 — Independent external speaking and professional recognition
+
+**What successful holders reported:** Public profiles describe presenting expert knowledge, community engagement and professional visibility as parts of established technology careers. These are not all identical forms of acceptance evidence.
+
+**A practical approach to adopt:**
+1. Begin with a verifiable technical achievement: a real product, tested method or case study.
+2. Submit an abstract to a relevant professional organiser using published speaker rules rather than declaring yourself a keynote speaker.
+3. If selected, deliver the content, answer technical questions, and record the organiser's official programme, your actual presentation and independently verifiable audience reach where possible.
+4. Continue building substantive work rather than chasing low-quality stage appearances.
+
+**Possible records:** Selection communication, official speaker page, recording, presentation materials and organiser confirmation. **Weak substitute:** self-produced event poster or attendance certificate.
+
+### Pattern 4 — Founder activity backed by product and commercial records
+
+**What successful holders reported:** Tech Nation's ambassador profiles include founders with actual product development, partnerships, commercial operations, entrepreneurial recognition and, in some cases, outside awards or acceleration recognition.
+
+**A practical approach to adopt:**
+1. Verify the customer problem and product originality with interviews and competitor evidence.
+2. Build a working release, pilot it with consent and record genuine returning users and business activity.
+3. Separate sign-ups from active users; separate forecasts from realised revenue; separate Nigeria results from UK results.
+4. Preserve incorporation/ownership, product release, sales, relevant financial statements, independent customer verification and genuine recognition.
+5. Look for legitimate accelerators or awards suited to the business, but verify eligibility and competitiveness; **participation or an award application alone is not endorsement evidence**.
+
+**Possible records:** Dated product release and usage, customer statements, permissible business accounts, genuine recognised award. **Weak substitute:** certificate of incorporation plus a landing page.
+
+### Pattern 5 — Sustained volunteering and mentoring with actual outcomes
+
+**What successful holders reported:** Some profiles mention long-term voluntary technical teaching or mentoring alongside substantial professional technology work. The successful application cannot be attributed to mentorship alone.
+
+**A practical approach to adopt:**
+1. Join or form a genuine technical mentoring programme with clear participant needs and consent.
+2. Deliver recurring sessions where participants actually complete tasks or projects and receive feedback.
+3. Track permitted anonymised completion, work quality, improvement and organiser/participant confirmation.
+4. Show how the activity contributed to the technology community beyond your immediate occupation; distinguish volunteering from paid work.
+
+**Possible records:** Independent programme confirmation, dated curriculum, participant work and follow-up outcomes. **Weak substitute:** large WhatsApp membership counts or certificates issued by your own community.
+
+### Pattern 6 — Referees developed through genuine work and sufficient time
+
+**What successful holders and official research show:** Gathering credible recommendation letters may take months. Applicants have sought advice through former colleagues, work teams, technology networks, visa-holder communities and appropriately qualified professional advisers. Tech Nation requires each expert to have known the applicant's work for **at least 12 months**.
+
+**A practical approach to adopt:**
+1. Identify experts already familiar with substantial work, not merely well-known strangers.
+2. Collaborate or be evaluated on real work over a meaningful period; keep dated exchanges and actual decisions.
+3. Confirm the expert's standing and knowledge against current official rules.
+4. Seek genuinely authored, different recommendations when ready. Follow Tech Nation's precise prohibition on applicant- or AI-generated application letters.
+5. Do not acquire a false letter, backdate contact or pay for a purported expert's signature.
+
+**Possible records:** Work history, authentic review, documented relationship chronology and compliant referee credentials. **Weak substitute:** generic recommendation signed by someone who only met you recently.
+
+### What these successful-applicant stories **do not** establish
+
+They do **not** prove that a particular Github project, accelerator, talk, publication, patent, blog or number of followers will be accepted. Public biographies are usually selective and do not expose the actual endorsement assessment. The practical lesson is to **develop meaningful work, secure authentic independent verification, then match the result to the official criteria**.
+
+**Sources to study:** [Tech Nation's first-hand ambassador accounts](https://technation.io/global-talent-success-stories/) · [Home Office evaluation of successful visa holders](https://www.gov.uk/government/publications/global-talent-visa-evaluation-wave-2-report/global-talent-visa-evaluation-wave-2-report) · [Official document evidence examples](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement).
 
 ---
 
@@ -520,7 +655,7 @@ The [archived 30-page Mettelo technology handbook](technology-original-2026.md) 
 
 ### What has been newly added
 
-The 24-row implementation tables, detailed product/open-source/speaking/referee playbooks, hypothetical project examples, evidence quality gates, revised decision tables and direct practical resource links are **new Mettelo recommendations**, researched and prepared on **9 November 2026**. These are not official visa requirements. Activity counts such as interviews, pilots, months and contributions are suggested planning targets only.
+The beginner-oriented introduction and anonymised successful-holder patterns (added 9 November 2026), the 24-row implementation tables, detailed product/open-source/speaking/referee playbooks, hypothetical project examples, evidence quality gates, revised decision tables and direct practical resource links are **new Mettelo recommendations**, researched and prepared on **9 November 2026**. These are not official visa requirements. Activity counts such as interviews, pilots, months and contributions are suggested planning targets only.
 
 ### Primary external sources checked
 

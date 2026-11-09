@@ -94,3 +94,9 @@ The final submission must demonstrate judgement, credibility, and integrity, not
 - Use this resource for preparation; it does not guarantee shortlisting or an interview.
 
 **Source:** User-supplied 2-page PDF. Markdown adaptation keeps source text in original page order; layout may need editorial formatting before marking fully published.
+
+---
+
+### Find your way around
+
+[← Civil Service/NHS guides](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

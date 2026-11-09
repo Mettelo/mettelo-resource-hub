@@ -1,1371 +1,594 @@
-# UK Global Talent Visa — Arts and Culture Pathway
+# UK Global Talent Visa — Arts & Culture Pathway
 
-**Mettelo application handbook · Version 2 · Original checked 23 October 2026**  
-**Prepared by Johnson Taiwo**
+**Practical, discipline-specific, evidence-led guide with a detailed 24-month development plan**  
+**Enhanced Mettelo edition · 9 November 2026**  
+Prepared by **Johnson Taiwo** · Mettelo — Built for What's Next
 
-[← Global Talent resources](README.md) · [← Immigration resources](../README.md) · [← Resource Hub](../../README.md)
+[← Global Talent resources](README.md) · [← Immigration resources](../README.md) · [← Resource Hub](../../README.md)  
+[Preserved original 29-page Mettelo handbook](arts-and-culture-original-2026.md) · [Arts checklist](arts-and-culture-checklist.md) · [Tracker instructions](tracker-guide.md)
 
-> **Editorial status: Draft — source transferred, formatting and detailed legal review pending.** This Markdown version preserves the 29-page arts and culture handbook from the supplied Mettelo PDF. It does **not** mean every application rule in that October 2026 source has been reverified. If anything differs from current official requirements, the official requirements take priority.
+> **Publication status: Enhanced draft.** The October 2026 original source has been archived, not discarded. This is a newly researched and expanded guide, not a verbatim transcription. Immigration rules and arts opportunities change. The activities suggested below build genuine artistic careers; none is an official 24-month requirement or guarantees endorsement. All applicants must follow the applicable live UK rules and their discipline's assessor.
 
-## Scope of this handbook
+## Before anything else — understand the visa
 
-This source focuses on the **general Arts Council England route**, with practical music, drawing, painting and other creative practice playbooks for UK and Nigeria. **Architecture, fashion design, film and television, and design may have specialist criteria or endorsers.** Do not assume this guide covers those routes.
+### What is Global Talent for Arts & Culture?
 
-Its suggested activities, contacts, plans and numerical targets are career-development ideas, **not guaranteed endorsement evidence**, invitations or qualifying opportunities. The 24-month plan is a planning horizon, not a visa eligibility threshold.
+The UK Global Talent visa allows recognised leaders and potential leaders in qualifying creative fields to work in the UK without a conventional employer sponsor. Under the permission granted, a successful holder can generally work as an employee, be self-employed or direct a business. It is intended for people with a **substantive professional artistic record**, not simply people who enjoy art, have an arts degree, have a large social-media following, or want to begin a creative career.
+
+Most applicants first apply for an **endorsement**, in which specialist arts experts assess the quality and recognition of their professional work. The Home Office then considers the **separate visa application**, including immigration requirements. Certain qualifying international prizes can instead provide an endorsement-exempt route, but only prizes on the government's relevant list qualify for that bypass. See [GOV.UK overview](https://www.gov.uk/global-talent-arts-culture).
+
+### Which creative fields are covered, and who assesses them?
+
+| Field | Assessment pathway | What that means practically |
+| --- | --- | --- |
+| **Music** (composition, performing, relevant creation) | General arts assessment by **Arts Council England** | A professional performance/publication/review history is central; streaming popularity by itself is not the same as qualifying recognition. |
+| **Combined arts, dance and choreography** | General arts assessment by **Arts Council England** | Credited productions, eligible critical reviews and significant professional appearances may matter. |
+| **Theatre** (eligible professional theatrical work) | General arts assessment by **Arts Council England** | Document full production details, credited role and independent professional context. |
+| **Literature** (novels, poetry, recognised writing fields) | General arts assessment by **Arts Council England** | Distinguish authored published work, professional literary awards and critical reviews from self-promotion. |
+| **Visual arts**, including many professional art-photography practices | General arts assessment by **Arts Council England** | Curated exhibitions, media criticism, documented international professional presentation and qualifying prizes. |
+| **Architecture** | Specialist **RIBA** assessment | Do not use this general-arts checklist as a substitute for architecture criteria. |
+| **Fashion design** | Specialist **British Fashion Council** assessment | Different discipline-specific criteria. |
+| **Design industry** | Specialist **Design Business Association** assessment | Specialist design criteria; verify scope. |
+| **Film, television, animation, post-production, VFX** | Specialist **PACT** assessment, with different eligibility | Do not assume general arts exceptional-promise arrangements apply. |
+
+The official [discipline list](https://www.gov.uk/government/publications/global-talent-endorsing-bodies/disciplines-covered-by-arts-council-england-or-its-associated-bodies) was updated **1 July 2026**. Some work, especially commercial photography, screenwriting, filmmaking or fashion, requires careful assessment of which specialist body actually applies.
+
+### Exceptional Talent versus Exceptional Promise
+
+| | Exceptional Talent — established leader | Exceptional Promise — potential leader |
+| --- | --- | --- |
+| Professional stage | Substantial professional achievements | Earlier career, **usually at least three years of professional experience** |
+| Geographic record | A **substantial record in at least two countries**, one may be the country of residence | Developing professional record in **at least one country** |
+| Work history | Regular professional engagement in the field in the last five years | Regular professional activity and recognised developing work |
+| Qualifying evidence | At least **two** of eligible review/award/appearance categories, under leader thresholds | At least **two** categories under promise thresholds (shortlisting can qualify under the award category) |
+| What it is not | A title you can choose because you are older or senior | A category for people with no professional artistic history |
+
+For the legally operative wording, see [Appendix Global Talent, GTE 3.1–3.4](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-global-talent). The rules are separate for architecture, film/TV, fashion and design.
+
+### How the application works
+
+1. **Identify your actual discipline and category.** Choose the correct ACE or specialist route.
+2. **Check artistic track record.** Map performed, published, distributed or exhibited work, dates, countries and external recognition.
+3. **Develop real professional work if gaps exist.** Use the optional 24-month table, professional opportunities and genuine partnerships.
+4. **Seek endorsement.** Provide a typed artistic CV, three qualifying recommendation letters and up to ten evidence items under the current rules.
+5. **Apply for the visa.** Meet the separate Home Office requirements; endorsement is not the visa.
+
+**Do not confuse training with recognition:** a photography certificate is useful for skill-building; an actual independently juried professional exhibition is a different event. A Spotify upload is evidence of distribution activity, but not necessarily proof of internationally significant sales or professional recognition. Performing at an informal event is not necessarily a qualifying professional appearance.
 
 ## Contents
 
-- [1. Arts and culture pathway — guide contents](#section-1)
-- [2. Choose your discipline and starting point](#section-2)
-- [3. What the general arts evidence must show](#section-3)
-- [4. General arts application sequence and document register](#section-4)
-- [5. Prepare your arts CV and professional credits](#section-5)
-- [6. Help arts supporters prepare specific letters](#section-6)
-- [7. Prepare each arts evidence category correctly](#section-7)
-- [8. Assemble the arts files and check attribution](#section-8)
-- [9. Coordinate review and approval of letters](#section-9)
-- [10. Send the approved letter through DocuSign](#section-10)
-- [11. Music: build professional work and credits](#section-11)
-- [12. Music: turn a Nigerian project into UK work](#section-12)
-- [13. Drawing and painting: build a curated record](#section-13)
-- [14. Arts collaborations and residencies: choose well](#section-14)
-- [15. Arts media: reviews, profiles and PUNCH](#section-15)
-- [16. Arts letters: who can recommend you?](#section-16)
-- [17. First 90 days: music or visual arts](#section-17)
-- [18. Arts development plan — months 1–12](#section-18)
-- [19. Arts development plan — months 13–24](#section-19)
-- [20. General arts full readiness checklist](#section-20)
-- [21. Applying and checking your UK permission](#section-21)
-- [22. Submit the endorsement application step by step](#section-22)
-- [23. Before endorsement submission use this checklist](#section-23)
-- [24. Apply for the visa after endorsement](#section-24)
-- [25. Visa stage checklist and application follow up](#section-25)
-- [26. Sources and directory 1 of 4](#section-26)
-- [27. Sources and directory 2 of 4](#section-27)
-- [28. Sources and directory 3 of 4](#section-28)
-- [29. Sources and directory 4 of 4](#section-29)
-
-## Current official references — checked 9 November 2026
-
-These links are **additional verification references**, not a replacement for reading the source section or the current application instructions:
-
-- [GOV.UK — Global Talent visa for arts and culture: overview](https://www.gov.uk/global-talent-arts-culture)
-- [GOV.UK — Combined arts, dance, literature, music, theatre and visual arts](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts)
-- [Immigration Rules — Appendix Global Talent](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-global-talent)
-- [GOV.UK — Global Talent caseworker guidance](https://www.gov.uk/government/publications/global-talent-appendix-w-workers/global-talent-caseworker-guidance-accessible)
-
-In the general Arts Council England category, GOV.UK distinguishes exceptional talent and exceptional promise. For the combined arts category, the live GOV.UK page specifies a typed CV, three expert recommendation letters and up to ten evidence items, with limits that differ from the digital technology route. Check the exact category and current requirements before preparing documents.
-
-**Do not treat the source's letter instructions, evidence checklists, fees or submission steps as independently verified by this migration.**
+1. [Official general-arts eligibility and evidence](#1-official-general-arts-eligibility-and-evidence)
+2. [Which evidence categories to prioritise](#2-which-evidence-categories-to-prioritise)
+3. [Disciplines and credible artistic career routes](#3-disciplines-and-credible-artistic-career-routes)
+4. [Approaches reflected in successful creative careers](#4-approaches-reflected-in-successful-creative-careers)
+5. [Music — concrete delivery strategy](#5-music--concrete-delivery-strategy)
+6. [Painting, drawing and visual arts](#6-painting-drawing-and-visual-arts)
+7. [Photography and contemporary visual practice](#7-photography-and-contemporary-visual-practice)
+8. [Dance, choreography and theatre](#8-dance-choreography-and-theatre)
+9. [Literature, poetry and creative writing](#9-literature-poetry-and-creative-writing)
+10. [How to obtain genuine critical reviews](#10-how-to-obtain-genuine-critical-reviews)
+11. [Exhibitions, performances, residencies and awards](#11-exhibitions-performances-residencies-and-awards)
+12. [Creative collaborations and expert relationships](#12-creative-collaborations-and-expert-relationships)
+13. [UK–Nigeria strategies and cross-border careers](#13-uknigeria-strategies-and-cross-border-careers)
+14. [Practical opportunities directory](#14-practical-opportunities-directory)
+15. [Your first 90 days](#15-your-first-90-days)
+16. [24-month practical development plan](#16-24-month-practical-development-plan)
+17. [Five outreach workflows](#17-five-outreach-workflows)
+18. [Creative evidence register and documentary checks](#18-creative-evidence-register-and-documentary-checks)
+19. [Recommendation letters and compliance](#19-recommendation-letters-and-compliance)
+20. [Application and visa stages](#20-application-and-visa-stages)
+21. [Common weak approaches and alternatives](#21-common-weak-approaches-and-alternatives)
+22. [Official references and editorial status](#22-official-references-and-editorial-status)
 
 ---
 
-## Original handbook — page-by-page source text
+## 1. Official general-arts eligibility and evidence
 
-The sections below retain the source wording and sequence, including its original reference codes. As this is extracted from a fixed-layout PDF, multi-column tables may have imperfect alignment. Refer to the source PDF and official regulations where a table or procedure is unclear.
+### Minimum documentary structure
 
+For combined arts, dance, literature, music, theatre or visual arts assessed by ACE:
 
-<a id="section-1"></a>
+| Document | What official guidance requires | Practical handling |
+| --- | --- | --- |
+| CV | Typed professional arts/education history | Include verifiable credits, work, employers/commissioners and role; no unverified awards. |
+| Recommendation letters | **Three**, up to **3 single A4 sides each** | Two from established relevant arts organisations (one **UK-based**); third established arts organisation or qualified expert individual, all with actual relevant artistic working relationships. |
+| Supporting evidence | Up to **10 single pieces**, **2 A4 sides maximum each**, from the **last five years** | Select real independent documentation; do not fill the maximum with weak items. |
+| Evidence categories | At least **two of three**: media reviews, eligible international prizes, qualifying professional appearances/exhibitions/distribution | Document precise category threshold, country, contributor credit, dates and independent significance. |
 
-## 1. Arts and culture pathway — guide contents
+The main [GOV.UK general arts requirements](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts) and [Immigration Rules GTE 3](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-global-talent) are the controlling sources.
 
-*Source handbook page 1 of 29 (combined PDF page 32).*
+### Category A — critical media recognition
 
-Arts and culture pathway
-Music, drawing, painting and other professional creative practice. A separate UK and Nigeria
-strategy for Nigerians. Checked 23 October 2026. Application handbook version 2.
+Provide **at least two reviews** of actual artistic work, by identifiable expert critics in internationally recognised and established outlets, with **critical evaluation** of quality rather than merely publicity. The record must show publication date, country, critic and your name or eligible proof of contribution. **Talent requires qualifying recognition from two countries**; promise has different one-or-more-country wording. Do not use a paid profile, promotional interview, social-media post, advertising feature or generic event notice as if it were independent criticism.
 
-Choose your discipline and starting point     2     Arts letters: who can recommend you?            16
+### Category B — internationally recognised awards
 
-What the general arts evidence must show      3     First 90 days: music or visual arts             17
+An eligible **international prize for excellence** requires real award records and credible adjudication. Under talent, winning (or making significant contribution to a win) may count; under promise, qualifying nominations or shortlists may also count. **A grant or bursary is not a prize** for this evidence category, even if the funding is prestigious. Likewise, winning some other prize does not automatically exempt you from endorsement: the separate government list of **endorsement-exempt eligible prizes** applies.
 
-General arts application sequence and         4     Arts development plan — months 1–12             18
-document register
-                                                    Arts development plan — months 13–24            19
-Prepare your arts CV and professional         5
-credits                                             General arts full readiness checklist           20
+### Category C — professional appearances, exhibitions, publications or distribution
 
-Help arts supporters prepare specific         6     Applying and checking your UK permission        21
-letters                                             Submit the endorsement application step         22
-Prepare each arts evidence category           7     by step
-correctly                                           Before endorsement submission use this          23
-Assemble the arts files and check             8     checklist
-attribution                                         Apply for the visa after endorsement            24
-Coordinate review and approval of letters     9     Visa stage checklist and application follow     25
-Send the approved letter through              10    up
-DocuSign                                            Sources and directory 1 of 4                    26
-Music: build professional work and credits    11    Sources and directory 2 of 4                    27
-Music: turn a Nigerian project into UK work   12    Sources and directory 3 of 4                    28
-Drawing and painting: build a curated         13    Sources and directory 4 of 4                    29
-record
-Arts collaborations and residencies:          14
-choose well
+Provide evidence from independent national publications, broadcasts or distribution records establishing professional-level performances, exhibitions, publications or work distribution and the person's genuine contribution. **Talent requires a record in two countries**; promise may use a developing record from one or more. A family performance, personal rented exhibition, uncurated online upload or screenshots of account views should not be treated as qualifying without further official evidence.
 
-Arts media: reviews, profiles and PUNCH       15
+### Why we focus on only two categories
 
-
-Click a contents entry to move inside this guide. This guide focuses on the general Arts Council
-England route; specialist disciplines must use their separate rules.
-
-Practical recommendations are career development methods. Organisations listed here are
-potential professional opportunities, not promises of work, letters or endorsement. Two years
-is a planning period, not a qualification.
-
-[↑ Contents](#contents)
+Because the rules require at least **two of three**, a painter might reasonably build **critical reviews + curated exhibitions** rather than chase an award unrelated to their practice. A musician could pursue **reviews + professionally documented performances/distribution**. A writer might focus on **critical literary reviews + professionally published/distributed works**. These are strategy examples, not predictions of acceptance.
 
 ---
 
-<a id="section-2"></a>
+## 2. Which evidence categories to prioritise
 
-## 2. Choose your discipline and starting point
+| Profile | Stronger possible combination | Practical build approach | Avoid relying on |
+| --- | --- | --- | --- |
+| Musician or composer | Critical reviews + performances/distribution | Create a technically strong release, secure professionally billed concerts, seek real arts criticism and retain promoter/distributor records | Personal streaming graphs alone, self-produced 'award', marketing interview |
+| Visual artist/painter | Critical reviews + curated exhibitions | Produce thematic body of work, seek independently selected exhibition, invite genuine critics and document catalogue | Paying to hang paintings and calling it a selected international show |
+| Art photographer | Reviews + professional exhibitions; award where genuine | Prepare coherent sequence; submit to RPS professional juried exhibition; build gallery/curatorial relationships | Instagram engagement or photography-class certificate |
+| Dance/choreography | Reviews + professionally programmed productions | Develop commissioned original choreography, participate in professional programme and document organiser/press | Rehearsal clips without credible professional stage context |
+| Theatre | Reviews + professional productions; prize if real | Secure cast/creative credits, professional production and critic evaluation; work with recognised producing organisations | Amateur show billed as significant international theatre |
+| Literature | Critical reviews + published/distributed works; qualifying prize | Secure editorial publication, professional festival/event context, independent critical assessment | Self-publishing a book and counting your own announcement as a review |
 
-*Source handbook page 2 of 29 (combined PDF page 33).*
+### Evidence ladder — from learning to potentially meaningful recognition
 
-Choose your discipline and starting
-point
- Your work                      Where to begin
+1. **Practice:** a draft, lesson, rehearsal, workshop or self-published work. Useful for learning; often not qualifying alone.
+2. **Independent professional opportunity:** selected residency, externally curated show, paid artistic commission, professionally published/produced piece or credible programme. Stronger professional foundation, not automatically eligible evidence.
+3. **Verified professional achievement:** credited professional work, independent programme, distribution/industry records and an actual quality evaluation.
+4. **Potential endorsement evidence:** genuinely significant and admissible items in a qualifying category, with required dates, countries, critic/jury or professional context, corroborated by official guidance.
 
- Music, painting, drawing,      Read the general arts requirements and playbooks in this guide.
- visual arts, dance, theatre,
- literature or combined arts
-
- Architecture                   Use the RIBA criteria; professional registration and use of the title
-                                architect are separate issues. [A11]
-
- Fashion design                 Use British Fashion Council criteria rather than the music or visual
-                                arts checklist. [A12]
-
- Film or television             Use Pact criteria. This discipline offers talent endorsement, not
-                                promise. [A13]
-
- Design industry                Use the separate Design Business Association assessment and
-                                current criteria. [A14]
-
-A Nigerian record can matter before UK recognition
-Recover existing professional releases, exhibitions, reviews, credits and collaborations in
-Nigeria. A UK newcomer does not need to pretend that their career began on arrival. Check the
-geographic and career stage tests for the category selected.
-
-Talent and promise are different
-General arts talent requires a substantial record in at least two countries and professional
-activity in the last five years. Promise concerns a developing record in at least one country and
-usually at least three years of professional experience. Both require outstanding work and
-evidence of engagement. [A1]
-
-A beginner who starts drawing or music today may need longer than two years. Do not spend
-on publicity to disguise a missing professional record.
-
-[↑ Contents](#contents)
+Do not assume stage 2 or 3 automatically meets stage 4. In particular, a **residency grant** or training award may strengthen your CV without counting as the international prize criterion.
 
 ---
 
-<a id="section-3"></a>
+## 3. Disciplines and credible artistic career routes
 
-## 3. What the general arts evidence must show
+The following are preparation strategies, not official subcategories.
 
-*Source handbook page 3 of 29 (combined PDF page 34).*
-
-What the general arts evidence must
-show
-Build at least two qualifying evidence categories
-
- Category                      What to establish
-
- Critical media recognition    At least two qualifying reviews evaluating work, from named arts
-                               critics in established internationally recognised media. Retain
-                               publication dates, country, your name and comments on quality.
-
- International prizes          A significant qualifying international prize; promise can include
-                               nominations or shortlisting. Grants and bursaries do not count as
-                               prizes.
-
- Professional appearances      Professional international performance, display, sale or
- or exhibitions                distribution, supported by the required publication, broadcast or
-                               distribution records.
-
-Read the differences carefully
-Talent media and appearances evidence must cover at least two countries. Promise can build a
-developing record in one or more; contribution to someone else’s work needs reliable
-attribution. A review must evaluate artistic quality: a biography, advert or event
-announcement is different. [A1]
-
-Submission limits
-   CV setting out professional career and education.
-
-   Three eligible recommendation letters, each up to three A4 pages excluding author
-   credentials and contact details.
-
-   Up to ten single evidence pieces, each up to two A4 pages, from the last five years. [A1]
-
-An arts organisation supporting you is different from Arts Council England assessing the
-application. Do not call a partner gallery or music venue a Home Office endorsing body.
-
-[↑ Contents](#contents)
+| Discipline | Main body of work | Who should independently assess/select it | Strong records worth preserving |
+| --- | --- | --- | --- |
+| Composition/music performance | Original recordings, live set, commissioned music | Arts reviewers, recognised festival/programme selectors, producer or commissioning organisation | Critic review, promoter programme, release/distribution data and genuine credits |
+| Painting/drawing/sculpture | Curated coherent body of original work | Gallery curator, credible juried selection panel, recognised arts critic | Exhibition catalogue, gallery programme, signed artist credit and review |
+| Art photography | Long-form photographic series or documentary practice | Juried photography exhibition, curator, critic | Selection record, exhibition programme, review and permitted reproduction |
+| Dance/choreography | Finished stage work, choreography or professional creative role | Established dance company or professional venue/programmer | Cast/creative billing, programme, critic review, contracts |
+| Theatre | Professionally produced theatrical work, dramaturgy, directing, acting | Established producing theatre, festival, dramaturg or critic | Production credits, critical reviews and regional/country distribution |
+| Fiction/poetry/literature | Published original work or professionally presented work | Established publisher, editor, festival or literary reviewer | Publisher record, bylined critical review, festival invitation and distribution details |
 
 ---
 
-<a id="section-4"></a>
+## 4. Approaches reflected in successful creative careers
 
-## 4. General arts application sequence and document register
+**Evidence integrity:** This section describes *publicly visible professional pathways* used by recognised creative practitioners and practical patterns in [Arts Council England's published applicant guidance](https://www.artscouncil.org.uk/sites/default/files/download-file/Guide%20for%20Global%20Talent%20applicants%20May%202021.pdf). It is **not** a verified dataset of successful visa applicants' submitted files. Actual endorsement files are normally private, and public biographies do not show which evidence was accepted. The approaches are legitimate career-building methods, not insider approval techniques.
 
-*Source handbook page 4 of 29 (combined PDF page 35).*
+| Professional pattern | How it becomes a practical strategy | Limits |
+| --- | --- | --- |
+| Work is **externally curated**, rather than solely self-displayed | Submit a cohesive series to relevant juried exhibition/residency; if selected, build a real working relationship and obtain public catalogue credit | A submission or self-funded exhibition does not prove recognised international appearance |
+| Creative work is **independently reviewed**, rather than merely promoted | Complete a professional public presentation; provide critics an accurate media kit; preserve actual evaluative reviews | A paid article, advert or interview without evaluation is not qualifying criticism |
+| Artists build **repeat collaborations** with recognised cultural institutions | Offer an original project with scope, artistic value, budget and rights; deliver it and stay in contact | A famous organisation's generic email acknowledgement is not a recommendation relationship |
+| Practitioners develop **international track records** | Collaborate with distinct venues/organisations in different countries and preserve separate programmes and credits | Online availability does not necessarily prove professional engagement in another country |
+| Creative professionals enter **independently judged awards** | Review formal entry criteria, submit original work, and preserve real selection/win outcomes | Grants and bursaries do not satisfy the prize category |
+| Artists keep **professional provenance** | Retain signed agreements, programmes, credited records, review metadata and dates as work occurs | Reconstructed screenshots or unsupported impact claims are weak |
 
-General arts application sequence and
-document register
-This sequence covers general arts including music and visual arts. Architecture, fashion, film
-and the design industry have separate criteria; follow the specialist links if that is your field.
+### Practical implication
 
- Orde       What to gather or prepare                                                 Owner
- r
-
- 1          Discipline, talent or promise decision, professional history and          You
-            required countries.
-
- 2          Typed CV describing professional career and education.                    You
-
- 3          Two expert organisation letters including at least one UK                 Eligible
-            organisation; eligible third letter. All supporters must have worked      supporters
-            with you artistically.
-
- 4          Evidence of at least two qualifying categories: critical media,           You and
-            international prizes, professional appearances or exhibitions.            professional
-                                                                                      sources
-
- 5          Up to ten single evidence pieces from five years; each within two A4      You
-            pages.
-
- 6          Signed letters, credentials, translations and final check, then           You and
-            endorsement and visa forms.                                               supporters
-
-Use one readiness register
-For each item list requirement, evidence category, country, date, personal credit, source,
-owner, deadline, page count, signature and status. Mark optional categories Not used rather
-than trying to win an award you do not need. [A1]
-
-The professional and geographical tests still apply even if you have assembled ten files. A
-complete folder and a qualifying artistic record are different checks.
-
-[↑ Contents](#contents)
+The most sustainable strategy is to choose a discipline, create excellent original work, put it before legitimate selectors and audiences, develop meaningful collaborations, and document genuine independently issued outcomes. **Do not start by buying interviews, requesting letters from strangers or manufacturing international appearances.**
 
 ---
 
-<a id="section-5"></a>
+## 5. Music — concrete delivery strategy
 
-## 5. Prepare your arts CV and professional credits
+**Route A: Original professional releases.** Develop a three-to-five-track body of work, documenting who wrote/composed/produced it, rights, studio process and artistic credits. Obtain an independent assessment from a legitimate producer or music editor. Release through an authorised distributor and retain actual metadata and country-level usage, but do not treat upload counts as significant sales or independent critical recognition.
 
-*Source handbook page 5 of 29 (combined PDF page 36).*
+**Route B: Professionally programmed performances.** Prepare a 20–30 minute live set and a simple EPK (music links, verified credits, biography, technical needs). Apply through actual festival, promoter and venue programming routes. For accepted dates retain original programme, ticket listing, organiser confirmation, venue/country and review. An unpaid informal open mic may be useful rehearsal, not equal to a selected professional festival slot.
 
-Prepare your arts CV and professional
-credits
-1 Recover the professional record
-   Gather Nigerian and UK commissions, exhibitions, performances, releases, publications,
-   training and professional collaborators with dates.
+**Route C: Commissioned collaborations.** Work with established musicians, ensembles, arts companies or cultural institutions; define composition/performer role, contracts and independent artistic review. Genuine work with a UK established organisation may develop the working relationship relevant to one recommendation letter, but **being contracted does not guarantee the organisation will recommend you**.
 
-   For music, confirm whether you were singer, composer, player, producer or another
-   credited contributor. For visual arts, record title, year, medium, venue and your role.
+**Targeted UK support:** [PRS Foundation Open Fund for Music Creators](https://prsfoundation.com/funding-support/funding-music-creators/all-career-levels/the-open-fund-for-music-creators/) supports eligible **UK-based** music creators. Its published rules include an 18-month track-record requirement and other restrictions, so a Nigeria-resident creator should not assume eligibility. A **PRS grant is development funding, not the visa's international-prize evidence**. [PRS criteria](https://prsfoundation.com/funding-support/funding-music-creators/all-career-levels/the-open-fund-for-music-creators/prs-for-music-foundations-the-open-fund-criteria/).
 
-2 Write a clear career account
-Identify your artistic discipline and explain the professional career and education in a readable
-typed CV. Separate paid work, professional commissions and selected public presentations
-from student projects or informal activity. Use the current assessor’s CV instructions; the
-general GOV.UK page does not apply technology’s three page CV rule to all arts applicants.
-[A1]
+**Nigerian/cross-border route:** Check [British Council Nigeria Creative Economy](https://www.britishcouncil.org.ng/programmes/arts/creative-economy) and [UK/Nigeria Season of Culture 2028](https://www.britishcouncil.org.ng/programmes/arts/uk-nigeria-season-culture-2028) for actual collaborative programme routes. Apply only to live eligible programmes; a mailing-list signup is not a performance.
 
-3 Verify group or collaborative work
-Gather programmes, liner notes, catalogues or senior confirmations tying your contribution to
-the work. Where promise evidence does not name you, the official requirements allow
-supporting proof of involvement; talent has its own attribution tests. Do not label a collective
-award or performance as solely yours.
-
-4 Match the record to the category
-   Career dates establish the professional history you claim.
-
-   Talent’s substantial record in two countries or promise’s developing record is evidenced.
-
-   Items proposed as evidence fall within the last five years.
-
-   Publication, release, nomination, shortlisting and win statuses are distinguished.
-
-   UK cultural plans are realistic and do not invent a commission or partnership.
-
-[↑ Contents](#contents)
+**Example evidence bundle:** genuine credited programme (country, promoter, date, artistic role) + independent published critic review + accurate distribution records + actual UK arts organisation collaboration. This is an illustrative combination, not an approved applicant's file.
 
 ---
 
-<a id="section-6"></a>
+## 6. Painting, drawing and visual arts
 
-## 6. Help arts supporters prepare specific letters
+**Strategy A — juried exhibition:** Prepare a cohesive 10–15 work series with full titles, medium, date, photographic reproduction rights, display requirements and a 250-word curatorial statement. Browse [Artquest opportunities](https://artquest.org.uk/opportunities/) and [a-n open calls](https://www.a-n.co.uk/jobs/). Select organisers based on genuine curatorial process, professional standing, eligibility and whether there will be independent public documentation. Submit before deadline with a portfolio tailored to the curatorial theme.
 
-*Source handbook page 6 of 29 (combined PDF page 37).*
+**Strategy B — artist residency:** Monitor [New Art Exchange RESIDE](https://nae.org.uk/current-opportunities/) and [Artquest residency calls](https://artquest.org.uk/opportunities/). Describe the work to be researched, why the place/mentor is relevant, the outcome, budget, accessibility and data/space requirements. If accepted, retain independently issued residency award, work created and programme evaluation. A residency is not itself proof of a qualifying **prize**.
 
-Help arts supporters prepare specific
-letters
-Choose the eligible combination
-Letters one and two must represent established expert arts organisations, at least one UK
-based. The third can represent another established organisation or an individual field expert.
-Each must have worked with you in your relevant artistic capacity; use distinct eligible
-supporters, not three signatures from one team. [A1, G3]
+**Strategy C — gallery collaboration:** Research gallery rosters and recent exhibitions before contacting a curator. Send a small relevant series, brief artistic concept, evidence of previous professional work and a precise proposal for participation or feedback. For a Nigerian artist wishing to work toward [ART X Lagos](https://www.artxlagos.com/faqs), note that **the fair says artists are shown through participating galleries** rather than through an unrestricted direct artist submission. Build genuine gallery/curator relationships; do not rely on an assumed direct submission route.
 
-Information the author should cover
-   Their role and expertise, organisation standing where relevant, and actual collaboration with
-   you.
+**Strategy D — serious criticism:** Following a credible curated exhibition, provide factual exhibition details, images cleared for use and context to an independent arts editor or critic. Keep the published review with byline and evaluative statements, not simply a poster or social-media repost.
 
-   The specific artistic work, your contribution, why its quality and achievements show
-   leadership or potential.
-
-   How living in the UK benefits the work, what you can contribute to UK cultural life and
-   credible future plans.
-
-Prepare a briefing pack rather than generic praise
-Send the supporter factual credits, dates, work samples, documented reception, your CV, UK
-plans and the official requirements. Ask them to choose examples they genuinely know. A
-curator can assess a curated exhibition; a producer can assess a recording they worked on.
-
-Check the finished letter
-   Application specific, typed, dated, signed by the appropriate senior representative.
-
-   Three A4 pages or fewer excluding author credentials and contact details.
-
-   Telephone AND email; organisation logo and registered address where applicable.
-
-   Author CV or acceptable credentials supplied; working relationship and future plans
-   addressed. [A1]
-
-Use the next review workflow to correct facts and obtain authentic approval. This guide does
-not provide a letter to submit under someone else’s name.
-
-[↑ Contents](#contents)
+**Example evidence bundle:** independently curated international exhibition record + bylined critic's review of the work + professional work chronology. Determine significance under the ACE standard rather than presuming it.
 
 ---
 
-<a id="section-7"></a>
+## 7. Photography and contemporary visual practice
 
-## 7. Prepare each arts evidence category correctly
+**Strategy A — international juried photography:** The [Royal Photographic Society International Photography Exhibition 168](https://rps.org/exhibitions/ipe-168) advertised submissions through **15 December 2026** with finalisation on its published platform, with international eligibility. Verify the exact current cycle and fees before submission. Submit a coherent, technically strong single image or series, preserve submission ID and independent selection outcome. One free single-image entry was advertised for this edition; future terms may change.
 
-*Source handbook page 7 of 29 (combined PDF page 38).*
+**Strategy B — professional exhibition:** Work toward selected gallery/museum/public art exhibitions using [RPS Opportunities](https://rps.org/opportunities), [Artquest](https://artquest.org.uk/opportunities/) and [a-n](https://www.a-n.co.uk/jobs/). Compare curators and selection criteria; do not pay an unknown website to publish a profile and call it professional recognition.
 
-Prepare each arts evidence category
-correctly
- Category                   Gather before assembling                  Check carefully
+**Strategy C — documentary or socially engaged project:** Develop a consent-aware, rights-cleared photographic series with a clear subject and intended audience. Seek an independent gallery, festival or arts editor to consider it, and avoid publishing images of people without the appropriate legal and ethical permissions.
 
- Critical media             At least two appropriate reviews          Outlet standing, dates, country,
-                            with full publication details, critic’s   your name or permitted
-                            name and discussion of artistic           attribution; talent needs the
-                            quality.                                  required two country coverage.
+**Strategy D — professional recognition:** Where selected, preserve exhibition catalogue, official listing, selectors' statements, credited artist name and independent critical assessment. A technical photography workshop certificate is useful learning but usually not the required proof of recognised work.
 
- International prize        Official award, nomination or             Significance and international
-                            shortlist record with category, year      scope; talent needs a win or
-                            and credited involvement.                 significant contribution to winning;
-                                                                      promise can use nomination or
-                                                                      shortlisting. Grants are not prizes.
-
- Professional               Professional publication, broadcast       Date, country, what you did and
- appearance                 or distribution proof showing             required contribution confirmation.
-                            performance, exhibition, sale or          Talent needs the required two
-                            display.                                  countries.
-
-Select at least two categories
-You do not have to use all three. An artist might rely on qualifying critical reviews and
-professional exhibitions; a musician might use qualifying reviews and professional
-performances or distribution. Each record still needs to meet its category’s detailed tests. [A1]
-
-What an evidence piece should preserve
-Keep the original item and enough readable context to identify it. A screenshot should not crop
-out the outlet, critic, date or named work. A short factual label can identify the work and your
-credit, but it cannot turn publicity into a review.
-
-[↑ Contents](#contents)
+**Note on scope:** Fashion/commercial photography and screen work may overlap specialist routes. Check the [official scope list](https://www.gov.uk/government/publications/global-talent-endorsing-bodies/disciplines-covered-by-arts-council-england-or-its-associated-bodies) before assuming ACE general-arts assessment.
 
 ---
 
-<a id="section-8"></a>
+## 8. Dance, choreography and theatre
 
-## 8. Assemble the arts files and check attribution
+### Dance and choreography
 
-*Source handbook page 8 of 29 (combined PDF page 39).*
+**A — develop a finished choreographic work:** Create 10–20 minutes of original work with performers who consent to rehearsal/film, rehearsal logs, choreographer credits, risk/access planning and a professional technical description.
 
-Assemble the arts files and check
-attribution
-1 Choose the strongest single pieces
-Select up to ten pieces from the last five years, each up to two A4 pages. Do not create a multi
-article collage and call it one single piece. Use readable extracts while preserving the source
-and evidence of the required facts. [A1]
+**B — enter actual professional programme:** [The Place's Artists' Noticeboard](https://theplace.org.uk/work-with-us/jobs-and-opportunities/artists-opportunities/) lists paid artist opportunities, auditions and open calls; check each item's geography and current status. [FABRIC Residencies](https://fabric.dance/fabric-residencies/) offer support for **UK-based** artists and announce calls through the mailing list. A residency eligibility restriction must be respected by artists still resident in Nigeria.
 
-2 Keep a practical evidence index
-Suggested working fields: item ID; category; work; date; country; source; critic or professional
-verifier; your role; pages; final file name. The index is for your control and does not create
-permission for an extra submission attachment.
+**C — build professional programme evidence:** Work with a producing dance organisation or curated festival, obtain performer/choreographer credit, programme, location and selection record. If a qualified critic reviews the production, keep the evaluation and accurate attribution.
 
-3 Resolve missing credit
-For group work, ask the appropriate senior professional to confirm your actual participation
-where the rules permit or require it. Retain their role and basis of knowledge. A general
-character reference does not resolve a missing artistic credit.
+### Theatre, acting and directing
 
-4 Prepare translations where needed
-Keep the original and obtain the English translation required by the application instructions.
-Confirm certification and how originals and translations should be supplied. Do not silently
-translate a critic’s quotation yourself and present it as independently certified.
+**A — join a real professional production:** Audition or submit your directing, stage-management or dramaturgical portfolio via the theatre's legitimate casting/production route. Agree credits and permissions.
 
-5 Check the final folder
-   CV final and consistent with the professional timeline.
+**B — develop new production:** Prepare finished script/staging concept, budget, cast, rehearsals, accessible performance materials and a credible producer or venue partner. Professional third-party selection matters more than self-produced posters.
 
-   Three eligible recommendation letters signed, with credentials and contacts.
+**C — seek external review:** Invite accredited or demonstrably expert arts critics through editorial channels after an actual programme. Preserve reviews evaluating the performance or production and naming or credibly attributing your work.
 
-   At least two evidence categories established and country tests met.
-
-   No more than ten single pieces, each within two A4 pages and five years.
-
-   Any permitted group work confirmations and translations correctly included.
-
-   No advertorial, course certificate or grant mislabelled as critical recognition or a prize.
-
-Specialist disciplines must use their own evidence structure rather than adapting this general
-arts cap or letter combination without checking.
-
-[↑ Contents](#contents)
+**Watch the boundary:** A screen acting role or film production may fall within **PACT's specialist film/TV route** rather than ordinary theatre. Check [GOV.UK film/TV rules](https://www.gov.uk/global-talent-arts-culture/film-television) before deciding.
 
 ---
 
-<a id="section-9"></a>
+## 9. Literature, poetry and creative writing
 
-## 9. Coordinate review and approval of letters
+**Strategy A — editorial publication:** Prepare a polished story, poetry sequence or manuscript sample. Identify reputable literary magazines, publishers or commissioned outlets that genuinely accept the genre. Read and obey their submission guidelines and acceptance windows. Record editor's acceptance, published work, copyright contract, publication date and critical response.
 
-*Source handbook page 9 of 29 (combined PDF page 40).*
+**Strategy B — properly eligible competition:** [New Writing North Northern Writers' Awards](https://newwritingnorth.com/northern-writers-awards/awards/) have category-specific submission windows; **applicants must live full-time in the North of England**. They are not an application route for Nigerian residents living in Nigeria. On **9 November 2026**, specific 2027 categories were open and others were due to open later; always consult the current category page and [eligibility](https://newwritingnorth.com/northern-writers-awards/eligibility/).
 
-Coordinate review and approval of
-letters
-1 Confirm the right writer before doing any formatting
-Agree the relevant route, what the person genuinely knows, whether they can support the
-application, and a realistic deadline. Confirm the correct professional email and whether
-organisational letterhead and signing approval are needed.
+**Strategy C — professional literary event:** Pitch a specific extract, author conversation or reading to an actual literary festival organiser with a concise bio and demonstrated writing record. Record a genuine invited/selected programme appearance rather than organising your own livestream solely to claim significance.
 
-2 Prepare a factual briefing pack
-   Your current CV, intended category, application date and official letter requirements.
+**Strategy D — independent criticism:** Encourage genuine eligible reviews of the published work through editors/critics, not paid review services. Identify critic, date, publication, country and the evaluative passage.
 
-   Dated projects you actually worked on together, your role and source records the writer can
-   verify.
-
-   Accurate achievements, your proposed UK work and the writer’s credentials or biography
-   request.
-
-3 Keep drafting and approval distinct
-The assessment must genuinely come from the eligible supporter or responsible institutional
-signatory. You can organise facts and layout. If a supporter asks you for factual draft material,
-clearly label it for review and substantive correction; the supporter must independently
-approve every claim and the final assessment. Do not treat a signature as permission to invent
-their opinion.
-
-4 Use a controlled review file
-Suggested practice: create a private folder for each writer. Share the editable document only
-with that writer or their authorised representative. Use comments or tracked changes for
-factual corrections. Keep an agreed final version and an approval message; remove wider
-editing access before signing.
-
-5 Freeze the final version
-   Writer has checked facts, their assessment, credentials and contacts.
-
-   Required contents, letterhead, date, signature space and page limit checked.
-
-   Everyone understands which version is ready to sign; draft and final files clearly
-   distinguished.
-
-Suggested file names: Letter_A_REVIEW.docx and Letter_A_APPROVED_FOR_SIGNATURE.pdf.
-File names are an organisation method, not a Home Office requirement.
-
-[↑ Contents](#contents)
+**Important:** A literary award shortlist may be relevant under **exceptional promise** but is not automatically equivalent to a qualifying **international prize**. The venue, jury, award and rules matter.
 
 ---
 
-<a id="section-10"></a>
+## 10. How to obtain genuine critical reviews
 
-## 10. Send the approved letter through DocuSign
+Arts Council England distinguishes **critical evaluation** from publicity. A feature announcing your show, a paid interview, self-published LinkedIn article, advertorial or publicity press release should not be represented as a qualifying media review.
 
-*Source handbook page 10 of 29 (combined PDF page 41).*
+| Step | Exact practical action | Evidence consequence |
+| --- | --- | --- |
+| 1. Finish presentable work | Publish, exhibit or perform at a professional level; prepare verified context. | Critic has real work to assess. |
+| 2. Identify actual critics | Look for bylined reviews of similar work in established arts/culture outlets; confirm critic's subject expertise. | Appropriate independent reviewer. |
+| 3. Contact editorial team | Use the outlet's published editorial submissions/contact process with work, dates, artist credit, press kit and review access. Do not request a positive review. | Legitimate pitch record, not yet a review. |
+| 4. Facilitate access | Where appropriate, provide critic access, work samples, rights-cleared materials or programme details. | Accurate context and opportunity for fair assessment. |
+| 5. Check published result | Does it evaluate artistic quality, name you/eligible contribution, identify writer, publication, date and country? | Possible evidence; check ACE significance. |
+| 6. Preserve ethically | Save a lawful copy or screenshot of published material with complete metadata; keep outlet URL and permission context. | Traceable documentation if admissible. |
 
-Send the approved letter through
-DocuSign
-Optional coordination method, subject to your assessor’s or institution’s current signature
-requirements. The sources checked require signed documents but do not establish a universal
-DocuSign acceptance rule for this pathway. Confirm any specific rule before using it; an
-institution can instead issue its own properly signed PDF.
-
-1 Prepare and upload
-After the writer approves the complete letter, open your or the organisation’s Docusign
-account. Choose New or Start, then Send an Envelope. Upload the approved PDF; interface
-labels and sending permissions can vary. Check account costs before buying a plan. [U4]
-
-2 Assign the actual writer as signer
-Enter the writer’s correct name and professional email, choose Needs to Sign, and place the
-signature and signing date fields for that person. Add your address as a copy recipient if
-appropriate. Do not assign yourself the writer’s signature field.
-
-3 Preview and send
-Check the full document, recipient and signature position. Send only the agreed final version.
-The writer opens the invitation, reviews it, signs and completes the process. If changes are
-needed, resolve them before a new final signing request.
-
-4 Download and retain
-When completed, download the signed letter. In Agreements, open the envelope details; use
-Download to obtain the Certificate of Completion and retain the history. [U5]
-
-5 Check the file you will submit
-   Correct author, date and completed signature are visible.
-
-   Letter, author credentials and contacts meet the pathway’s format rules.
-
-   Authentic audit record retained and included where required by the instructions.
-
-Keep the original signed file. Do not edit its contents after signature. If one upload must
-contain supporting pages, follow the live form and provider’s download options. Do not assume
-an audit certificate is exempt from a page limit simply because credentials are exempt.
-
-[↑ Contents](#contents)
+**Do not purchase favourable reviews.** The [ACE applicant guide PDF](https://www.artscouncil.org.uk/sites/default/files/download-file/Guide%20for%20Global%20Talent%20applicants%20May%202021.pdf) expressly distinguishes critical coverage from paid/submitted promotional material. The older PDF is useful explanatory context, but the [current government rules](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts) prevail.
 
 ---
 
-<a id="section-11"></a>
+## 11. Exhibitions, performances, residencies and awards
 
-## 11. Music: build professional work and credits
+### Apply in the right order
 
-*Source handbook page 11 of 29 (combined PDF page 42).*
+1. Find relevant **live** opportunity using a proper professional directory, organisational site or curator's actual invitation.
+2. Read eligibility: discipline, current residence, age, career stage, status, application fee, travel, accessibility, copyright, project cost and selection method.
+3. Prepare professional submission: artist statement/EPK/extract, proof of authorship, portfolio, independent experience, technical requirements, timeline and budget if needed.
+4. Apply using only the programme's official process; save the precise submission and source rules.
+5. If selected, confirm agreement, credits, delivery, publication and any formal public review.
+6. If rejected, obtain permitted feedback and improve actual artistic work. **Rejection is not a visa evidence item.**
 
-Music: build professional work and
-credits
-1. Choose the work and define your contribution
-For a singer, composer, instrumentalist or producer, select a coherent release or performance
-project. Agree composition, performance, production and recording credits in writing. Keep
-contracts, release metadata and the final work.
+### How to assess an award
 
-2. Seek professional presentation
-In Nigeria, review MUSON’s actual programme and relevant opportunities if its musical focus
-fits your practice. Approach a promoter, festival or venue with a short artist biography, live
-recording, repertoire, technical needs and credible track record. Ask about selection and
-programming, not a visa signature. [A5]
+Ask: Is it truly an **international award for artistic excellence**? Who judges it? What is the category and public result? Does the artist actually win or meet the promise nomination/shortlist condition? What is the geography? Is it a **grant or bursary** (which does *not* count for the prize criterion)? Does the applicant's credited role demonstrably relate to the award?
 
-3. Build a real UK collaboration
-Identify a venue, ensemble, producer or professional programme that suits the work. Offer a
-specific performance or collaboration. Southbank Centre’s futuretense is a verified showcase
-to research, not a guaranteed open application route. PRS Foundation lists funding schemes;
-check residence, career stage and eligible costs for each. [A7, A8]
+### Opportunity type versus visa evidence
 
-4. Retain independent proof
-   Programme and named performance credit, date, venue and country.
-
-   National publication or broadcast records and properly identified distribution data where
-   relevant.
-
-   Independent reviews discussing musical quality, with named critic and outlet.
-
-   Senior organiser confirmation of your involvement, particularly for promise or group work.
-
-A streaming screenshot, a private studio session or paying for a venue does not automatically
-establish professional international recognition. Record the actual distributor, audience
-countries, reporting period and your credited role.
-
-[↑ Contents](#contents)
+| Professional opportunity | May improve an artistic career | Automatically qualifies? |
+| --- | --- | --- |
+| Residency / grant / bursary | Yes | **No**; not an international prize under ACE rules |
+| Curated professional exhibition | Yes | **No**; significance, documentation and country requirements matter |
+| Professional concert or theatre production | Yes | **No**; must meet applicable professional/recognition threshold |
+| Acknowledged bylined critical review | Potentially | **No**; critic, outlet, country and review quality are assessed |
+| Formal international award win/qualifying shortlist | Potentially | **No**; separate evaluation, category and route rules apply |
+| Online course / workshop / networking | Useful skill-building | Normally not the direct evidence required |
 
 ---
 
-<a id="section-12"></a>
+## 12. Creative collaborations and expert relationships
 
-## 12. Music: turn a Nigerian project into UK work
+### A working relationship that could genuinely support a recommendation
 
-*Source handbook page 12 of 29 (combined PDF page 43).*
+**Month A:** Identify a credible producing arts organisation genuinely aligned with your actual discipline; study its previous programmes and published collaboration routes.
 
-Music: turn a Nigerian project into UK
-work
-Illustrative project — not an endorsement formula
-A Nigerian vocalist with three years of professional work develops a live programme drawing
-on an existing EP. They collaborate with a Nigerian ensemble, then a relevant UK cultural
-organiser on a distinct performance. Their preparation should focus on the music and real
-audiences.
+**Month B:** Offer an artistically worthwhile, modest scoped collaboration—for example, commissioned composition, selected group exhibition, a staged reading, choreography for a production or an independent publication.
 
- Stage                      Action and record
+**Delivery:** Agree ownership, rights, credit, fee, role, dates and technical/creative work. Actually produce the work; get independent feedback and a real public credit.
 
- Prepare                    Clear rights; agree arrangements, credits, payment and permissions to
-                            record. Build a concise electronic press kit.
+**After delivery:** Maintain a normal professional relationship and document what the curator, artistic director, editor or programme lead genuinely knows about your work.
 
- Nigeria presentation       Seek an independently programmed performance. Save programme,
-                            professional recording and any qualifying coverage.
+**Only when applying:** Ask whether an eligible senior representative is willing to write an independent recommendation in line with the official rules. They should not invent activity or sign a generic AI-generated statement. The required letter addresses how they worked with you, your achievements, UK benefit and your contribution to UK cultural life.
 
- UK collaboration           Discuss a feasible event with an established relevant organiser. Confirm
-                            the actual artistic work and responsibilities in writing.
+### Why cold requests for letters fail
 
- Review outreach            Offer music and event details to suitable critics before publication
-                            deadlines; request consideration, never a positive review.
+A famous artistic director who has never worked with you is not an acceptable substitute for a genuine collaboration. Two recommendations must come from established relevant **organisations**, including **one UK-based organisation**; the third may come from an appropriate established organisation or expert individual. Don't misclassify a course tutor, fan or arts influencer as an eligible organisation based only on a title.
 
- After delivery             Save dated reviews, publication countries, distribution records and senior
-                            confirmations. Ask which evidence category each piece genuinely
-                            supports.
+### Electronic signing
 
-Why this is better than collecting appearances
-The strategy builds a coherent body of work, attribution, audience engagement and working
-relationships. Ten small self organised shows are not automatically stronger than fewer
-professional performances with independently documented quality.
-
-If approaching British Council Nigeria programmes, check the current call, selection terms,
-countries and any co funding requirement. A partnership programme may support work and
-exchange; selection alone does not satisfy every arts criterion. [A6]
-
-[↑ Contents](#contents)
+The original Mettelo handbook contains an extended DocuSign process. Electronic signing software is **an optional document workflow** to coordinate authentic author-approved signatures; it does not validate the author's eligibility or make the content compliant. Follow the current official rules for signatures and originals, and obtain the author's genuine consent.
 
 ---
 
-<a id="section-13"></a>
+## 13. UK–Nigeria strategies and cross-border careers
 
-## 13. Drawing and painting: build a curated record
+### For an artist living in Nigeria
 
-*Source handbook page 13 of 29 (combined PDF page 44).*
+A Nigerian base does **not** prevent developing credible artistic work. Begin with real professional engagements in Nigeria, document your creative contribution and seek meaningful external presentation or recognition. For *exceptional talent*, a substantial record in **at least two countries** is required; a Nigerian show alone does not satisfy that requirement. For *exceptional promise*, the current rules permit a developing record in at least one country, subject to the other requirements.
 
-Drawing and painting: build a curated
-record
-1. Develop a coherent body of work
-Create a portfolio with images, title, year, medium, dimensions and a concise account of the
-practice. Keep process records, ownership and exhibition history. A course certificate or
-Instagram gallery alone is not a professional exhibition record.
+**Practical route:** complete portfolio → work with recognised Nigerian curator/producer/publisher → seek professionally selected local engagement → develop a two-country collaboration with an actual international cultural partner → publish/distribute real work → obtain independent evaluation. Travel, work and participation permission remain separate questions.
 
-2. Target appropriate professional selection
-Rele Arts Foundation’s Young Contemporaries is an actual development programme to
-research for emerging artists. Check the current cycle, eligibility and selection process; a past
-edition is not an open call. [A3]
+### British Council UK/Nigeria Season of Culture 2028
 
-ART X Lagos says artists exhibit through participating galleries. Start with a suitable gallery
-and a professional portfolio conversation; do not assume you can buy an individual artist stand
-or that gallery representation guarantees fair selection. [A4]
+The [British Council Season page](https://www.britishcouncil.org.ng/programmes/arts/uk-nigeria-season-culture-2028) describes a UK–Nigeria creative partnership programme and lists an expression-of-interest opportunity on **9 November 2026**. A possible approach is to prepare a one-page project idea with partner, artform, audiences, proposed outcomes, budget, timeline and benefit to both countries, then check its live official submission route. **An EOI submission is not selection, professional appearance or endorsement evidence**.
 
-3. Build UK exhibition relationships
-Use Artquest’s opportunity directory to find relevant curated exhibitions, commissions and
-residencies. Assess the organiser’s professional track record, selection, costs, audience and
-whether your work will be publicly presented. Apply to work that fits the practice. [A9]
+### ART X Lagos: how visual artists actually reach the fair
 
-4. Document the exhibition properly
-   Curator or gallery selection, contract, catalogue and named artist credit.
+The [ART X Lagos FAQ](https://www.artxlagos.com/faqs) says it works with established galleries and displays artists represented by participating galleries. Therefore, **do not tell artists to send an unsolicited artist application to the fair**. Build a coherent portfolio, research legitimate gallery programmes and approach suitable galleries or curated art opportunities through their published processes. ART X also describes a separate prize programme, but **a future prize application window must be verified** rather than guessed.
 
-   Public exhibition date, venue, country and installation views.
+### Different evidence outcomes require different records
 
-   Qualifying independent critique of the work, not only a press release.
-
-   Professional publication, broadcast or distribution evidence required by the route, with
-   senior involvement confirmation where relevant.
-
-Sales can be part of a professional record, but a receipt alone does not establish every
-requirement. Obtain permission before sharing collector details.
-
-[↑ Contents](#contents)
+A critic review from one country and selected exhibition in another are distinct **types** of evidence with category-specific rules; do not assume they automatically combine into a talent-level case without meeting the category thresholds. Always record exact venue, country, professional significance and artist credit.
 
 ---
 
-<a id="section-14"></a>
+## 14. Practical opportunities directory
 
-## 14. Arts collaborations and residencies: choose well
+**As checked 9 November 2026.** A directory link is a starting point, not a guarantee that an application is open, that you qualify, or that participation will meet a visa criterion. Programme-specific geography, funding, copyright and deadlines must be checked each time.
 
-*Source handbook page 14 of 29 (combined PDF page 45).*
+| Organisation / programme | Discipline and use | Who may apply / status caveat | Concrete approach | Verified resource |
+| --- | --- | --- | --- | --- |
+| **Artquest Opportunities** | Visual art, painting, photography, commissions, residencies | Listings update; each call has its own rules | Filter by practice, choose eligible call, prepare artist statement and portfolio | [Opportunities](https://artquest.org.uk/opportunities/) |
+| **a-n / Artists Now** | Visual arts, exhibitions, studios, awards, paid commissions | Some content requires login/membership; geography varies | Filter opportunities, verify original organiser and apply through its form | [Opportunities](https://www.a-n.co.uk/jobs/) |
+| **New Art Exchange (NAE)** | Contemporary visual art and curatorial projects | RESIDE 2027/28 open call listed 14 Oct–9 Dec 2026; check artist eligibility | Read relevant open-call pack, prepare concept and previous work | [Current opportunities](https://nae.org.uk/current-opportunities/) |
+| **Royal Photographic Society (RPS)** | Photography exhibitions, awards, bursaries | IPE 168 submissions to 15 Dec 2026; international eligibility described | Review IPE rules, submit quality original work with rights and attribution | [RPS IPE 168](https://rps.org/exhibitions/ipe-168) |
+| **The Place** | Dance and choreography | Weekly changing paid opportunities; geography varies | Filter actual artist notices and submit to genuine producing organisation | [Artists Noticeboard](https://theplace.org.uk/work-with-us/jobs-and-opportunities/artists-opportunities/) |
+| **FABRIC Dance** | Dance creation and residencies | Programme supports **UK-based** artists; calls open periodically | Sign up for notification, submit original choreography proposal when eligible | [Residencies](https://fabric.dance/fabric-residencies/) |
+| **PRS Foundation Open Fund** | Original music creation, recording, performance | **UK-based creators** meeting its detailed rules, generally 18+ months' track record | Check creator eligibility, write project with creation, audience and budget | [Open Fund](https://prsfoundation.com/funding-support/funding-music-creators/all-career-levels/the-open-fund-for-music-creators/) |
+| **New Writing North** | Literature, fiction, poetry, creative writing | Northern Writers Awards require **full-time residence in North of England** | Read category, prepare anonymised extract where asked, submit via stated portal | [2027 Awards](https://newwritingnorth.com/northern-writers-awards/awards/) |
+| **British Council Nigeria** | Creative development, cultural collaboration | Programme and age/residence restrictions vary | Explore open partnership and creative economy calls; prepare project brief | [Creative economy](https://www.britishcouncil.org.ng/programmes/arts/creative-economy) |
+| **UK/Nigeria Season of Culture 2028** | Cross-border arts partnership | Expression of interest described on official page on 9 Nov 2026 | Prepare two-country concept and real partner scope, then follow official EOI | [Season of Culture](https://www.britishcouncil.org.ng/programmes/arts/uk-nigeria-season-culture-2028) |
+| **ART X Lagos** | Curated commercial/visual arts | Artists shown via participating galleries; direct artist application is **not** the fair's stated normal model | Develop gallery relationships and check separate prize status independently | [Fair FAQ](https://www.artxlagos.com/faqs) |
+| **Arts Council England** | Official endorsement and general sector | Endorsement rules, **not** an applicant-development grant guarantee | Read the applicable evidence categories, discipline and letter requirements | [Government route](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts) |
 
-Arts collaborations and residencies:
-choose well
-A useful collaboration has a real artistic output
+### A useful starting shortlist by circumstance
 
- Opportunity                   A specific approach
-
- Nigerian gallery or curator   Show a focused portfolio, explain the series and propose a studio
-                               visit or future programme fit. Do not begin by requesting an
-                               endorsement letter.
-
- UK gallery, ensemble or       Identify why its programme fits your work, offer a clear project
- cultural organisation         and agree the artistic role, timetable and credits.
-
- UK–Nigeria cultural           Read British Council Nigeria’s live arts programmes and eligibility.
- exchange                      Build a feasible partnership before a joint application where
-                               required. [A6]
-
- Residency                     Check selection, access, fees, funding and expected public
-                               output. Yinka Shonibare Foundation and GAS publish
-                               opportunities with different terms. [A10]
-
-Do not confuse a residency fee with a prize
-Some GAS opportunities are self funded, while others have different support. A paid residency
-is not automatically a qualifying award. Assess whether it advances your artistic practice and
-whether the cost is affordable without a visa outcome.
-
-Preserve the working relationship
-Agree who commissions, curates, produces or presents your work. Retain the correspondence
-and actual output. A senior organisation representative should be able to describe your artistic
-contribution from direct experience.
-
-Volunteering on reception at a gallery or attending its workshop may build contacts, but it is
-not the same as that organisation working with you in your artistic capacity.
-
-[↑ Contents](#contents)
+| Situation | Prioritise | Avoid |
+| --- | --- | --- |
+| Nigeria-resident painter | Artquest *international-eligible* calls, Nigerian gallery/curator partnerships, British Council cross-border programmes | UK-residency-only grants or assuming ART X direct entry |
+| UK-based emerging musician | PRS Foundation if fully eligible, reputable independent promoters and actual professional selection | Using the grant as an international award |
+| International art photographer | RPS IPE open-call process and suitable internationally eligible juried competitions | Generic paid profile sites |
+| Northern England writer | New Writing North specific awards if eligible, publishers and professional readings | Applying when you do not meet full-time Northern residence |
+| UK-based contemporary dancer | The Place paid notices and FABRIC open-call alerts | Calling an open class a professional performance |
+| Nigeria-based dancer or writer | Nigerian professional programmes plus eligible international partnerships and credible publication | Assuming UK location-restricted opportunities accept overseas applicants |
 
 ---
 
-<a id="section-15"></a>
+## 15. Your first 90 days
 
-## 15. Arts media: reviews, profiles and PUNCH
+| Period | Specific work to complete | Who to approach | What remains after the period |
+| --- | --- | --- | --- |
+| **Days 1–14** | Decide actual discipline and ACE/specialist route. List five years' credited artistic activity, publications, reviews, awards and countries. Mark evidence lacking external verification. Identify organisations with whom you **already worked**, especially any UK-based organisation. | Past producers, arts editors, gallery curators, professional collaborators; [official eligibility](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts). | Truthful chronology and mandatory-document gap analysis |
+| **Days 15–30** | Build a coherent portfolio or EPK. Prepare three tailored opportunity submissions with eligibility, current deadlines, required work samples and legal rights. Submit only when a call is active. | [Artquest](https://artquest.org.uk/opportunities/), [RPS](https://rps.org/opportunities), [The Place](https://theplace.org.uk/work-with-us/jobs-and-opportunities/artists-opportunities/), [New Writing North](https://newwritingnorth.com/northern-writers-awards/awards/) according to discipline. | Curated portfolio, three verified targets, real submissions and receipts |
+| **Days 31–60** | Develop actual artistic work and a proposal for collaboration or commission. Contact two or three relevant professional organisations or artists through published routes. Request artistic critique or a feasible project discussion, not a visa endorsement. | Established producers, professional curators, literary editors, commissioning organisations; [British Council Nigeria](https://www.britishcouncil.org.ng/programmes/arts/creative-economy) for relevant cross-border work. | Working creative project, professional response and revised portfolio |
+| **Days 61–90** | Complete a selected work if any. Record genuine public credits, programme, audience and review independently; if nothing accepted, document feedback and improve work. Plan the next six months based on actual outcomes. | Actual organiser, curator, producer, qualified critic and collaborators. | Evidence ledger, honest acceptance/rejection log and months 4–6 priority plan |
 
-*Source handbook page 15 of 29 (combined PDF page 46).*
-
-Arts media: reviews, profiles and
-PUNCH
-Ask what the article actually proves
-
- Type of item                   How to treat it
-
- Independent critic’s review    Potentially relevant when it evaluates artistic quality and meets
-                                the outlet, attribution, country and category tests.
-
- News profile or interview      May document career facts but does not automatically count as a
-                                qualifying critical review.
-
- Press release or advertorial   Promotion; do not present it as independent criticism.
-
- Your own post or uploaded      Useful source material; it does not become independent media
- catalogue                      because it is online.
-
-A practical editorial process
-   Finish or professionally present work worth reviewing. Research a critic or arts desk with
-   relevant coverage.
-
-   Send a concise factual press kit: work, credits, dates, access to listen or view, accurate
-   biography and contact details.
-
-   Invite editorial consideration and offer fact checking. Editors decide whether and how to
-   cover it; no favourable assessment is owed.
-
-   Save the published item with critic, date, outlet, country, URL and full discussion of quality.
-
-If you approach PUNCH in Nigeria
-Use its public editorial contact route for a genuine story or arts consideration. Its advertising
-service is separate. A paid profile, even in a well known newspaper, does not automatically
-meet the critical review test. See source links M1 and M2.
-
-For talent, plan professional work and qualifying recognition across the required countries;
-merely having a website accessible in the UK is not the same as a professional record there.
-
-[↑ Contents](#contents)
+**Do not fabricate three submissions, a collaboration or two-country records just to satisfy the schedule.** These are suggested actions, not thresholds.
 
 ---
 
-<a id="section-16"></a>
+## 16. 24-month practical development plan
 
-## 16. Arts letters: who can recommend you?
+This is a **career-development schedule**, not a government rule. Start in Month 1 whenever you begin, but skip work you have already achieved with credible supporting records. The activities identify different branches for musicians, visual artists/photographers, dancers, theatre professionals and writers. **Choose relevant actions rather than attempting everything.**
 
-*Source handbook page 16 of 29 (combined PDF page 47).*
+Each month sets out three different implementation options and indicates **where to find actual opportunities**, **how to approach the people involved**, and **what evidence to retain**. Organisational selection is competitive; merely applying, becoming a member or attending a workshop is not proof of endorsed artistic achievement.
 
-Arts letters: who can recommend you?
-General arts requires a specific combination
-   Two letters from established organisations with expertise in your artistic field.
+### Phase 1 — Establish genuine professional artistic work (months 1–6)
 
-   At least one of those organisations is based in the UK.
+| Month and specific objective | Action strategies — select those relevant to your artform | Who to approach and direct route | Records and evidence to retain |
+| --- | --- | --- | --- |
+| **01 — Choose correct route; inspect historic evidence** | **Music:** list releases, credited performances, professional reviews and organised festivals, with dates, countries and contracts. **Visual/photography:** list curated exhibitions, juried selections and independent critics. **Dance/theatre/literature:** list professional productions, programmes, publications and reviews. Separate amateur, self-hosted and professional work. | Check [ACE disciplines](https://www.gov.uk/government/publications/global-talent-endorsing-bodies/disciplines-covered-by-arts-council-england-or-its-associated-bodies), [arts rules](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts) and appropriate specialist body. Ask former producers, curators or publishers for missing programme credits. | Five-year activity chronology; 3-letter relationship map; media/award/appearance evidence gaps. |
+| **02 — Build a professional, independently verifiable portfolio** | **Music:** record an original performance reel with official billing and credits. **Visual:** curate 12–20 original works, titles, medium, date and exhibition context. **Dance/theatre:** use permitted production footage and cast credits. **Writers:** prepare a finished excerpt and verified bibliography. Do not mistake a portfolio website for qualifying recognition. | Use [Artquest guidance](https://artquest.org.uk/) for visual practice, [Royal Photographic Society](https://rps.org/opportunities) for photography and [New Writing North](https://newwritingnorth.com/) for writers; seek critique from an established practitioner, not a purchased endorsement. | Portfolio with authorship/rights ledger, publication/production permissions and accurate CV. |
+| **03 — Develop a coherent work for professional selection** | **A:** write one-page project description and artistic statement; **B:** produce finished examples (three songs, coherent image series, ten-minute performance excerpt or revised writing sample); **C:** obtain independent constructive critique and revise. Preserve the unsuccessful iterations honestly. | Ask a local curator, producer, arts centre or established writer for a short portfolio critique through their published contact route; browse [a-n opportunities](https://www.a-n.co.uk/jobs/) or [Artquest](https://artquest.org.uk/opportunities/) for fitting calls. | Finished work with dates, portfolio versions, independent feedback and clarified artistic credit. |
+| **04 — Apply to a genuine juried professional opportunity** | **Visual:** choose an actual call aligned to medium and geography; submit portfolio, statement, budget and rights documents. **Photography:** consider [RPS IPE 168](https://rps.org/exhibitions/ipe-168) if still before its 15 December 2026 deadline or monitor a later edition. **Literature:** enter only the category matching your manuscript and residence. **Music/theatre/dance:** submit to verified professional programmes or auditions. | Check [Artquest live listings](https://artquest.org.uk/opportunities/), [RPS calls](https://rps.org/opportunities), [New Writing North awards](https://newwritingnorth.com/northern-writers-awards/awards/) and [The Place](https://theplace.org.uk/work-with-us/jobs-and-opportunities/artists-opportunities/). Observe location, age, fee and deadline restrictions. | Dated rules and actual submission; selection/jury outcome if accepted; never describe an application as an award. |
+| **05 — Secure a substantive creative collaboration** | **A:** identify a real professional production or exhibition needing your discipline. **B:** propose a scoped contribution (music composition, original paintings, choreography, dramaturgy, photography series, literary reading) with a deliverable and agreed credit. **C:** document payments, rights, permissions and public-facing role after completion. | Approach producers and programme managers listed on [New Art Exchange](https://nae.org.uk/current-opportunities/), [The Place](https://theplace.org.uk/work-with-us/jobs-and-opportunities/artists-opportunities/), established Nigerian arts centres or actual producing organisations; use official call or programme contact. | Agreement, credited programme, final artistic output, organiser confirmation and evidence of professional engagement. |
+| **06 — First half-year evidence review and route correction** | **A:** grade whether any performance/exhibition is recognised professionally, not merely attendance. **B:** assess whether critical commentary came from a qualifying critic and publication, not a paid advert. **C:** review whether the desired recommendation organisations have actually worked with you. Change approach where evidence weak. | Use [ACE published requirements](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts); request a professional portfolio critique from a curator, publisher, programme director or producer who has actually seen your work. | Gap register against two of media, awards, appearances/exhibitions; next six-month programme target. |
 
-   Third letter from another established arts organisation or an individual expert.
+### Phase 2 — Obtain independent professional participation (months 7–12)
 
-   You have actually worked with every organisation or person in the relevant artistic capacity.
-   [A1]
+| Month and specific objective | Action strategies — select those relevant to your artform | Who to approach and direct route | Records and evidence to retain |
+| --- | --- | --- | --- |
+| **07 — Make a professional UK/Nigeria connection** | **A:** develop a two-country collaboration concept with genuine artists and complementary audiences. **B:** seek a programming partner rather than asking directly for a visa letter. **C:** prepare a budget and ownership plan; distinguish confirmed interest from an actual commissioned event. | Explore [British Council UK/Nigeria Season of Culture 2028](https://www.britishcouncil.org.ng/programmes/arts/uk-nigeria-season-culture-2028) expression of interest (check current window), or ask an established gallery, arts centre or festival how partnerships are selected. | Real partner correspondence, agreed scope if selected, country attribution and dated artistic work. |
+| **08 — Pursue a substantive residency or commission** | **Visual:** submit project concept, artist statement, technical requirements and work samples to relevant residency. **Dance:** apply to a development residency if UK-based and eligible. **Music/writers:** use discipline-specific commissioning routes. **Fallback:** propose an independently curated collaborative show with an external organisation. | Monitor [New Art Exchange RESIDE](https://nae.org.uk/current-opportunities/), [Artquest residency filters](https://artquest.org.uk/opportunities/) and [FABRIC Dance](https://fabric.dance/fabric-residencies/). Confirm open calls and costs; not all welcome international applicants. | Application/selection evidence; if accepted: contract, original work, curator/producer assessment and public programme. |
+| **09 — Strengthen professional reviews through actual artistic work** | **A:** present completed work in a credible public professional context. **B:** send a concise information pack to suitable arts critics/editors after publication or performance; offer facts and access, not a purchased favourable write-up. **C:** document exactly what was evaluated, including any negative review. | Study actual reviewers and editorial commissioning at reputable culture publications relevant to your discipline; check [ACE standards for reviews](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts). A [PUNCH](https://punchng.com/) general mention or promotional interview is not automatically a critical review. | Independent critic's byline, dated review evaluating quality, publication/country, attributable work; otherwise keep gap marked. |
+| **10 — Seek a selected public performance or exhibition** | **Music:** secure a professionally programmed event rather than paying for a generic open mic. **Visual:** obtain externally curated exhibition selection, distinct from self-hired wall space. **Dance/theatre:** enter a professional festival or production casting. **Literature:** pitch a curated festival reading or publisher event, with official programme. | Use [a-n listings](https://www.a-n.co.uk/jobs/), [The Place](https://theplace.org.uk/work-with-us/jobs-and-opportunities/artists-opportunities/), [New Art Exchange](https://nae.org.uk/current-opportunities/) and discipline-specific festivals. Verify organisers, eligibility and financial terms. | Organiser selection record, credited catalogue/programme, dates, venue, country and independent press if earned. |
+| **11 — Develop a defensible international arts track record** | **A:** if your career is Nigeria-based, seek a real collaboration or selected programme outside Nigeria; if UK-based, investigate cross-border partner work. **B:** resolve travel/rights/visas separately and avoid claiming a remote online event is an in-country appearance without checking its actual context. **C:** deliver original work and collect formal programme evidence. | Explore [British Council creative programmes](https://www.britishcouncil.org.ng/programmes/arts/creative-economy), [UK/Nigeria Season 2028](https://www.britishcouncil.org.ng/programmes/arts/uk-nigeria-season-culture-2028), or eligible cross-border residency calls via Artquest. | Actual professional work documented by country, promoter, date and personal artistic role; no invented international reach. |
+| **12 — Year-one assessment against official endorsement rules** | **A:** choose talent versus promise based on professional career and country track record. **B:** check whether two of the three evidence categories are truly evidenced. **C:** check relationship with UK arts organisation and other recommendation authors, who must have worked with you artistically. | Re-read [ACE GTE3 rules](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-global-talent) and [GOV.UK documents](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts). Seek regulated advice for immigration status. | Year-one RAG assessment, genuine source links, evidence permission log and specific missing opportunities. |
 
-Examples of potentially suitable relationships
-A senior representative at a professional Nigerian gallery that curated your exhibition; a senior
-UK arts organisation representative that commissioned or presented your work; an expert
-producer, curator or musician who directly worked on your relevant project. Each still needs to
-meet the exact requirements.
+### Phase 3 — Develop stronger professional recognition and international work (months 13–18)
 
-Check the letter, not just the name
-   Application specific, typed, dated and signed, with the relevant senior signatory.
+| Month and specific objective | Action strategies — select those relevant to your artform | Who to approach and direct route | Records and evidence to retain |
+| --- | --- | --- | --- |
+| **13 — Create a stronger original artistic body of work** | **Music:** develop EP or commissioned new-music cycle with verified artistic role. **Visual/photography:** produce cohesive exhibition series with research and production records. **Dance/theatre:** develop new production/choreography with rehearsals and credits. **Writers:** complete and revise manuscript or commissioned piece with editor. | Partner with a legitimate composer, curator, director, publisher/editor or commissioning organisation; use programme applications and portfolio review, not requests for unearned praise. | Original material, artistic statement, progression record, collaborators and completed production. |
+| **14 — Apply to a more selective programme with a stronger portfolio** | **A:** shortlist opportunities by eligibility, independent selection, discipline and potential public outcome. **B:** adapt portfolio, budget, rights statements and artistic case to each real call. **C:** submit and record the actual decision, requesting permitted feedback. | Check [New Art Exchange opportunities](https://nae.org.uk/current-opportunities/), [RPS](https://rps.org/opportunities), [FABRIC](https://fabric.dance/fabric-residencies/), [New Writing North](https://newwritingnorth.com/northern-writers-awards/awards/) and [Artquest](https://artquest.org.uk/opportunities/). | Selection evidence if awarded; otherwise improved submission pack and external critique. |
+| **15 — Establish an eligible UK arts working relationship** | **A:** identify UK professional organisation whose artistic programme genuinely fits your work. **B:** deliver artistic collaboration, commissioned work, performance, exhibition or selected residency. **C:** document who reviewed, organised and publicly credited your actual contribution. Do not solicit endorsement as first contact. | Approach a UK gallery/arts centre, dance or music promoter, publisher or theatre company through public production contacts or an authentic call; avoid unrelated organisations that cannot speak to your actual discipline. | UK organisation's programme/contract and actual collaborative evidence; potential referee relationship only if genuinely developed. |
+| **16 — Seek independent, evaluative critical response** | **A:** organise verifiable professional performance/exhibition/publication, with critic access. **B:** supply an accurate press kit to real critics/editors; do not influence review outcome. **C:** verify whether review evaluates the work, identifies you and is published by an appropriate outlet. | Find actual arts reviewers in relevant publications and contact the *editorial* commissioning route rather than ad-sales; review [ACE media requirements](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts). | Two authentic critical pieces where available, with signed/bylined critic, publication, date, country and work attribution. |
+| **17 — Build professional evidence of distribution or sales** | **Music:** obtain authorised distributor reports, licensed performance logs and confirmed professional airplay where relevant. **Visual:** gather gallery-confirmed exhibit/sale history and distribution terms. **Literature:** collect actual publisher/rights records and independent distribution information. **Performance:** formal touring and programming records. | Speak to actual distributor, label, publisher, gallery registrar or programme producer; insist on lawful redaction and accurate geography/scale. Numbers alone are not sufficient without credible context. | Authenticated distribution/sales/programme records and exact artist credits, mapped to the correct ACE category. |
+| **18 — Pursue an independently judged prize or shortlist** | **A:** identify actual credible international award in your discipline; check jury, eligibility, fee and previous winners. **B:** submit quality work with ownership and permissions. **C:** record only genuine win, nomination or shortlist outcomes, and verify whether it qualifies under talent/promise wording. | Investigate [RPS competition](https://rps.org/exhibitions/ipe-168), [New Writing North](https://newwritingnorth.com/northern-writers-awards/awards/) where Northern residence qualifies, and relevant discipline awards; [ART X Lagos](https://www.artxlagos.com/faqs) explains its prize but current next call must be independently confirmed. | Rules, jury credibility, official outcome, nominated work and personal contribution; **funding grants are not international prizes under ACE's prize category**. |
 
-   Explains actual collaboration, artistic contribution, achievements and leadership or
-   potential.
+### Phase 4 — Verify evidence, qualified referees and application readiness (months 19–24)
 
-   Explains UK benefit, contribution to cultural life and realistic future plans.
+| Month and specific objective | Action strategies — select those relevant to your artform | Who to approach and direct route | Records and evidence to retain |
+| --- | --- | --- | --- |
+| **19 — Build real international professional collaboration** | **A:** identify a production/exhibition/publication spanning relevant countries. **B:** negotiate scope, credits, rights, fees and timelines. **C:** deliver, preserve independently issued programmes or distribution data and avoid exaggerating cross-border significance. | Explore [British Council UK/Nigeria Season](https://www.britishcouncil.org.ng/programmes/arts/uk-nigeria-season-culture-2028) and eligible international arts networks; work directly with an established arts organisation rather than a visa-evidence agent. | Country-labelled programme, organisational contracts, professional credit and any independent public review. |
+| **20 — Review three potential recommendation relationships** | **A:** identify two established arts organisations you actually worked with, one UK-based; **B:** verify a third suitable organisation or expert individual familiar with your artistic work; **C:** assess each writer's standing and ability to independently discuss your contribution and UK plans. | Use the actual programme directors, gallery leaders, producers, publishers or artistic directors from completed collaborations; [GOV.UK letters rules](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts) govern required content. | Relationship chronology, programme/credits, contacts and genuine author confirmation; do not create or backdate a collaboration. |
+| **21 — Select ten or fewer strong supporting items** | **A:** map evidence to media recognition, awards, appearances/distribution; choose at least two qualifying categories. **B:** verify 5-year date and 2-A4-side maximum per item. **C:** reject PR profiles, social posts, grants-as-awards and unsupported performances that do not meet the published standard. | Use [ACE criteria](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts) and [GTE3](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-global-talent). Ask actual artists/venues to correct credits, not inflate importance. | Private document index including author, date, country, legal permission, category and verifiable public source. |
+| **22 — Prepare compliant CV and genuine recommendation letters** | **A:** write factual typed artistic CV with verified professional credits, published/performed works, education and dates. **B:** provide actual collaborators with factual project identifiers to check; let each independently author a relevant Global Talent letter. **C:** check senior signature, organisational letterhead/address, writer credentials and up-to-three-page format. | Three real arts organisations/experts who worked with you; at least one qualifying UK arts organisation. Do not send generic AI-generated endorsements for signatures or rely on DocuSign as a magic acceptance test. | Final verified artistic CV, letter authorship/credentials log, compliant authentic signed letters if provided. |
+| **23 — Run final go/no-go review and immigration checks** | **A:** apply the right talent/promise country and career thresholds; **B:** ensure two genuinely supported evidence categories and required letter relationships; **C:** check current visa status and any consequences of timing. If weak, extend development rather than manufacture material. | Verify [ACE official guide](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts), [GOV.UK overview](https://www.gov.uk/global-talent-arts-culture), and seek regulated immigration advice for personal legal circumstances. | Signed-off internal evidence gap register, document limit checks and application decision. |
+| **24 — Submit only if the record is genuinely ready** | **A:** submit the appropriate endorsement application with current official form and correct discipline. **B:** retain acknowledgement and respond only with accurate clarification if requested. **C:** apply for the visa separately using the current official requirements; if not ready, make a continued project and recognition plan. | [Official endorsement and visa guidance](https://www.gov.uk/global-talent-arts-culture) is the starting point. No arts organisation, agent or programme can promise Arts Council England endorsement. | Actual application/payment records only when submitted, or truthful revised timetable and next art-production objectives. |
 
-   Up to three A4 pages excluding credentials and contact details.
+### Honest progress checks
 
-   Telephone and email, applicable organisation logo and registered address, author CV or
-   acceptable credentials included. [A1]
-
-A celebrity who has never worked with you, a friend outside the field or an organisation selling
-a signature is not a substitute. Obtain author consent, factual accuracy and an independently
-authored assessment. No letter can guarantee endorsement.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-17"></a>
-
-## 17. First 90 days: music or visual arts
-
-*Source handbook page 17 of 29 (combined PDF page 48).*
-
-First 90 days: music or visual arts
- When                 Music                                    Drawing and painting
-
- Days 1–14            Recover credits, releases,               Recover exhibition history,
-                      programmes, reviews and distributor      catalogues, credits, reviews and high
-                      records from Nigeria.                    resolution portfolio images.
-
- Days 15–30           Choose the next release or live          Choose a coherent series; clarify
-                      programme; clarify rights and roles.     ownership, dimensions, medium and
-                                                               project statement.
-
- Days 31–60           Approach suitable Nigerian and UK        Research relevant gallery
-                      professional programmers with a          programmes and curated open calls;
-                      concise press kit.                       send a tailored portfolio where
-                                                               accepted.
-
- Days 61–90           Deliver or schedule a genuine artistic   Agree a professional exhibition or
-                      collaboration and record credits and     commission if selected; record
-                      access for critics.                      curatorial selection and public
-                                                               presentation.
-
-Start the evidence register immediately
-Columns: work; date; country; role; professional context; independent source; critic; category;
-verifier; permissions; missing proof. Tag records as media, prize or professional appearance,
-and check where attribution needs strengthening.
-
-A realistic weekly routine
-   Reserve most time for making and improving the work.
-
-   Review a small number of relevant opportunities rather than applying everywhere.
-
-   Maintain genuine UK and Nigerian artistic relationships and keep proof of delivered work.
-
-   Review the actual criteria each quarter; do not turn every activity into a visa claim.
-
-[↑ Contents](#contents)
+| Point | What to check | If still missing |
+| --- | --- | --- |
+| Month 3 | A real artistic portfolio and identified professional, genuinely selectable opportunity | Complete original work and select realistic programmes |
+| Month 6 | At least some independent professional critique, project response or actual artistic selection | Improve quality and eligibility of submissions; request real review |
+| Month 12 | Professional engagement over time, real work attribution, at least one convincing category prospect | Seek proper professionally programmed work and stronger reviews |
+| Month 18 | Does the actual record potentially support **two** categories, and requisite countries for talent? | Concentrate on missing category/country instead of generic exposure |
+| Month 24 | Are three letters from qualifying people/organisations grounded in actual artistic work and evidence admissible? | Extend the plan rather than create unsupported letters or apply prematurely |
 
 ---
 
-<a id="section-18"></a>
+## 17. Five outreach workflows
 
-## 18. Arts development plan — months 1–12
+### A. Approach a gallery curator or programme director
 
-*Source handbook page 18 of 29 (combined PDF page 49).*
+**Before contact:** Read the gallery's recent programme and note exactly how your medium/subject relates. Prepare a link to 8–12 finished works, factual biography, rights and a concise curatorial concept.
 
-Arts development plan — months 1–12
-Suggested working plan. Each row covers three months; the deliverables are development
-targets, not visa quotas. Keep your existing Nigerian record in the audit.
+**Message structure:** Identify the specific programme, explain one artistic reason your work fits, offer a portfolio link and ask whether the curator accepts proposals or recommends the formal call. Do not attach large unsolicited files or request a “visa letter”.
 
-Months 1–3
-Audit professional years and countries. Music: select a release or live set. Visual arts: develop a
-coherent portfolio and series.
+**If accepted:** Clarify juried selection, programme, physical/online venue, contracts, country, credits, artist fee and who controls public promotion. **If rejected:** ask for permitted feedback; find a more aligned gallery without exaggerating acceptance.
 
-   Keep: Existing Nigerian career records, credits, dated portfolio, rights and evidence gaps.
+**Evidence if it occurs:** Official catalogue, venue listing, curator credit/selection and, if independently earned, critic review.
 
-Months 4–6
-Music: rehearse, record and seek professional programming. Visual arts: target suitable
-curated selection and gallery discussions.
+### B. Apply for a professional residency
 
-   Keep: Agreements, actual selection process, professional context and accurate artistic
-   attribution.
+Open an actual live call from [NAE](https://nae.org.uk/current-opportunities/), [Artquest](https://artquest.org.uk/opportunities/) or [FABRIC](https://fabric.dance/fabric-residencies/). Confirm residence and discipline rules; write why the institution's expertise or facilities matter, the artistic question, what will be produced, timetable, fees, accessibility and budget. Submit by the real deadline.
 
-Months 7–9
-Deliver the first planned work. Build a real UK artistic collaboration and seek independent
-critical consideration.
+If selected, complete the programme and obtain genuine production/public records. **A residency is career experience, not automatically an international prize or significant exhibition.**
 
-   Keep: Programmes, publication or distribution records, relevant reviews and country details.
+### C. Pitch an original music or performance project
 
-Months 10–12
-Review quality and professional history. Apply only to relevant funding or residency calls;
-separate grants from qualifying prizes.
+Approach a genuine venue, promoter, professional festival or producing company using its public programming contact. Provide recorded examples, relevant programme credits, an accurate technical rider, audience fit, fee request and proposed time. For a musician in the UK, investigate [PRS Foundation](https://prsfoundation.com/funding-support/funding-music-creators/all-career-levels/the-open-fund-for-music-creators/) only if eligible for its UK-based creator conditions.
 
-   Keep: Curatorial or producer feedback, proof of artistic work with organisations and
-   category map.
+If selected, use written contracts, retain public programme and promoter confirmation. An accepted professional show is not automatically internationally significant.
 
-[↑ Contents](#contents)
+### D. Seek legitimate independent arts criticism
+
+Identify a critic who publishes genuine **reviews**, not interviews or promotional features, in a relevant established outlet. Supply dates, media pack and access to the real work to the **editorial** desk. Do not pay or influence a favourable evaluation. Save the actual bylined review, critic identity, country, date and text about artistic quality. Without a review, record the gap honestly.
+
+### E. Develop a UK organisation relationship for letters
+
+Find a suitable UK arts organisation whose work actually aligns with the applicant. Deliver a meaningful collaboration, commissioned piece, curated exhibition or professional production. Make sure the named senior member knows the contribution directly; keep time, project context and legitimate output records. **Only after genuine work** assess whether that organisation may provide one of the required independent recommendation letters. Never ask a stranger to sign a prewritten letter.
 
 ---
 
-<a id="section-19"></a>
+## 18. Creative evidence register and documentary checks
 
-## 19. Arts development plan — months 13–24
+Maintain a **private** evidence register, not filled-in applicant records in a public Mettelo repository.
 
-*Source handbook page 19 of 29 (combined PDF page 50).*
+| Ref | Criterion | Artwork / event | Country and date | Independent source / reviewer | Your actual credited role | Evidence link and rights | Quality/status |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| AR-01 | Media recognition | [Work reviewed] | [Country/date] | [Named critic/outlet] | [Exact role] | [Private record] | [Missing/verified] |
+| AR-02 | Media recognition | [Second genuine review] | [Country/date] | [Named critic/outlet] | [Exact role] | [Private record] | [Missing/verified] |
+| EX-01 | Appearance/exhibition | [Real programme] | [Country/date] | [Organiser] | [Role] | [Programme] | [Missing/verified] |
+| EX-02 | Appearance/exhibition | [Second real programme] | [Country/date] | [Organiser] | [Role] | [Programme] | [Missing/verified] |
+| AW-01 | Award (if claimed) | [Actual award and category] | [Country/date] | [Real awarding body] | [Win/credited contribution] | [Official notice] | [Missing/verified] |
 
-Arts development plan — months
-13–24
-Suggested working plan. Each row covers three months; the deliverables are development
-targets, not visa quotas. Keep your existing Nigerian record in the audit.
+### Check every potential piece
 
-Months 13–15
-Deliver a stronger second project. Talent candidates address meaningful professional work and
-recognition in the second required country.
+- Is it within the relevant five years and the **two-A4-side** limit?
+- Does it actually show the date, country, artist name/role and genuine third-party source?
+- For a media review, is the article about **artistic quality**, by a verifiable critic in an appropriate outlet?
+- For an award, is it a qualifying international **prize** rather than a grant, fellowship or paid badge?
+- For a professional appearance, is the organiser/venue/context credibly professional and the significance documented?
+- Do at least two permitted categories satisfy the respective exceptional talent or promise thresholds?
+- Are confidential agreements, images, unpublished manuscript extracts and contacts appropriately protected?
 
-   Keep: New professional presentation and independent coverage, with senior contribution
-   confirmation.
+### Keep evidence separate from marketing
 
-Months 16–18
-Audit at least two qualifying categories. Improve missing reviews or appearance evidence
-through real work; do not buy coverage.
-
-   Keep: Dated critic reviews, qualifying prize records if applicable, professional distribution
-   and attribution.
-
-Months 19–21
-Confirm two established organisation supporters including a UK organisation, plus a suitable
-third supporter. All must have worked with you artistically.
-
-   Keep: Three distinct factual recommendations with proper credentials and UK cultural plans.
-
-Months 22–24
-Select up to ten compliant evidence pieces. Check professional years, geographic tests and
-discipline rules again before deciding whether to apply.
-
-   Keep: CV, letters, two A4 page evidence limits, translations and current immigration timing.
-
-At month 24, apply only if the current requirements are met. Otherwise extend the plan around
-named gaps. An eligible fast track research opportunity may allow an earlier application.
-
-[↑ Contents](#contents)
+Your personal website, Instagram, media kit and biography help people discover your work. They do not by themselves demonstrate independent quality, reviewer standing, international professional significance or the official evidence threshold.
 
 ---
 
-<a id="section-20"></a>
+## 19. Recommendation letters and compliance
 
-## 20. General arts full readiness checklist
+The general-arts route requires **three authentic recommendation letters**. **Two must come from established arts and cultural organisations** that are acknowledged experts and have worked with you artistically, **one of these based in the UK**. The third can be an established arts organisation or a recognised expert individual who has worked with you in a relevant artistic capacity.
 
-*Source handbook page 20 of 29 (combined PDF page 51).*
+| Requirement | Practical check |
+| --- | --- |
+| Genuinely relevant artistic relationship | The organisation/individual collaborated with you in your actual discipline and can describe real work. |
+| Specific to Global Talent | It is prepared for this application, not re-used from a grant or training programme. |
+| Author's knowledge | Describes your actual achievements, leadership/potential, future plans and contribution to UK cultural life. |
+| Organisational authority | Relevant senior signatory, organisational letterhead/logo/registered address where required, genuine contact and credentials. |
+| Format | Dated, signed, maximum **three single A4 sides** per letter excluding permitted credential/contact information. |
+| Authenticity | Independently truthful author; no invented work, backdating or purchase of signatures. |
 
-General arts full readiness checklist
-Route and professional record
-   Correct discipline and talent or promise category chosen.
+**An artistic adviser you have never worked with does not solve the letter requirement.** A generic social-media influencer profile is not a substitute for an established arts organisation. The original Mettelo PDF's DocuSign instructions may help coordinate authentic signatures but cannot replace compliance checks.
 
-   Professional history, quality and engagement requirements met; Nigerian work included
-   accurately.
-
-   Required countries and last five year evidence window checked.
-
-   At least two qualifying evidence categories established.
-
-Evidence tests
-   If using media: at least two appropriate critical reviews; critic, date, country, quality
-   assessment and attribution shown.
-
-   If using prizes: significance, eligible award status, category, year and contribution verified;
-   grant not mislabelled.
-
-   If using appearances: professional international context and required publication, broadcast
-   or distribution proof established.
-
-   Group work and work for someone else show my actual contribution.
-
-Documents and letters
-   CV is typed and outlines professional career and education.
-
-   No more than ten single evidence pieces; each up to two A4 pages and within five years.
-
-   Two expert organisations, at least one UK based, and an eligible third supporter have
-   worked with me artistically.
-
-   Each letter has the required contents, senior signature, date, contacts and credentials; page
-   limit checked.
-
-   Current specialist rules replace this general checklist if my discipline requires them.
-
-   Final submission, fees, permission and application timing checked and copies saved.
-
-[↑ Contents](#contents)
+Read [official letter requirements](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts).
 
 ---
 
-<a id="section-21"></a>
+## 20. Application and visa stages
 
-## 21. Applying and checking your UK permission
+**Stage 1 — decide pathway:** Confirm general ACE route versus specialist RIBA/BFC/DBA/PACT and leader versus potential leader. Follow the correct [official entry route](https://www.gov.uk/global-talent-arts-culture).
 
-*Source handbook page 21 of 29 (combined PDF page 52).*
+**Stage 2 — prepare documents:** Typed arts CV, three qualifying letters, and up to ten supporting items each within the two-page and five-year limits. Submit accurate, non-duplicated evidence for at least two permitted categories according to your category's geographic/significance requirements.
 
-Applying and checking your UK
-permission
-1. Refresh the exact rules
-Applicants must be at least 18. Use the official pathway pages in this guide’s source section
-and follow their live link to the endorsement application. Verify current criteria, evidence limits
-and forms before paying. A named winner of an exact eligible prestigious prize may use the
-separate no endorsement route. [G1, G3]
+**Stage 3 — endorsement:** Complete the current application, pay the applicable fee and follow official upload and submission directions. Endorsement normally takes up to eight weeks according to current guidance, but times can change. Where a person has an accepted eligible prize, check whether endorsement exemption actually applies.
 
-2. Prepare and submit the endorsement application
-Select the correct field and category, supply only the required documents and follow the live
-online instructions. Keep the final submitted file set, reference numbers and receipts.
-Development suggestions in this guide are not text to paste into application documents.
+**Stage 4 — visa:** Submit the appropriate Home Office visa application. You may be able to apply at the same time as endorsement or afterwards depending on the rules and your circumstances. **Do not assume endorsement alone extends permission to stay.** Check in-country application timing, existing permission, dependants, costs and Immigration Health Surcharge; obtain regulated advice where consequences are substantial.
 
-3. Plan the visa application separately
-Endorsement is not immigration permission. If applying after endorsement, normally apply for
-the visa within three months of the endorsement date. Check whether you may switch from
-your current category and whether any Student conditions apply. [G1, G2]
-
-4. Check fees and identity documents
-Checked 23 October 2026: the standard total main applicant fee is £766, normally £561 for
-endorsement and £205 for the visa. Adult immigration health surcharge is usually £1,035 for
-each year granted; dependants apply and pay separately. Verify the current calculation before
-payment. [G1]
-
-Follow the visa form for passport or identity documents, endorsement details, certified
-translations and any relevant TB or other required evidence. A Nigerian passport does not by
-itself decide whether a TB certificate is needed; recent residence history and the rules matter.
-[G4]
-
-5. Protect the immigration timeline
-An endorsement application alone does not extend UK permission. If expiry, switching
-restrictions or travel could affect your position, obtain individual advice before relying on a
-plan. Keep Home Office decision messages and comply with identity or biometric requests.
-[G2, G3]
-
-[↑ Contents](#contents)
+**Stage 5 — ongoing responsibilities:** Retain approval and visa records, respect conditions and monitor eligibility for extension/settlement under the rules then applying.
 
 ---
 
-<a id="section-22"></a>
+## 21. Common weak approaches and alternatives
 
-## 22. Submit the endorsement application step by step
-
-*Source handbook page 22 of 29 (combined PDF page 53).*
-
-Submit the endorsement application
-step by step
-1 Open the official route instructions
-Official arts starting page
-https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts
-
-
-Use the Apply for endorsement link on the relevant route page. Research applicants select the
-actual appointment, fellowship, funded or peer review route. This is Stage 1; it is different from
-applying for immigration permission.
-
-2 Start the Home Office endorsement form
-Home Office endorsement service
-https://visas-immigration.service.gov.uk/product/global-talent-endorsement
-
-
-Follow the form to create or access the application. Use an email you control, enter identity
-details exactly and save the access or return information securely. Select the correct field,
-assessing body, route and category when asked. [U1]
-
-3 Complete and check every section
-Answer the current questions truthfully. Technology applicants prepare personal statement
-responses themselves. Use the live form’s document categories, file format and size limits;
-these can change and are not the same as the pathway’s evidence page caps.
-
-4 Pay and follow the generated submission instructions
-Pay the endorsement fee shown and save the receipt and application reference. Complete the
-required document upload or delivery process displayed by the form or confirmation email. Do
-not assume paying alone submits every document, and do not use an old third party portal or
-guessed email address.
-
-5 Save the completed record
-Retain the submitted form, exact file set, confirmation, references and any response deadline.
-Check email and junk folders for document requests or the decision. Respond through the
-contact or method in the genuine official message.
-
-[↑ Contents](#contents)
+| Weak approach | Concrete better alternative |
+| --- | --- |
+| “I have thousands of social followers.” | Deliver independently curated/produced work and obtain actual professional records and criticism. |
+| “My art appeared in an online magazine.” | Check whether it is a **bylined critical review** in an established outlet evaluating the artistic work. |
+| “I paid a magazine to publish my profile.” | Disclose promotion accurately; pursue real independent editorial review after professional work. |
+| “I won a residency grant.” | Treat it as development funding; seek a qualifying international prize separately if using awards category. |
+| “I exhibited work in two countries via a personal website.” | Seek genuine professional programming and verified country-specific exhibition records. |
+| “A UK gallery followed me on Instagram.” | Undertake an actual artistic collaboration with an eligible UK organisation before considering a letter. |
+| “I received an email inviting me to send work.” | Keep the email as a prospect only; do not claim programme acceptance or professional appearance. |
+| “I am a screen actor, so I will use the theatre checklist.” | Confirm whether film/TV work must follow **PACT** specialist assessment. |
+| “I will complete the 24 months and then I qualify.” | Assess real eligibility at milestones; 24 months is only a suggested development timeline. |
+| “An agency sells recommendation letters.” | Avoid fabrication; only actual eligible artistic collaborators can independently recommend you. |
 
 ---
 
-<a id="section-23"></a>
+## 22. Official references and editorial status
 
-## 23. Before endorsement submission use this checklist
+### Official rules and professional sources reviewed 9 November 2026
 
-*Source handbook page 23 of 29 (combined PDF page 54).*
+1. [GOV.UK Arts & Culture overview](https://www.gov.uk/global-talent-arts-culture).
+2. [GOV.UK combined arts, dance, literature, music, theatre and visual arts](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts).
+3. [Immigration Rules Appendix Global Talent, GTE3](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-global-talent).
+4. [Official arts disciplines and specialist assessors, updated 1 July 2026](https://www.gov.uk/government/publications/global-talent-endorsing-bodies/disciplines-covered-by-arts-council-england-or-its-associated-bodies).
+5. [ACE historic applicant guidance (May 2021; explanatory only)](https://www.artscouncil.org.uk/sites/default/files/download-file/Guide%20for%20Global%20Talent%20applicants%20May%202021.pdf).
+6. [Artquest opportunities](https://artquest.org.uk/opportunities/); [a-n Artists Now](https://www.a-n.co.uk/jobs/).
+7. [New Art Exchange calls](https://nae.org.uk/current-opportunities/).
+8. [Royal Photographic Society IPE](https://rps.org/exhibitions/ipe-168).
+9. [The Place's dance opportunities](https://theplace.org.uk/work-with-us/jobs-and-opportunities/artists-opportunities/); [FABRIC residencies](https://fabric.dance/fabric-residencies/).
+10. [PRS Foundation Open Fund and rules](https://prsfoundation.com/funding-support/funding-music-creators/all-career-levels/the-open-fund-for-music-creators/).
+11. [New Writing North Awards](https://newwritingnorth.com/northern-writers-awards/awards/) and [eligibility](https://newwritingnorth.com/northern-writers-awards/eligibility/).
+12. [British Council Nigeria Creative Economy](https://www.britishcouncil.org.ng/programmes/arts/creative-economy) and [UK/Nigeria Season of Culture 2028](https://www.britishcouncil.org.ng/programmes/arts/uk-nigeria-season-culture-2028).
+13. [ART X Lagos official participation FAQ](https://www.artxlagos.com/faqs).
 
-Before endorsement submission use
-this checklist
-Route and facts
-   Correct pathway, sub route, discipline and category selected.
+### Source provenance and what has changed
 
-   Current eligibility checked, rather than relying only on activity targets.
+**Preserved original:** [29-page Mettelo Arts & Culture guide, October 2026](arts-and-culture-original-2026.md) contained career framing, music and visual-art pathways, 90-day actions, two-year development content, the three recommendation letters and a DocuSign coordination section. It is retained without being silently overwritten.
 
-   Name, dates, role, contribution and outcomes agree across every document.
+**New expanded Mettelo recommendations:** Beginner introduction; official route distinctions; evidence-category audit; six artform-specific strategies; independently evaluated critical review process; named real organisations with direct application/opportunity pages and eligibility caveats; UK/Nigeria partnership route; first 90 days; **24 monthly tables/entries with multiple actionable strategies**; five specific outreach workflows; evidence register; and readiness safeguards.
 
-Required pack
-   Every applicable item on this pathway’s requirements register is Ready.
+### Honest publication status
 
-   Letters or institutional guarantees are issued by the correct people and signed as required.
+**Enhanced researched draft, 9 November 2026.** The main government eligibility and general arts evidence requirements have been checked against current official public sources. The professional opportunity pages were checked for their stated programme structures and geography. **Future calls, awards, deadlines, fees and availability must be rechecked each time.** Claims that any individual creative activity *will* be accepted by Arts Council England would be misleading.
 
-   Author credentials, contacts, letterhead and required relationship details checked.
+A final legal/content audit, rendered Markdown review, and link QA remain outstanding before marking this as fully published.
 
-   Evidence counts, page limits, time windows, geography and attribution checked.
-
-   Conditional items marked Not applicable only with a valid reason.
-
-   Originals, translations and authentic signing records handled under current instructions.
-
-Online handoff
-   Each final PDF opens, is readable and matches the intended upload slot.
-
-   Form questions and declarations checked; technology no AI and no template instructions
-   followed where applicable.
-
-   Fee receipt and reference saved.
-
-   Every required upload or document delivery step completed and confirmation retained.
-
-   Requests and decision emails monitored; endorsement date recorded for visa timing.
-
-A ready document pack does not guarantee endorsement. The assessor must also accept the
-evidence and eligibility. The next checklist concerns the separate visa stage.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-24"></a>
-
-## 24. Apply for the visa after endorsement
-
-*Source handbook page 24 of 29 (combined PDF page 55).*
-
-Apply for the visa after endorsement
-1 Choose the correct location route
-Already in the UK and eligible to switch
-https://www.gov.uk/global-talent/switch-to-this-visa
-
-
-Applying from Nigeria or another country outside the UK
-https://www.gov.uk/global-talent/apply-from-outside-the-uk
-
-
-Open the applicable page and choose Start now. Check switching restrictions and current
-permission first. If applying after endorsement, normally apply within three months of its date
-and ensure it has not been withdrawn. [G2, U3]
-
-2 Prepare identity and conditional documents
-Have your valid passport or travel document, endorsement decision details, immigration
-history and information the form requests. Check the official visa document page for
-translations, any applicable TB certificate and other conditions. Family members make
-separate applications. [G4]
-
-3 Complete the visa form and payments
-Select Global Talent and the correct application location. Enter the endorsement details,
-requested period and other answers accurately. Review the application and pay the displayed
-visa fee and health surcharge where due. Save receipts and application references.
-
-4 Complete the identity route assigned to you
-The form tells you whether to use UK Immigration ID Check or attend the appropriate biometric
-appointment. Do not assume every Nigerian passport holder can use the app. Follow the
-genuine account instructions for uploads and identity checks. [G2, U3]
-
-5 Monitor and retain the decision
-Keep confirmation of identity and documents, monitor messages and follow the decision
-instructions for your status. For an in country switch, check the restriction on travel while a
-decision is pending. Endorsement alone is not permission to remain. [G2]
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-25"></a>
-
-## 25. Visa stage checklist and application follow up
-
-*Source handbook page 25 of 29 (combined PDF page 56).*
-
-Visa stage checklist and application
-follow up
-Visa readiness
-   Endorsement decision received, date and details recorded; application within the permitted
-   period if applying afterwards.
-
-   In country switching eligibility or correct overseas application confirmed.
-
-   Passport details, immigration history and application answers checked.
-
-   Translations, TB certificate or other conditional visa documents included when required.
-
-   Relevant dependant applications and costs considered separately.
-
-After submitting
-   Visa fee and applicable health surcharge paid; receipts saved.
-
-   Identity app process or assigned biometrics appointment completed.
-
-   Requested supporting documents submitted, with confirmation retained.
-
-   Current permission and any pending application travel conditions checked.
-
-   Email, junk folder and official account monitored for further requests.
-
-If there is a delay or missing confirmation
-First check the account and acknowledgement for required steps or a response deadline. For a
-technical or case enquiry use the official UKVI contact service or the genuine contact route in
-your acknowledgement. Include reference number, date and a concise description; never
-disclose passwords or verification codes. [U6]
-
-Official UKVI contact service
-https://www.gov.uk/contact-ukvi-inside-outside-uk
-
-
-If endorsement is refused, read the decision and the pathway’s current review instructions. A
-review and a fresh application are different processes. Do not send a new evidence bundle
-through an old acknowledgement unless the official instructions allow it.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-26"></a>
-
-## 26. Sources and directory 1 of 4
-
-*Source handbook page 26 of 29 (combined PDF page 57).*
-
-Sources and directory 1 of 4
-Research checked 23 October 2026. These external links are for verification; the contents and
-footer links navigate inside the guide. Opportunity pages are not promises of an open call or a
-qualifying visa record.
-
-[G1] Global Talent overview
-https://www.gov.uk/global-talent
-
-
-[G2] Switching and Student conditions
-https://www.gov.uk/global-talent/switch-to-this-visa
-
-
-[G3] Immigration Rules Appendix Global Talent
-https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-global-talent
-
-
-[G4] Visa identity and document requirements
-https://www.gov.uk/global-talent/documents-youll-need-to-apply
-
-
-[A1] General arts including music and visual arts
-https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts
-
-
-[A2] Arts disciplines overview
-https://www.gov.uk/global-talent-arts-culture
-
-
-[A3] Rele Young Contemporaries programme
-https://www.releartsfoundation.org/young-contemporaries
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-27"></a>
-
-## 27. Sources and directory 2 of 4
-
-*Source handbook page 27 of 29 (combined PDF page 58).*
-
-Sources and directory 2 of 4
-Research checked 23 October 2026. These external links are for verification; the contents and
-footer links navigate inside the guide. Opportunity pages are not promises of an open call or a
-qualifying visa record.
-
-[A4] ART X Lagos participation conditions
-https://www.artxlagos.com/faqs
-
-
-[A5] MUSON programmes and events
-https://muson.org/
-
-
-[A6] British Council Nigeria arts
-https://www.britishcouncil.org.ng/programmes/arts/about
-
-
-[A7] PRS Foundation early career programmes
-https://prsfoundation.com/funding-support/funding-music-creators/early-career/
-
-
-[A8] Southbank futuretense showcase
-https://www.southbankcentre.co.uk/events/future-tense/
-
-
-[A9] Artquest visual artist opportunities
-https://artquest.org.uk/opportunities/
-
-
-[A10] GAS and Yinka Shonibare Foundation opportunities
-https://yinkashonibarefoundation.com/News/Opportunities
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-28"></a>
-
-## 28. Sources and directory 3 of 4
-
-*Source handbook page 28 of 29 (combined PDF page 59).*
-
-Sources and directory 3 of 4
-Research checked 23 October 2026. These external links are for verification; the contents and
-footer links navigate inside the guide. Opportunity pages are not promises of an open call or a
-qualifying visa record.
-
-[A11] Architecture criteria
-https://www.gov.uk/global-talent-arts-culture/architecture
-
-
-[A12] Fashion criteria
-https://www.gov.uk/global-talent-arts-culture/fashion-design
-
-
-[A13] Film and television criteria
-https://www.gov.uk/global-talent-arts-culture/film-television
-
-
-[A14] Design industry criteria
-https://www.gov.uk/global-talent-arts-culture/design-industry
-
-
-[M1] PUNCH general contact
-https://punchng.com/contact/
-
-
-[M2] PUNCH advertising is a separate service
-https://punchng.com/advertise-with-us/
-
-
-[U1] Home Office endorsement application
-https://visas-immigration.service.gov.uk/product/global-talent-endorsement
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-29"></a>
-
-## 29. Sources and directory 4 of 4
-
-*Source handbook page 29 of 29 (combined PDF page 60).*
-
-Sources and directory 4 of 4
-Research checked 23 October 2026. These external links are for verification; the contents and
-footer links navigate inside the guide. Opportunity pages are not promises of an open call or a
-qualifying visa record.
-
-[U2] Technology endorsement instructions
-https://www.gov.uk/global-talent-digital-technology/apply-for-endorsement
-
-
-[U3] Visa application from outside the UK
-https://www.gov.uk/global-talent/apply-from-outside-the-uk
-
-
-[U4] Docusign sending instructions
-https://www.docusign.com/en-gb/blog/how-to-send-documents-securely-docusign-envelopes-bulk-send-powerfor
-ms
-
-
-[U5] Docusign completion certificate and history
-https://support.docusign.com/s/document-item?bundleId=oeq1643226594604&language=en_US&topicId=zqd1
-578456343466.html
-
-
-[U6] Official UKVI contact route
-https://www.gov.uk/contact-ukvi-inside-outside-uk
-
-[↑ Contents](#contents)
-
----
-
-## Editorial and publication notes
-
-- Source: *Mettelo UK Global Talent Visa Guide*, 91-page combined PDF, Arts and Culture pathway on combined pages **32–60**.
-- All 29 pages have been transferred into the Markdown source in their original order. Layout-sensitive tables and internal page-number references require an editorial pass.
-- Links in the original source directories are retained as source material, not independently approved third-party endorsements or verified open opportunities.
-- This document is a general educational resource, not regulated immigration advice. Always follow the live GOV.UK route and applicable endorsing body's guidance.
-
-**Prepared by Johnson Taiwo for Mettelo.**
+**Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**

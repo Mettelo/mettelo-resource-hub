@@ -1,13 +1,21 @@
-# UK Public Sector Career Resources
+# Civil Service and NHS job applications
 
-[← Resource Hub](../README.md)
+[🏠 Home](../README.md) · [⭐ Start here](../START_HERE.md) · [All resources](../RESOURCE_INDEX.md)
 
-Guides for applicants preparing UK Civil Service and NHS applications. These Mettelo resources use the source documents uploaded by the author. **All newly imported PDF guides are marked drafts pending editorial and current-policy review.**
+Start with the **specific vacancy advert and person specification**, then select the material matching that employer's recruitment process.
 
-## Start here
+| Your goal | Civil Service | NHS |
+| --- | --- | --- |
+| Understand the overall application process | [Civil Service guide menu](civil-service/README.md) | [NHS guide menu](nhs/README.md) |
+| Develop employment history | [Evidence-based employment history guide](civil-service/employment-history-guide.md) | [Employment history guidance](civil-service/employment-history-guide.md) |
+| Write a supporting/personal statement | [Personal statement guide](civil-service/personal-statement-guide.md) | [NHS supporting statement guidance](civil-service/personal-statement-guide.md) |
+| Prepare a behaviour or competency example | [Civil Service behaviour STAR guide](civil-service/behaviour-ai-guide.md) | [NHS interview guidance](civil-service/interview-preparation-guide.md) |
+| Prepare for an interview | [Civil Service interview guidance](civil-service/interview-preparation-guide.md) | [NHS interview guidance](civil-service/interview-preparation-guide.md) |
 
-- [UK Public Sector Application Blueprint — NHS and Civil Service](public-sector-application-blueprint.md) — full 31-page source transferred, including the S.T.A.R.I.M™ and A.C.E.I.A™ methods.
-- [Civil Service guides](civil-service/README.md) — behaviour evidence, personal statements, employment history and interviews.
-- [NHS guides](nhs/README.md) — NHS-specific routes through the shared supporting-statement, employment history and interview resources.
+### Recommended starting resource
 
-**Always follow the actual job advert:** word count, blind recruitment rules, selection criteria, assessment arrangements and AI guidance can vary.
+**[UK Public Sector Application Blueprint — NHS and Civil Service](public-sector-application-blueprint.md)** explains the wider methodology. The PDF-to-Markdown version is currently **review pending** and may contain flattened tables.
+
+**Important:** Blind recruitment, required evidence, word counts and AI-assistance rules vary by employer and campaign. Do not follow a template's defaults when the advert says otherwise; never invent achievements.
+
+[← Back to homepage](../README.md)

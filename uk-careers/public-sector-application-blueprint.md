@@ -1560,3 +1560,9 @@ This blueprint provides the system. Your responsibility is to apply it rigorousl
 **Source:** *UK Public Sector Application Blueprint — NHS and Civil Service*, 31 pages, uploaded by Mettelo. Original terms such as **S.T.A.R.I.M™** and **A.C.E.I.A™** are preserved, but statements about screening, scoring or AI use require independent check against the actual vacancy and current official guidance. 
 
 **Prepared by Johnson Taiwo.**
+
+---
+
+### Find your way around
+
+[← UK careers](README.md) · [⭐ Start here](../START_HERE.md) · [All resources](../RESOURCE_INDEX.md) · [🏠 Home](../README.md)

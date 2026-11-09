@@ -4,6 +4,8 @@
 
 **New here?** You do not need to understand GitHub folders. Choose a task below and open the linked guide. Every category has a return path to this page or the home page.
 
+**Access:** The resource repository is currently **private**. These links require an authorised GitHub account until Mettelo chooses and configures a public access method.
+
 ## I want to…
 
 | Your goal | Start with | Then use |

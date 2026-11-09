@@ -1,11 +1,15 @@
-# LinkedIn profile development
+# LinkedIn profile resources
 
-[← Career development](../README.md) · [← Resource Hub](../../README.md)
+[🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [Career menu](../README.md)
 
-## Available now
+## Available guide
 
-### [LinkedIn Profile Editing Guide](linkedin-profile-guide.md)
+**[LinkedIn Profile Editing Guide →](linkedin-profile-guide.md)**
 
-A practical guide to improving your headline, About section, experience and Featured work samples, with one clearly labelled fictional example, six copyable editing prompts, verification steps and official LinkedIn Help links.
+Improve headline, About section, experience, Featured work and evidence-based professional positioning. The guide includes example wording, editing prompts and verification steps. Its illustrative fictional profile is not a claim about you.
 
-**Source:** Revised edition 2, 24 October 2026. **Status:** Published.
+**Recommended combination:** Use the [CV Development Workflow](../cv/cv-development-workflow-edition-3.md) to prepare verified achievements before adapting them to LinkedIn.
+
+**Status:** Revised edition 2, previously marked source-reviewed. Verify external platform details and never invent achievements.
+
+[← Career menu](../README.md) · [← Home](../../README.md)

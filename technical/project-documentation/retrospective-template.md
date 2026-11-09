@@ -16,3 +16,9 @@
 Record genuine delivery evidence, decisions and follow-up ownership in the project's approved workspace. Remove sensitive material before publishing any lessons learned.
 
 **Prepared for Mettelo Labs.**
+
+---
+
+### Find your way around
+
+[← Project documentation](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

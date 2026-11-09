@@ -1,13 +1,19 @@
-# GitHub Resources
+# Git and GitHub learning
 
-[← Technical resources](../README.md) · [← Resource Hub](../../README.md)
+[🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [Technical menu](../README.md)
 
-## Available guides
+## Choose a guide by experience
 
-- [Mettelo GitHub Contribution Guide](contribution-guide.md) — governance, issues, branches, reviews, security, AI use and recognition.
-- [Git & GitHub Command Reference](git-github-command-reference.md) — 11-page command lookup covering Git, GitHub CLI, reviews and recovery.
-- [Mettelo GitHub Handbook](github-handbook.md) — five-stage beginner-to-advanced practical guide for GitHub data projects.
+| Your need | Start here | Status |
+| --- | --- | --- |
+| I'm new to Git and GitHub | **[Mettelo GitHub Practical Handbook](github-handbook.md)** — learn repositories, branches, issues, PRs and data projects | Practical adaptation; final review pending |
+| I know the basics and need exact commands | **[Git & GitHub Command Reference](git-github-command-reference.md)** — Git, CLI and recovery | PDF-to-Markdown review pending; destructive commands require caution |
+| I'm joining or leading a Mettelo project | **[GitHub Contribution Guide](contribution-guide.md)** — roles, standards, review and security | Source migration review pending; effective-date placeholder |
 
-**Status:** Source text transferred to Markdown; final formatting and technical-command review pending. Commands labelled DANGER in the original require special care and should never be executed without understanding their effect.
+### Useful next step
 
-The five-page PDF GitHub Handbook is now available as a structured Markdown adaptation. Editorial review of the rendered layout remains outstanding.
+After working through the handbook, use the [Project Charter](../project-documentation/project-charter-template.md) to document your actual project before recruiting contributors.
+
+**Safety:** Never commit secrets, client data or protected information. Git commands that discard or rewrite history must not be run without understanding their consequences.
+
+[← Technical menu](../README.md) · [← Home](../../README.md)

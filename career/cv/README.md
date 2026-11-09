@@ -10,4 +10,9 @@
 
 **Important:** Edition 3 broadens the workflow to multiple professions and career levels. Its suggested 7–12 evidence points per substantive role are for building an *evidence bank*, not a required number of bullets in the final CV.
 
-The two newly uploaded specialised Data, AI & Technology CV templates are awaiting individual Markdown conversion.
+## Data and AI CV templates
+
+- [Data, AI & Technology CV Template](data-ai-technology-cv-template.md) — detailed technical competencies and employment history.
+- [Data, AI & Tech Professional CV Template 2](data-ai-tech-professional-cv-template-2.md) — professional profile with career highlights, sidebar skills and experience.
+
+These templates have been migrated as editable Markdown text. The original Word layout is not reproduced.

@@ -4,9 +4,9 @@
 Prepared by **Johnson Taiwo** · Mettelo
 
 [← Global Talent guides](README.md) · [← Immigration](../README.md) · [← Mettelo Resource Hub](../../README.md)  
-[Archived original 31-page 2026 handbook](academia-and-research-original-2026.md) · [Route-specific tracker](research-checklist.md) · [Tracker instructions](tracker-guide.md)
+[Route-specific tracker](research-checklist.md) · [Tracker instructions](tracker-guide.md)
 
-> **Status: Enhanced researched draft.** This is a newly developed practical guide, not a full transcription of the original PDF (archived separately). Immigration rules and research opportunities change. The 24-month plan develops a real research career and is **not a mandatory visa requirement or approval formula**. Check the applicable current GOV.UK and endorsing-body guidance on your application date.
+> **Status: Enhanced researched draft.** This is a newly developed practical guide, not a full transcription of the original source document (recoverable through Git commit history). Immigration rules and research opportunities change. The 24-month plan develops a real research career and is **not a mandatory visa requirement or approval formula**. Check the applicable current GOV.UK and endorsing-body guidance on your application date.
 
 ## Introduction — who is this visa for?
 
@@ -267,7 +267,7 @@ Collaborate on substantial research with someone capable of assessing your field
 
 ### Provenance and editorial status
 
-**Original 31-page Mettelo handbook (October 2026):** [preserved archive](academia-and-research-original-2026.md) retains the initial research-route guidance, original 24-month content and DocuSign material. This enhanced guide **does not silently replace or claim to reproduce every original page**.
+**Original 31-page Mettelo handbook (October 2026):** original edition in Git commit history retains the initial research-route guidance, original 24-month content and DocuSign material. This enhanced guide **does not silently replace or claim to reproduce every original page**.
 
 **New November 2026 content:** Beginner-focused introduction, four-route decision table, explicit job/fellowship/grant/peer-review checklists, named organisations and real opportunity methods, research integrity guidance, 90-day plan, 24 monthly practical action entries, five direct outreach processes and route-specific document register. These are professional-development suggestions, not eligibility conditions.
 

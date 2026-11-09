@@ -12,9 +12,11 @@
 
 ## Arts and culture pathway
 
-**[Read the arts and culture pathway guide](arts-and-culture.md)** — the 29-page original handbook transferred into Markdown with source-section navigation and current official reference links.
+**[Read the enhanced Arts & Culture pathway guide](arts-and-culture.md)** — a detailed November 2026 guide for music, painting and visual arts, photography, dance, theatre and literature. Includes verified professional opportunity routes, critical-review guidance, UK–Nigeria collaborations, **24 month-by-month action-table entries**, five outreach workflows, evidence requirements and an application-readiness process.
 
-**Status: Draft — editorial review pending.** Tables and procedural details require final checking against the original PDF and live official rules.
+[Preserved October 2026 original 29-page handbook](arts-and-culture-original-2026.md) · [Arts evidence checklist](arts-and-culture-checklist.md)
+
+**Status: Enhanced researched draft; final legal and rendered-link review pending.** Professional opportunity deadlines and geographic eligibility must be rechecked before members apply.
 
 ## Academia and research pathway
 

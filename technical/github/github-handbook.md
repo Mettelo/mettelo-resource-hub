@@ -5,6 +5,41 @@
 
 > **Migration status: Editorial draft.** This is a structured Markdown adaptation of the original five-page *Mettelo GitHub Handbook* PDF. It preserves the examples, learning sequence and key safety warnings. It is not a page-for-page verbatim transcription or a replacement for the original PDF's visual layout.
 
+## Before your first GitHub session — understand what success looks like
+
+This handbook is useful whether you work in analytics, data engineering, research or software. GitHub is more than a place to upload a finished notebook: a credible contribution shows **a defined problem, your change, quality checks, independent review where available and a traceable result**.
+
+### Four mistakes new contributors commonly make
+
+| Problem | Why it causes difficulty | Practical improvement |
+| --- | --- | --- |
+| Editing `main` directly | Team may not review changes before they become shared | Create a feature branch from the project's actual base |
+| Committing only a notebook screenshot | Another person may not reproduce the project or understand its source | Commit permitted source code, environment/setup, README and a reproducible test |
+| Copying a tutorial and calling it professional work | It shows learning, not an independent solution | Solve a new defined problem and document your exact personal contribution |
+| Sharing access keys or raw customer files | Can expose protected systems or people | Use synthetic/public licensed data, `.gitignore`, secure secrets storage and review before push |
+
+### Practical starter task — 30 to 60 minutes
+
+**Task:** Document how a simple report calculates a monthly count using a public or synthetic dataset.
+
+1. **Issue:** Create an issue called “Document the monthly active-record definition”. Define whether records are unique per month and how null identifiers are handled.
+2. **Branch:** Start a feature branch. Name it clearly (for example `docs/monthly-count-definition`).
+3. **Change:** Add `docs/monthly-count.md` with the metric definition, source fields, treatment of duplicates, an example with three synthetic rows and known limitations.
+4. **Test:** Ask someone else to read your definition and work out the expected result. If they interpret it differently, revise the wording.
+5. **PR:** Explain the need, what changed, how it was reviewed and where the definition should be used.
+6. **Review:** Accept or discuss a review comment and update the document.
+7. **Record:** Keep the merged PR link and a truthful account of your role in the work.
+
+**Example definition:** “Count distinct non-null `customer_id` values for each reporting month; a customer with multiple transactions is counted once per month. The source is the authorised transaction extract. Refund handling is outside this measure.” This is **illustrative**; a real project must confirm the intended grain and business definition.
+
+**What to put on a CV afterwards:** Describe the true work—e.g. a reviewed definition and documented validation approach. Do not claim significant operational savings or production deployment unless real evidence supports it.
+
+### Where to learn more without paying
+
+[GitHub's official Get Started](https://docs.github.com/en/get-started) · [Pro Git (free book)](https://git-scm.com/book/en/v2) · [GitHub Issues](https://docs.github.com/en/issues) · [GitHub Pull Requests](https://docs.github.com/en/pull-requests) · [Mettelo command reference](git-github-command-reference.md).
+
+---
+
 ## Contents
 
 1. [Start here: your first GitHub project](#1-start-here-your-first-github-project)

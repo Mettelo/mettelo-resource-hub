@@ -7,7 +7,7 @@
 | Your need | Start here | Status |
 | --- | --- | --- |
 | I'm new to Git and GitHub | **[Mettelo GitHub Practical Handbook](github-handbook.md)** — learn repositories, branches, issues, PRs and data projects | Practical adaptation; final review pending |
-| I know the basics and need exact commands | **[Git & GitHub Command Reference](git-github-command-reference.md)** — Git, CLI and recovery | PDF-to-Markdown review pending; destructive commands require caution |
+| I know the basics and need exact commands | **[Git & GitHub Command Reference](git-github-command-reference.md)** — Git, CLI and recovery | Rebuilt into copyable code blocks, with clear recovery warnings; hands-on test pending |
 | I'm joining or leading a Mettelo project | **[GitHub Contribution Guide](contribution-guide.md)** — roles, standards, review and security | Source migration review pending; effective-date placeholder |
 
 ### Useful next step

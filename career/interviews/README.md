@@ -1,7 +1,11 @@
 # Interview preparation
 
-[← Career development](../README.md)
+[← Career development](../README.md) · [← Resource Hub](../../README.md)
 
-**Planned:** `interview-preparation-workflow.md`.
+## Available now
 
-The source guide uses eight steps covering interview requirements, evidence, practice answers and mock interviews. Markdown conversion and source checking are pending.
+### [Interview preparation workflow — eight steps](interview-preparation-workflow.md)
+
+The complete Mettelo interview preparation workflow, with eight copyable prompts, interview-type guidance, checks between stages and a final preparation sheet.
+
+**Source:** Edition 1, 23 October 2026. **Status:** Published.

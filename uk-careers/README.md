@@ -14,7 +14,9 @@ Start with the **specific vacancy advert and person specification**, then select
 
 ### Recommended starting resource
 
-**[UK Public Sector Application Blueprint — NHS and Civil Service](public-sector-application-blueprint.md)** explains the wider methodology. The PDF-to-Markdown version is currently **review pending** and may contain flattened tables.
+**[UK Public Sector Application Blueprint — NHS and Civil Service](public-sector-application-blueprint.md)** explains the wider methodology. The blueprint has now been **rewritten as a readable six-part guide**, with clear NHS/Civil Service distinctions, evidence tables and practical examples. Final editorial review remains pending.
+
+**Latest improvement:** The personal statement, employment history, behaviour and interview guides have all been reconstructed from page-by-page PDF text into clearly structured instructional resources. They use actual vacancy rules, question-first prompts and example quality checks instead of rigid source defaults.
 
 **Important:** Blind recruitment, required evidence, word counts and AI-assistance rules vary by employer and campaign. Do not follow a template's defaults when the advert says otherwise; never invent achievements.
 

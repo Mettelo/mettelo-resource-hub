@@ -12,6 +12,6 @@
 | Write behaviour examples | [Civil Service Behaviour STAR Guide](behaviour-ai-guide.md) | Named behaviour, grade and stated length |
 | Prepare for an interview | [Civil Service Interview Guide](interview-preparation-guide.md) | Invitation's exact assessed areas; speak naturally from real experience |
 
-**Status:** All PDF-derived Civil Service writing guides and the blueprint remain **review pending**. Original prompts include general defaults (such as anonymisation and word counts) that are **not universal**. The official vacancy always overrides them.
+**Status: Enhanced editorial drafts.** All four writing/interview guides and the full blueprint have been rebuilt with clear evidence tables, question-first prompts and grade-specific guidance. Final editorial sign-off remains pending. Earlier PDF prompt defaults (blanket anonymisation and fixed counts) were corrected; **the current vacancy always overrides any generic advice**.
 
 [← UK careers menu](../README.md) · [← Home](../../README.md)

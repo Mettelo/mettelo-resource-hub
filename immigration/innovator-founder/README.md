@@ -10,7 +10,7 @@ Use these in order:
 | **2 · Plan and review work** | [20-point preparation checklist](checklist.md) | Track genuine preparatory activities and unresolved issues |
 | **3 · Understand the workbook** | [Tracker instructions](tracker-guide.md) | Learn the source workbook's Checklist and Progress Log tabs |
 
-**Status:** The main Markdown guide is a **condensed adaptation** of a 38-page source PDF and still requires final source-fidelity and current-rule checks. The original interactive Excel file is not downloadable from this repository.
+**Status:** The main Markdown guide is a **condensed adaptation** of a 38-page source PDF, now enhanced with an eight-week founder validation plan, market-interview prompts and direct official eligibility checks. Final source-fidelity and current-rule checks remain open. The original interactive Excel file is not downloadable from this repository.
 
 **Before any application:** Check the [current UK Innovator Founder rules](https://www.gov.uk/innovator-founder-visa) and [authorised endorsing bodies](https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies). This is education, not regulated immigration advice.
 

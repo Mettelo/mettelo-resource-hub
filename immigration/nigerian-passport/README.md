@@ -1,15 +1,15 @@
-# Nigerian Passport Renewal — United Kingdom
+# Renew a Nigerian passport from the UK
 
-[← Immigration and practical resources](../README.md) · [← Mettelo Resource Hub](../../README.md)
+[🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [Immigration menu](../README.md)
 
-## Available guide
+### Main guide
 
-**[Read: How to Renew a Nigerian Passport Online from the UK](passport-renewal-uk.md)**
+**[How to Renew a Nigerian Passport Online from the UK →](passport-renewal-uk.md)**
 
-A page-by-page Markdown conversion of the original 11-page Mettelo guide, covering contactless eligibility, documents, online application, NIS Mobile, biometric capture, postage, tracking, troubleshooting and final checklist.
+The guide covers eligibility and route choice, documents, online application, NIS Mobile/contactless steps where appropriate, biometrics, postage, tracking, troubleshooting and a final checklist.
 
-**Source:** Mettelo Guide Version 3.0, originally checked 23 October 2026.
+**Status: Draft.** This is a source-based conversion of the original 11-page Mettelo guide. Passport fees, eligibility, processing methods and mailing directions can change; final editorial review remains open. **Check the official [Nigeria Immigration Service](https://immigration.gov.ng/) and [Nigeria High Commission London](https://www.nigeriahc.org.uk/requirements-for-e-passport/) before paying, posting documents or travelling.**
 
-**Status: Draft — source transferred and official checks added; final editorial review pending.** The passport charges, app workflow and postal instructions may change. Refer to the [Nigeria Immigration Service](https://immigration.gov.ng/) and the [Nigeria High Commission London](https://www.nigeriahc.org.uk/requirements-for-e-passport/) for current requirements. Do not publish passport/NIN/application identifiers in public GitHub discussions.
+Never post passport, NIN, personal addresses or application IDs in public GitHub issues.
 
-Prepared by Johnson Taiwo for Mettelo.
+[← Immigration menu](../README.md) · [← Home](../../README.md)

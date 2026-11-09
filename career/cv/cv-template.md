@@ -2,7 +2,7 @@
 
 A reusable CV structure for adapting your genuine experience to a specific role.
 
-[← CV & résumé resources](README.md) · [CV development workflow](cv-development-workflow.md) · [← Resource Hub](../../README.md)
+[← CV & résumé resources](README.md) · [CV development workflow](cv-development-workflow-edition-3.md) · [← Resource Hub](../../README.md)
 
 > **Before using this template:** Replace every square-bracket placeholder with accurate information, delete any section or bullet that does not apply, and follow the employer's instructions on length, format and anonymisation. The wording below is a *blank template*, not a completed example or an achievement you should claim.
 
@@ -76,7 +76,7 @@ Copy the Markdown below into your own file or text editor. If the application re
 4. **Check anonymisation.** Remove identifying information when the employer requires a name-blind CV.
 5. **Review the final file.** Confirm your dates, links, spelling, readability and file format. Do not submit the placeholder template.
 
-For a fuller preparation process, work through the [seven-step CV development workflow](cv-development-workflow.md) before filling in this template.
+For a fuller preparation process, work through the [seven-step CV development workflow](cv-development-workflow-edition-3.md) before filling in this template.
 
 ### About the template
 

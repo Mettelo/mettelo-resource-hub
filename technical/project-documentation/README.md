@@ -1,22 +1,18 @@
-# Mettelo Project Documentation Templates
+# Project documentation and evidence templates
 
-[← Technical resources](../README.md) · [← Resource Hub](../../README.md)
+[🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [Technical menu](../README.md)
 
-These resources are based on the actual Mettelo Labs **Project Charter & Delivery Framework (Version 1.0)**. The blank templates can be copied into individual project repositories or approved documentation workspaces.
+**Choose the template that matches the point in your project.** These are blank copies to adapt in approved project workspaces, not signed or approved project records.
 
-## Available templates
-
-| Template | Purpose | Status |
+| When | Template | What to do |
 | --- | --- | --- |
-| [Project Charter & Delivery Framework](project-charter-template.md) | Formal project planning, governance, scope, quality, risks, approvals and closure | Full source text transferred; Word table formatting review pending |
-| [Weekly Project Update](weekly-update-template.md) | Report completed work, next priorities, decisions and support requests | Available |
-| [Retrospective & Lessons Learned](retrospective-template.md) | Record learning and improvements after delivery | Available |
-| [Professional Project Experience & Capability Catalogue](project-experience-catalogue-guide.md) | Instructions for building an evidence bank using the original seven-sheet Excel workbook | Guide available; interactive workbook download pending |
+| **Before project delivery** | **[Project Charter & Delivery Framework](project-charter-template.md)** | Define problem, scope, deliverables, architecture, data, roles, QA and required sign-off |
+| **During each week** | [Weekly Project Update](weekly-update-template.md) | Summarise delivery, blockers, decisions and next steps |
+| **At review/closure** | [Retrospective & Lessons Learned](retrospective-template.md) | Record evidence-based lessons, unresolved work and future improvements |
+| **When preparing CV/interview examples** | [Project Experience & Capability Catalogue Guide](project-experience-catalogue-guide.md) | Record STAR evidence and relevant skills in the source Excel workbook |
 
-## Using these templates
+### Before you copy anything
 
-The Charter states it is mandatory for Mettelo Labs projects and that delivery requires appropriate review and approval. This repository hosts **blank** templates, not completed or approved charters.
+The original Mettelo Charter requires appropriate authorisation before controlled delivery. **Do not upload completed confidential or internal charters to public GitHub.** The source's complex Word tables still need Markdown formatting review. The **interactive Excel capability catalogue is not downloadable** here; only its usage guide is available.
 
-Replace placeholders, keep changes under version control and store final approvals in the authorised project workspace. Never publish a completed confidential or internal charter or sensitive partner data in a public GitHub repository.
-
-**Source:** Mettelo_Project_Charter_and_Delivery_Framework_Final.docx, 16 pages, Version 1.0. The source's appendices were also published separately for convenience.
+[← Technical menu](../README.md) · [← Home](../../README.md)

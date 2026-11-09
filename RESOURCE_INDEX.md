@@ -34,4 +34,4 @@ The original resources are held separately. Duplicate formats of one guide will 
 - [Civil Service and NHS Employment History Guide](uk-careers/civil-service/employment-history-guide.md).
 - [Civil Service and NHS Interview Preparation Guide](uk-careers/civil-service/interview-preparation-guide.md).
 
-The two Data/AI CV templates are now [listed in CV resources](career/cv/README.md). The GitHub Handbook and Professional Project Experience Catalogue are awaiting source review.
+The two Data/AI CV templates are now [listed in CV resources](career/cv/README.md). The [GitHub Handbook](technical/github/github-handbook.md) is available in Markdown, and the [Project Experience Catalogue guide](technical/project-documentation/project-experience-catalogue-guide.md) explains the original seven-sheet workbook. The original interactive Excel workbook has not been uploaded.

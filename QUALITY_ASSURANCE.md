@@ -37,7 +37,7 @@
 
 The Global Talent checklists and tracker instructions are retained as **distinct companion tools**, not duplicate full guides. The GitHub Handbook (learning), Command Reference (lookup) and Contribution Guide (team policy) remain separate because they serve different purposes. The general CV template remains separate from the technical specialist template, likewise for different audiences. The Civil Service/NHS guides are shared by direct links rather than duplicated under both categories.
 
-**QA distinction:** The earlier link counts belong to the original navigation audit and should not be interpreted as a retest after consolidation; this pass includes fresh targeted tests of remaining guide links and stale references. Final external-link, formatting and legal review still remains.
+**New post-consolidation link audit (9 November 2026):** Checked **all 47 known active Markdown files**, including 19 navigation/policy pages and 28 current guide/template/checklist pages. **503 relative Markdown links** were checked against known repository destinations: **no missing file targets found**. Separately scanned all 47 for links to the six removed duplicate documents: **no stale Markdown links remained**. The general CV template had two broken links following the previous cleanup; both were fixed before the final audit. This is a file-path audit, not an external URL, actual browser-render, or complete heading-anchor audit. Final external-link, formatting and legal review still remains.
 
 ## Improvements completed
 

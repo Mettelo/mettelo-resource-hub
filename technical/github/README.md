@@ -1,18 +1,12 @@
-# GitHub resources
+# GitHub Resources
 
 [← Technical resources](../README.md) · [← Resource Hub](../../README.md)
 
-## Available source guide
+## Available guides
 
-**[Mettelo GitHub Contribution Guide](contribution-guide.md)**
+- [Mettelo GitHub Contribution Guide](contribution-guide.md) — governance, issues, branches, reviews, security, AI use and recognition.
+- [Git & GitHub Command Reference](git-github-command-reference.md) — 11-page command lookup covering Git, GitHub CLI, reviews and recovery.
 
-A 16-page operating guide covering repository standards, access roles, issue planning, branch naming, pull requests, reviews, engineering quality, documentation, privacy, security, AI use, releases and contributor recognition.
+**Status:** Source text transferred to Markdown; final formatting and technical-command review pending. Commands labelled DANGER in the original require special care and should never be executed without understanding their effect.
 
-**Source:** *Mettelo_GitHub_Contribution_Guide_Final.docx*, Version 1.0.  
-**Status:** Source transferred; formatting and effective-date review pending.
-
-The original document's effective date is still a placeholder. Standards described in the guide should not be taken as automatically configured on every Mettelo repository.
-
-## Still to inventory
-
-The screenshot of Mettelo's local GitHub Resources folder does not reveal its individual file names. This GitHub contribution document was found in the available Mettelo file library. Any other local resources must be reviewed before being marked migrated.
+The uploaded *Mettelo GitHub Handbook* is separately awaiting file-format inspection and has not been claimed as migrated.

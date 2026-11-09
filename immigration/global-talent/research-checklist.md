@@ -1,4 +1,4 @@
-# Academia and Research — Markdown checklist
+# Academia and Research — Practical Evidence Checklist
 
 [← Tracker guide](tracker-guide.md) · [← Pathway guide](academia-and-research.md) · [← Global Talent resources](README.md)
 
@@ -7,6 +7,28 @@
 **Statuses:** To do · Working on it · Ready · Not needed (only when genuinely inapplicable).
 
 **For each item record privately:** target date, a link to your private evidence file, and notes about what is missing. Mark Ready only after checking the actual evidence and current official requirements.
+
+## Read this before selecting a checklist route
+
+**Research Global Talent is not an ordinary evidence portfolio.** The appointment, individual fellowship, UKRI endorsed-funder and peer-review routes have different eligibility and documentary tests. Only tick the subsection **actually relevant to the route you qualify for**. An awarded fellowship is different from having applied; a grant named on a database is different from being personally employed on an eligible project.
+
+| Your route | What you need to ask | Who can reliably confirm it |
+| --- | --- | --- |
+| **Appointment** | Is it an accepted eligible research role at an approved UK institution, with essential PhD/equivalent standard and proper recruitment procedure? | UK employing HR and actual job description |
+| **Approved fellowship** | Does the **exact awarded scheme title** appear on the list, and do its dates/category fit? | Awarding institution and approved fellowship list |
+| **UKRI endorsed funder** | Is the host and funder approved, and does this real grant/role meet value/duration, working-time and remaining agreement tests? | Actual principal investigator, university grants/HR office |
+| **Peer review — Promise** | Am I an early-career active researcher with PhD/equivalent expertise and genuine eminent UK-resident expert knowledge of my work? | Real UK research expert and official route guidance |
+| **Peer review — Talent** | Is there established research leadership and the required second independent objective senior UK expert assessment? | Qualified independent expert authors |
+
+### What to do if you're missing the key evidence
+
+If you lack a qualifying UK research appointment, apply to **genuine research openings**, not an invented HR letter. If your fellowship is not on the named list, confirm whether another route is independently available. If you're not part of an eligible funded UK project, finding its grant identifier alone will not solve that. For full peer review, work on real original research and build authentic expert relationships rather than soliciting signatures from strangers.
+
+**Detailed route development:** [Research Global Talent guide and optional 24-month plan](academia-and-research.md). The plan is **career development**, not a Home Office qualifying period.
+
+[Research route overview](https://www.gov.uk/global-talent-researcher-academic/overview) · [Peer review](https://www.gov.uk/global-talent-researcher-academic/peer-review) · [UKRI funder](https://www.gov.uk/global-talent-researcher-academic/uk-research-innovation-endorsement).
+
+---
 
 ## Choose one route first
 

@@ -590,3 +590,9 @@ The source's acknowledgement includes blank fields for personal identity and sig
 **Source:** *Mettelo_GitHub_Contribution_Guide_Final.docx*, 16 pages, Version 1.0. Original text transferred into GitHub Markdown. Editorial improvements to table formatting and the source's misnumbered ordered lists remain open.
 
 **Prepared for Mettelo Labs.**
+
+---
+
+### Find your way around
+
+[← GitHub resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

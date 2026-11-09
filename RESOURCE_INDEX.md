@@ -9,7 +9,7 @@
 | CV development workflow | [Read guide](career/cv/cv-development-workflow.md) | **Published** |
 | CV template | [Read template](career/cv/cv-template.md) | **Published** |
 | Interview preparation workflow | [Read guide](career/interviews/interview-preparation-workflow.md) | **Published** |
-| LinkedIn profile editing guide | [LinkedIn](career/linkedin/README.md) | Planned |
+| LinkedIn profile editing guide | [Read guide](career/linkedin/linkedin-profile-guide.md) | **Published** |
 | Global Talent: digital technology | [Global Talent](immigration/global-talent/README.md) | Planned |
 | Global Talent: arts and culture | [Global Talent](immigration/global-talent/README.md) | Planned |
 | Global Talent: academia and research | [Global Talent](immigration/global-talent/README.md) | Planned |

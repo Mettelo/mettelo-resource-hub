@@ -11,6 +11,6 @@
 | Prepare a supporting statement | [NHS supporting statement guidance](../civil-service/personal-statement-guide.md) | Employer-specific person specification and applicable word limit |
 | Prepare for an interview | [NHS interview preparation](../civil-service/interview-preparation-guide.md) | Trust values, service context, genuine examples and ethical use of AI |
 
-**Status:** Shared source-derived PDFs are available but remain **review pending**. Avoid invented patient outcomes, safeguarding experience or professional registration. Check each Trust's instructions, requirements and rules for permitted AI use.
+**Status: Enhanced editorial drafts.** The supporting information, employment history and interview resources are now fully restructured instead of PDF page extracts, with NHS-specific practical examples and safeguards for clinical and non-clinical roles. Final editorial review remains pending. Avoid invented patient outcomes, safeguarding experience or professional registration; follow each Trust's instructions and permitted AI-use rules.
 
 [← UK careers menu](../README.md) · [← Home](../../README.md)

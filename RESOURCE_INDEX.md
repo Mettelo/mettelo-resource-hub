@@ -17,7 +17,7 @@
 | Innovator Founder guide and tracker | [Read guide and tracker](immigration/innovator-founder/README.md) | Draft guide; tracker Markdown available |
 | Nigerian passport renewal (UK) | [Read migrated guide](immigration/nigerian-passport/passport-renewal-uk.md) | Draft — editorial review pending |
 | GitHub contribution guide | [Read migrated guide](technical/github/contribution-guide.md) | Draft — formatting and effective-date review pending |
-| Project documentation templates | [Templates](technical/project-documentation/README.md) | Inventory pending |
+| Project documentation templates | [Project charter and templates](technical/project-documentation/README.md) | Source migrated; table formatting review pending |
 | NHS and Civil Service guidance | [UK careers](uk-careers/README.md) | Inventory pending |
 
 The original resources are held separately. Duplicate formats of one guide will be consolidated into one Markdown page. Spreadsheet tools requiring formulas or interactive tracking will remain optional downloadable companion files.

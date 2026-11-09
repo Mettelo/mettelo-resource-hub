@@ -14,8 +14,14 @@
 
 **Status: Draft — editorial review pending.** Tables and procedural details require final checking against the original PDF and live official rules.
 
-## Other pathways and trackers
-- `academia-and-research.md` — planned
+## Academia and research pathway
+
+**[Read the academia and research pathway guide](academia-and-research.md)** — the 31-page source handbook transferred into Markdown with section navigation and official verification references.
+
+**Status: Draft — editorial review pending.** Source page text is present, but tables and detailed rules still need review.
+
+## Trackers
+
 - `tracker-guide.md` — planned
 
 Three spreadsheet trackers are available among the original materials, and should be maintained as optional downloadable companions to their Markdown instructions.

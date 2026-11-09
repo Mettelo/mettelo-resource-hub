@@ -5,6 +5,8 @@
 
 Welcome. This is Mettelo's organised, GitHub-readable resource library. **You do not need GitHub experience to use it.** Click any guide title to read it, then follow the navigation links to return.
 
+> **Access note:** This GitHub repository is currently **private**. Only authorised accounts with repository access can open these links. Public access for community members has **not** been enabled.
+
 ### ⭐ New here? [Start here — choose what you want to do →](START_HERE.md)
 
 ## Browse by area

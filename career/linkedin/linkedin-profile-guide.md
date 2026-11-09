@@ -287,3 +287,9 @@ AI can invent facts, overstate responsibility or produce wording that does not s
 **Source:** *Mettelo LinkedIn Profile Editing Guide*, Revised edition 2, 24 October 2026 (10-page Word document). Full guide and all six original copyable writing briefs adapted into GitHub Markdown, with internal navigation and source links.
 
 **Prepared by Johnson Taiwo · Mettelo**
+
+---
+
+### Find your way around
+
+[← LinkedIn resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

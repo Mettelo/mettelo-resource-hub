@@ -15,7 +15,93 @@
 
 **One shared standard for issues, branches, pull requests, review, documentation, quality and contributor recognition.**
 
-> **Source-fidelity note:** This Markdown edition transfers the 16-page supplied *Mettelo GitHub Contribution Guide Final.docx*, rather than inventing technical policy. The source identifies an approved guide but leaves its effective date unresolved. The source has some multi-column layout and numbered-list artefacts, so this edition is marked **Draft — formatting/policy implementation review** pending final confirmation. Policy statements below are those of the original guide; do not assume every repository has already implemented its controls.
+> **Source-fidelity note:** This Markdown edition includes a clearer practical getting-started section followed by the 16-page source transfer. It transfers the 16-page supplied *Mettelo GitHub Contribution Guide Final.docx*, rather than inventing technical policy. The source identifies an approved guide but leaves its effective date unresolved. The source has some multi-column layout and numbered-list artefacts, so this edition is marked **Draft — formatting/policy implementation review** pending final confirmation. Policy statements below are those of the original guide; do not assume every repository has already implemented its controls.
+
+## Start here — how to contribute to a real Mettelo project
+
+The source policy describes roles, issues, branching, code review, data permissions, security, releases and contributor recognition. **Before you begin, make sure you have actual repository access and the Project Lead has assigned or accepted a defined task.** The presence of this guide does not mean every GitHub repository currently has branch protection or automated checks configured.
+
+### The first contribution, in seven concrete actions
+
+| Step | Do this | How to know it is complete |
+| --- | --- | --- |
+| **1 — Find suitable work** | Open repository Issues, choose a realistic task and ask the owner if scope/acceptance is unclear | An assigned or acknowledged issue with expected outcome |
+| **2 — Confirm project rules** | Read README, licence, data policy, contributing rules, branch protections and required reviews | You know the intended base branch, permissions and validation |
+| **3 — Create a branch** | Clone/fetch as appropriate and name a new issue-related branch | `git status -sb` shows the correct feature branch |
+| **4 — Implement and test** | Make one coherent change, follow style/data licensing, and run the *actual* tests listed by the project | Diff and test evidence match the task |
+| **5 — Make a focused PR** | Explain problem, change, verification, limitations, data and AI considerations | Reviewer can reproduce/inspect without guessing |
+| **6 — Respond to review** | Discuss concerns, fix only agreed changes, rerun tests, get approved merge | Review history documents actual decision |
+| **7 — Record contribution** | Update project docs or release notes and preserve authorised PR link for portfolio evidence | Real attributable work and accurate outcome, not inflated title |
+
+### Example: contribute a data quality check
+
+**Scenario (fictional):** A team project imports public transport data and needs to reject files with missing service identifiers before downstream processing. The contributor's issue might read:
+
+| Issue field | Good example |
+| --- | --- |
+| Problem | Some source rows may have no `service_id`, making aggregation unreliable |
+| Acceptance | Check null IDs; test an all-valid and missing-value case; fail clearly; add README instruction |
+| Scope | One validation function, tests and documentation; not a full pipeline rewrite |
+| Evidence | Actual PR with test output and reviewer approval |
+| Privacy | Use synthetic tests, not credentials or real customer data |
+
+**A meaningful PR description** should answer: “Why was this necessary? What changed? How was it checked? What could still fail? Was any data or AI assistance involved?” An inexperienced contributor should be able to follow the explanation.
+
+### Copyable issue template
+
+```markdown
+## Problem / user need
+[What currently fails or is missing? Who is affected?]
+
+## Expected outcome
+[One observable, testable outcome.]
+
+## Acceptance criteria
+- [ ] [Criterion 1]
+- [ ] [Criterion 2]
+
+## Scope and dependencies
+[What is included/excluded? Required data or approvals?]
+
+## Security, licence or privacy concerns
+[Safe sample data and permission requirements.]
+
+## Proposed owner and review
+[Contributor / reviewer roles, once agreed.]
+```
+
+### Copyable PR template
+
+```markdown
+## Linked issue
+[Issue link]
+
+## What changed and why
+[Concrete summary of intended behaviour.]
+
+## Validation performed
+[Actual command and results, or manual check + limitations.]
+
+## Data, licence and security
+[What inputs were used? Are there any sensitive data/secrets?]
+
+## AI assistance
+[Describe material assistance accurately where project policy requires it.]
+
+## Review needed
+[Anything the reviewer should verify, decide or clarify.]
+```
+
+### Important project-governance boundaries
+
+- **Review:** Contributors should not self-approve changes when independent review is required. If there are no automated tests, disclose that and perform the project's legitimate manual checks; do not invent a green CI result.
+- **Data:** Public GitHub does not mean public rights to customer data, surveys, datasets or code from an employer. Use permitted/open or synthetic material.
+- **Recognition:** A merged PR establishes contribution to a project, not automatic professional equivalence to Lead Engineer or co-founder. Keep the real issue, discussion, code and reviewer record.
+- **Policies:** The original source says “Approved operating guide” but leaves **its effective date blank**. Until the relevant Mettelo authority completes and ratifies it, treat this repository copy as **policy implementation draft**, not confirmed adoption across all projects.
+
+**More help:** [GitHub Practical Handbook](github-handbook.md) · [Safe Git commands](git-github-command-reference.md) · [Project Charter](../project-documentation/project-charter-template.md) · [GitHub official documentation](https://docs.github.com/en/get-started).
+
+---
 
 ## Contents
 

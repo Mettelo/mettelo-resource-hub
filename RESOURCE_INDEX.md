@@ -10,7 +10,7 @@
 | CV template | [Read template](career/cv/cv-template.md) | **Published** |
 | Interview preparation workflow | [Read guide](career/interviews/interview-preparation-workflow.md) | **Published** |
 | LinkedIn profile editing guide | [Read guide](career/linkedin/linkedin-profile-guide.md) | **Published** |
-| Global Talent: digital technology | [Read migrated handbook](immigration/global-talent/technology.md) | Draft — editorial review pending |
+| Global Talent: digital technology | [Expanded practical 24-month guide](immigration/global-talent/technology.md) | Enhanced draft — legal/render QA pending |
 | Global Talent: arts and culture | [Read migrated handbook](immigration/global-talent/arts-and-culture.md) | Draft — editorial review pending |
 | Global Talent: academia and research | [Read migrated handbook](immigration/global-talent/academia-and-research.md) | Draft — editorial review pending |
 | Global Talent preparation trackers | [Read tracker guide](immigration/global-talent/tracker-guide.md) | Markdown guides available; Excel downloads pending |

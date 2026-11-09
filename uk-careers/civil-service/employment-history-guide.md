@@ -1,171 +1,126 @@
-# Civil Service and NHS Employment History AI Writing Guide
+# NHS & Civil Service Employment History — Practical Evidence Guide
 
-[← Civil Service resources](README.md) · [← UK careers](../README.md) · [← Resource Hub](../../README.md)
+[🏠 Home](../../README.md) · [Start Here](../../START_HERE.md) · [UK careers](../README.md) · [NHS](../nhs/README.md) · [Civil Service](README.md)
 
-**Mettelo resource · Prepared by Johnson Taiwo**
+**Mettelo · Improved editorial edition · 9 November 2026 · Prepared by Johnson Taiwo**
 
-> **Editorial status: Source migration — review required.** Text below is taken from the uploaded PDF, including its original instructions and example prompts. The original source uses some blanket assumptions (such as all Civil Service applications being blind, every employment-history bullet exceeding 25 words, or a prescribed number of examples). Those are **source-specific suggestions, not universal rules**. Always follow the exact live vacancy and employer instructions, and never manufacture evidence or use AI contrary to the assessment rules.
+> **Status: Enhanced working guide.** The original three-page PDF supplied two sector-specific AI prompts, instructions for sharing full job requirements and factual-review warnings. This restructured edition retains those aims and replaces rigid rules (6–10 projects, 7–12 bullets per job, every bullet over 25 words, blanket anonymisation) with adaptable, evidence-based preparation. Original source is recoverable in Git history. Employer instructions take precedence.
 
-## Contents
+## What is Employment History for?
 
-- [Original page 1](#source-page-1)
-- [Original page 2](#source-page-2)
-- [Original page 3](#source-page-3)
+The employment-history field shows **what you were employed to do and what you actually contributed**. It is not the same as a supporting statement, which explains suitability against specific assessed criteria. Some systems have limited fields for job title, employer, dates and duties; others invite a CV. **Read the field instructions before editing.**
 
-<a id="source-page-1"></a>
+## 1 · Collect the real chronology
 
-## Original page 1
+| Field | Exact information to collect | Common problem |
+| --- | --- | --- |
+| Dates | Month/year started and ended; ongoing roles marked present | Invented dates or disguised gaps |
+| Employer and role | Official employer name, contractual title, team or department as allowed | Rebranded or inflated titles |
+| Work arrangement | Permanent, fixed-term, bank, voluntary, contracted or internship when relevant | Labelling a student project as employment |
+| Responsibilities | Core routine duties, who/what was supported | A list of tools without the work |
+| Contributions | Projects, controls, incidents, improvements, service delivery, decisions | Counting one project multiple times |
+| Outcomes | Confirmed output, documented resolution, safe service, change or metric | Guessing numerical gains |
+| Evidence boundary | Personally performed versus shared/team responsibility | Claiming sole ownership |
 
-CIVIL SERVICE EMPLOYMENT HISTORY PROMPT (BLIND)
-“Using my current CV together with the full job description and person specification for the target Civil Service
-role, rewrite my Employment History section so it clearly demonstrates strong alignment with the essential
-criteria, responsibilities, and Civil Service behaviours. Apply the Blind CV rule by not naming specific
-employers, organisations, or brands, and instead use sector-based descriptors only (such as Central
-Government Department, Arm’s Length Public Body, Regulated Public Sector Organisation, Private Sector
-Organisation, or Professional Services Environment). For each role, identify 6–10 relevant projects,
-programmes, initiatives, or workstreams and produce 7–12 detailed bullet points per role. Each bullet must
-exceed 25 words, be specific, outcome-focused, and evidence-based, clearly explaining the actions taken,
-approach used, and measurable impact achieved. Ensure continuity and progression across roles and embed
-evidence of delivery, prioritisation, structured problem-solving, stakeholder engagement, leadership,
-communication and influencing, governance and compliance, innovation, and quantifiable organisational
-impact. Use professional British English with a confident, natural tone, avoiding vague task-listing,
-exaggerated claims, or explicitly naming behaviours. The goal is to produce a compelling blind Employment
-History section aligned tightly to the role.”
+**Career gaps:** Explain honestly when a form asks; do not create fictitious jobs to fill time. Volunteering, family responsibilities, study and training may be relevant when accurately labelled.
 
-NHS EMPLOYMENT HISTORY PROMPT (NOT BLIND)
-“Using my current CV together with the full job description, person specification, and NHS Trust values for the
-target NHS role, rewrite my Employment History section so it clearly demonstrates strong alignment with the
-essential and desirable criteria, responsibilities, and NHS values. Do not anonymise employer names; retain
-organisation and Trust names where applicable. For each role, identify 6–10 relevant projects, service
-improvements, clinical or operational initiatives, or transformation activities and produce 7–12 detailed bullet
-points per role. Each bullet must exceed 25 words, be specific, evidence-based, and outcome-focused, clearly
-outlining the situation, actions taken, collaboration involved, governance considerations, and measurable
-impact on patient care, service delivery, compliance, or organisational performance. Ensure continuity and
-progression across roles, embedding evidence of quality improvement, patient-centred service delivery,
-multidisciplinary collaboration, safeguarding and information governance awareness, leadership contribution,
-stakeholder engagement, risk management, and quantifiable outcomes. Use professional British English with a
-confident and authentic tone, avoiding generic task descriptions or exaggerated claims. The goal is to produce
-a compelling NHS-aligned Employment History section that demonstrates measurable service impact and
-suitability for the role.”
+## 2 · Develop role-by-role evidence (before writing)
 
-How to Use This Prompt (Step-by-Step Guide for Clients)
-Purpose of This Tool
-This prompt is designed to help you generate a strong, tailored Employment History section for Civil Service or
-NHS job applications using AI tools such as ChatGPT.
+Review **each actual job separately**, including older roles, temporary work and voluntary positions. Collect a *bank* of useful points, but publish only the most relevant subset.
 
-It ensures your experience is:
+| Evidence ID | Actual context | My responsibility | Method and judgement | Who was involved | Confirmed outcome |
+| --- | --- | --- | --- | --- | --- |
+| R1-01 | [Actual problem, task or standard] | [What I personally did] | [Real process/tools/checks] | [Relevant colleagues] | [Dated, supportable result] |
+| R1-02 | [Different responsibility] | [Owned/supported/led?] | [Real decision] | [Who] | [Outcome or maintained standard] |
 
-[↑ Contents](#contents)
+### Two examples showing specificity (fictional)
 
----
+**Data operations:** “Validated weekly imports against source totals, investigated duplicate records in SQL and documented agreed corrections before the reporting release.” This communicates a control and its purpose without claiming unsupported efficiency savings.
 
-<a id="source-page-2"></a>
+**NHS administration:** “Checked referral records against appointment lists, flagged missing information to the authorised team and maintained accurate handover notes in accordance with local procedures.” This illustrates administrative work, **not** medical assessment or a clinical outcome.
 
-## Original page 2
+The examples are for learning only. Applicants must replace them with verified work.
 
-•   Aligned to the job criteria
-        •   Written in the correct public sector style
-        •   Structured for maximum scoring potential
-        •   Outcome-focused and evidence-based
+## 3 · Write the right level of detail
 
-Step 1: Prepare Your Documents
-Before using the prompt, make sure you have:
+| Relevance | Suggested treatment | Why |
+| --- | --- | --- |
+| Recent role directly relevant to target | A few strong, distinct bullets describing duties and evidence | Makes fit assessable |
+| Senior role with substantial genuine work | More space for strategy, autonomy, decisions, risk, people or technical leadership | Shows role level |
+| Earlier role less related | Concise description of transferable work and chronology | Prevents irrelevant overload |
+| Voluntary/placement work | Label accurately and include when it demonstrates criteria | Avoids losing valuable genuine experience |
+| Role with strict text limit | Prioritise essential duties and relevant outcomes | Application instruction governs |
 
-        •   Your most up-to-date CV
-        •   The full Job Description
-        •   The full Person Specification
-        •   (If available) the Behaviours or Values framework
-Download or copy the complete text, do not summarise it.
+**There is no universal minimum of 7–12 bullets, six projects or 25 words per bullet.** Such counts were in the original Mettelo PDF as prompts for deeper questioning, not a requirement of NHS or Civil Service recruitment.
 
-Step 2: Open ChatGPT (or Similar AI Tool)
-You can use:
+## 4 · NHS route — employment history and supporting information are separate
 
-   •    ChatGPT
+The NHS advert and person specification are the starting point. NHS employers use job/person specifications to describe genuine minimum requirements, and many NHS application pages tell candidates to demonstrate each relevant criterion through supporting information.
 
-   •    Claude
+For the **employment history section**, use accurate role title, employer, dates and main responsibilities as requested; show actual care/support/technical/service duties without implying an unheld registration or clinical authority. For the **supporting information section**, give concrete examples tied directly to each assessed criterion. If the form asks both, avoid repeating identical paragraphs.
 
-   •    Gemini
+| NHS role type | Employment-history detail worth clarifying |
+| --- | --- |
+| Healthcare support/care | Actual supervision, observations, escalation, documentation and safe boundaries |
+| Registered clinical | Exact registration and scope, relevant practice/clinical governance (only if actually held) |
+| Administration | Scheduling, records, confidentiality, handover, service standards |
+| Analyst/digital | Data sources, reproducibility, reporting quality, access controls, stakeholders |
+| Operational management | Service delivery, staffing/coordination responsibility and genuine improvements |
 
-   •    Copilot
+NHS **names and anonymisation** depend on the employer and specific field; do not assume all applications are non-blind.
 
-   •    Or another advanced AI writing tool
+## 5 · Civil Service route — accurate history, appropriate anonymisation
 
-Make sure you are using a version that allows longer inputs.
+A Civil Service application may ask for an employment history, a CV, a personal statement or separate behaviours. The [Success Profiles framework](https://www.gov.uk/government/publications/success-profiles/success-profiles-experience) explains that assessment elements vary by vacancy.
 
-Step 3: Copy and Paste in This Exact Order
-In a new chat, paste:
+**When the application instructs name-blind details**, remove the specified personally identifying information and replace employers with accurate sector descriptions where permitted. Do not strip employer names when a dedicated employer-name field expressly requires them. The *actual form* controls.
 
-   1.   First: The full Job Description
-   2.   Second: The full Person Specification
-   3.   Third: Your complete CV
-   1.   Finally: Paste the prompt provided above
-The order matters. The AI must see the job requirements before rewriting your CV.
+For a Grade 7 role, a recent position's history may need to show demonstrable responsibility for leading a technical workstream, decisions, governance and stakeholder consequences. For an EO role, reliable execution, communication and escalation may be the relevant evidence. **Do not increase claimed seniority simply to match a grade.**
 
-Step 4: Submit and Review the Output
-After submitting:
+## 6 · Question-first writing prompts
 
-        •   Check that no employer names are included (Blind CV rule).
-        •   Ensure each bullet point is detailed and longer than 25 words.
+### NHS employment history
 
-[↑ Contents](#contents)
+```text
+Help me produce the employment-history section of an NHS job application. I will supply the exact vacancy, person specification, field instructions and full truthful employment chronology.
 
----
+Before writing, check what this field actually requests: employer names, job titles, dates, duties, word/character limits and anonymisation. Make a separate table for EACH employment role with dates, contractual title, core duties, 3–6 potential evidence points where available, personal contribution, tools/processes and verified results.
 
-<a id="source-page-3"></a>
+Ask up to five relevant clarification questions per role; do not invent clinical/safeguarding responsibilities, professional registration, patient outcomes or metrics. Differentiate NHS employment history from the supporting statement and avoid repeating entire STAR examples.
 
-## Original page 3
+Then draft clear UK-English content using the form's format and length. Return a quality-check table identifying unsupported claims, title/date inconsistencies, privacy risks and criteria that belong in supporting information rather than employment history.
+```
 
-•   Confirm that measurable outcomes are included (percentages, improvements, efficiencies, time
-           savings, etc.).
-       •   Make sure the tone is professional British English.
-Do not submit the first draft without reviewing it.
+### Civil Service employment history
 
-Step 5: Refine If Necessary
-If the output needs improvement, you can ask follow-up instructions such as:
+```text
+Help prepare an accurate Civil Service employment-history section for [ROLE/GRADE]. Use the actual vacancy, application field instructions, Success Profiles elements and my factual work chronology.
 
-       •   “Make the impact more measurable.”
-       •   “Strengthen the leadership examples.”
-       •   “Align more clearly to stakeholder engagement.”
-       •   “Increase policy-related impact.”
-       •   “Reduce repetition.”
-Refinement is normal and expected.
+Before writing, determine whether the form requests a CV, job-history record, anonymised work history or a particular word limit. Map each role separately: correct title/dates, relevant duties, distinct real contributions, decisions, methods, stakeholders and results. Ask targeted questions when ownership, numbers or technical methods are unclear.
 
-Important Notes for Civil Service & NHS Applications
-       •   Avoid naming employers.
-       •   Focus on outcomes, not duties.
-       •   Show progression across roles.
-       •   Demonstrate delivery, collaboration, governance, and impact.
-       •   Keep claims credible and realistic.
-       •   Never fabricate experience.
+Do not impose a minimum bullet count or length. Apply name-blind requirements ONLY to fields where the current advert says so. Do not invent departments, employer names, leadership, seniority, tools or achievements.
 
-Final Reminder
-This tool enhances your existing experience; it does not replace it.
-The quality of the output depends entirely on the quality of your CV and the completeness of the job description
-provided.
+Draft role history clearly and concisely. Then check consistency with the submitted CV, qualifications, evidence bank, personal statement and any separate behaviour examples; flag gaps rather than fabricating.
+```
 
-Disclaimer: AI-generated content is provided as a drafting support tool and must not be submitted without
-careful review and refinement. While AI can help structure and strengthen your Employment History, it may
-misinterpret context, overgeneralise, or introduce inaccuracies. You are responsible for ensuring all information
-is truthful, accurate, and reflective of your genuine experience. Before submitting any application, review the
-output thoroughly, correct errors, strengthen weaker examples, add precise metrics, and adjust the language to
-reflect your authentic professional voice. Final submissions should demonstrate your judgement, credibility, and
-personal accountability, not solely automated content.
+## 7 · Quality checklist
 
-[↑ Contents](#contents)
+- [ ] Every role has the right employer/title/contract type and accurate dates.
+- [ ] The selected history matches the **actual field** rather than an imagined CV format.
+- [ ] Important roles include genuine work, responsibilities and outcomes—not just abstract competencies.
+- [ ] There are no duplicative projects or repeated bullets to hit a target number.
+- [ ] Every number is traceable; team work is attributed correctly.
+- [ ] NHS clinical/patient and safeguarding responsibilities are not overstated.
+- [ ] Blind recruitment, qualifications and professional registration are handled exactly as instructed.
+- [ ] The supporting/personal statement develops criterion-level evidence separately.
+- [ ] Confidential information is removed; applicant has checked all AI-assisted content.
 
----
+## Free authoritative resources
 
-## Before you apply
+[National Careers Service — CV sections](https://nationalcareers.service.gov.uk/careers-advice/cv-sections) · [NHS Trust applicant guidance](https://www.jobs.sath.nhs.uk/find-job/applicant-guidance) · [NHS Employers person specification](https://www.nhsemployers.org/publications/tchandbook) · [Civil Service Success Profiles — Experience](https://www.gov.uk/government/publications/success-profiles/success-profiles-experience).
 
-- Check the specific job advert for word limits, assessed criteria, anonymity and permitted AI assistance.
-- Validate each claim, tool, date, responsibility and outcome against your own evidence.
-- Never submit a prompt response without personal editing and factual checking.
-- Use this resource for preparation; it does not guarantee shortlisting or an interview.
-
-**Source:** User-supplied 3-page PDF. Markdown adaptation keeps source text in original page order; layout may need editorial formatting before marking fully published.
-
----
+**Source distinction:** The original Mettelo PDF's ambition was role-by-role alignment and fact-checking. The source's rigid counts, blanket anonymisation and “make impact more measurable” prompts have been **replaced** with evidence validation and employer-specific rules, drawing additionally from the linked official resources. This remains an enhanced draft pending final editor sign-off.
 
 ### Find your way around
 
-[← Civil Service/NHS guides](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)
+[← Civil Service](README.md) · [← NHS](../nhs/README.md) · [Start Here](../../START_HERE.md) · [Complete directory](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

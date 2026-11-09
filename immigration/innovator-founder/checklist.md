@@ -52,3 +52,9 @@ The second workbook tab records **Date**, **What I did and the actual result**, 
 This checklist reproduces the workbook's practical task inventory; it is **not** a separate legal eligibility test and cannot guarantee endorsement, visa approval or settlement. Verify rules and required evidence against current [GOV.UK Innovator Founder guidance](https://www.gov.uk/innovator-founder-visa) and the relevant [authorised endorsing body](https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies).
 
 **Prepared by Johnson Taiwo · Mettelo**
+
+---
+
+### Find your way around
+
+[← Innovator Founder resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

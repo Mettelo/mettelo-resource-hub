@@ -12,7 +12,7 @@
 | LinkedIn profile editing guide | [Read guide](career/linkedin/linkedin-profile-guide.md) | **Published** |
 | Global Talent: digital technology | [Read migrated handbook](immigration/global-talent/technology.md) | Draft — editorial review pending |
 | Global Talent: arts and culture | [Read migrated handbook](immigration/global-talent/arts-and-culture.md) | Draft — editorial review pending |
-| Global Talent: academia and research | [Global Talent](immigration/global-talent/README.md) | Planned |
+| Global Talent: academia and research | [Read migrated handbook](immigration/global-talent/academia-and-research.md) | Draft — editorial review pending |
 | Global Talent preparation trackers | [Global Talent](immigration/global-talent/README.md) | Planned |
 | Innovator Founder guide and tracker | [Innovator Founder](immigration/innovator-founder/README.md) | Planned |
 | Nigerian passport renewal (UK) | [Passport](immigration/nigerian-passport/README.md) | Planned |

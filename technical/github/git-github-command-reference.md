@@ -1,689 +1,288 @@
-# Git and GitHub Command Reference
+# Git & GitHub Command Reference — Practical, Safe Edition
 
-[← GitHub resources](README.md) · [← Resource Hub](../../README.md)
+**Mettelo technical quick reference · Reconstructed Markdown · 9 November 2026**
 
-**Mettelo Resource Hub — source-based Markdown edition**
+[🏠 Home](../../README.md) · [GitHub guides](README.md) · [Practical Handbook](github-handbook.md) · [Contribution Standards](contribution-guide.md)
 
-> **Editorial status: Draft — source text migrated.** This is a page-by-page transfer from the original user-supplied 11-page PDF, not an independently verified or fully typeset guide. The extracted source may contain flattened tables, word wrapping and PDF text-order artefacts. Source-specific suggestions, grade scores, Git command examples and application criteria must be checked against the appropriate current guidance or software manual before use.
+> **Enhanced technical draft.** This replaces an 11-page PDF command table flattened into poorly readable text. The original command categories (setup, inspection, commits, branches, remotes, stash, integration, recovery, GitHub CLI and troubleshooting) are retained, but commands now have copyable shell blocks, intended effects and risk notes. Source extraction remains recoverable via Git history. Test destructive operations in a disposable repository; do not assume commands are safe on protected production branches.
 
-## Page navigation
+## Start here — placeholders and safety
 
-- [Page 1](#page-1)
-- [Page 2](#page-2)
-- [Page 3](#page-3)
-- [Page 4](#page-4)
-- [Page 5](#page-5)
-- [Page 6](#page-6)
-- [Page 7](#page-7)
-- [Page 8](#page-8)
-- [Page 9](#page-9)
-- [Page 10](#page-10)
-- [Page 11](#page-11)
+- Replace `<branch>`, `<file>`, `<commit>`, `<owner>/<repo>` and `<repo-url>` with **actual values**; do **not** type angle brackets as literal filenames.
+- Run ordinary Git commands **inside a local Git repository**; verify with `git status`.
+- Check changes before staging and pushing; protected branches often require reviews and checks.
+- **Danger:** `git reset --hard`, `git clean -fd`, `git restore <file>` (when uncommitted edits matter), rebases of shared history and force pushes can lose work. We deliberately do **not** provide an unreviewed one-line reset/force-push recipe.
 
-<a id="page-1"></a>
+## Contents
 
-## Page 1
-
-Git & GitHub Command Reference
- A second-screen lookup sheet. Commands first; descriptions short. Covers Git, GitHub CLI (gh),
- collaboration, reviews and recovery.
-
-
-  NOTE Run git commands inside a repository unless marked otherwise. Commands marked DANGER can discard or
-  rewrite work. Examples use a POSIX-style terminal; quoting can vary by shell.
-
- START HERE | Placeholder key + instant finder
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   <repo-url> / <owner>/<repo>                                         Repository HTTPS/SSH URL / GitHub owner and
-                                                                       repository name.
-
-   <branch> / <file> / <sha>                                           Your branch name / relative file path / commit
-                                                                       identifier. Omit angle brackets when running.
-
-   git status -sb                                                      First check: short status, branch, tracking information.
-
-   git diff / git diff --staged                                        Inspect unstaged / staged changes before committing.
-
-   git log --oneline --graph --decorate -12                            See recent history and branch relationships.
-
-   git switch -c feature/<task>                                        Create and switch to a task branch.
-
-   git add <file> && git commit -m "Message"                           Stage a specific file and record a commit.
-
-   git push -u origin HEAD                                             Publish current branch and set upstream.
-
-   gh pr create --fill                                                 Open a GitHub pull request using commit-derived
-                                                                       defaults.
-
-   git fetch origin && git status -sb                                  Refresh remote information; inspect before
-                                                                       integration.
-
-Command reference • Replace placeholders • Check status before destructive actions                                                1
-
-[↑ Pages](#page-navigation)
+1. [First six commands](#1-the-six-commands-to-learn-first)
+2. [Setup and repository connection](#2-setup-and-repository-connection)
+3. [Inspect, stage and commit](#3-inspect-stage-and-commit)
+4. [Branch, remote and synchronisation](#4-branch-remote-and-synchronisation)
+5. [Issues, pull requests and review](#5-github-issues-pull-requests-and-review)
+6. [Integrate, merge and resolve conflicts](#6-integrate-merge-and-resolve-conflicts)
+7. [Stash, tag and releases](#7-stash-tag-and-releases)
+8. [Recover changes safely](#8-recover-changes-safely)
+9. [Troubleshooting by symptom](#9-troubleshooting-by-symptom)
+10. [Security, notebooks, large files](#10-security-notebooks-large-files)
+11. [Copyable Mettelo workflow](#11-copyable-mettelo-contribution-workflow)
 
 ---
 
-<a id="page-2"></a>
+## 1. The six commands to learn first
 
-## Page 2
+| Command | Meaning in plain English | Typical time to use |
+| --- | --- | --- |
+| `git status -sb` | Shows branch, tracking and changed files | **Before and after** any change |
+| `git diff` | Shows unstaged changes | Before staging |
+| `git switch -c feature/my-task` | Creates and enters a work branch | At start of a task |
+| `git add path/to/file` | Stages one specified file | When you have checked the change |
+| `git commit -m "Explain the change"` | Records staged changes locally | After checking |
+| `git push -u origin HEAD` | Publishes current branch | Before opening a PR |
 
-01 | Help, setup and identity
-   COMMAND / SYNTAX                                                    WHAT IT DOES
+A **commit** records local history; a **push** sends commits to the remote. A **pull request** proposes merging one branch into another after review. They are three different operations.
 
+## 2. Setup and repository connection
 
-   git --version / gh --version                                        Verify installed versions.
+### Confirm your tools and identity
 
-   git help <command> / git <command> -h                               Full reference / concise command help.
+```bash
+git --version
+gh --version
+git config --global user.name "Your Name"
+git config --global user.email "your-verified-email@example.com"
+git config --global --list
+```
 
-   git config --global user.name "Your Name"                           Name recorded on commits.
+`gh` is the **optional GitHub CLI**, not Git itself. Replace the example identity with your real details and respect professional privacy. Some organisations use different identity or sign-off requirements.
 
-   git config --global user.email "you@example.com"                    Email recorded on commits; choose a verified or
-                                                                       privacy email.
+### Clone an existing repository
 
-   git config --global init.defaultBranch main                         Default initial branch name for new repositories.
+```bash
+git clone <repo-url>
+cd <folder-created-by-clone>
+git remote -v
+git status -sb
+```
 
-   git config --global core.editor "code --wait"                       Choose editor if VS Code CLI is available.
+**What happens:** The remote repository is copied locally; `origin` normally names the remote. Do not paste credentials into repository URLs or commit them.
 
-   git config --list --show-origin                                     Show effective settings and their source files.
+### Start an approved new repository locally
 
-   git config --local user.email "work@example.com"                    Override identity only in the current repository.
+```bash
+mkdir my-project
+cd my-project
+git init
+git status -sb
+```
 
-   gh auth login / gh auth status                                      Sign in to GitHub CLI / inspect authenticated account.
+Initialise a README, commit, then connect the remote GitHub repository following your organisation's approved process. Use `git remote add origin <repo-url>` **only when the remote exists and `origin` is not already configured**.
 
-   gh auth setup-git                                                   Configure Git credential handling through gh where
-                                                                       supported.
+## 3. Inspect, stage and commit
 
- 02 | Create, clone and connect
-   COMMAND / SYNTAX                                                    WHAT IT DOES
+```bash
+git status -sb
+git diff
+git diff --staged
+git log --oneline --graph --decorate -12
+```
 
+**Difference:** `git diff` shows local working changes not yet staged; `git diff --staged` shows what would be included in the next commit.
 
-   git init -b main                                                    Start repository in current folder with main as initial
-                                                                       branch.
+```bash
+git add path/to/file
+git diff --staged
+git commit -m "Add validation for missing source records"
+```
 
-   git clone <repo-url>                                                Copy repository and history to your computer.
+Prefer `git add path/to/file` to indiscriminate staging when working on sensitive data. The commit should explain **what changed and why**. Use `git diff --check` to spot whitespace problems.
 
-   git clone <repo-url> <folder>                                       Clone into a chosen local directory.
+### Edit the last local unshared commit
 
-   git clone --branch <branch> <repo-url>                              Clone and check out a named branch.
+`git commit --amend` changes commit history. Use it only when you understand whether the commit has been shared. **Do not amend already-reviewed/shared commits without agreement.**
 
-   git remote -v                                                       List remote names and fetch/push URLs.
+## 4. Branch, remote and synchronisation
 
-   git remote add origin <repo-url>                                    Attach a new remote named origin.
+```bash
+git branch -a
+git switch -c feature/fix-source-checks
+git status -sb
+git remote -v
+git fetch origin
+```
 
-   git remote set-url origin <repo-url>                                Update origin URL.
+`git fetch` downloads remote history **without automatically changing your working files**. `git pull` fetches and then integrates changes according to configuration; inspect your status and agree merge versus rebase policy before pulling.
 
-   git remote add upstream <original-repo-url>                         Add original repository when working from a fork.
+To publish the current branch:
 
-   git remote show origin                                              Inspect remote tracking/default branch details.
+```bash
+git push -u origin HEAD
+```
 
-   gh repo create <name> --private --clone                             Create private GitHub repository and clone it.
+To inspect remote changes against your branch:
 
-   gh repo clone <owner>/<repo>                                        Clone using GitHub CLI.
+```bash
+git log --oneline --left-right HEAD...origin/main
+git diff --stat HEAD..origin/main
+```
 
-   gh repo view --web / gh repo fork --clone                           Open current repository in browser / fork and clone.
+**Note:** These examples assume `origin/main` exists. Verify the actual default branch and fetch first.
 
-Command reference • Replace placeholders • Check status before destructive actions                                               2
+## 5. GitHub issues, pull requests and review
 
-[↑ Pages](#page-navigation)
+Optional GitHub CLI commands require authentication and repository access:
 
----
+```bash
+gh auth status
+gh issue list
+gh issue view <issue-number>
+gh pr list
+gh pr status
+gh pr checks <pr-number>
+```
 
-<a id="page-3"></a>
+Open a PR **after** pushing the branch:
 
-## Page 3
+```bash
+gh pr create --base main --fill
+```
 
-03 | Inspect changes and history
-   COMMAND / SYNTAX                                                    WHAT IT DOES
+`--fill` draws a title/body from commits; **review and edit the generated description** so it includes the problem, solution, validation and any privacy/licensing considerations. If the default branch is not `main`, replace it.
 
+Review an actual PR:
 
-   git status / git status --short                                     Full / compact working-tree state.
+```bash
+gh pr view <pr-number>
+gh pr diff <pr-number>
+gh pr checks <pr-number>
+```
 
-   git diff -- <file>                                                  Show unstaged edits in one file.
+### Pull request checklist
 
-   git diff --staged                                                   Show content prepared for next commit.
+- [ ] Issue or task requirement identified.
+- [ ] Change isolated to a relevant branch, with clear commits.
+- [ ] Automated tests/checks passed **where configured** (do not claim a repository has CI unless it does).
+- [ ] Manual checks documented where needed.
+- [ ] No secrets, personal records, restricted datasets or unlicensed assets.
+- [ ] Appropriate reviewer and approvals obtained before merge.
 
-   git diff main...HEAD                                                Changes on current branch since merge base with
-                                                                       main.
+## 6. Integrate, merge and resolve conflicts
 
-   git diff <sha1> <sha2> -- <file>                                    Compare a file across two commits.
+**Safest collaboration rule:** Decide as a team whether the repository uses merge or rebase before integrating shared work. Avoid rewriting history that others depend on.
 
-   git show <sha> / git show --stat <sha>                              Inspect commit patch / summary.
+Typical safe, non-destructive first actions:
 
-   git log --oneline --all --graph --decorate                          Compact history across all local refs.
+```bash
+git status -sb
+git fetch origin
+git log --oneline --graph --decorate --all -15
+```
 
-   git log --follow -- <file>                                          History of a path, following simple renames.
+If your team uses merging, switch to the feature branch and merge the approved base:
 
-   git blame -L 10,25 -- <file>                                        Find commit attribution for lines 10–25.
+```bash
+git switch feature/fix-source-checks
+git merge origin/main
+```
 
-   git ls-files / git ls-files --others                                List tracked files / untracked files not ignored.
-   --exclude-standard
+If Git reports a conflict, open each affected file. Git marks conflict regions with `<<<<<<<`, `=======`, `>>>>>>>`. **Resolve the intended content carefully**, not by automatically choosing “ours” or “theirs”. Then:
 
+```bash
+git status
+git add path/to/resolved-file
+git commit
+```
 
-   git check-ignore -v <file>                                          Show which ignore rule matches a path.
+If the merge was initiated and still in progress but is not ready, `git merge --abort` **attempts** to return to the pre-merge state. Before using it, check status and preserve important uncommitted work.
 
- 04 | Stage and commit
-   COMMAND / SYNTAX                                                    WHAT IT DOES
+## 7. Stash, tag and releases
 
+A stash temporarily stores changes so you can switch context. **It is not a durable backup strategy.**
 
-   git add <file> / git add <folder>/                                  Stage a file / folder.
+```bash
+git stash push -m "Work in progress on validation"
+git stash list
+git stash show -p stash@{0}
+```
 
-   git add -p                                                          Interactively stage selected hunks.
+On some shells `stash@{0}` needs quoting. Prefer `git stash apply` rather than `pop` until you've confirmed that the changes were restored correctly; `pop` also drops the stash when successful.
 
-   git add -A                                                          Stage all changes including removals; review first.
+Create an **approved** annotated release tag only after team review:
 
-   git diff --cached --check                                           Detect whitespace errors in staged changes.
+```bash
+git tag -a v1.0.0 -m "Approved initial release"
+git push origin v1.0.0
+```
 
-   git restore --staged <file>                                         Unstage a file while retaining working changes.
+Do not tag an unapproved draft as a production release.
 
-   git commit -m "Explain the change"                                  Create commit with clear imperative message.
+## 8. Recover changes safely
 
-   git commit -am "Explain tracked edits"                              Stage and commit tracked-file changes only; excludes
-                                                                       new files.
+| What went wrong? | Start by running | Safer next action |
+| --- | --- | --- |
+| You staged the wrong file | `git diff --staged` | `git restore --staged path/to/file` unstages it **without discarding the working edit** |
+| A tracked file was deleted by mistake but not committed | `git status -sb` | After checking, `git restore path/to/file` restores it **and overwrites any uncommitted changes for that path** |
+| Your last commit needs investigation | `git log --oneline -8` | Inspect before choosing revert or local amend |
+| A bad commit was already pushed | `git log --oneline` | Prefer `git revert <commit>` to add an inverse commit while preserving shared history |
+| You accidentally moved HEAD | `git reflog -15` | Record the desired commit ID and seek review before a reset |
+| An unwanted untracked file exists | `git status --untracked-files=all` | Check sensitive content and **manually** remove only the intended file |
+| You suspect credentials were committed | Pause and notify owner | **Rotate/revoke secrets immediately**; deleting from latest commit alone is insufficient |
 
-   git commit --amend                                                  Replace most recent commit; avoid after others have
-                                                                       based work on it.
+**Use care:** `git restore path/to/file` is destructive to *unstaged edits* to that tracked file. `git reset --hard` can discard staged and unstaged work. `git clean -fd` deletes untracked files. Force-pushing can overwrite colleagues' history. These are intentionally not presented as routine quick-fix recipes.
 
-   git commit --amend --no-edit                                        Add staged changes to latest commit, retain its
-                                                                       message.
+[Git's authoritative restore reference](https://git-scm.com/docs/git-restore) · [Git user manual on recovering mistakes](https://git-scm.com/docs/user-manual).
 
-   git commit --allow-empty -m "Trigger checks"                        Create intentionally empty commit where useful.
+## 9. Troubleshooting by symptom
 
-Command reference • Replace placeholders • Check status before destructive actions                                            3
+| Symptom | Likely cause | First investigation |
+| --- | --- | --- |
+| “not a git repository” | You are outside a repository | `pwd` or current folder, then `git status` in correct clone |
+| “nothing to commit” | No staged changes, or no work changes | `git status -sb`, `git diff`, `git diff --staged` |
+| “permission denied / authentication failed” | Wrong remote URL, identity/SSO or repo permission | `git remote -v`, `gh auth status`, organisation access policy |
+| “non-fast-forward rejected” | Remote changed | `git fetch origin`, inspect graph, integrate with team policy |
+| Merge conflict | Same changes diverged | `git status`, inspect markers, agree correct version and tests |
+| Notebook generates huge noisy diffs | Output/metadata changes | Clear safe outputs, use notebooks review conventions, never erase relevant reproducibility details |
+| Git refuses large file | Hosting limits | Use approved data storage or Git LFS with licensing/privacy review |
+| PR check failed | A configured validation task failed | Read actual logs and reproduce relevant test; do not ignore silently |
 
-[↑ Pages](#page-navigation)
+## 10. Security, notebooks, large files
 
----
+**Before pushing, check:** credentials in `.env`, service-account JSON, API tokens, real customer tables, private notebooks and identifiable data. Use suitable `.gitignore` rules **before tracking** restricted files; ignoring a file later doesn't remove secrets already committed. Notify project owners and rotate exposed keys.
 
-<a id="page-4"></a>
+For data projects, keep README, requirements/environment, notebooks/code, testing approach, sample synthetic data and data-source permissions. Never upload entire operational datasets simply to make a portfolio look substantial.
 
-## Page 4
+**GitHub-specific best practice:** Review branch protections and contribution permissions with your organisation. No contributor should bypass tests or approvals purely to obtain contribution evidence.
 
-05 | Branches and switching
-   COMMAND / SYNTAX                                                    WHAT IT DOES
+## 11. Copyable Mettelo contribution workflow
 
+```bash
+# Start inside an authorised, already-cloned project repository
+git status -sb
+git fetch origin
+git switch -c feature/describe-the-task
 
-   git branch / git branch -a -vv                                      Local / local and remote-tracking branches with
-                                                                       details.
+# Edit the specific files for the issue; run the project's real checks
+git diff
+git add path/to/changed-file
+git diff --staged
+git commit -m "Explain the concrete improvement"
+git push -u origin HEAD
 
-   git switch -c feature/<task>                                        Create task branch from current commit.
+# Requires GitHub CLI authenticated and an appropriate default branch
+gh pr create --fill
+```
 
-   git switch main / git switch <branch>                               Switch to an existing local branch.
+**Before using this recipe:** Check if `feature/describe-the-task` already exists, whether your starting branch is up to date, and the repo's actual base branch. Never run a literal placeholder path. An appropriate reviewer must inspect and approve before merge.
 
-   git switch -                                                        Return to previously checked-out branch.
+### Verified references and publication note
 
-   git switch -c <branch> --track origin/<branch>                      Create local tracking branch from remote.
+- [Git documentation](https://git-scm.com/docs).
+- [Git restore](https://git-scm.com/docs/git-restore).
+- [GitHub CLI PR creation](https://cli.github.com/manual/gh_pr_create).
+- [GitHub CLI manual](https://cli.github.com/manual/).
 
-   git branch -m <new-name>                                            Rename current local branch.
-
-   git branch -d <branch>                                              Delete merged local branch (safety check).
-
-   git branch -D <branch> [DANGER]                                     Force-delete local branch even if unmerged.
-
-   git branch --set-upstream-to=origin/<branch>                        Set upstream tracking for current branch.
-
-   git branch --show-current                                           Print current branch name.
-
- 06 | Fetch, pull and push
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   git fetch origin / git fetch --all --prune                          Download refs / update all remotes and prune stale
-                                                                       tracking refs.
-
-   git pull --ff-only                                                  Update current branch only if fast-forward is possible.
-
-   git pull --rebase                                                   Fetch, then rebase local commits onto upstream; use
-                                                                       with team agreement.
-
-   git push -u origin HEAD                                             Push current branch and configure upstream.
-
-   git push / git push origin <branch>                                 Push upstream / explicit branch.
-
-   git push origin --delete <branch>                                   Delete remote branch (check permissions and PR
-                                                                       state).
-
-   git push --force-with-lease [CAUTION]                               Safeguarded forced update: still rewrites remote
-                                                                       history; coordinate first.
-
-   git fetch origin && git switch main && git pull                     Refresh local main safely.
-   --ff-only
-
-
-   git status -sb / git branch -vv                                     Diagnose ahead/behind and upstream configuration.
-
-Command reference • Replace placeholders • Check status before destructive actions                                               4
-
-[↑ Pages](#page-navigation)
-
----
-
-<a id="page-5"></a>
-
-## Page 5
-
-07 | Stash temporary work
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   git stash push -m "WIP description"                                 Store tracked working and staged changes.
-
-   git stash push -u -m "WIP + new files"                              Also include untracked, nonignored files.
-
-   git stash list / git stash show -p stash@{0}                        List stashes / inspect most recent patch.
-
-   git stash apply stash@{0}                                           Reapply without removing saved stash.
-
-   git stash pop                                                       Reapply latest; drop it if application succeeds.
-
-   git stash branch <branch> stash@{0}                                 Create branch at stash base and apply work.
-
-   git stash drop stash@{0} / git stash clear [CAUTION]                Delete one / all saved stashes.
-
- 08 | Merge, rebase and cherry-pick
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   git merge <branch>                                                  Merge named branch into checked-out branch.
-
-   git merge --no-ff <branch>                                          Force merge commit even if fast-forward possible.
-
-   git merge --abort                                                   Abandon in-progress merge and restore pre-merge
-                                                                       state where possible.
-
-   git rebase main                                                     Replay current branch commits on local main; update
-                                                                       main first.
-
-   git rebase -i HEAD~3                                                Interactively edit last 3 commits; rewrites history.
-
-   git rebase --continue / --abort / --skip                            Continue after resolution / cancel / skip a commit
-                                                                       (careful).
-
-   git cherry-pick <sha>                                               Apply one existing commit on current branch.
-
-   git cherry-pick --continue / --abort                                Finish conflict resolution / cancel cherry-pick.
-
-   git merge-base main HEAD                                            Find common ancestor for comparison.
-
- 09 | Resolve conflicts in the terminal
- Conflict workflow
-
-  git status → Open conflicted files → Edit markers → git add <resolved-file> → git merge --continue OR git rebase
-  --continue
-
-
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   git diff --name-only --diff-filter=U                                List files with unresolved merge conflicts.
-
-   git status                                                          See which operation is in progress and what remains
-                                                                       unresolved.
-
-Command reference • Replace placeholders • Check status before destructive actions                                            5
-
-[↑ Pages](#page-navigation)
-
----
-
-<a id="page-6"></a>
-
-## Page 6
-
-COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   git ls-files -u                                                     Inspect unmerged index stages.
-
-   git checkout --ours -- <file> [CAUTION]                             Select ours for merge context; rebase meaning can
-                                                                       surprise. Review result.
-
-   git checkout --theirs -- <file> [CAUTION]                           Select theirs for merge context; review and validate
-                                                                       result.
-
-   git add <file>                                                      Mark conflict as resolved after editing and validation.
-
-   git merge --abort / git rebase --abort                              Cancel the respective integration operation.
-
-
-  NOTE Conflict markers are <<<<<<<, ======= and >>>>>>>. Remove them, combine the correct content,
-  then validate. During rebase, ours/theirs perspective differs from a normal merge.
-
- 10 | Undo, restore and recover
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   git restore <file> [DANGER]                                         Discard unstaged edits in file; uncommitted work may
-                                                                       be lost.
-
-   git restore --source=<sha> -- <file>                                Restore a file from a selected commit into working
-                                                                       tree.
-
-   git restore --staged <file>                                         Unstage while preserving working edits.
-
-   git revert <sha>                                                    Create new commit reversing an existing commit;
-                                                                       good for shared history.
-
-   git reset --soft HEAD~1                                             Move HEAD back one commit, keep all changes
-                                                                       staged.
-
-   git reset --mixed HEAD~1                                            Move HEAD back one commit, keep changes unstaged
-                                                                       (default).
-
-   git reset --hard <sha> [DANGER]                                     Discard tracked working/index changes and move
-                                                                       branch pointer.
-
-   git reflog / git reflog show <branch>                               Find previous reference positions, useful for recovery.
-
-   git switch -c recovery <sha>                                        Preserve an accessible commit on new recovery
-                                                                       branch.
-
-   git clean -nd / git clean -fd [DANGER]                              PREVIEW / delete untracked nonignored files and dirs.
-
-   git rm --cached <file>                                              Stop tracking file while keeping local copy; does not
-                                                                       erase its history.
-
-   git mv <old> <new> / git rm <file>                                  Rename/move tracked file / stage its removal.
-
-
-  NOTE A secret already committed remains in history even after git rm --cached. Revoke/rotate it immediately and
-  follow your organisation’s approved history-cleanup process.
-
-Command reference • Replace placeholders • Check status before destructive actions                                               6
-
-[↑ Pages](#page-navigation)
-
----
-
-<a id="page-7"></a>
-
-## Page 7
-
-11 | Ignore rules, tags and advanced repository operations
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   git check-ignore -v <path>                                          Explain which .gitignore pattern applies.
-
-   git add -f <ignored-file> [CAUTION]                                 Explicitly override ignore rules; never use to add
-                                                                       secrets.
-
-   git tag / git tag -n                                                List version labels / annotations.
-
-   git tag -a v1.0.0 -m "Release 1.0.0"                                Create annotated release tag.
-
-   git push origin v1.0.0 / git push origin --tags                     Push selected / all local tags.
-
-   git worktree add ../review-worktree <branch>                        Check out another branch in another directory.
-
-   git worktree list / git worktree remove <path>                      Inspect / remove worktree.
-
-   git bisect start; git bisect bad; git bisect good                   Start binary search for first faulty commit; mark
-   <sha>                                                               bad/current and known good.
-
-   git bisect good / git bisect bad / git bisect reset                 Mark tested commits then return to normal.
-
-   git submodule update --init --recursive                             Initialize and update nested repositories recorded as
-                                                                       submodules.
-
-   git gc / git fsck --full                                            Maintenance / inspect object integrity.
-
-   git archive --format=zip HEAD -o snapshot.zip                       Export committed tree without .git metadata.
-
- 12 | GitHub CLI: account, repositories and forks
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   gh auth login / gh auth status / gh auth logout                     Sign in / check / sign out.
-
-   gh repo view / gh repo view --web                                   View repository details / open browser.
-
-   gh repo list <owner> --limit 30                                     List repositories for owner.
-
-   gh repo create <name> --public --clone                              Create public repository and clone.
-
-   gh repo fork <owner>/<repo> --clone                                 Fork repository and clone fork.
-
-   gh repo sync <owner>/<fork> --source                                Sync fork from upstream repository where supported.
-   <owner>/<upstream>
-
-
-   gh browse / gh browse <path>                                        Open current repo / file in browser.
-
-   gh api repos/<owner>/<repo>                                         Query GitHub REST endpoint (requires access).
-
-   gh alias list / gh extension list                                   Inspect configured CLI aliases / extensions.
-
-Command reference • Replace placeholders • Check status before destructive actions                                             7
-
-[↑ Pages](#page-navigation)
-
----
-
-<a id="page-8"></a>
-
-## Page 8
-
-13 | GitHub issues and pull requests
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   gh issue list / gh issue status                                     List issues / issues relevant to you.
-
-   gh issue create --title "Title" --body "Details"                    Open issue with title and description.
-
-   gh issue view <number> --web                                        Open issue in browser.
-
-   gh issue comment <number> --body "Update"                           Post a progress comment.
-
-   gh issue close <number> / gh issue reopen <number>                  Close / reopen issue.
-
-   gh pr create --fill / gh pr create --draft --fill                   Create normal / draft PR from current branch.
-
-   gh pr list / gh pr status                                           List PRs / overview of your PRs.
-
-   gh pr view <number> --web                                           Open PR in browser.
-
-   gh pr checkout <number>                                             Check out PR locally for review.
-
-   gh pr diff <number> / gh pr checks <number>                         Inspect patch / check results.
-
-   gh pr review <number> --approve                                     Approve when reviewer and repository policy permit.
-
-   gh pr review <number> --request-changes -b "Please                  Request changes with explanation.
-   revise"
-
-
-   gh pr review <number> --comment -b "Review notes"                   Leave nonblocking review comment.
-
-   gh pr merge <number> --squash --delete-branch                       Squash-merge and delete branch, subject to repository
-                                                                       rules.
-
-   gh pr merge <number> --merge / --rebase                             Merge commit / rebase merge if allowed.
-
-   gh pr ready <number> / gh pr close <number>                         Mark draft ready / close without merging.
-
-Command reference • Replace placeholders • Check status before destructive actions                                           8
-
-[↑ Pages](#page-navigation)
-
----
-
-<a id="page-9"></a>
-
-## Page 9
-
-14 | Checks, workflows and releases
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   gh run list / gh run view <run-id>                                  List GitHub Actions runs / inspect a run.
-
-   gh run view <run-id> --log-failed                                   Show failed-step logs.
-
-   gh run watch <run-id>                                               Follow run until completion.
-
-   gh workflow list / gh workflow view <workflow>                      List / inspect Actions workflows.
-
-   gh workflow run <workflow> --ref <branch>                           Manually dispatch a workflow that supports
-                                                                       workflow_dispatch.
-
-   gh release list / gh release view <tag>                             List / inspect GitHub releases.
-
-   gh release create v1.0.0 --generate-notes                           Create a GitHub release for a tag with generated
-                                                                       notes.
-
-   gh secret list / gh variable list                                   Show secret names / Actions variable names, not
-                                                                       secret values.
-
-   gh secret set <NAME>                                                Securely input and store a GitHub Actions secret.
-
- 15 | Quick-copy collaboration workflows
- A. Join an existing repository and publish a branch
-
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   gh auth status && gh repo clone <owner>/<repo>                      Check login and clone.
-
-   cd <repo> && git switch -c feature/<task>                           Enter repository and create task branch.
-
-   git status && git diff                                              Check edits.
-
-   git add <file> && git diff --staged                                 Stage just intended files and inspect.
-
-   git commit -m "Describe the change"                                 Record meaningful commit.
-
-   git push -u origin HEAD && gh pr create --fill                      Publish and open PR.
-
-
- B. Review and integrate
-
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   gh pr view <number> && gh pr diff <number>                          Read purpose and examine proposed edits.
-
-   gh pr checkout <number> && gh pr checks <number>                    Check out changes and inspect automated checks.
-
-   gh pr review <number> --comment -b "Review notes"                   Provide actionable feedback.
-
-   gh pr merge <number> --squash --delete-branch                       Merge only after required review/checks pass.
-
-   git switch main && git pull --ff-only                               Update local approved branch.
-
-Command reference • Replace placeholders • Check status before destructive actions                                         9
-
-[↑ Pages](#page-navigation)
-
----
-
-<a id="page-10"></a>
-
-## Page 10
-
-C. Keep your feature branch current (choose one team policy)
-
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   git fetch origin && git merge origin/main                           Merge latest remote main into current branch.
-
-   git fetch origin && git rebase origin/main                          Alternative: replay local feature commits on updated
-                                                                       main; avoid rewriting shared branches.
-
-   git push / git push --force-with-lease [CAUTION]                    Normal push after merge / safeguarded force update
-                                                                       after approved rebase.
-
-
- D. Fork contribution
-
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   gh repo fork <owner>/<repo> --clone                                 Fork and clone; add upstream if not present.
-
-   git remote -v && git remote add upstream                            Inspect remotes; add upstream only if missing.
-   <original-url>
-
-
-   git fetch upstream && git switch main && git merge                  Bring local main up to date when fast-forward is
-   --ff-only upstream/main                                             possible.
-
-   git push origin main                                                Sync own fork if permitted.
-
-   git switch -c feature/<task> && git push -u origin                  Create contribution branch and publish it.
-   HEAD
-
-
-   gh pr create --repo <owner>/<original-repo> --base                  Open cross-fork PR; head owner/branch must exist.
-   main --head <fork-owner>:<branch>
-
-Command reference • Replace placeholders • Check status before destructive actions                                            10
-
-[↑ Pages](#page-navigation)
-
----
-
-<a id="page-11"></a>
-
-## Page 11
-
-16 | Fast troubleshooting lookup
-   COMMAND / SYNTAX                                                    WHAT IT DOES
-
-
-   Not a git repository → git status; pwd; ls -a                       Check current folder contains .git or navigate to clone.
-
-   Nothing to commit → git status --short                              Check whether file changed, is ignored or already
-                                                                       committed.
-
-   Push rejected (non-fast-forward) → git fetch origin                 Inspect new remote commits; integrate safely before
-                                                                       pushing.
-
-   No upstream branch → git push -u origin HEAD                        Publish and set tracking relationship.
-
-   Authentication failed → gh auth status; gh auth login               Check credentials and required access.
-
-   Merge conflict → git status; git diff --name-only                   Find unresolved files; resolve, stage and continue.
-   --diff-filter=U
-
-
-   Wrong commit on shared branch → git revert <sha>                    Revert without rewriting shared history.
-
-   Lost commit → git reflog                                            Find prior HEAD/branch positions; create recovery
-                                                                       branch.
-
-   File ignored unexpectedly → git check-ignore -v                     Locate matching ignore rule.
-   <file>
-
-
-   gh command unavailable → gh --version                               Install or update GitHub CLI independently of Git.
-
- Safety / conventions
- Prefer specific git add <file> over blanket staging when multiple files changed. Always inspect git status
- and git diff --staged before commit. Use git revert on shared history; discuss any rebase or forced push with
- collaborators. The remote server may enforce branch protections and require reviews/checks. Shell
- examples use placeholders rather than executable repository URLs.
-
- Official references: https://git-scm.com/docs | https://cli.github.com/manual/ | https://docs.github.com/
-
-Command reference • Replace placeholders • Check status before destructive actions                                            11
-
-[↑ Pages](#page-navigation)
-
----
-
-## Publication note
-
-This Markdown version preserves the original pages and their wording. It has **not yet passed** a layout-sensitive table, technical-command, legal or employment-policy audit. It should be reviewed against the original before its status is changed to Published.
-
-**Prepared by Johnson Taiwo for Mettelo.**
-
----
+**Editorial changes:** Rebuilt the original source's 16 command areas into semantic sections with proper code fences, operational explanations and risk distinctions. This is a source-informed **adaptation**, not a verbatim reproduction; original 11-page extraction can be retrieved through Git history. Individual commands have been checked against documentation; they have **not all been executed on a test repository**. Keep status as *enhanced technical draft* pending hands-on test.
 
 ### Find your way around
 
-[← GitHub resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)
+[← GitHub resources](README.md) · [Practical Handbook](github-handbook.md) · [Contribution Guide](contribution-guide.md) · [Start Here](../../START_HERE.md) · [Directory](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

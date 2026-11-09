@@ -87,3 +87,9 @@ This is a Markdown adaptation of the supplied **Mettelo CV Template** (two-page 
 ---
 
 **Prepared by Johnson Taiwo for Mettelo.**
+
+---
+
+### Find your way around
+
+[← CV resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

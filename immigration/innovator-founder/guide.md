@@ -413,3 +413,9 @@ The following were checked for relevant current information on **9 November 2026
 - Prior to marking the guide fully published, complete a source-by-source fidelity review and check all detailed legal/process claims.
 
 **Prepared by Johnson Taiwo · Mettelo**
+
+---
+
+### Find your way around
+
+[← Innovator Founder resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

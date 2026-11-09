@@ -476,3 +476,9 @@ Prepared by O. Johnson Taiwo, Founder   Contents 11
 This Markdown version preserves the original pages and their wording. It has **not yet passed** a layout-sensitive table, technical-command, legal or employment-policy audit. It should be reviewed against the original before its status is changed to Published.
 
 **Prepared by Johnson Taiwo for Mettelo.**
+
+---
+
+### Find your way around
+
+[← CV resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

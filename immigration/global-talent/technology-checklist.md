@@ -37,3 +37,9 @@ Use these columns in a private spreadsheet or notes file: **Date | What I did an
 Confirm current requirements using the [GOV.UK Global Talent guidance](https://www.gov.uk/global-talent) and the relevant endorsement route. The source tracker may contain dated thresholds or procedural details and **does not replace live eligibility rules**.
 
 Prepared by Johnson Taiwo for Mettelo.
+
+---
+
+### Find your way around
+
+[← Global Talent pathways](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

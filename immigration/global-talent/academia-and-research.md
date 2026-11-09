@@ -1,1475 +1,276 @@
-# UK Global Talent Visa — Academia and Research Pathway
+# UK Global Talent Visa — Academia & Research
 
-**Mettelo application handbook · Version 2 · Original checked 23 October 2026**  
-**Prepared by Johnson Taiwo**
+**Enhanced Mettelo practical pathway guide · 9 November 2026**  
+Prepared by **Johnson Taiwo** · Mettelo
 
-[← Global Talent resources](README.md) · [← Immigration resources](../README.md) · [← Resource Hub](../../README.md)
+[← Global Talent guides](README.md) · [← Immigration](../README.md) · [← Mettelo Resource Hub](../../README.md)  
+[Archived original 31-page 2026 handbook](academia-and-research-original-2026.md) · [Route-specific tracker](research-checklist.md) · [Tracker instructions](tracker-guide.md)
 
-> **Editorial status: Draft — source transferred; formatting and detailed rules review pending.** This Markdown edition preserves the original 31-page academic and research guide supplied in the Mettelo combined PDF. The guide was originally checked on 23 October 2026. Any current official eligibility, evidence and application rules take priority over the source handbook.
+> **Status: Enhanced researched draft.** This is a newly developed practical guide, not a full transcription of the original PDF (archived separately). Immigration rules and research opportunities change. The 24-month plan develops a real research career and is **not a mandatory visa requirement or approval formula**. Check the applicable current GOV.UK and endorsing-body guidance on your application date.
 
-## About this guide
+## Introduction — who is this visa for?
 
-This guide helps researchers, PhD candidates and professionals considering research careers in the UK and Nigeria understand the **different routes to Global Talent endorsement** and identify credible career-development activities.
+The **UK Global Talent visa (Academia and Research)** is designed for established and potential leaders in science, engineering, medicine, humanities and social science research. It generally gives more freedom to work for different employers or be self-employed than an employer-sponsored route. It is not a PhD scholarship or job, and earning a master's degree, publishing one paper or having “research” in a job title does not automatically qualify someone.
 
-**The four research endorsement routes are different.** An eligible academic or research appointment, an approved individual fellowship, UKRI-endorsed funding, and full peer review involve different tests and documents. There is no universal ten-document evidence pack for all research applications. A PhD place or job title containing “research analyst” does not by itself make someone eligible.
+There are **two separate decisions**: a qualifying academic/research **endorsement** (unless a specifically listed prestigious prize removes the endorsement requirement), followed by the **Home Office visa application**. The route covers legitimate **academic, industrial and government research**, but routine dashboards, general reporting or university administrative support should not be confused with original research or PhD-equivalent research expertise.
 
-A 24-month plan is included for career preparation, **not** as a legal eligibility or endorsement requirement. The original research strategies, activities, proposed partnerships and opportunities are suggestions and must not be presented as established achievements or guaranteed opportunities.
+### Understand the four completely different endorsement routes
+
+| Route | Who it is for | What must be real | Key documents |
+| --- | --- | --- | --- |
+| **1. Academic or research appointment** | Person who has accepted eligible research/innovation job at approved UK institution | Research/innovation as primary role or eligible leadership; **PhD or equivalent research experience essential**; genuine recruitment | Full job description and institution HR Director's **statement of guarantee**. [Official route](https://www.gov.uk/global-talent-researcher-academic/academic-or-researcher) |
+| **2. Individual fellowship** | Person currently holding or holding within the eligible five-year window a fellowship on the **approved list** | Exact listed award, not a general fellowship or training bursary | Actual fellowship award letter. [Approved scheme list](https://royalsociety.org/grants/global-talent-visa-overview/route-2-individual-fellowships/) |
+| **3. UKRI endorsed funder** | Eligible research specialist employed/hosted at approved **UK** institution on approved funding | Approved funder; **≥£30k, ≥2-year grant, ≥50% grant work time, ≥12 months contract remaining** plus relevant role/host terms | Actual approved grant details and institutional confirmation. [Official conditions](https://www.gov.uk/global-talent-researcher-academic/uk-research-innovation-endorsement) |
+| **4. Full peer review** | Active researcher with PhD **or equivalent research experience**, recognised as leader or potential leader | Original scientific contribution and field recognition; **no job offer required** | Up-to-3-A4-side research CV; **UK-resident eminent expert who personally knows work**; **Talent additionally requires a separate UK senior eminent expert's objective letter**. [Official peer review](https://www.gov.uk/global-talent-researcher-academic/peer-review) |
+
+**Exceptional Talent** concerns established research leadership. **Exceptional Promise** concerns early-career potential leadership. The appropriate category depends on the route, actual stage and relevant fellowship classification—not which option appears easiest.
+
+The [Royal Society route decision tree](https://royalsociety.org/grants/global-talent-visa-overview/which-route-is-right-for-me/) should be read first. The Royal Society assesses natural and medical sciences, the Royal Academy of Engineering covers engineering, and the British Academy covers humanities/social sciences for relevant routes; UKRI assesses approved-funder applications.
+
+### Who could realistically use this guide?
+
+| Background | Recommended starting approach |
+| --- | --- |
+| Postdoctoral research fellow with real accepted UK research job | Check Route 1 **immediately**, not after 24 months; involve the actual university HR office. |
+| Award holder with genuine research fellowship | Check **exact named fellowship** against approved Route 2 list. |
+| Research engineer/scientist working on approved UK grant | Ask PI, grants office and HR to verify each Route 3 condition. |
+| Independent or industrial researcher with original research contributions | Assess Route 4 research expertise and UK eminent expert relationship. |
+| PhD student or new research entrant | Develop real scientific work, methods and collaborators first; no automatic entitlement. |
+| Analyst whose work is routine operational reporting | Establish genuine research duties and competence before claiming research eligibility. |
+
+The Home Office currently indicates fast-track endorsements often take around **two weeks**, while full peer review is commonly around **five weeks**. These are estimates. Endorsement is not permission to remain. [GOV.UK overview](https://www.gov.uk/global-talent-researcher-academic/overview).
 
 ## Contents
 
-- [1. Academia and research pathway — guide and contents](#section-1)
-- [2. Choose among the four research routes](#section-2)
-- [3. Research document register for your selected route](#section-3)
-- [4. Appointment guarantee preparation step by step](#section-4)
-- [5. UKRI grant and HR documents step by step](#section-5)
-- [6. Fellowship documents step by step](#section-6)
-- [7. Prepare a research CV for peer review](#section-7)
-- [8. Peer review letters and author briefing](#section-8)
-- [9. Coordinate review and approval of letters](#section-9)
-- [10. Send the approved letter through DocuSign](#section-10)
-- [11. PhD, research assistant or research analyst?](#section-11)
-- [12. Appointment route: get HR involved early](#section-12)
-- [13. UKRI funded role: check all the conditions](#section-13)
-- [14. Fellowship and peer review: different strategies](#section-14)
-- [15. Nigeria research opportunities: make it specific](#section-15)
-- [16. UK research opportunities: target teams and roles](#section-16)
-- [17. A concrete UK–Nigeria research project](#section-17)
-- [18. Research letters: the right person for the route](#section-18)
-- [19. First 90 days: choose a realistic research route](#section-19)
-- [20. Research development plan — months 1–12](#section-20)
-- [21. Research development plan — months 13–24](#section-21)
-- [22. Research full readiness checklist](#section-22)
-- [23. Applying and checking your UK permission](#section-23)
-- [24. Submit the endorsement application step by step](#section-24)
-- [25. Before endorsement submission use this checklist](#section-25)
-- [26. Apply for the visa after endorsement](#section-26)
-- [27. Visa stage checklist and application follow up](#section-27)
-- [28. Sources and directory 1 of 4](#section-28)
-- [29. Sources and directory 2 of 4](#section-29)
-- [30. Sources and directory 3 of 4](#section-30)
-- [31. Sources and directory 4 of 4](#section-31)
-
-## Official verification sources — reviewed 9 November 2026
-
-- [GOV.UK — Work in the UK as a researcher or academic leader: overview](https://www.gov.uk/global-talent-researcher-academic)
-- [GOV.UK — Eligible academic or researcher appointments](https://www.gov.uk/global-talent-researcher-academic/academic-or-researcher)
-- [GOV.UK — Individual fellowships](https://www.gov.uk/global-talent-researcher-academic/individual-fellowship)
-- [GOV.UK — UKRI-endorsed funding](https://www.gov.uk/global-talent-researcher-academic/uk-research-innovation-endorsement)
-- [GOV.UK — Peer review](https://www.gov.uk/global-talent-researcher-academic/peer-review)
-- [Immigration Rules — Appendix Global Talent](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-global-talent)
-
-These GOV.UK pages describe route-specific criteria and requirements, including evidence for eligible academic/research appointments. **The addition of official links does not establish that every statement in the 23 October handbook has been rechecked or remains current.** Check the route that matches your actual circumstances, then read its live supporting-document requirements and any endorsing-body instructions before applying.
+1. [Practical route-specific approaches](#1-practical-route-specific-approaches)
+2. [Build genuine scientific publications and expert relationships](#2-build-genuine-scientific-publications-and-expert-relationships)
+3. [Research career patterns and concrete opportunities](#3-research-career-patterns-and-concrete-opportunities)
+4. [First 90 days](#4-first-90-days)
+5. [Detailed 24-month development plan](#5-detailed-24-month-development-plan)
+6. [Five direct outreach strategies](#6-five-direct-outreach-strategies)
+7. [Route-specific evidence and submission checks](#7-route-specific-evidence-and-submission-checks)
 
 ---
 
-## Original handbook — page-by-page source text
+## 1. Practical route-specific approaches
 
-The original source has 31 pages for this pathway, found on pages 61–91 of the combined 91-page PDF. Sections below follow that sequence and retain the source material and reference identifiers. Because this is converted from a fixed-layout PDF, multi-column tables and some hyperlinks may require editorial reformatting. Where tables appear ambiguous, consult the original PDF.
+### Route 1: actual UK research appointment
 
+Search [jobs.ac.uk](https://www.jobs.ac.uk/) for specific Research Fellow, Research Scientist, Research Associate or relevant research leadership positions combined with the technical discipline. **Open the full advertisement** and ensure PhD or equivalent experience is **essential** rather than desirable, and original research/innovation is primary or approved leadership is central. Read recent group publications and explain genuine fit. Apply through the official employer portal.
 
-<a id="section-1"></a>
+**Only after a genuine offer and acceptance**, ask authorised HR to check the formal [Route 1 requirements](https://royalsociety.org/grants/global-talent-visa-overview/route-1-academic-and-research-appointments/). The signed HR statement must honestly confirm appointment, actual recruitment conditions including at least two references and a qualifying research interview/expert process, eligible job, title and department. A contract or self-authored letter does not substitute for this.
 
-## 1. Academia and research pathway — guide and contents
+### Route 2: award a genuinely eligible fellowship
 
-*Source handbook page 1 of 31 (combined PDF page 61).*
+Explore [UKRI fellowships](https://www.ukri.org/apply-for-funding/our-fellowship-opportunities/), [Future Leaders Fellowships](https://www.ukri.org/apply-for-funding/our-fellowship-opportunities/future-leaders-fellowships/), [Wellcome awards](https://wellcome.org/research-funding/guidance/prepare-to-apply/scheme-application-deadlines), [British Academy funding](https://www.thebritishacademy.ac.uk/funding/) or [Royal Academy of Engineering](https://raeng.org.uk/). Choose a research question, genuine applicant stage, eligible host and official submission method. Prepare two-page scientific concept, methods, research independence, budget and institutional support. Only a **granted named eligible fellowship** that appears on the [Route 2 approved list](https://royalsociety.org/grants/global-talent-visa-overview/route-2-individual-fellowships/) supplies this fast-track basis. An application or award not on the list does not automatically qualify.
 
-Academia and research pathway
-A practical UK and Nigeria strategy for Nigerian researchers, PhD candidates and people
-seeking genuine research roles. Checked 23 October 2026. Application handbook version 2.
+### Route 3: actual research on approved UK funding
 
-Choose among the four research routes        2     A concrete UK–Nigeria research project          17
+Use the updated [UKRI Gateway to Research](https://www.ukri.org/news/ukri-launches-faster-easier-to-use-gateway-to-research/) (launched **4 November 2026**) to identify funded projects and real PIs. Search host vacancies, then apply for legitimate research roles. If genuinely appointed, ask PI, grants office and HR to check the [approved funder list](https://www.gov.uk/government/publications/ukri-endorsement-endorsed-funders-global-talent-visa), approved UK host, grant ≥£30,000/2 years, actual role, ≥50% work time and at least one year remaining on contract. Do not ask to be named retrospectively for immigration purposes.
 
-Research document register for your          3     Research letters: the right person for the      18
-selected route                                     route
-Appointment guarantee preparation step       4     First 90 days: choose a realistic research      19
-by step                                            route
-UKRI grant and HR documents step by          5     Research development plan — months              20
-step                                               1–12
+### Route 4: active researcher and full expert assessment
 
-Fellowship documents step by step            6     Research development plan — months              21
-                                                   13–24
-Prepare a research CV for peer review        7
-                                                   Research full readiness checklist               22
-Peer review letters and author briefing      8
-                                                   Applying and checking your UK permission        23
-Coordinate review and approval of letters    9
-                                                   Submit the endorsement application step         24
-Send the approved letter through             10
-                                                   by step
-DocuSign
-                                                   Before endorsement submission use this          25
-PhD, research assistant or research          11
-                                                   checklist
-analyst?
-                                                   Apply for the visa after endorsement            26
-Appointment route: get HR involved early     12
-                                                   Visa stage checklist and application follow     27
-UKRI funded role: check all the conditions   13
-                                                   up
-Fellowship and peer review: different        14
-                                                   Sources and directory 1 of 4                    28
-strategies
-                                                   Sources and directory 2 of 4                    29
-Nigeria research opportunities: make it      15
-specific                                           Sources and directory 3 of 4                    30
-
-UK research opportunities: target teams      16    Sources and directory 4 of 4                    31
-and roles
-
-The contents navigate within this guide. Start with the route comparison: research has four
-distinct endorsement routes, not a universal ten document evidence pack.
-
-A PhD place or a job called research analyst does not automatically qualify. The actual
-research role, grant, appointment or research standing determines the route.
-
-[↑ Contents](#contents)
+Develop original, verifiable research and a strong research CV, not simply publications by volume. Complete rigorous methods, independent work, genuine peer review, funding or recognised contributions suited to career stage. **Build actual professional relationships** with established researchers who can assess work. The required personal recommendation must be from an eminent **UK-resident** expert who genuinely knows the candidate's research. **Exceptional Talent** additionally requires a separate objective assessment from an eminent senior member of a UK organisation. See [exact peer review documents](https://www.gov.uk/global-talent-researcher-academic/peer-review).
 
 ---
 
-<a id="section-2"></a>
+## 2. Build genuine scientific publications and expert relationships
 
-## 2. Choose among the four research routes
+**Research project sequence:** identify precise question and gap with [OpenAlex](https://openalex.org/) and [Crossref](https://search.crossref.org/); obtain ethical data access, propose testable methods, run comparative baselines and sensitivity analyses; document uncertainty/negative results; agree author contributions; submit to legitimate scientific review; respond openly to reviewers. Use [ORCID](https://orcid.org/) for verified publications and [OSF](https://osf.io/) or [Zenodo](https://zenodo.org/) for permissible reproducibility artefacts. A preprint or repository DOI **is not** proof of accepted journal peer review.
 
-*Source handbook page 2 of 31 (combined PDF page 62).*
+**Research software:** building technically useful reproducible scientific methods may help demonstrate expertise, particularly where original research contribution is documented. Generic library maintenance, student assignments and operational dashboards are not automatically PhD-equivalent research.
 
-Choose among the four research
-routes
- Route                      Initial test                                      Who to ask
-
- Eligible                   Qualifying academic or research position at an    University HR and
- appointment                approved institution; duties and recruitment      department lead. [R2]
-                            process meet the rules.
-
- Approved fellowship        Exact fellowship is on the approved list;         Fellowship
-                            currently held or held within the last five       administrator and
-                            years.                                            official list. [R3]
-
- UKRI endorsed              Approved funder and UK host, qualifying           Principal investigator,
- funder                     award and essential research role meet every      research office and
-                            condition.                                        HR. [R4, R6]
-
- Peer review                Active researcher with PhD or equivalent          Appropriate academy
-                            research experience and exceptional talent or     and knowledgeable UK
-                            promise in an approved discipline.                eminent expert. [R5]
-
-A practical order of checking
-First ask whether an existing appointment, fellowship or grant already offers a qualifying route.
-If not, assess peer review on the actual research record. Do not spend two years collecting
-generic publicity when a qualifying funded appointment is the relevant route.
-
-Choose the research discipline
-Peer review is through the Royal Society for science and medicine, British Academy for
-humanities and social science, or Royal Academy of Engineering for engineering and
-technology. Match your work to the approved disciplines, not simply your degree title. [R5]
-
-[↑ Contents](#contents)
+**UK eminent expert relationships:** find authors whose published work genuinely matches your problem; seek to do real research with them or receive substantive research critique. A cold LinkedIn connection does not equal personal expert knowledge. Never buy or fabricate recommendation letters.
 
 ---
 
-<a id="section-3"></a>
+## 3. Research career patterns and concrete opportunities
 
-## 3. Research document register for your selected route
+Public fellowship directories and award biographies show real research-career pathways, **not the private documents successful Global Talent applicants submitted**. This guide uses those career patterns as strategies without claiming visa approval for an individual activity.
 
-*Source handbook page 3 of 31 (combined PDF page 63).*
+| Pattern | Exact action to adopt | Limit |
+| --- | --- | --- |
+| Research fellow with independently examined work | Apply for real research role, do actual research, publish and document contribution | Not every position meets Route 1 |
+| Independently funded investigator | Build grant-worthy proposal, secure host and apply for eligible scheme | Not all fellowship awards are Route 2 |
+| Project researcher on supported grants | Find genuine funded project, obtain role, demonstrate results and institutional eligibility | Not all grants satisfy UKRI Route 3 |
+| Independent industry researcher | Create original research method, undertake peer review and build UK expert collaboration | Professional seniority alone not enough |
+| Reproducible research specialist | Deliver method that materially helps real scientific finding, record scholarly recognition | Code commits alone do not prove research leadership |
 
-Research document register for your
-selected route
-Choose one qualifying route and collect its required documents. Research does not use
-technology’s three references and ten evidence items as a universal checklist.
+### Organisations and platforms worth contacting
 
- Route                      Core endorsement material                               Who produces
-                                                                                    it
+| Organisation | Who can benefit | Specific approach |
+| --- | --- | --- |
+| [jobs.ac.uk](https://www.jobs.ac.uk/) | Research job applicants | Find exact active adverts, assess essential PhD/research duty, apply officially |
+| [UKRI funding finder](https://www.ukri.org/opportunity/) | Funding/fellowship applicants | Filter real calls by field and host, check open/close dates |
+| [UKRI Gateway to Research](https://www.ukri.org/news/ukri-launches-faster-easier-to-use-gateway-to-research/) | All research jobseekers | Find real grants, PIs and institutional projects before sending enquiry |
+| [Royal Society](https://royalsociety.org/grants/global-talent-visa-overview/) | Science/medicine | Check route decision tree, eligible host and fellowships |
+| [Royal Academy of Engineering](https://raeng.org.uk/) | Engineering | Research scheme requirements and active research groups |
+| [British Academy](https://www.thebritishacademy.ac.uk/funding/) | Humanities/social science | Search research schemes aligned to topic/stage |
+| [Wellcome research funding](https://wellcome.org/research-funding/guidance/prepare-to-apply/scheme-application-deadlines) | Health/biomedical research | Check exact scheme, research host and eligibility |
+| [Daphne Jackson Trust](https://daphnejackson.org/) | Research career returners | Assess career-break eligibility and host support |
+| [EURAXESS](https://euraxess.ec.europa.eu/jobs/search) | International researchers | Search actual posts by geography and discipline |
+| [The Alan Turing Institute](https://www.turing.ac.uk/) | Applied AI/data research | Explore genuine research groups, collaboration programmes and posts |
+| [Health Data Research UK](https://www.hdruk.ac.uk/) | Healthcare statistical research | Identify actual ethical methods and collaborative teams |
+| [Wellcome Sanger Institute](https://www.sanger.ac.uk/) | Biomedical/computational research | Find actual genomics research roles and programmes |
 
- Appointment                Full qualifying job description and HR director or      Employer and
-                            equivalent guarantee with all recruitment and role      HR
-                            confirmations.
-
- Approved fellowship        Award letter for the exact eligible fellowship held     Fellowship
-                            within the permitted period; correct category from      awarding body
-                            the approved list.
-
- UKRI endorsed funder       Approved award database link or prescribed              Funder, HR and
-                            funder letter, plus HR guarantee; records for every     research office
-                            grant relied on.
-
- Peer review promise        Research CV up to three A4 pages and eligible           You and expert
-                            main UK resident eminent expert letter with
-                            credentials.
-
- Peer review talent         Same core CV and main letter, plus a separate           You and two
-                            eligible objective assessment letter.                   different experts
-
-Maintain a tracker
-Record route, requirement, owner, source, accepted role or award date, remaining contract,
-grant details where relevant, signature, deadline and Ready or Missing. Keep identity and visa
-material in a separate Stage 2 folder. [R2–R6]
-
-Do not write an HR guarantee yourself and treat it as issued. Prepare factual information for
-the authorised employer signatory to check and certify.
-
-[↑ Contents](#contents)
+**Current illustration (9 November 2026):** UKRI lists some open MRC clinical fellowships and AHRC Catalyst Awards, which require the **specific** host/career/research conditions. Their existence does not make them eligible Route 2 awards or guarantee visa endorsement. Check [UKRI's live funding finder](https://www.ukri.org/opportunity/).
 
 ---
 
-<a id="section-4"></a>
+## 4. First 90 days
 
-## 4. Appointment guarantee preparation step by step
-
-*Source handbook page 4 of 31 (combined PDF page 64).*
-
-Appointment guarantee preparation
-step by step
-1 Retrieve the employer documents
-Request the full job description and ask the HR director or equivalent who handles Global
-Talent guarantees. Confirm the approved institution and accepted eligible academic or
-research role. Keep the offer and recruitment details for HR verification. [R2]
-
-2 Give HR a factual verification list
-   Position and department exactly as offered.
-
-   Eligible leadership or research and innovation duties, and PhD or equivalent research
-   experience requirement.
-
-   Acceptance of the offer.
-
-   Advertised open competition or the documented reasons if not.
-
-   At least two references supplied in recruitment.
-
-   At least three academic, research or innovation interview representatives.
-
-   A relevant field expert on the panel or consulted before the offer. [R2]
-
-3 HR prepares and approves the guarantee
-HR should verify those facts against recruitment records and issue the required institutional
-letter. If information is missing, resolve it through the employer rather than inventing an
-assurance. The guarantee is not an ordinary professional recommendation.
-
-4 Run the final document check
-   Job description shows the required PhD or equivalent research requirement and actual
-   eligible duties.
-
-   Institution and post meet the current route conditions.
-
-   Guarantee is issued by the HR director or authorised equivalent and contains every required
-   confirmation.
-
-   Correct name, position, department, dates and organisational details are consistent.
-
-Use the official appointment route page and its endorsement application link. The online form
-may request further identity or administrative information.
-
-[↑ Contents](#contents)
+| Time | Specific steps | Who to approach | Evidence/result |
+| --- | --- | --- | --- |
+| **Days 1–14** | Identify main/fallback route, actual research profile, awarded fellowship or offer, and missing documents. | [Royal Society decision tree](https://royalsociety.org/grants/global-talent-visa-overview/which-route-is-right-for-me/), current supervisor, HR/PI/grants office | Verified route matrix and genuine gap list |
+| **Days 15–30** | Find 5 real research groups, read papers, identify feasible novel question, choose actual host/funder/job targets. | [UKRI Gateway](https://www.ukri.org/news/ukri-launches-faster-easier-to-use-gateway-to-research/), [jobs.ac.uk](https://www.jobs.ac.uk/), institutional researchers | Targeted two-page concept, genuine contacts |
+| **Days 31–60** | Conduct reproducible pilot and obtain real critical feedback; prepare role/fellowship applications if eligible. | Field researcher, university methods group, grant office | Pilot protocol, actual applications, comments |
+| **Days 61–90** | Refine research method and application route; preserve outputs and honest setbacks, not manufactured recognition. | PI, HR/authorised funder, relevant eminent collaborator | Revised research project, next six-month priorities |
 
 ---
 
-<a id="section-5"></a>
+## 5. Detailed 24-month development plan
 
-## 5. UKRI grant and HR documents step by step
+**Reading the tables:** The objectives suggest several ways to build meaningful research work or qualify through a **real** appointment/fellowship/grant. Pick appropriate actions by career stage. Monthly targets are not visa requirements; someone with an eligible grant/appointment should assess endorsement now instead of waiting. Each row points to actual public organisations or official processes and identifies the resulting records.
 
-*Source handbook page 5 of 31 (combined PDF page 65).*
+### Starting without strong evidence
 
-UKRI grant and HR documents step by
-step
-1 Confirm the exact award with the research office
-Obtain the award reference, funder, value, start and end dates, award type and approved
-database entry. Check the funder and UK host on the current approved lists. Grant threshold is
-at least £30,000 over at least two years, not a requirement that you personally receive
-£30,000. [R4, R6]
+| Missing evidence | Best first activity | Real contact or programme |
+| --- | --- | --- |
+| No original research output | Work with real academic supervisor on novel, reproducible research project | University methods group, [OSF](https://osf.io/), [OpenAlex](https://openalex.org/) |
+| No UK host | Identify legitimate research role or fellowship-host conversation | [jobs.ac.uk](https://www.jobs.ac.uk/), university research office |
+| No fellowship | Identify suitable live scheme and institution support | [UKRI fellowships](https://www.ukri.org/apply-for-funding/our-fellowship-opportunities/) |
+| No UKRI grant role | Find real funded project and apply for eligible research post | [UKRI Gateway](https://www.ukri.org/news/ukri-launches-faster-easier-to-use-gateway-to-research/) |
+| No eminent UK expert who knows work | Do original research and develop genuine substantive collaboration | Relevant UK research group and actual investigators |
+| Only operational data reporting | Move toward research questions, methods and scientific contribution | Actual research team or supervised research programme |
 
-2 Confirm your role conditions
-   At least one year remains on employment or hosting agreement.
+### Phase 1 — Foundation and methodological credibility (months 1–6)
 
-   At least half of agreed working time is on qualifying grant work.
+| Month | **Specific activities to undertake** | **Who to approach and exact resources** | **Evidence to preserve** |
+| --- | --- | --- | --- |
+| **01: Select one of four actual routes** | Audit real job offers, awarded fellowships, UKRI grant participation and active research record. Choose principal/fallback route; verify talent vs promise stage. | [Royal Society decision tree](https://royalsociety.org/grants/global-talent-visa-overview/which-route-is-right-for-me/) and current employer HR or supervisor. | Route decision and verified research chronology. |
+| **02: Find a precise research niche** | Read 10 relevant recent papers and 5 active group profiles; identify a reproducible gap; review ongoing UKRI grants; avoid cold contacting unrelated professors. | [OpenAlex](https://openalex.org/), [UKRI Gateway to Research](https://www.ukri.org/news/ukri-launches-faster-easier-to-use-gateway-to-research/), [jobs.ac.uk](https://www.jobs.ac.uk/). | Research question, group shortlist, study-gap notes. |
+| **03: Plan an original research project** | Prepare a 2-page proposal with objective, methods, comparison, ethics, uncertainty, data access and expected contribution. Request specific critique from a researcher in your field. | Relevant university group/PI via public department profile; [OSF](https://osf.io/) for an appropriate protocol. | Study protocol, recorded critique and revised research objectives. |
+| **04: Conduct a small reproducible study** | Develop pilot experiments, historical/source analysis or engineering method with baseline, documented data permission and honest limitations. Do not call training coursework a published study. | Actual supervisor, methods seminar, [Zenodo](https://zenodo.org/) for authorised artefacts. | Dated work, code/method, baseline and legitimate feedback. |
+| **05: Apply to real research appointments** | Search Research Fellow, Associate, Scientist or research software methodology posts. Screen for PhD/equivalent as essential and research as primary function. Apply only when matched. | [jobs.ac.uk](https://www.jobs.ac.uk/), [EURAXESS](https://euraxess.ec.europa.eu/jobs/search), [approved UK institution list](https://royalsociety.org/grants/global-talent-visa-overview/route-1-academic-and-research-appointments/). | Real applications, CV, advert, correspondence and outcome. |
+| **06: Run first independent research review** | Invite genuine methods review, test weaknesses, and choose whether appointment, fellowship, grant or peer-review track is viable. If no result yet, improve the project—not the wording of evidence. | Real PI/department seminar; [peer-review guidance](https://www.gov.uk/global-talent-researcher-academic/peer-review). | Six-month gap assessment, revised study and honest expert feedback. |
+### Phase 2 — Research outputs and genuine review (months 7–12)
 
-   Research leader or contributor status, experience and degree or equivalent experience
-   conditions met.
+| Month | **Specific activities to undertake** | **Who to approach and exact resources** | **Evidence to preserve** |
+| --- | --- | --- | --- |
+| **07: Turn pilot into publishable research** | Complete a methodologically robust manuscript or technical research note; confirm author roles and seek critique. Separate original research from generic operational analytics. | Actual supervisor/collaborators; [Crossref](https://search.crossref.org/) for related research. | Draft manuscript, contribution and ethics record. |
+| **08: Submit to a real research venue** | Select reputable appropriate journal or conference and submit actual work. Record peer-review outcome; do not count a DOI or preprint as accepted academic work. | Journal/conference's official submissions portal; [ORCID](https://orcid.org/) for verified authorship identity. | Submission acknowledgement, reviewer comments, publication status. |
+| **09: Prepare a fundable research case** | Write future research vision, novelty, work packages, risks, reproducibility and costs; match a specific UKRI or discipline funder call and confirm host eligibility. | [UKRI funding finder](https://www.ukri.org/opportunity/), [Wellcome funding](https://wellcome.org/research-funding/guidance/prepare-to-apply/scheme-application-deadlines), institutional grants office. | Research proposal, cost assumptions and verified target call. |
+| **10: Develop a prospective fellowship host** | Contact 2 UK research teams with a specific 2-page concept, actual methods experience and collaboration fit. Ask about eligible host support and internal application process, not a reference letter. | [UKRI fellowships](https://www.ukri.org/apply-for-funding/our-fellowship-opportunities/), [British Academy](https://www.thebritishacademy.ac.uk/funding/), real university PIs. | Host acceptance/feedback if earned, strengthened programme. |
+| **11: Respond to scientific review** | Revise paper following actual peer feedback; share approved replication materials; offer a relevant research seminar talk using working results, not unverified impact. | Journal reviewers, legitimate academic seminar, [OSF](https://osf.io/), [Zenodo](https://zenodo.org/). | Versioned revision, real seminar/acceptance if achieved. |
+| **12: Audit first-year route eligibility** | Check any accepted qualifying appointment, exactly listed awarded fellowship, eligible UKRI grant role or credible full peer review evidence. Document what is still absent. | [GOV.UK research overview](https://www.gov.uk/global-talent-researcher-academic/overview), employing HR/PI. | Year-one route-by-route evidence decision. |
+### Phase 3 — External impact, host and funding (months 13–18)
 
-   Leader naming or job title condition, or relevant fair recruitment confirmation, checked. [R4]
+| Month | **Specific activities to undertake** | **Who to approach and exact resources** | **Evidence to preserve** |
+| --- | --- | --- | --- |
+| **13: Produce original next-stage findings** | Extend research to independent validation, negative cases or second population, and document what is scientifically new. Invite qualified review and correct errors. | Active researcher/department ethics board, [Alan Turing Institute](https://www.turing.ac.uk/) where field relevant. | Substantive results, reproducibility and reviewer feedback. |
+| **14: Apply for better-matched research roles** | Screen eligible UK roles by research primary function and essential research standard; prepare evidence-specific application and apply through official vacancy pages. | [jobs.ac.uk](https://www.jobs.ac.uk/), [EURAXESS](https://euraxess.ec.europa.eu/jobs/search), individual institutions. | Actual job outcome; HR statement of guarantee only if offered and applicable. |
+| **15: Submit a genuine fellowship bid** | Use an actual open call and supportive UK host; finalise grant-quality case, research independence, impact, ethical permissions and budget with institutional research office. | [UKRI Future Leaders Fellowship](https://www.ukri.org/apply-for-funding/our-fellowship-opportunities/future-leaders-fellowships/), [Wellcome](https://wellcome.org/research-funding/guidance/prepare-to-apply/scheme-application-deadlines), [Royal Academy of Engineering](https://raeng.org.uk/). | Real submission and decision; award letter only if awarded. |
+| **16: Join or deepen real grant-funded research** | Find currently funded matching projects, apply for announced posts and complete original research tasks. If employed, check UKRI Route 3 funder/host, 50% time, ≥£30k/2 years, ≥12 months contract. | [UKRI Gateway](https://www.ukri.org/news/ukri-launches-faster-easier-to-use-gateway-to-research/), [funders list](https://www.gov.uk/government/publications/ukri-endorsement-endorsed-funders-global-talent-visa), research office. | Actual grant/team role and host eligibility checks—not assumed sponsorship. |
+| **17: Establish research contribution beyond routine delivery** | Co-develop a new method, validated study or significant scientific technology with attributable authorship; explain novelty and limitations. | Actual multidisciplinary PI/team, university research development office and domain journal reviewers. | Independent scientific assessment, confirmed contribution and outcomes. |
+| **18: Build legitimate expert standing** | Present at selected scientific meeting or departmental seminar; if qualified, undertake appropriate peer review; sustain genuine UK researcher collaboration rather than seeking signature first. | Relevant professional society and programme organisers; real research collaborators. | Selected presentation/programme, actual research commentary, dated expert relationship. |
+### Phase 4 — Evidence validation and application decision (months 19–24)
 
-3 Obtain the correct award confirmation
-If the award is in an approved database, supply the link identifying its qualifying details. If it is
-not in an approved database, obtain the required letter from the endorsed funder. A
-screenshot of a university funding news story is not automatically a substitute.
+| Month | **Specific activities to undertake** | **Who to approach and exact resources** | **Evidence to preserve** |
+| --- | --- | --- | --- |
+| **19: Review funding, awards and research independence** | Record actual grant decisions, awards, papers and their significance for career stage; check named fellowship list if an award is obtained. Respond to rejections with improved methods. | [Approved fellowship list](https://royalsociety.org/grants/global-talent-visa-overview/route-2-individual-fellowships/), funder award portal, UK grants office. | Honest funding record and criterion gaps. |
+| **20: Check eminent peer-review experts** | For Route 4 verify UK-resident eminent expert who knows your work; for Talent identify separate senior UK-organisation objective expert. Never purchase or fabricate a letter. | [GOV.UK peer review letters](https://www.gov.uk/global-talent-researcher-academic/peer-review), actual collaborators/research leaders. | Expert credentials, research relationship and authentic authored letters if provided. |
+| **21: Gather route-specific documents** | Route 1 job description + HR guarantee; Route 2 approved award letter; Route 3 grant/host verification; Route 4 research CV and correct expert letter(s). Check document format and dates. | [Royal Society overview](https://royalsociety.org/grants/global-talent-visa-overview/), HR, funder and research office. | Private completed source-verified document inventory. |
+| **22: Apply scientific and privacy quality checks** | Validate all claims, manuscripts, author order, grants, essential job standard, approved lists, ethics and lawful data sharing; check immigration status separately. | Institutional research integrity officer, actual PI, HR and regulated immigration adviser where appropriate. | Corrected factual evidence, permission register and remaining risks. |
+| **23: Make an actual go/no-go decision** | Confirm one route meets official conditions, correct Talent/Promise category and truthful documents; if not, extend research programme or explore different appropriate immigration route. | [GOV.UK academia overview](https://www.gov.uk/global-talent-researcher-academic/overview), real assessor guidance. | Written decision and realistic next steps. |
+| **24: Submit only when eligible** | Use genuine route-specific endorsement evidence and official application; submit separate visa application appropriately. If not yet eligible, continue authentic research or career progression. | [Official endorsement and visa guide](https://www.gov.uk/global-talent-researcher-academic/overview), HR/grants/experts. | Application receipt if submitted; otherwise revised scientific programme. |
 
-4 Ask authorised HR for the guarantee
-Supply the role, department, accepted offer or hosting agreement, essential contribution,
-working allocation and recruitment details. HR checks and issues the guarantee; the principal
-investigator’s informal reference alone does not replace it. [R4]
+### Honest review gates
 
-5 Recheck the complete grant set
-If relying on multiple permitted grants, collect the required records for all of them and check
-the principal or co investigator aggregation rule. Keep contract dates current so a delay does
-not leave less than one year remaining when you apply.
-
-For contributor qualifications, use the exact degree or equivalent research experience wording,
-not a claim that every overseas degree qualifies automatically.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-6"></a>
-
-## 6. Fellowship documents step by step
-
-*Source handbook page 6 of 31 (combined PDF page 66).*
-
-Fellowship documents step by step
-1 Match the exact programme
-Open the eligible fellowship list through the official fellowship page. Match the precise
-programme, awarding body and relevant conditions; a similarly named scholarship or training
-award is not enough. The approved fellowship determines whether the endorsement category
-is talent or promise. [R3]
-
-2 Retrieve the award letter
-Ask the awarding body for the official award confirmation if it is missing. Check your name,
-exact fellowship, awarding body and award dates. Confirm the permitted five year period using
-the current instructions.
-
-3 Resolve inconsistencies at source
-If your name changed or the letter uses an abbreviation, obtain accurate supporting
-clarification and any required identity or translation records. Do not edit the awarding body’s
-issued letter.
-
-4 Apply through the correct route
-Select the discipline and fellowship route in the endorsement form, using the official page’s
-current instructions. Provide the award letter and administrative information requested. Do not
-assume this route needs a three expert letter package. [R3]
-
-Fellowship readiness check
-   Exact programme appears on the current approved list.
-
-   Award dates meet the eligibility window.
-
-   Category matches the approved fellowship, not my preferred label.
-
-   Official award confirmation is readable and accurate.
-
-   Required translation or identity clarification ready if applicable.
-
-If the fellowship is not eligible, reassess an actual qualifying appointment, UKRI role or peer
-review record. Do not substitute an unrelated reference and keep the same route selected.
-
-[↑ Contents](#contents)
+| Checkpoint | Question | What to do if evidence is absent |
+| --- | --- | --- |
+| Month 3 | Is there a genuine original research question and credible group/critical assessor? | Narrow research and validate methods, do not pretend a course assignment is a study |
+| Month 6 | Did independent scientific criticism improve real work? | Seek appropriate lab methods review and deepen replicability |
+| Month 12 | Is one endorsement route already truly available, or a credible research career developing? | Focus on the missing host/award/grant/peer-review condition |
+| Month 18 | Are external research outputs and relationships substantial? | Continue legitimate research and real scholarly review |
+| Month 24 | Are the correct route-specific documents genuinely available? | Do not submit because the calendar ended; extend or choose another legal route |
 
 ---
 
-<a id="section-7"></a>
+## 6. Five direct outreach strategies
 
-## 7. Prepare a research CV for peer review
+### A — Contact a UK research supervisor with a specific question
 
-*Source handbook page 7 of 31 (combined PDF page 67).*
+Find a real paper from [OpenAlex](https://openalex.org/) or an ongoing project on [UKRI Gateway](https://www.ukri.org/news/ukri-launches-faster-easier-to-use-gateway-to-research/). Read it. Write 100–150 words describing a **specific scientific problem**, methods you have actually used, an accurate link to your work, and whether you seek an advertised position or permission to discuss a genuine research collaboration. Use a public institution profile. Follow up once, then investigate other groups. **A reply is not an approved research appointment.**
 
-Prepare a research CV for peer review
-1 Gather the accurate research record
-   Appointments, degrees or equivalent research experience, career breaks and the approved
-   research discipline.
+### B — Approach UK HR about a Route 1 offer
 
-   Relevant publications with exact status, authorship and your contribution; grants and
-   awards with your actual role.
+**Only if an actual offer has been accepted**, ask the research employer HR team whether it can issue the formal Global Talent **statement of guarantee** for this exact research role. Check the essential PhD/equivalent criterion, research primary duties, competition/references/recruitment-panel facts, subject expert involvement, eligible institution and proper senior signatory. Use [Royal Society Route 1](https://royalsociety.org/grants/global-talent-visa-overview/route-1-academic-and-research-appointments/). **Never ask HR to invent recruitment facts.**
 
-   Research outputs, adoption, methods, leadership and credible UK plans that an expert can
-   assess.
+### C — Find a fellowship host
 
-2 Write a concise factual CV
-Use a clear typed career and publication history within three A4 pages. Prioritise material
-relevant to research standing and career stage. Distinguish principal investigator, contributor
-and co author roles; do not present an application for funding as an awarded grant. [R5]
+Prepare a concise research proposal with question, novelty, baseline, ethics, methods, expected output, team and realistic career development. Identify two research groups aligned to the proposal. Ask whether they can act as host for **the specific fellowship scheme**, and if yes involve the actual grants/research development office. Review [UKRI fellowships](https://www.ukri.org/apply-for-funding/our-fellowship-opportunities/) and [approved Route 2 list](https://royalsociety.org/grants/global-talent-visa-overview/route-2-individual-fellowships/) **separately**.
 
-3 Give the expert access to genuine sources
-Share the CV and selected underlying research privately so the expert can judge the work.
-Explain dates, your contribution and why a result matters. This briefing record is different from
-an extra evidence bundle submitted with peer review.
+### D — Join a real grant-funded project
 
-4 Follow the route’s submission limit
-The peer review page says no other evidence is required beyond its prescribed CV and letters.
-Do not attach all papers, project screenshots, course certificates and event photos to imitate
-another pathway. [R5]
+Use actual [UKRI grants](https://www.ukri.org/news/ukri-launches-faster-easier-to-use-gateway-to-research/) and institution vacancy notices, not promises of insertion into a research team. If genuinely appointed, obtain the approved UK host/funder evidence from authorised research office, PI and HR; validate grant length/value, funding commitment, named role and remaining contract. **Do not misclassify unpaid assistance or administrative service as an eligible grant research role.**
 
-Accuracy check
-   Active research and PhD or equivalent research experience established.
+### E — Build an authentic expert relationship for peer review
 
-   Promise career stage considered where applicable.
-
-   Submitted, accepted, published and preprint records correctly labelled.
-
-   Funding amounts, researcher roles and publication contribution are verifiable.
-
-   CV, letters and proposed UK research plans tell a consistent factual account.
-
-[↑ Contents](#contents)
+Collaborate on substantial research with someone capable of assessing your field. Preserve original methods, peer comments, submitted work and actual interaction. Once eligible, ask an **eminent UK-resident person who personally knows your work** about an independent letter. If applying as Exceptional Talent, separately identify an **eminent senior member of a UK organisation** able to make objective assessment. Follow [GOV.UK exact letter requirements](https://www.gov.uk/global-talent-researcher-academic/peer-review) and avoid AI-generated or purchased false letters.
 
 ---
 
-<a id="section-8"></a>
-
-## 8. Peer review letters and author briefing
-
-*Source handbook page 8 of 31 (combined PDF page 68).*
-
-Peer review letters and author briefing
-Main letter for talent or promise
-Choose an eminent expert living in the UK, with internationally recognised expertise in the
-field, who knows you and your work. Give them accurate research records and the official
-instructions; they assess the work and explain the relationship. [R5]
-
-   The author explains how they know you and why the research shows exceptional talent or
-   promise.
-
-   They explain benefit of being UK based, UK contribution and future work plans.
-
-   Letter is application specific, typed, dated, signed and within three A4 pages excluding
-   credentials and contacts; include required phone, email and applicable organisation details
-   plus author credentials.
-
-Additional objective letter for talent
-A different eminent senior member of a UK organisation assesses your work on expert
-knowledge. They need not know you personally. Their letter must explain exceptional talent
-and UK research and innovation contribution, state their senior organisational role and include
-the required statement that personal knowledge has not influenced the assessment. [R5]
-
-   Different author from the main recommender.
-
-   Typed, dated, signed by that author, within the separate three page limit.
-
-   Telephone, email and author credentials included.
-
-   Objective assessment and required independence wording checked by the author.
-
-Do not ask a supervisor to sign an independent assessment drafted as if they had no personal
-knowledge. The distinction concerns the basis of their assessment; disclose the actual
-relationship accurately. Use the review workflow that follows to resolve facts before signature.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-9"></a>
-
-## 9. Coordinate review and approval of letters
-
-*Source handbook page 9 of 31 (combined PDF page 69).*
-
-Coordinate review and approval of
-letters
-1 Confirm the right writer before doing any formatting
-Agree the relevant route, what the person genuinely knows, whether they can support the
-application, and a realistic deadline. Confirm the correct professional email and whether
-organisational letterhead and signing approval are needed.
-
-2 Prepare a factual briefing pack
-   Your current CV, intended category, application date and official letter requirements.
-
-   Dated projects you actually worked on together, your role and source records the writer can
-   verify.
-
-   Accurate achievements, your proposed UK work and the writer’s credentials or biography
-   request.
-
-3 Keep drafting and approval distinct
-The assessment must genuinely come from the eligible supporter or responsible institutional
-signatory. You can organise facts and layout. If a supporter asks you for factual draft material,
-clearly label it for review and substantive correction; the supporter must independently
-approve every claim and the final assessment. Do not treat a signature as permission to invent
-their opinion.
-
-4 Use a controlled review file
-Suggested practice: create a private folder for each writer. Share the editable document only
-with that writer or their authorised representative. Use comments or tracked changes for
-factual corrections. Keep an agreed final version and an approval message; remove wider
-editing access before signing.
-
-5 Freeze the final version
-   Writer has checked facts, their assessment, credentials and contacts.
-
-   Required contents, letterhead, date, signature space and page limit checked.
-
-   Everyone understands which version is ready to sign; draft and final files clearly
-   distinguished.
-
-Suggested file names: Letter_A_REVIEW.docx and Letter_A_APPROVED_FOR_SIGNATURE.pdf.
-File names are an organisation method, not a Home Office requirement.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-10"></a>
-
-## 10. Send the approved letter through DocuSign
-
-*Source handbook page 10 of 31 (combined PDF page 70).*
-
-Send the approved letter through
-DocuSign
-Optional coordination method, subject to your assessor’s or institution’s current signature
-requirements. The sources checked require signed documents but do not establish a universal
-DocuSign acceptance rule for this pathway. Confirm any specific rule before using it; an
-institution can instead issue its own properly signed PDF.
-
-1 Prepare and upload
-After the writer approves the complete letter, open your or the organisation’s Docusign
-account. Choose New or Start, then Send an Envelope. Upload the approved PDF; interface
-labels and sending permissions can vary. Check account costs before buying a plan. [U4]
-
-2 Assign the actual writer as signer
-Enter the writer’s correct name and professional email, choose Needs to Sign, and place the
-signature and signing date fields for that person. Add your address as a copy recipient if
-appropriate. Do not assign yourself the writer’s signature field.
-
-3 Preview and send
-Check the full document, recipient and signature position. Send only the agreed final version.
-The writer opens the invitation, reviews it, signs and completes the process. If changes are
-needed, resolve them before a new final signing request.
-
-4 Download and retain
-When completed, download the signed letter. In Agreements, open the envelope details; use
-Download to obtain the Certificate of Completion and retain the history. [U5]
-
-5 Check the file you will submit
-   Correct author, date and completed signature are visible.
-
-   Letter, author credentials and contacts meet the pathway’s format rules.
-
-   Authentic audit record retained and included where required by the instructions.
-
-Keep the original signed file. Do not edit its contents after signature. If one upload must
-contain supporting pages, follow the live form and provider’s download options. Do not assume
-an audit certificate is exempt from a page limit simply because credentials are exempt.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-11"></a>
-
-## 11. PhD, research assistant or research analyst?
-
-*Source handbook page 11 of 31 (combined PDF page 71).*
-
-PhD, research assistant or research
-analyst?
- Situation                      What it means for planning
-
- PhD admission or enrolment     A research development opportunity, not automatic Global
-                                Talent eligibility. Check funding, supervision, progression and
-                                your visa conditions.
-
- Research assistant on a        May fit endorsed funder conditions if the actual methodology or
- qualifying grant               technology contribution, grant, host, recruitment and contract
-                                meet the rules. A PhD is not required for every contributor role.
-
- Research analyst in a          Investigate whether the role develops research, technology or
- company                        methodology. Routine market summaries or client reporting do
-                                not qualify just because the title says research.
-
- PhD or equivalent plus         Assess peer review or a qualifying appointment, fellowship or
- strong record                  grant. A degree alone does not prove exceptional talent or
-                                promise.
-
-For a Nigerian newcomer on Student permission
-Check switching conditions separately. Students normally need course completion; a full time
-PhD student may meet the switching study condition after at least 24 months of the course.
-That does not remove the need to qualify independently for Global Talent. [G2]
-
-Before starting extra work or trading
-Check your actual immigration conditions, employment contract, research ethics and
-permission to use data. Student work and business restrictions can affect a proposed side
-project. Endorsement alone does not extend your permission to stay. [G2, G3]
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-12"></a>
-
-## 12. Appointment route: get HR involved early
-
-*Source handbook page 12 of 31 (combined PDF page 72).*
-
-Appointment route: get HR involved
-early
-What must be true
-The approved UK institution must offer an eligible academic or research position: the role’s
-main purpose or eligible leadership responsibility must fit the rules. The job description should
-require a PhD or equivalent research experience. A university employer alone does not make
-every post eligible. [R2]
-
-Ask HR about the actual recruitment process
-   You have accepted the qualifying offer.
-
-   Recruitment was open competition, or HR explains an allowed exception.
-
-   At least two references were received.
-
-   At least three academic, research or innovation representatives were involved in the
-   interview panel.
-
-   A relevant expert was involved or consulted as required. [R2]
-
-Documents to arrange
-   Full job description demonstrating the relevant academic or research requirements.
-
-   Statement of guarantee from the HR director or equivalent covering the required role and
-   recruitment confirmations.
-
-   Current official application instructions and any identity information required.
-
-How to approach the employer
-Before assuming a role qualifies, ask the recruiting department and HR whether the institution
-and post meet the Global Talent appointment route, who can issue the guarantee and what
-recruitment records exist. Keep the response with your route audit.
-
-Do not ask a manager to write a generic character reference in place of the formal guarantee.
-Confirm requirements before relying on an offer or resigning from other work.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-13"></a>
-
-## 13. UKRI funded role: check all the conditions
-
-*Source handbook page 13 of 31 (combined PDF page 73).*
-
-UKRI funded role: check all the
-conditions
-The grant and host
-   Funder is on the endorsed funder list and UK employing or hosting organisation is approved.
-
-   Award is at least £30,000 and covers at least two years.
-
-   Award is a one off grant or a renewable award with regular peer review.
-
-   At least one year remains on employment or hosting agreement.
-
-   At least half of agreed working time is on qualifying grant work. [R4]
-
-Your actual role matters
-A research leader needs a PhD or equivalent research experience and must meet the grant
-naming or job title condition. A contributor developing technology or methodology needs the
-specified research experience and degree or equivalent experience conditions. Contributor
-recruitment must be confirmed where the person was not specifically named. [R4, R6]
-
-Arrange two kinds of confirmation
-   Approved award database link establishing grant details, or the required letter from the
-   endorsed funder if the award is not in an approved database.
-
-   HR director or equivalent guarantee confirming position and department, accepted role or
-   hosting agreement, essential contribution, working time and required recruitment details.
-
-A simple employment contract is not a substitute for the required guarantee. Do not assume a
-studentship, a Nigerian funder or a UK university automatically appears on the approved lists.
-Check the exact names. [R6, R7]
-
-For qualifying principal or co investigators relying on more than one grant, check the
-aggregation rules and supply the documents for every grant relied on.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-14"></a>
-
-## 14. Fellowship and peer review: different strategies
-
-*Source handbook page 14 of 31 (combined PDF page 74).*
-
-Fellowship and peer review: different
-strategies
-Approved fellowship
-Check the exact fellowship name on the current official approved list. This route can apply
-when you currently hold it or held it within the last five years. Retain the award confirmation
-and the precise programme and award dates. A scholarship, PhD studentship or ordinary grant
-is not automatically an approved fellowship. [R3]
-
-Peer review
-You must be an active researcher in an approved discipline, with a PhD or equivalent research
-experience, and demonstrate exceptional talent or promise. Promise also requires an early
-career stage. No job offer is required. [R5]
-
-Develop substance rather than a paper count
-   A rigorous research contribution with documented personal role and credible reception.
-
-   For promise: achievements interpreted against career stage, such as significant
-   contribution, relevant recognition or fellowship related funding where applicable.
-
-   For talent: established leadership, significant funding or prestigious recognition where
-   relevant.
-
-What to submit
-Follow the current form: peer review uses a CV of up to three A4 pages and the prescribed
-eminent person letter or letters. It specifically says no other evidence is required. Do not
-attach the arts or technology ten item bundle. [R5]
-
-Maintain a larger research record for your own CV accuracy and for experts to understand your
-work; that does not mean sending every paper, certificate or conference photograph to the
-assessor.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-15"></a>
-
-## 15. Nigeria research opportunities: make it specific
-
-*Source handbook page 15 of 31 (combined PDF page 75).*
-
-Nigeria research opportunities: make
-it specific
- Field and example                A useful first approach
-
- African language NLP —           Read active work and public repositories; identify a
- Masakhane                        reproducibility, evaluation or language resource gap. Propose
-                                  a scoped contribution and ask about data licensing and
-                                  community process. [R8]
-
- Agriculture or food systems —    Review its research themes and actual vacancies. Match crop,
- IITA                             climate, nutrition or policy expertise to a genuine research
-                                  project; use the official employer portal. [R9, R10]
-
- Genomics — IGH and ACEGID        Read the institute’s actual research and training work.
-                                  Approach a suitable team with relevant laboratory,
-                                  bioinformatics or public health skills and a defined question.
-                                  [R11]
-
- Your Nigerian university or      Ask a former supervisor about an active study, unresolved
- institute                        methodological problem or UK collaboration. Offer a defined
-                                  analysis, not a request for honorary authorship.
-
-Remote work can be useful when it is real
-For an existing UK based researcher, a properly governed Nigerian collaboration may yield
-relevant methods, data or publications. Agree ethics, data access, ownership, supervision,
-authorship and your UK permission conditions before starting.
-
-What to retain
-Project scope, contribution log, approvals, code or methods, analysis decisions, draft history
-and accurate publication status. A Nigerian collaborator can verify research contributions; peer
-review’s main recommender still has its own UK residence requirement.
-
-These organisations are examples to investigate, not a statement that each is an approved UK
-host, an endorsed funder or currently recruiting for a qualifying role.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-16"></a>
-
-## 16. UK research opportunities: target teams and roles
-
-*Source handbook page 16 of 31 (combined PDF page 76).*
-
-UK research opportunities: target
-teams and roles
-Search for the research fit first
-Lancaster’s Data Science and Artificial Intelligence Institute is an example of an
-interdisciplinary research environment. Its mathematics research degree pages provide one
-route to investigate appropriate supervisors and funding. Manchester’s Centre for Digital
-Development provides another subject specific PhD starting point. [R12–R14]
-
-A repeatable search process
-   Choose a precise topic and read two or three recent outputs by a potential team. Identify
-   why your Nigerian experience adds research value.
-
-   Read actual university or institute vacancy pages for research assistant, research associate,
-   postdoctoral, research software or specialist roles. Job titles are leads, not eligibility
-   decisions.
-
-   For a PhD, check supervisor fit, methods training, funding for international fees, stipend,
-   duration and visa conditions. Do not assume a listed studentship covers every applicant.
-
-   For a funded job, ask the principal investigator for the award reference and HR about the
-   applicable Global Talent route before relying on it.
-
-Use UKRI correctly
-The funding finder identifies calls and schemes, not a list of jobs or automatically qualifying
-grants. Often the institution, not an individual newcomer, submits an application. Confirm
-applicant eligibility, host approval and the exact award conditions. [R15]
-
-Build a useful first contact
-Send a short factual account of research experience, the specific paper or project that interests
-you, the methodological contribution you could make and availability. For jobs, use the
-advertised recruitment process. A mass email requesting a visa letter is unlikely to establish a
-research relationship.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-17"></a>
-
-## 17. A concrete UK–Nigeria research project
-
-*Source handbook page 17 of 31 (combined PDF page 77).*
-
-A concrete UK–Nigeria research project
-Illustrative example: language technology
-A Nigerian researcher with relevant methods experience identifies an evaluation gap for a
-Nigerian language. They discuss scope with a suitable research community and a UK team
-whose published work fits the question. This example is a research method, not a guaranteed
-endorsement route.
-
- Step                       Work and records
-
- Question                   Specify what existing evaluations miss and who benefits. Review prior
-                            work before collecting data.
-
- Governance                 Agree licences, consent, data protection, ethics, authorship and cross
-                            border access with the institution.
-
- Method                     Define baselines, evaluation design, error analysis and reproducible code.
-                            Record your actual contribution.
-
- Delivery                   Share a documented dataset or method where permitted; submit work to
-                            an appropriate legitimate venue.
-
- Recognition                Record acceptance or publication accurately, independent use,
-                            collaboration and subsequent research outcomes.
-
- Route review               If a qualifying grant or appointment arises, verify it with HR. Otherwise
-                            review the peer review standard against the whole research career.
-
-
-A similar structure can work for crop disease modelling with agricultural researchers or a public
-health analysis with an appropriate genomics team. The question, approvals, competence and
-data permissions must fit the field.
-
-Do not buy authorship, invent citations or use predatory publishing to create a paper count.
-Submitted, accepted, preprint and peer reviewed publication are different statuses and should
-be labelled accurately.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-18"></a>
-
-## 18. Research letters: the right person for the route
-
-*Source handbook page 18 of 31 (combined PDF page 78).*
-
-Research letters: the right person for
-the route
- Route                            Required supporter or document
-
- Appointment                      HR director or equivalent guarantee, plus job description. An
-                                  academic reference alone does not replace it.
-
- Approved fellowship              Required fellowship award confirmation; follow the exact
-                                  scheme instructions.
-
- UKRI funded role                 Approved award confirmation or funder letter, plus the HR
-                                  guarantee.
-
- Peer review — both               An eminent person living in the UK, with internationally
- categories                       recognised field expertise, who knows you and your work.
-
- Peer review — talent             A different eminent senior member of a UK organisation giving
- additionally                     an objective expert assessment; personal acquaintance is not
-                                  required.
-
-Peer review letter checks
-Main letter: application specific; relationship, exceptional standing, UK benefit, contribution
-and future plans. Typed, dated, signed, up to three A4 pages excluding credentials and
-contacts, with author credentials, phone and email and applicable organisation details. [R5]
-
-Talent’s second letter: different author; senior UK organisational status stated; assessment of
-talent and UK research contribution; required statement that assessment is not influenced by
-personal knowledge. Check its separate signature, credentials, contact and page
-requirements. [R5]
-
-How to develop an appropriate relationship
-Work substantively with a relevant UK researcher through a project, methods collaboration or
-professional research exchange. Give them enough genuine knowledge to assess your
-contribution. Being Nigerian is not a bar to recommending: the relevant residence, expertise
-and route requirements govern.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-19"></a>
-
-## 19. First 90 days: choose a realistic research route
-
-*Source handbook page 19 of 31 (combined PDF page 79).*
-
-First 90 days: choose a realistic
-research route
-Days 1–14: audit the starting point
-   List degree and research experience, publications with status, personal contributions,
-   research breaks, current role, grant references and current immigration permission.
-
-   Check appointment, fellowship and funded role conditions before defaulting to peer review.
-   Confirm the approved discipline.
-
-Days 15–30: identify a credible next step
-   If job seeking: shortlist research teams and advertised posts that match methods you can
-   demonstrate. If considering a PhD: assess supervision and full funding, not only admission.
-
-   If already researching: agree a specific output and realistic contribution with the principal
-   investigator. Check approvals and authorship.
-
-Days 31–60: deliver meaningful work
-   Complete a reproducible analysis, method, pilot or other agreed milestone. Seek technical
-   feedback and document changes.
-
-   Explore one well matched Nigerian collaboration and one UK research environment. Use
-   advertised recruitment for jobs and official applications for fellowships.
-
-Days 61–90: review the actual evidence
-   Ask HR and research office to verify any proposed fast track route against the exact grant or
-   post.
-
-   For peer review, assess whether an eligible UK expert genuinely knows the work and
-   whether research standing is already sufficient.
-
-   Set the next milestone and close specific gaps. Avoid spending on publicity or conferences
-   merely to fill an evidence folder.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-20"></a>
-
-## 20. Research development plan — months 1–12
-
-*Source handbook page 20 of 31 (combined PDF page 80).*
-
-Research development plan — months
-1–12
-Suggested working plan. Each row covers three months; the deliverables are development
-targets, not visa quotas. Keep your existing Nigerian record in the audit.
-
-Months 1–3
-Audit research experience and existing Nigerian outputs; select the applicable route or
-research gap. Check PhD funding or job fit and agree a substantive project.
-
-   Keep: Contribution history, current award or role records, approvals, research question and
-   route decision.
-
-Months 4–6
-Deliver a reproducible pilot or research milestone with proper supervision, methods and data
-permissions. Apply for suitable advertised roles if relevant.
-
-   Keep: Methods, code, analysis log, supervisor feedback and accurate job application
-   records.
-
-Months 7–9
-Refine findings and seek legitimate seminar, conference or publication review. Deepen a
-substantive UK–Nigeria collaboration.
-
-   Keep: Review feedback, authorship agreement, programme or manuscript status and
-   methodological contribution.
-
-Months 10–12
-Recheck appointment, fellowship and grant options with HR. If eligible now, assess whether
-waiting longer serves any purpose.
-
-   Keep: Exact award and host confirmation, contract time, working allocation or documented
-   remaining gaps.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-21"></a>
-
-## 21. Research development plan — months 13–24
-
-*Source handbook page 21 of 31 (combined PDF page 81).*
-
-Research development plan — months
-13–24
-Suggested working plan. Each row covers three months; the deliverables are development
-targets, not visa quotas. Keep your existing Nigerian record in the audit.
-
-Months 13–15
-Progress the next research output or funded project. PhD candidates review milestones and
-future roles, without assuming 24 months grants eligibility.
-
-   Keep: Publication or dataset status, documented personal work, grant decisions and study
-   progression.
-
-Months 16–18
-Review research standing and UK contribution with knowledgeable experts. Choose fast track
-documents or peer review preparation, not a generic evidence pack.
-
-   Keep: HR eligibility review or research CV assessment and appropriate eminent person
-   relationship.
-
-Months 19–21
-Arrange current route documents. Peer review candidates confirm the main UK resident
-expert; talent also arranges the separate objective assessment.
-
-   Keep: Correct guarantee or award confirmation, or compliant expert letter or letters and
-   credentials.
-
-Months 22–24
-Refresh approved lists and immigration conditions. Submit only route required documents if
-eligible; otherwise continue substantive research against named gaps.
-
-   Keep: Final CV where required, current official requirements, full submission copy and
-   receipts.
-
-At month 24, apply only if the current requirements are met. Otherwise extend the plan around
-named gaps. An eligible fast track research opportunity may allow an earlier application.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-22"></a>
-
-## 22. Research full readiness checklist
-
-*Source handbook page 22 of 31 (combined PDF page 82).*
-
-Research full readiness checklist
-For every research application
-   Correct route, approved discipline and current eligibility checked.
-
-   Actual personal research contribution and publication status are accurate.
-
-   No PhD, job title or institutional name treated as automatic eligibility.
-
-Appointment route
-   Approved institution, eligible role and job description confirmed.
-
-   HR guarantee covers accepted role and all required recruitment conditions.
-
-Approved fellowship route
-   Exact fellowship is on the approved list and award dates fall within the permitted period.
-
-   Required award confirmation available.
-
-UKRI endorsed funder route
-   Exact funder, UK host and grant approved; award amount, duration and type confirmed.
-
-   At least one year remains on agreement; qualifying working time is at least half.
-
-   Role, degree or equivalent research experience and recruitment requirements met.
-
-   Award database record or funder letter plus full HR guarantee available.
-
-Peer review route
-   Active research, PhD or equivalent experience and exceptional standing established;
-   promise career stage checked.
-
-   CV within three A4 pages; eligible main UK resident eminent expert letter available.
-
-   Talent additional objective assessment from different eligible expert available.
-
-   No extra evidence bundle added contrary to the peer review instructions.
-
-   Current switching conditions, fees, endorsement timing and immigration permission
-   checked.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-23"></a>
-
-## 23. Applying and checking your UK permission
-
-*Source handbook page 23 of 31 (combined PDF page 83).*
-
-Applying and checking your UK
-permission
-1. Refresh the exact rules
-Applicants must be at least 18. Use the official pathway pages in this guide’s source section
-and follow their live link to the endorsement application. Verify current criteria, evidence limits
-and forms before paying. A named winner of an exact eligible prestigious prize may use the
-separate no endorsement route. [G1, G3]
-
-2. Prepare and submit the endorsement application
-Select the correct field and category, supply only the required documents and follow the live
-online instructions. Keep the final submitted file set, reference numbers and receipts.
-Development suggestions in this guide are not text to paste into application documents.
-
-3. Plan the visa application separately
-Endorsement is not immigration permission. If applying after endorsement, normally apply for
-the visa within three months of the endorsement date. Check whether you may switch from
-your current category and whether any Student conditions apply. [G1, G2]
-
-4. Check fees and identity documents
-Checked 23 October 2026: the standard total main applicant fee is £766, normally £561 for
-endorsement and £205 for the visa. Adult immigration health surcharge is usually £1,035 for
-each year granted; dependants apply and pay separately. Verify the current calculation before
-payment. [G1]
-
-Follow the visa form for passport or identity documents, endorsement details, certified
-translations and any relevant TB or other required evidence. A Nigerian passport does not by
-itself decide whether a TB certificate is needed; recent residence history and the rules matter.
-[G4]
-
-5. Protect the immigration timeline
-An endorsement application alone does not extend UK permission. If expiry, switching
-restrictions or travel could affect your position, obtain individual advice before relying on a
-plan. Keep Home Office decision messages and comply with identity or biometric requests.
-[G2, G3]
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-24"></a>
-
-## 24. Submit the endorsement application step by step
-
-*Source handbook page 24 of 31 (combined PDF page 84).*
-
-Submit the endorsement application
-step by step
-1 Open the official route instructions
-Official research starting page
-https://www.gov.uk/global-talent-researcher-academic
-
-
-Use the Apply for endorsement link on the relevant route page. Research applicants select the
-actual appointment, fellowship, funded or peer review route. This is Stage 1; it is different from
-applying for immigration permission.
-
-2 Start the Home Office endorsement form
-Home Office endorsement service
-https://visas-immigration.service.gov.uk/product/global-talent-endorsement
-
-
-Follow the form to create or access the application. Use an email you control, enter identity
-details exactly and save the access or return information securely. Select the correct field,
-assessing body, route and category when asked. [U1]
-
-3 Complete and check every section
-Answer the current questions truthfully. Technology applicants prepare personal statement
-responses themselves. Use the live form’s document categories, file format and size limits;
-these can change and are not the same as the pathway’s evidence page caps.
-
-4 Pay and follow the generated submission instructions
-Pay the endorsement fee shown and save the receipt and application reference. Complete the
-required document upload or delivery process displayed by the form or confirmation email. Do
-not assume paying alone submits every document, and do not use an old third party portal or
-guessed email address.
-
-5 Save the completed record
-Retain the submitted form, exact file set, confirmation, references and any response deadline.
-Check email and junk folders for document requests or the decision. Respond through the
-contact or method in the genuine official message.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-25"></a>
-
-## 25. Before endorsement submission use this checklist
-
-*Source handbook page 25 of 31 (combined PDF page 85).*
-
-Before endorsement submission use
-this checklist
-Route and facts
-   Correct pathway, sub route, discipline and category selected.
-
-   Current eligibility checked, rather than relying only on activity targets.
-
-   Name, dates, role, contribution and outcomes agree across every document.
-
-Required pack
-   Every applicable item on this pathway’s requirements register is Ready.
-
-   Letters or institutional guarantees are issued by the correct people and signed as required.
-
-   Author credentials, contacts, letterhead and required relationship details checked.
-
-   Evidence counts, page limits, time windows, geography and attribution checked.
-
-   Conditional items marked Not applicable only with a valid reason.
-
-   Originals, translations and authentic signing records handled under current instructions.
-
-Online handoff
-   Each final PDF opens, is readable and matches the intended upload slot.
-
-   Form questions and declarations checked; technology no AI and no template instructions
-   followed where applicable.
-
-   Fee receipt and reference saved.
-
-   Every required upload or document delivery step completed and confirmation retained.
-
-   Requests and decision emails monitored; endorsement date recorded for visa timing.
-
-A ready document pack does not guarantee endorsement. The assessor must also accept the
-evidence and eligibility. The next checklist concerns the separate visa stage.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-26"></a>
-
-## 26. Apply for the visa after endorsement
-
-*Source handbook page 26 of 31 (combined PDF page 86).*
-
-Apply for the visa after endorsement
-1 Choose the correct location route
-Already in the UK and eligible to switch
-https://www.gov.uk/global-talent/switch-to-this-visa
-
-
-Applying from Nigeria or another country outside the UK
-https://www.gov.uk/global-talent/apply-from-outside-the-uk
-
-
-Open the applicable page and choose Start now. Check switching restrictions and current
-permission first. If applying after endorsement, normally apply within three months of its date
-and ensure it has not been withdrawn. [G2, U3]
-
-2 Prepare identity and conditional documents
-Have your valid passport or travel document, endorsement decision details, immigration
-history and information the form requests. Check the official visa document page for
-translations, any applicable TB certificate and other conditions. Family members make
-separate applications. [G4]
-
-3 Complete the visa form and payments
-Select Global Talent and the correct application location. Enter the endorsement details,
-requested period and other answers accurately. Review the application and pay the displayed
-visa fee and health surcharge where due. Save receipts and application references.
-
-4 Complete the identity route assigned to you
-The form tells you whether to use UK Immigration ID Check or attend the appropriate biometric
-appointment. Do not assume every Nigerian passport holder can use the app. Follow the
-genuine account instructions for uploads and identity checks. [G2, U3]
-
-5 Monitor and retain the decision
-Keep confirmation of identity and documents, monitor messages and follow the decision
-instructions for your status. For an in country switch, check the restriction on travel while a
-decision is pending. Endorsement alone is not permission to remain. [G2]
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-27"></a>
-
-## 27. Visa stage checklist and application follow up
-
-*Source handbook page 27 of 31 (combined PDF page 87).*
-
-Visa stage checklist and application
-follow up
-Visa readiness
-   Endorsement decision received, date and details recorded; application within the permitted
-   period if applying afterwards.
-
-   In country switching eligibility or correct overseas application confirmed.
-
-   Passport details, immigration history and application answers checked.
-
-   Translations, TB certificate or other conditional visa documents included when required.
-
-   Relevant dependant applications and costs considered separately.
-
-After submitting
-   Visa fee and applicable health surcharge paid; receipts saved.
-
-   Identity app process or assigned biometrics appointment completed.
-
-   Requested supporting documents submitted, with confirmation retained.
-
-   Current permission and any pending application travel conditions checked.
-
-   Email, junk folder and official account monitored for further requests.
-
-If there is a delay or missing confirmation
-First check the account and acknowledgement for required steps or a response deadline. For a
-technical or case enquiry use the official UKVI contact service or the genuine contact route in
-your acknowledgement. Include reference number, date and a concise description; never
-disclose passwords or verification codes. [U6]
-
-Official UKVI contact service
-https://www.gov.uk/contact-ukvi-inside-outside-uk
-
-
-If endorsement is refused, read the decision and the pathway’s current review instructions. A
-review and a fresh application are different processes. Do not send a new evidence bundle
-through an old acknowledgement unless the official instructions allow it.
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-28"></a>
-
-## 28. Sources and directory 1 of 4
-
-*Source handbook page 28 of 31 (combined PDF page 88).*
-
-Sources and directory 1 of 4
-Research checked 23 October 2026. These external links are for verification; the contents and
-footer links navigate inside the guide. Opportunity pages are not promises of an open call or a
-qualifying visa record.
-
-[G1] Global Talent overview
-https://www.gov.uk/global-talent
-
-
-[G2] Switching and Student conditions
-https://www.gov.uk/global-talent/switch-to-this-visa
-
-
-[G3] Immigration Rules Appendix Global Talent
-https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-global-talent
-
-
-[G4] Visa identity and document requirements
-https://www.gov.uk/global-talent/documents-youll-need-to-apply
-
-
-[R1] Research routes overview
-https://www.gov.uk/global-talent-researcher-academic
-
-
-[R2] Academic or research appointment
-https://www.gov.uk/global-talent-researcher-academic/academic-or-researcher
-
-
-[R3] Approved fellowship route
-https://www.gov.uk/global-talent-researcher-academic/individual-fellowship
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-29"></a>
-
-## 29. Sources and directory 2 of 4
-
-*Source handbook page 29 of 31 (combined PDF page 89).*
-
-Sources and directory 2 of 4
-Research checked 23 October 2026. These external links are for verification; the contents and
-footer links navigate inside the guide. Opportunity pages are not promises of an open call or a
-qualifying visa record.
-
-[R4] UKRI endorsed funder conditions
-https://www.gov.uk/global-talent-researcher-academic/uk-research-innovation-endorsement
-
-
-[R5] Peer review conditions and letters
-https://www.gov.uk/global-talent-researcher-academic/peer-review
-
-
-[R6] UKRI explanation and links to approved lists
-https://www.ukri.org/apply-for-funding/getting-a-global-talent-visa-to-do-research-in-the-uk/
-
-
-[R7] Approved UKRI employing or hosting institutions
-https://www.gov.uk/government/publications/ukri-endorsement-employing-or-hosting-institutions-global-talent-v
-isa
-
-
-[R8] Masakhane African language research community
-https://www.masakhane.io/
-
-
-[R9] IITA research themes
-https://iita.org/research/our-research-themes/
-
-
-[R10] IITA employer vacancy portal
-https://apply.workable.com/iita/
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-30"></a>
-
-## 30. Sources and directory 3 of 4
-
-*Source handbook page 30 of 31 (combined PDF page 90).*
-
-Sources and directory 3 of 4
-Research checked 23 October 2026. These external links are for verification; the contents and
-footer links navigate inside the guide. Opportunity pages are not promises of an open call or a
-qualifying visa record.
-
-[R11] Institute of Genomics and Global Health ACEGID
-https://ighresearch.org/en/acegid/
-
-
-[R12] Lancaster Data Science and AI Institute
-https://www.lancaster.ac.uk/data-science-and-artificial-intelligence/
-
-
-[R13] Lancaster research degree opportunities
-https://www.lancaster.ac.uk/maths/study/phd/
-
-
-[R14] Manchester Centre for Digital Development PhDs
-https://www.cdd.manchester.ac.uk/study/postgraduate-research/
-
-
-[R15] UKRI funding finder
-https://www.ukri.org/opportunity/
-
-
-[U1] Home Office endorsement application
-https://visas-immigration.service.gov.uk/product/global-talent-endorsement
-
-
-[U2] Technology endorsement instructions
-https://www.gov.uk/global-talent-digital-technology/apply-for-endorsement
-
-[↑ Contents](#contents)
-
----
-
-<a id="section-31"></a>
-
-## 31. Sources and directory 4 of 4
-
-*Source handbook page 31 of 31 (combined PDF page 91).*
-
-Sources and directory 4 of 4
-Research checked 23 October 2026. These external links are for verification; the contents and
-footer links navigate inside the guide. Opportunity pages are not promises of an open call or a
-qualifying visa record.
-
-[U3] Visa application from outside the UK
-https://www.gov.uk/global-talent/apply-from-outside-the-uk
-
-
-[U4] Docusign sending instructions
-https://www.docusign.com/en-gb/blog/how-to-send-documents-securely-docusign-envelopes-bulk-send-powerfor
-ms
-
-
-[U5] Docusign completion certificate and history
-https://support.docusign.com/s/document-item?bundleId=oeq1643226594604&language=en_US&topicId=zqd1
-578456343466.html
-
-
-[U6] Official UKVI contact route
-https://www.gov.uk/contact-ukvi-inside-outside-uk
-
-[↑ Contents](#contents)
-
----
-
-## Editorial and publication notes
-
-- Source: *Mettelo UK Global Talent Visa Guide*, 91-page combined PDF, **Academia and Research pathway on pages 61–91**, original check date 23 October 2026.
-- All 31 source pages were transferred in their original order; formatting, tables, application steps and live official requirements still need a detailed editorial review before marking this resource fully published.
-- Original source directory references are retained for provenance, but third-party opportunity links do not guarantee that programmes are currently open.
-- This resource provides general educational information and is not regulated immigration advice. The applicable immigration rules and endorsing-body guidance take priority.
-
-**Prepared by Johnson Taiwo for Mettelo.**
+## 7. Route-specific evidence and submission checks
+
+| Route | Exact working documents | Source of truth |
+| --- | --- | --- |
+| **1** | Full eligible job description + signed HR Director statement meeting role and recruitment requirements | Approved UK employer HR |
+| **2** | Approved individual fellowship **award letter** matching exact scheme and dates | Actual award issuer + official eligible list |
+| **3** | Eligible grant record, approved funder/host, role/working-time and contract confirmations | Authorised PI/grants office/HR |
+| **4 Promise** | Up-to-three-A4-side academic CV and properly authored **personal UK-resident eminent expert** letter plus credentials | Real expert and [GOV.UK peer-review checklist](https://www.gov.uk/global-talent-researcher-academic/peer-review) |
+| **4 Talent** | Research CV, personal eminent UK-resident expert letter **and** separate objective eminent UK senior-organisation expert letter | Qualified independent experts and same official checklist |
+
+### Private evidence register
+
+| Claim | What I actually did | Supporting primary record | External assessment | Correct route | Gap |
+| --- | --- | --- | --- | --- | --- |
+| [Original methods research] | [My contribution] | [Study/reproducibility record] | [Genuine reviewer] | [4 if eligible] | [Gap] |
+| [Eligible awarded fellowship] | [Award recipient] | [Exact award letter] | [Approved scheme listing] | [2 if eligible] | [Gap] |
+| [Approved funded research role] | [Actual research duties] | [Grant/host records] | [PI/HR confirmation] | [3 if eligible] | [Gap] |
+| [Eligible accepted appointment] | [Real research role] | [Job description] | [HR guarantee] | [1 if eligible] | [Gap] |
+
+### Application readiness gate
+
+- [ ] One exact route selected and currently applicable.
+- [ ] Talent/Promise stage correctly assessed where relevant.
+- [ ] Genuine applicant research role, education/experience and field eligibility.
+- [ ] All route-specific documents, formats, signatures and institutional conditions met.
+- [ ] Fellowship **named scheme** and funder **approved list** independently checked.
+- [ ] Verified expert knowledge and letter distinction on full peer review.
+- [ ] No fictitious grants, invented publications, plagiarised research, purchased endorsements or forged HR statements.
+- [ ] Research ethics, private participant/patient data and publication licences handled correctly.
+- [ ] Current immigration permission, visa stage, fees and dependants reviewed separately.
+
+### Official sources
+
+- [GOV.UK academia and research overview](https://www.gov.uk/global-talent-researcher-academic/overview)
+- [GOV.UK academic/research appointments](https://www.gov.uk/global-talent-researcher-academic/academic-or-researcher)
+- [GOV.UK approved fellowships](https://www.gov.uk/global-talent-researcher-academic/individual-fellowship)
+- [GOV.UK UKRI endorsed funder](https://www.gov.uk/global-talent-researcher-academic/uk-research-innovation-endorsement)
+- [GOV.UK full peer review](https://www.gov.uk/global-talent-researcher-academic/peer-review)
+- [Immigration Rules Appendix Global Talent — updated 29 October 2026](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-global-talent)
+- [Royal Society route decision tree](https://royalsociety.org/grants/global-talent-visa-overview/which-route-is-right-for-me/)
+- [Royal Society research appointments and approved hosts](https://royalsociety.org/grants/global-talent-visa-overview/route-1-academic-and-research-appointments/)
+- [Approved named individual fellowships](https://royalsociety.org/grants/global-talent-visa-overview/route-2-individual-fellowships/)
+- [UKRI endorsed funders list](https://www.gov.uk/government/publications/ukri-endorsement-endorsed-funders-global-talent-visa)
+- [UKRI Gateway to Research refresh — 4 November 2026](https://www.ukri.org/news/ukri-launches-faster-easier-to-use-gateway-to-research/)
+
+### Provenance and editorial status
+
+**Original 31-page Mettelo handbook (October 2026):** [preserved archive](academia-and-research-original-2026.md) retains the initial research-route guidance, original 24-month content and DocuSign material. This enhanced guide **does not silently replace or claim to reproduce every original page**.
+
+**New November 2026 content:** Beginner-focused introduction, four-route decision table, explicit job/fellowship/grant/peer-review checklists, named organisations and real opportunity methods, research integrity guidance, 90-day plan, 24 monthly practical action entries, five direct outreach processes and route-specific document register. These are professional-development suggestions, not eligibility conditions.
+
+**Publication status: Enhanced researched draft.** Official eligibility was checked against live November 2026 government and relevant assessor material. A final legal-text audit, research-opportunity deadline check, Markdown rendering and link validation remain outstanding. Applying for **endorsement alone** is not immigration permission. Seek suitably regulated advice on personal immigration deadlines.
+
+**Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**

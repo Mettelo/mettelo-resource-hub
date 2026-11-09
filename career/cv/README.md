@@ -10,8 +10,10 @@ A complete, copy-friendly Markdown edition of the Mettelo CV development guide. 
 
 **Source edition:** Simplified edition 2, 23 October 2026. **Status:** Published.
 
-## Coming next
+## Available template
 
-- `cv-template.md` — reusable CV structure (conversion pending).
+### [CV Template — copyable Markdown](cv-template.md)
 
-The original Word template remains separate until it has been converted and checked.
+A blank, adaptable CV structure covering a professional profile, skills, experience, projects, education and certifications. Converted from the original Word template.
+
+**Status:** Published. The Markdown version contains the original placeholders but does not reproduce Word page layout.

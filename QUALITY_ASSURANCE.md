@@ -1,111 +1,128 @@
-# Mettelo Resource Hub — Navigation and Quality Assurance Review
+# Mettelo Resource Hub — Editorial and Quality Assurance Register
 
-[🏠 Home](README.md) · [⭐ Start here](START_HERE.md) · [Complete directory](RESOURCE_INDEX.md)
+**Repository:** `Mettelo/mettelo-resource-hub` · **Main review:** 9 November 2026  
+[🏠 Home](README.md) · [Start Here](START_HERE.md) · [Complete directory](RESOURCE_INDEX.md) · [Contribution rules](CONTRIBUTING.md)
 
-**Review date:** 9 November 2026  
-**Scope:** Connected GitHub repository `Mettelo/mettelo-resource-hub`, `main` branch, current Markdown documents and navigation pages.  
-**Status:** **Navigation improvements implemented. Content QA remains open in specified areas.** This document is an honest issue register, not a certificate that all legal/technical content or external URLs is independently verified.
+> **Overall status: Structured content improvements completed; independent publication certification still pending.** All **47 known active Markdown documents** were assessed for document structure and cross-file navigation; key source-extracted resources were substantially rewritten or augmented. This register distinguishes **what was actually improved and tested** from legal, technical, source-fidelity and external-link checks that have **not** been completed exhaustively. It is not a certificate of official NHS, Civil Service, immigration or technical endorsement.
 
-## Summary: what was actually checked
+## Executive summary
 
-| Check | Scope and test | Result |
+| Measure | Result | Limit |
 | --- | --- | --- |
-| Homepage clarity | Reviewed the old root README against the current resource collection | **Fixed:** removed false claim that guides had not been converted; added goal-based menus |
-| First-time user flow | Created a [Start Here](START_HERE.md) task selector and a [complete directory](RESOURCE_INDEX.md) | **Fixed:** direct routes from goal → guide → supporting template |
-| Category navigation | Inspected and rewrote career, technical, UK careers and immigration menus and specialist category pages | **Fixed:** consistent home/category/starting links and clearer labels |
-| Deep-page return links | Added a standard **Find your way around** footer to 30 current guides/checklists/templates (preserved original archives) | **Fixed:** readers can return directly to category, Start Here, directory or home |
-| Internal relative file links | Checked **491 relative links** across **17 navigation pages and 33 guide/archival files** against the inventory of their known repository destinations | **No missing destinations found** by the text/path inspection |
-| In-page table-of-contents anchors | Checked **562 in-document anchor links** across 33 resource files against their explicit ids/headings using a Markdown slug approximation | **No unresolved anchors found** by the text inspection |
-| Publication statuses | Compared prominent root/category claims with actual work completed | **Fixed:** reclassified drafts and enhanced guides instead of implying all are verified |
-| Repository visibility | Checked connected GitHub metadata on 9 November 2026 | **Private** on main branch; reader access remains restricted until explicitly changed |
-| Original-source preservation | Checked earlier source files for all three enhanced Global Talent pathways | **Retained in Git history**; duplicates removed from working tree |
-| Interactive companions | Checked navigation/document claims about Excel files | **Clarified:** tracker/catalogue guides exist, interactive original files not uploaded |
-| External links, live opportunity deadlines | **Not exhaustively tested** | **Open — high priority** |
-| Full original-to-Markdown fidelity | **Not exhaustively tested** | **Open — high priority** |
-| Rendered GitHub mobile experience | Text structure and links reviewed; live visual/device rendering **not** exhaustively tested | **Open — medium priority** |
-| Immigration legal review | A final current-rule-by-rule expert verification was **not** performed in this navigation pass | **Open — high priority** |
+| Active Markdown files in reviewed inventory | **47**: 19 navigation/administrative pages + **28** main guides, templates and checklists | Files outside this known inventory, non-Markdown assets and GitHub-rendered browser view are not covered |
+| Internal relative links checked after edits | **541** across 47 active documents | Text-based path resolution against current inventory; not an authenticated browser click test |
+| Missing internal file destinations | **0** | External links may still redirect or expire |
+| In-page anchor links checked in content files | **251** across 28 content documents; no unresolved headings found by Markdown-slug approximation | GitHub's exact rendered slugs, duplicated heading IDs and nonstandard HTML need a visual sample check |
+| Unbalanced Markdown code fences | **None observed** in 28 content-document checks | Does not guarantee every command works |
+| Global Talent month entries | **24 each** for Digital Technology, Arts & Culture, Academia & Research | Activities are development suggestions, not official requirements |
+| Repository visibility | **Private** when last verified through connected GitHub metadata | Not yet a publicly accessible community site |
+| Original editions | Earlier contents recoverable via **Git commit history** | Not presented as duplicate current guides |
+| Standalone Excel trackers | **Not uploaded**; only Markdown instructions/checklists exist here | Excel calculations and dropdowns are not reproduced in Markdown |
 
-**Method limits:** Internal links were checked by extracting Markdown targets and normalising relative paths; anchor checking approximated GitHub heading slugs and recognised explicit `<a id>` anchors. These checks do **not** execute links in a logged-in browser, independently verify third-party sites or prove GitHub's rendered pages are visually perfect. Citation/reference syntax and nonstandard HTML links can require further manual inspection.
+### What “improved” means in this review
 
-## Content remediation — first guide improved (9 November 2026)
+- **Reconstructed:** Source text was previously flattened or hard to follow. It has been turned into coherent topic headings, tables, concrete actions, examples and copyable prompts or commands.
+- **Expanded:** A structurally useful guide was supplemented with precise practical activities, real sources, examples or safety checks.
+- **Reviewed and retained:** Existing structure was already coherent and usable. We checked it at a structural and content-planning level without unnecessarily rewriting it.
+- **Outstanding final QA:** Factual completeness against the original source, current rules, external URL status, expert/legal approval and rendered-device testing are separate tasks. Do not mark a guide **Published** merely because its Markdown structure passes.
 
-**CV Development Workflow — Edition 3:** The 11-page flat PDF extraction and earlier CV workflow were retained in Git history but removed as duplicate files from the current directory. The [single current CV Development Workflow](career/cv/cv-development-workflow-edition-3.md) was rebuilt with eight clear steps (preparation plus seven prompts), semantic Markdown headings, evidence-bank tables, seven usable prompt blocks, cross-industry examples, metrics verification, a fifteen-minute exercise and free official UK guidance. The original core methodology remains identified separately from the new editorial additions. **Editorial sign-off and real-user reading tests remain pending.**
+## A. Career development — resource-by-resource review
 
-## Duplicate-document consolidation — 9 November 2026
+| Official current resource | Action and concrete improvement | Editorial status / remaining risk |
+| --- | --- | --- |
+| [CV Development Workflow — Edition 3](career/cv/cv-development-workflow-edition-3.md) | Reconstructed 11-page extraction into seven-step evidence process; requirement mapping, role-by-role evidence, seven prompts, examples and official free guidance | **Enhanced draft**; candidate reading test/source comparison pending |
+| [General CV template](career/cv/cv-template.md) | Added first-job/changer/experienced guidance, a practical before/after bullet exercise; removed rigid 15–25-word bullet target | **Enhanced template**; check final Word/PDF rendering for real use |
+| [Data/AI/Technology CV template](career/cv/data-ai-technology-cv-template.md) | Combined two overlapping Word-source templates into **one current** clear Markdown technical template; role-specific tailoring and submission checks | **Consolidated template**; previous visual two-column design is not reproduced |
+| [Interview Preparation Workflow](career/interviews/interview-preparation-workflow.md) | Reviewed existing eight-step structure, copyable prompts, practice types, evidence checks and navigation; already substantive | **Reviewed and retained**; final factual source comparison pending |
+| [LinkedIn Profile Editing Guide](career/linkedin/linkedin-profile-guide.md) | Reviewed worked fictional example, role-specific edits, writing prompts and precautions; already provides meaningful practice | **Reviewed and retained**; platform-specific limits may change |
 
-**One active guide per topic is now the default.** The earlier CV Development Workflow files were removed previously. This pass removed three older Global Talent pathway source editions from the working tree and consolidated the two overlapping Data/AI CV templates into one specialist technical template. **Deleted content remains recoverable through Git commit history.**
+**Why these are separate:** A workflow teaches *how to develop evidence*; CV templates are optional output structures. The general and technical CV templates address different audiences and are not duplicate guides.
 
-The Global Talent checklists and tracker instructions are retained as **distinct companion tools**, not duplicate full guides. The GitHub Handbook (learning), Command Reference (lookup) and Contribution Guide (team policy) remain separate because they serve different purposes. The general CV template remains separate from the technical specialist template, likewise for different audiences. The Civil Service/NHS guides are shared by direct links rather than duplicated under both categories.
+## B. NHS and Civil Service — resource-by-resource review
 
-**New post-consolidation link audit (9 November 2026):** Checked **all 47 known active Markdown files**, including 19 navigation/policy pages and 28 current guide/template/checklist pages. **503 relative Markdown links** were checked against known repository destinations: **no missing file targets found**. Separately scanned all 47 for links to the six removed duplicate documents: **no stale Markdown links remained**. The general CV template had two broken links following the previous cleanup; both were fixed before the final audit. This is a file-path audit, not an external URL, actual browser-render, or complete heading-anchor audit. Final external-link, formatting and legal review still remains.
+| Resource | Earlier issue | Improvement completed |
+| --- | --- | --- |
+| [Public Sector Application Blueprint](uk-careers/public-sector-application-blueprint.md) | **31-page PDF page dump** with interleaved columns, over-simplified scoring and arbitrary formatting assumptions | Rebuilt as six clearly labelled parts (assessment, safe AI, employment history, statements, STAR/S.T.A.R.I.M™, common mistakes), with criterion tables and examples |
+| [Personal / Supporting Statement Guide](uk-careers/civil-service/personal-statement-guide.md) | Three-page prompt extraction; fixed 750/1,450-word assumptions and inconsistent anonymisation advice | Separate NHS and Civil Service pathways, exact criteria map, realistic paragraph plan, question-first drafting, safeguards for clinical and non-clinical roles |
+| [Employment History Guide](uk-careers/civil-service/employment-history-guide.md) | Three-page source had **7–12 bullets, >25 words, 6–10 projects per role** as rigid instructions | Correct chronology, distinct evidence-bank versus final bullets, flexible length, real duties/outcomes, sector-specific role boundaries |
+| [Civil Service Behaviour STAR Guide](uk-careers/civil-service/behaviour-ai-guide.md) | Two-page 250-word page dump with universal blind recruitment assumption | Official grade-aware behaviour definitions, example selection matrix, detailed Action/decision, fictional worked example and verification prompt |
+| [NHS/Civil Service Interview Guide](uk-careers/civil-service/interview-preparation-guide.md) | Two-page generic interview prompt; blanket 2–3-minute and “blind interview” assumptions | Actual invitation-first assessment plan, CS strengths versus behaviour/technical, NHS values, realistic follow-up questions, 30-minute mock and evidence check |
 
-## Improvements completed
+**High-value factual corrections:** Civil Service Success Profiles have multiple elements, and each vacancy specifies what is assessed. NHS supporting information commonly follows actual person-specification criteria, not a universal fixed-score template. Clinical scope, professional registration and patient outcomes cannot be invented. See [Civil Service Success Profiles](https://www.gov.uk/government/publications/success-profiles/success-profiles-civil-service-behaviours), [Civil Service statement guidance](https://www.civil-service-careers.gov.uk/how-to-write-your-ps/), [NHS Trust application guidance](https://www.covwarkpt.nhs.uk/application-guidance-) and [NHS Employers](https://www.nhsemployers.org/articles/values-based-recruitment).
 
-### 1. Homepage rebuilt
+**Publication status:** These five are now **enhanced drafts**; original source remains in Git history. A manual source-comparison pass and employer-rule check remain important. They are not official NHS or Civil Service publications.
 
-The [root README](README.md) now includes four clear area cards, popular starting points, basic instructions, status explanations, warnings and a link to corrections. It no longer claims no Markdown resources exist.
+## C. Technical resources and project delivery — resource-by-resource review
 
-### 2. A task-based starting page
+| Resource | Improvement / review finding | Remaining task |
+| --- | --- | --- |
+| [GitHub Practical Handbook](technical/github/github-handbook.md) | Existing five-stage practical learning sequence reviewed; added a defined end-to-end mini task, beginner mistakes and free official learning sources | Test exercises in a controlled demo repository |
+| [Git & GitHub Command Reference](technical/github/git-github-command-reference.md) | **Reconstructed flattened 11-page command source** into searchable topics, properly fenced shell commands, safe recovery/PR examples and risk levels | Hands-on command testing for referenced Git/CLI versions |
+| [GitHub Contribution Guide](technical/github/contribution-guide.md) | **Reconstructed full 16-page Word extraction** into 15 coherent policy chapters with properly formatted issue/PR templates and precise contributor roles | Source's original effective date is **blank**; obtain actual governance adoption/branch-protection confirmation |
+| [Project Charter & Delivery Framework](technical/project-documentation/project-charter-template.md) | **Reconstructed full 16-page Word source** into 15 readable sections, 20+ coherent tables, original RACI, QA, risk, formal approvals and handover | Owner sign-off and final line-by-line source comparison; blank charters are not approved |
+| [Weekly Project Update](technical/project-documentation/weekly-update-template.md) | Expanded the source appendix into an operational weekly update, deliverable evidence, blockers, owners, status and fictional example | Team usability feedback |
+| [Retrospective & Lessons Learned](technical/project-documentation/retrospective-template.md) | Expanded brief appendix into a facilitated 30-minute reflection, root cause/evidence and action ownership | Team usability feedback |
+| [Professional Experience Catalogue Guide](technical/project-documentation/project-experience-catalogue-guide.md) | Existing seven-sheet workbook explanation checked; added a completed **fictional** evidence-entry walkthrough, role/CV conversion and privacy cautions | Original interactive Excel workbook is **not** downloadable here; formula behaviour not replaced |
 
-[START_HERE.md](START_HERE.md) maps real member goals directly to specific resources: CVs, interviews, LinkedIn, Civil Service/NHS applications, GitHub and team projects, Global Talent, Innovator Founder and Nigerian passports.
+## D. Immigration and practical resources — resource-by-resource review
 
-### 3. One organised complete directory
+| Resource | Change / existing value | Important limit |
+| --- | --- | --- |
+| [Global Talent — Digital Technology](immigration/global-talent/technology.md) | Previously enhanced with beginner introduction, real evidence patterns, 24-month table, multiple strategies each month and targeted organisations; inspected for structure and all 24 months | Final immigration legal and complete external-link validation pending |
+| [Digital Technology checklist](immigration/global-talent/technology-checklist.md) | Added explanation of recognition/criteria mapping, product/OSS/referee evidence checks and genuine source records | Checklist is not legal eligibility determination |
+| [Global Talent — Arts & Culture](immigration/global-talent/arts-and-culture.md) | Previously enhanced with discipline-specific strategies, organisations, country conditions, 24-month table and outreach; inspected for structure and 24 months | Final specialist discipline and individual opportunity deadline validation pending |
+| [Arts & Culture checklist](immigration/global-talent/arts-and-culture-checklist.md) | Added practical verification of critical reviews, prizes, professional engagements, referee relationships and evidence log | Grants are not automatically qualifying international prizes |
+| [Global Talent — Academia & Research](immigration/global-talent/academia-and-research.md) | Previously enhanced with four distinct endorsement routes and 24-month research-development tables; inspected for structure/24 months | Final actual scheme lists, legal requirements and research-funding eligibility validation pending |
+| [Academia & Research checklist](immigration/global-talent/research-checklist.md) | Added comparison of appointment, fellowship, UKRI grant and peer-review requirements, and what to do when evidence is absent | Route-specific government evidence overrides checkboxes |
+| [Global Talent tracker guide](immigration/global-talent/tracker-guide.md) | Reviewed original workbook explanation: two sheets per workbook, status tracking and distinction from legal eligibility | Original spreadsheets not uploaded; no live formulas in GitHub |
+| [Innovator Founder guide](immigration/innovator-founder/guide.md) | Retained structured 32-section original-source adaptation and added **eight-week UK-market validation plan**, customer-interview strategy, real business tests and official rules | Endorsing-body lists and current immigration conditions must be rechecked |
+| [Innovator Founder checklist](immigration/innovator-founder/checklist.md) | Added explanations of innovation, viability, scalability, founder contribution, demand and authorisation, without treating tasks as visa points | Official criteria and personal requirements control |
+| [Innovator Founder tracker guide](immigration/innovator-founder/tracker-guide.md) | Reviewed existing workbook explanation and practical tracking structure | Original interactive workbook not hosted; current rules require checking |
+| [Nigerian passport renewal (UK)](immigration/nigerian-passport/passport-renewal-uk.md) | Added prominent decision table distinguishing **contactless eligibility from in-person biometric requirements**, official portal and payment/postal safety steps | Source procedure remains from Oct 2026; NIS rules, fees and postal process can change |
 
-[RESOURCE_INDEX.md](RESOURCE_INDEX.md) groups **individual** guides by career, UK public-sector, technical and immigration areas with descriptive titles and honest status. Original Global Talent editions are retained in Git history and no longer appear as duplicate files in the live resource directory.
+## Known open risks and release blockers
 
-### 4. Uniform category navigation
+| Severity | Risk / reason | Applies to | Required before declaring published |
+| --- | --- | --- | --- |
+| **P0** | Government eligibility, date and document rules change; profession-specific exceptions | Global Talent, Innovator Founder and Nigerian passport | **Line-by-line official verification** of all material legal/procedure statements; date each checked section and have qualified review where appropriate |
+| **P0** | Third-party programme links, application windows and geographic eligibility vary | Global Talent 24-month tables and other opportunity directories | Check **every exact external URL**, eligibility, application window and provider claim, including dead/redirected pages |
+| **P1** | A full original-source fidelity review has not been documented for each restructured 11-, 16- and 31-page resource | Public-sector blueprint, Git command, contribution guide, charter, CV workflow | Compare source to finished Markdown section by section; distinguish editorial additions and confirm no mandatory source element was lost |
+| **P1** | Some Git commands and workflow policies have not been executed or independently adopted | Command reference, GitHub handbook, contributor policy, charter | Run practical exercises in safe test repo, confirm actual policy approvals and effective date |
+| **P1** | Excel assets are explanatory only | Global Talent trackers, Innovator Founder tracker, capability catalogue | Decide whether to publish privacy-checked original Excel files or keep Markdown-only usage guidance |
+| **P2** | Long four-column monthly tables may be difficult to read on mobile | Global Talent three pathways | Test actual GitHub mobile rendering; consider jump links or responsive alternative **without removing 24-month tables** |
+| **P2** | Private repository limits community access | Entire library | Decide access model and security review before public announcement |
+| **P2** | Copyable CV and document templates need human usability testing | CV resources, project documentation | Test with a newcomer and experienced applicant/contributor; remove ambiguous wording |
 
-Each category page now identifies a recommended first guide and next resource and provides **Home / Start Here / parent** navigation. Users do not have to hunt for a filename or guess which edition to choose.
+### What should not be claimed
 
-### 5. First source-table usability correction
+Do not describe the library as **fully legal-vetted**, **all links independently checked**, **NHS/Civil Service endorsed**, **ATS-tested**, **all Excel workbooks downloadable**, or **the GitHub commands executed**. The actual achievements are restructuring, targeted factual improvements, practical examples, official-source referencing, and path/Markdown integrity checks.
 
-The [Project Charter](technical/project-documentation/project-charter-template.md) now opens with six clean, editable Markdown tables for objectives, deliverables, responsibilities, technologies, data inventory and risks. Their fields come from the actual 16-page source. The original complete source transfer is retained below them, and **remaining approval and RACI tables still need reconstruction**.
+## How to perform the final independent publication check
 
-### 6. Find-your-way-around links in long guides
+For each resource, record:
 
-Current long guides, templates and checklists now offer links back to the category, starting page, complete directory and homepage at the end. Original source editions are retained in Git history, with only one live guide per topic.
+| Review control | Evidence expected |
+| --- | --- |
+| Editorial clarity | Someone unfamiliar with the topic can follow the sequence and explain each action |
+| Source fidelity | Explicit original chapter/step-to-Markdown mapping and flagged edits |
+| Practical value | Concrete activity, example, evidence/outcome and limitations where needed |
+| External verification | Exact URL loaded; publication date/requirements checked against primary provider |
+| Technical/security | Commands tested; data licensing, confidentiality and credential safety confirmed |
+| Navigation/accessibility | All links clicked; table/readability checked on mobile and desktop |
+| Owner approval | Named reviewer, date and explicit sign-off for that guide only |
 
-## Priority content risks that remain
-
-| Priority | Issue | Affected resources | Needed action | Status |
-| --- | --- | --- | --- | --- |
-| **P0 — before open public release** | Visa, passport, grant, eligibility and deadline claims may become outdated or contain oversimplification | Global Talent (all three), Innovator Founder, Nigerian passport | Check current official instructions line by line, verify document limits and specialised routes, remove unsupported statements | **Open** |
-| **P0** | Some original PDFs were extracted as page text; multi-column text and tables can be misordered or flattened | Public Sector Blueprint, Git & GitHub Command Reference, several migrated guides | Compare visually against source files and rebuild tables/code blocks without inventing missing text | **Open** |
-| **P1** | Some Charter source Word tables appear flattened; approval and data/privacy matrices could be misread | [Project Charter](technical/project-documentation/project-charter-template.md) | **Six usable quick-start registers restored** (objectives, deliverables, roles, stack, data, risks); continue converting remaining source tables, including approval/RACI | **Partially fixed** |
-| **P1** | Source document status conflicts: older files were labelled Published despite limited evidence of a complete audit | Earlier career guides and prior index | Keep source-review claims scoped; conduct documented source-fidelity audit before applying Published | **Partially improved; audit open** |
-| **P1** | Interactive Excel trackers and catalogue are not downloadable from the repository | Global Talent trackers, Innovator Founder tracker, Project Experience Catalogue | Add and virus/privacy-check original workbooks if publication is authorised, or keep explanatory Markdown only | **Open** |
-| **P1** | Third-party resources and active calls vary by country, age, membership, date and current programme | Three enhanced Global Talent guides | Verify each exact external URL, date, eligibility and entry process; remove dead or unsupported opportunities | **Open** |
-| **P1** | External-link destinations and HTTP status unverified in this pass | All external resources | Conduct automated/live audit and manually review high-stakes redirects | **Open** |
-| **P2** | Some guides are exceptionally long and dense | Enhanced Global Talent pathways; original PDF text migrations | Add compact jump tables and shorten duplicated navigation; visually test GitHub mobile | **Partially improved** |
-| **P2** | Repo access must be configured for the intended community audience | Entire repository | **Confirmed private** through connected GitHub repository metadata (9 Nov 2026). Decide public publishing or authorised collaborator access, security and contributor permissions before announcing public availability. | **Open — access decision** |
-| **P2** | Project handbook, CV Word layouts and Git commands need original-format/technical cross-check | Technical and CV resources | Preserve layout-sensitive content or offer optional original downloads; test command examples in safe repos | **Open** |
-
-## Navigation acceptance walk-throughs
-
-These are the paths readers should use and can test manually:
-
-1. **New member seeking a CV:** [Home](README.md) → [Start Here](START_HERE.md) → [CV Workflow Edition 3](career/cv/cv-development-workflow-edition-3.md) → [CV Templates](career/cv/README.md) → Home.
-2. **Civil Service applicant:** [Home](README.md) → [UK Careers](uk-careers/README.md) → [Civil Service](uk-careers/civil-service/README.md) → [Behaviour Guide](uk-careers/civil-service/behaviour-ai-guide.md) → Start Here.
-3. **Mettelo technical contributor:** [Home](README.md) → [Technical](technical/README.md) → [GitHub Handbook](technical/github/github-handbook.md) → [Project Charter](technical/project-documentation/project-charter-template.md) → Directory.
-4. **Global Talent applicant:** [Home](README.md) → [Immigration](immigration/README.md) → [Global Talent](immigration/global-talent/README.md) → [Arts & Culture](immigration/global-talent/arts-and-culture.md) → [Arts Checklist](immigration/global-talent/arts-and-culture-checklist.md) → Global Talent.
-5. **Research applicant:** [Start Here](START_HERE.md) → [Academia & Research](immigration/global-talent/academia-and-research.md) → [Research Route Checklist](immigration/global-talent/research-checklist.md) → Directory.
-
-The named link destinations passed the repository path inspection; **a separate live logged-in navigation/mobile session is still recommended**.
-
-## Recommendations for the next approval pass
-
-**First:** Open the [new homepage](README.md) and [Start Here](START_HERE.md) on both desktop and mobile. Check whether each category feels intuitive without the guide authors' prior knowledge.
-
-**Second:** Select one long source-migrated PDF guide and the Project Charter for table/layout reconstruction. Verify the source line-by-line and log precise corrections.
-
-**Third:** Perform the high-stakes immigration-rule and external-opportunity verification against current GOV.UK, official endorsing bodies, NIS and original providers. Record a date for each checked section.
-
-**Fourth:** Once content is verified, change statuses to **Source reviewed** / **Published** individually; do **not** flip the whole repository to Published automatically. Decide whether to give members GitHub access or release a genuinely public web-facing library.
-
-## Report issues
-
-[Open a Mettelo Resource Hub issue](https://github.com/Mettelo/mettelo-resource-hub/issues) with the document URL, heading, exact problem and a reliable source where relevant. [Contribution standards](CONTRIBUTING.md).
+**Current decision:** Keep resources labelled **enhanced draft**, **revised template**, or **source reviewed** as appropriate. Promote an individual guide to “Published” only when its relevant controls above are actually completed.
 
 ---
 
-**Maintained by Mettelo · Prepared by Johnson Taiwo · Navigation QA review, 9 November 2026.**
+## Recommended reader walkthroughs
+
+**Job applicant:** [Home](README.md) → [Start Here](START_HERE.md) → [CV workflow](career/cv/cv-development-workflow-edition-3.md) → [personal statement guide](uk-careers/civil-service/personal-statement-guide.md) → [interview preparation](career/interviews/interview-preparation-workflow.md).
+
+**Mettelo team:** [Home](README.md) → [Technical](technical/README.md) → [GitHub handbook](technical/github/github-handbook.md) → [Project Charter](technical/project-documentation/project-charter-template.md) → [Weekly Update](technical/project-documentation/weekly-update-template.md) → [Retrospective](technical/project-documentation/retrospective-template.md).
+
+**Immigration research:** [Global Talent pathways](immigration/global-talent/README.md) → one **correct** specialist guide → evidence checklist → official route instructions.
+
+Report a problem using a [GitHub issue](https://github.com/Mettelo/mettelo-resource-hub/issues) with the specific page, issue, source and suggested correction. The original pre-edit text remains recoverable in Git history.
+
+**Maintained by Mettelo · Prepared by Johnson Taiwo · QA register reviewed 9 November 2026.**

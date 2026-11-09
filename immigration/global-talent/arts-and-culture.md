@@ -5,9 +5,9 @@
 Prepared by **Johnson Taiwo** · Mettelo — Built for What's Next
 
 [← Global Talent resources](README.md) · [← Immigration resources](../README.md) · [← Resource Hub](../../README.md)  
-[Preserved original 29-page Mettelo handbook](arts-and-culture-original-2026.md) · [Arts checklist](arts-and-culture-checklist.md) · [Tracker instructions](tracker-guide.md)
+[Arts checklist](arts-and-culture-checklist.md) · [Tracker instructions](tracker-guide.md)
 
-> **Publication status: Enhanced draft.** The October 2026 original source has been archived, not discarded. This is a newly researched and expanded guide, not a verbatim transcription. Immigration rules and arts opportunities change. The activities suggested below build genuine artistic careers; none is an official 24-month requirement or guarantees endorsement. All applicants must follow the applicable live UK rules and their discipline's assessor.
+> **Publication status: Enhanced draft.** The October 2026 original source remains recoverable through Git commit history, rather than appearing as a duplicate active guide. This is a newly researched and expanded guide, not a verbatim transcription. Immigration rules and arts opportunities change. The activities suggested below build genuine artistic careers; none is an official 24-month requirement or guarantees endorsement. All applicants must follow the applicable live UK rules and their discipline's assessor.
 
 ## Before anything else — understand the visa
 
@@ -581,7 +581,7 @@ Read [official letter requirements](https://www.gov.uk/global-talent-arts-cultur
 
 ### Source provenance and what has changed
 
-**Preserved original:** [29-page Mettelo Arts & Culture guide, October 2026](arts-and-culture-original-2026.md) contained career framing, music and visual-art pathways, 90-day actions, two-year development content, the three recommendation letters and a DocuSign coordination section. It is retained without being silently overwritten.
+**Preserved original:** 29-page original Mettelo Arts & Culture guide, October 2026 (recoverable through Git commit history) contained career framing, music and visual-art pathways, 90-day actions, two-year development content, the three recommendation letters and a DocuSign coordination section. Its historical version remains recoverable through Git.
 
 **New expanded Mettelo recommendations:** Beginner introduction; official route distinctions; evidence-category audit; six artform-specific strategies; independently evaluated critical review process; named real organisations with direct application/opportunity pages and eligibility caveats; UK/Nigeria partnership route; first 90 days; **24 monthly tables/entries with multiple actionable strategies**; five specific outreach workflows; evidence register; and readiness safeguards.
 

@@ -29,7 +29,7 @@
 
 ## Content remediation — first guide improved (9 November 2026)
 
-**CV Development Workflow — Edition 3:** The 11-page flat PDF extraction has been [preserved as a source archive](career/cv/cv-development-workflow-edition-3-source.md), and the [main readable guide](career/cv/cv-development-workflow-edition-3.md) was rebuilt with eight clear steps (preparation plus seven prompts), semantic Markdown headings, evidence-bank tables, seven usable prompt blocks, cross-industry examples, metrics verification, a fifteen-minute exercise and free official UK guidance. The original core methodology remains identified separately from the new editorial additions. **Editorial sign-off and real-user reading tests remain pending.**
+**CV Development Workflow — Edition 3:** The 11-page flat PDF extraction and earlier CV workflow were retained in Git history but removed as duplicate files from the current directory. The [single current CV Development Workflow](career/cv/cv-development-workflow-edition-3.md) was rebuilt with eight clear steps (preparation plus seven prompts), semantic Markdown headings, evidence-bank tables, seven usable prompt blocks, cross-industry examples, metrics verification, a fifteen-minute exercise and free official UK guidance. The original core methodology remains identified separately from the new editorial additions. **Editorial sign-off and real-user reading tests remain pending.**
 
 ## Improvements completed
 

@@ -6,7 +6,7 @@
 
 > **Source status:** Template states that it is mandatory for Mettelo Labs projects. **No delivery should begin until the charter is reviewed and approved by the required Mettelo authority.** This GitHub file is a *blank template*, not an approved project charter. Approvals, ownership, dates and measurable targets must be completed by the actual team.
 >
-> **Document migration status:** Full source content transferred from the 16-page approved template, including appendices. Complex Word tables appear as aligned text and require a formatting review. Do not treat blank signature lines as formal approvals.
+> **Document migration status:** Full source content transferred from the 16-page approved template, including appendices. Several complex Word tables remain as historical source text below; the most important project, RACI, QA and approval matrices are now reproduced as readable Markdown above. A final source-fidelity/layout review is still needed. Do not treat blank signature lines as formal approvals.
 
 ## Project identity
 
@@ -85,6 +85,47 @@ The original Word source contains several tables whose text was flattened during
 | R-01 | [Risk event and consequence] | [L / M / H] | [L / M / H] | [Mitigation] | [Name] | Open |
 | R-02 | [Risk event and consequence] | [L / M / H] | [L / M / H] | [Mitigation] | [Name] | Open |
 | R-03 | [Risk event and consequence] | [L / M / H] | [L / M / H] | [Mitigation] | [Name] | Open |
+
+### 7. Source RACI responsibilities — readable version
+
+The roles and assignments below reproduce the original charter's RACI matrix (with the page's line wraps repaired), rather than imposing a new project policy. Confirm named people and any conflicts before approval.
+
+| Activity | Sponsor | Project Lead | Technical Lead | Contributors | QA |
+| --- | --- | --- | --- | --- | --- |
+| Approve charter | **A** | **R** | C | I | C |
+| Confirm architecture | I | **A** | **R** | C | C |
+| Deliver work packages | I | **A** | C | **R** | C |
+| Approve scope change | **A** | **R** | C | I | C |
+| Release final outputs | **A** | **R** | C | I | **R** |
+| Close project | **A** | **R** | C | I | C |
+
+**R** Responsible (does the work); **A** Accountable (owns decision); **C** Consulted; **I** Informed. The original release row assigns *R* to both Project Lead and QA; **this is inherited from the source**, not a new approval. Confirm whether responsibilities and separation of assurance duties remain appropriate for your actual project.
+
+### 8. Source quality-control matrix — readable version
+
+| Area | Required control | Evidence location | Approver |
+| --- | --- | --- | --- |
+| Data | Validation rules, reconciliation and anomaly checks | [Link] | [Name] |
+| Code | Peer review, linting and suitable tests | [Link] | [Name] |
+| Analytics / model | Method validation, benchmark and limitations | [Link] | [Name] |
+| Dashboard / UX | Functional, visual and accessibility review | [Link] | [Name] |
+| Documentation | README, setup, method, usage and limitations | [Link] | [Name] |
+| Security / privacy | Access, secrets, data and release review | [Link] | [Name] |
+
+**Release gate sequence from the charter:** (1) approve scope and data readiness → (2) demonstrate a working increment → (3) complete technical and data QA → (4) pass privacy, security and licensing → (5) obtain sponsor/authorised acceptance. Store real evidence for each; a green status is not equivalent to an approval.
+
+### 9. Source sign-off register — readable version
+
+| Role | Named approver | Decision | Signature / approval record | Date |
+| --- | --- | --- | --- | --- |
+| Project Sponsor | [Name] | Approve / Reject | [Signed record] | [Date] |
+| Mettelo Labs Lead | [Name] | Approve / Reject | [Signed record] | [Date] |
+| Project Lead | [Name] | Accept role | [Signed record] | [Date] |
+| Technical / QA Approver | [Name] | Approve controls | [Signed record] | [Date] |
+| Data / Privacy Approver | [Name] | Approve data use | [Signed record] | [Date] |
+
+**Project status:** [ ] Approved · [ ] Approved with conditions · [ ] Returned for revision · [ ] Rejected. Record any conditions of approval separately and **do not treat unfilled placeholders as sign-off**.
+
 
 **Before proceeding:** Complete the main source sections on scope, governance, milestones, architecture, quality, risk, release approval and handover. These quick-start registers **do not** replace formal charter sign-off. Avoid adding sensitive project details to a public repository.
 

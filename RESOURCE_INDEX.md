@@ -14,8 +14,7 @@
 | --- | --- | --- |
 | [CV Development Workflow — Edition 3](career/cv/cv-development-workflow-edition-3.md) | Rebuilt seven-step CV process: evidence tables, copyable prompts, exercises and free guidance | **Enhanced draft** — source-restructured; final user testing pending |
 | [General CV template](career/cv/cv-template.md) | Build a starting CV structure | Available |
-| [Data, AI & Technology CV template](career/cv/data-ai-technology-cv-template.md) | Plan a specialist technical CV | Review pending |
-| [Data, AI & Tech Professional CV template 2](career/cv/data-ai-tech-professional-cv-template-2.md) | Alternative two-column source structure (flattened to Markdown) | Review pending |
+| [Data, AI & Technology CV template](career/cv/data-ai-technology-cv-template.md) | One consolidated technical CV template covering Data, AI and engineering | Revised template; editorial review pending |
 | [Interview preparation — eight steps](career/interviews/interview-preparation-workflow.md) | Develop real examples and practise an interview | Source reviewed previously |
 | [LinkedIn profile editing guide](career/linkedin/linkedin-profile-guide.md) | Improve professional profile and experience wording | Source reviewed previously |
 

@@ -274,3 +274,9 @@ Collaborate on substantial research with someone capable of assessing your field
 **Publication status: Enhanced researched draft.** Official eligibility was checked against live November 2026 government and relevant assessor material. A final legal-text audit, research-opportunity deadline check, Markdown rendering and link validation remain outstanding. Applying for **endorsement alone** is not immigration permission. Seek suitably regulated advice on personal immigration deadlines.
 
 **Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**
+
+---
+
+### Find your way around
+
+[← Global Talent pathways](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

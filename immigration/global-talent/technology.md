@@ -712,3 +712,9 @@ The beginner-oriented introduction and anonymised successful-holder patterns (ad
 **Enhanced, substantially reviewed draft (November 2026).** Key statutory documentary requirements have been checked against current GOV.UK pages. A full legal review of every legacy source statement and a final GitHub rendering/link QA are still outstanding. If live official guidance changes, follow it and update the relevant statement before sharing the guide as authoritative. The archived source is retained for transparency.
 
 **Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**
+
+---
+
+### Find your way around
+
+[← Global Talent pathways](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

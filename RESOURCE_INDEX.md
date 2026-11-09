@@ -11,7 +11,7 @@
 | Interview preparation workflow | [Read guide](career/interviews/interview-preparation-workflow.md) | **Published** |
 | LinkedIn profile editing guide | [Read guide](career/linkedin/linkedin-profile-guide.md) | **Published** |
 | Global Talent: digital technology | [Read migrated handbook](immigration/global-talent/technology.md) | Draft — editorial review pending |
-| Global Talent: arts and culture | [Global Talent](immigration/global-talent/README.md) | Planned |
+| Global Talent: arts and culture | [Read migrated handbook](immigration/global-talent/arts-and-culture.md) | Draft — editorial review pending |
 | Global Talent: academia and research | [Global Talent](immigration/global-talent/README.md) | Planned |
 | Global Talent preparation trackers | [Global Talent](immigration/global-talent/README.md) | Planned |
 | Innovator Founder guide and tracker | [Innovator Founder](immigration/innovator-founder/README.md) | Planned |

@@ -11,6 +11,7 @@ These resources are based on the actual Mettelo Labs **Project Charter & Deliver
 | [Project Charter & Delivery Framework](project-charter-template.md) | Formal project planning, governance, scope, quality, risks, approvals and closure | Full source text transferred; Word table formatting review pending |
 | [Weekly Project Update](weekly-update-template.md) | Report completed work, next priorities, decisions and support requests | Available |
 | [Retrospective & Lessons Learned](retrospective-template.md) | Record learning and improvements after delivery | Available |
+| [Professional Project Experience & Capability Catalogue](project-experience-catalogue-guide.md) | Instructions for building an evidence bank using the original seven-sheet Excel workbook | Guide available; interactive workbook download pending |
 
 ## Using these templates
 

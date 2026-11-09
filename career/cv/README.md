@@ -1,18 +1,24 @@
-# CV and Résumé Resources
+# CV and résumé resources
 
-[← Career development](../README.md) · [← Resource Hub](../../README.md)
+[🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [Career resources](../README.md) · [Complete directory](../../RESOURCE_INDEX.md)
 
-## Available guides
+### Start with the latest workflow
 
-- **[CV Development Workflow — Cross-industry Edition 3](cv-development-workflow-edition-3.md)** — November 2026 revision, seven practical steps with an evidence bank for each substantive role. **Latest source edition; draft Markdown formatting review.**
-- [CV Development Workflow — Earlier Edition](cv-development-workflow.md) — original edition previously published on GitHub.
-- [Blank CV Template](cv-template.md) — general reusable CV structure.
+**[CV Development Workflow — Cross-industry Edition 3 →](cv-development-workflow-edition-3.md)**  
+A seven-step process: understand the vacancy, build genuine role-by-role evidence, check claims, select examples, draft, review and prepare files. Recommended as the **current edition**, with final source-text/format review pending.
 
-**Important:** Edition 3 broadens the workflow to multiple professions and career levels. Its suggested 7–12 evidence points per substantive role are for building an *evidence bank*, not a required number of bullets in the final CV.
+### Choose a template
 
-## Data and AI CV templates
+| Template | Best for | Format note |
+| --- | --- | --- |
+| [General CV template](cv-template.md) | Most professional roles | Markdown outline |
+| [Data, AI & Technology CV template](data-ai-technology-cv-template.md) | Technical roles needing detailed skills and experience | Word source flattened into text |
+| [Data, AI & Tech Professional CV template 2](data-ai-tech-professional-cv-template-2.md) | A more visual sidebar/profile approach | Original two-column Word layout **not** reproduced |
 
-- [Data, AI & Technology CV Template](data-ai-technology-cv-template.md) — detailed technical competencies and employment history.
-- [Data, AI & Tech Professional CV Template 2](data-ai-tech-professional-cv-template-2.md) — professional profile with career highlights, sidebar skills and experience.
+### Previous edition
 
-These templates have been migrated as editable Markdown text. The original Word layout is not reproduced.
+[CV Development Workflow — Edition 2](cv-development-workflow.md) is retained for reference. Use Edition 3 first unless you have a specific reason to compare versions.
+
+**Quality note:** The 7–12 points per substantive role in the latest workflow describe an **evidence bank**, not how many published bullets every role must contain. Never use sample metrics as personal achievements. Templates are copyable text, not downloadable Word originals.
+
+[← Career menu](../README.md) · [← Home](../../README.md)

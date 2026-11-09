@@ -17,6 +17,7 @@
 | Internal relative file links | Checked **491 relative links** across **17 navigation pages and 33 guide/archival files** against the inventory of their known repository destinations | **No missing destinations found** by the text/path inspection |
 | In-page table-of-contents anchors | Checked **562 in-document anchor links** across 33 resource files against their explicit ids/headings using a Markdown slug approximation | **No unresolved anchors found** by the text inspection |
 | Publication statuses | Compared prominent root/category claims with actual work completed | **Fixed:** reclassified drafts and enhanced guides instead of implying all are verified |
+| Repository visibility | Checked connected GitHub metadata on 9 November 2026 | **Private** on main branch; reader access remains restricted until explicitly changed |
 | Original-source preservation | Checked listed archives for all three enhanced Global Talent pathways | **Present:** original Digital Technology, Arts & Culture, Academia & Research editions remain linked |
 | Interactive companions | Checked navigation/document claims about Excel files | **Clarified:** tracker/catalogue guides exist, interactive original files not uploaded |
 | External links, live opportunity deadlines | **Not exhaustively tested** | **Open — high priority** |
@@ -64,7 +65,7 @@ Current long guides, templates and checklists now offer links back to the catego
 | **P1** | Third-party resources and active calls vary by country, age, membership, date and current programme | Three enhanced Global Talent guides | Verify each exact external URL, date, eligibility and entry process; remove dead or unsupported opportunities | **Open** |
 | **P1** | External-link destinations and HTTP status unverified in this pass | All external resources | Conduct automated/live audit and manually review high-stakes redirects | **Open** |
 | **P2** | Some guides are exceptionally long and dense | Enhanced Global Talent pathways; original PDF text migrations | Add compact jump tables and shorten duplicated navigation; visually test GitHub mobile | **Partially improved** |
-| **P2** | Repo availability and audience access controls need confirmation | Entire repository | Check whether repo is private/public, decide member access model and secure contribution workflow | **Open** |
+| **P2** | Repo access must be configured for the intended community audience | Entire repository | **Confirmed private** through connected GitHub repository metadata (9 Nov 2026). Decide public publishing or authorised collaborator access, security and contributor permissions before announcing public availability. | **Open — access decision** |
 | **P2** | Project handbook, CV Word layouts and Git commands need original-format/technical cross-check | Technical and CV resources | Preserve layout-sensitive content or offer optional original downloads; test command examples in safe repos | **Open** |
 
 ## Navigation acceptance walk-throughs

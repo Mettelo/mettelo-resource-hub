@@ -265,3 +265,9 @@ You are ready when you can explain **what** you changed, **why** it matters, **h
 **Source:** *Mettelo GitHub Handbook*, five-page PDF, “GitHub for Real Data Projects / Zero to Advanced”. This Markdown file adapts its full five-stage training structure; the original layout and visual tables are not reproduced.
 
 **Mettelo — Where contribution becomes opportunity.**
+
+---
+
+### Find your way around
+
+[← GitHub resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

@@ -687,3 +687,9 @@ Do not post your passport number, NIN, application ID, reference number, identit
 - This publication does not replace the Nigeria Immigration Service or Nigeria High Commission instructions.
 
 **Prepared by Johnson Taiwo · Mettelo**
+
+---
+
+### Find your way around
+
+[← Passport renewal resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

@@ -186,3 +186,9 @@ Reuse the approved work examples. Start at Step 1 for the new vacancy, then use 
 **Source:** *Mettelo CV Development Workflow*, Simplified edition 2, 23 October 2026 (10 pages). Markdown adaptation preserves the original workflow, prompts, checkpoints and disclaimer; added internal navigation and GitHub copy-friendly blocks.
 
 **Prepared by Johnson Taiwo · Mettelo**
+
+---
+
+### Find your way around
+
+[← CV resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

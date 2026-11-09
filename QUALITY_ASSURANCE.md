@@ -18,7 +18,7 @@
 | In-page table-of-contents anchors | Checked **562 in-document anchor links** across 33 resource files against their explicit ids/headings using a Markdown slug approximation | **No unresolved anchors found** by the text inspection |
 | Publication statuses | Compared prominent root/category claims with actual work completed | **Fixed:** reclassified drafts and enhanced guides instead of implying all are verified |
 | Repository visibility | Checked connected GitHub metadata on 9 November 2026 | **Private** on main branch; reader access remains restricted until explicitly changed |
-| Original-source preservation | Checked listed archives for all three enhanced Global Talent pathways | **Present:** original Digital Technology, Arts & Culture, Academia & Research editions remain linked |
+| Original-source preservation | Checked earlier source files for all three enhanced Global Talent pathways | **Retained in Git history**; duplicates removed from working tree |
 | Interactive companions | Checked navigation/document claims about Excel files | **Clarified:** tracker/catalogue guides exist, interactive original files not uploaded |
 | External links, live opportunity deadlines | **Not exhaustively tested** | **Open — high priority** |
 | Full original-to-Markdown fidelity | **Not exhaustively tested** | **Open — high priority** |
@@ -43,7 +43,7 @@ The [root README](README.md) now includes four clear area cards, popular startin
 
 ### 3. One organised complete directory
 
-[RESOURCE_INDEX.md](RESOURCE_INDEX.md) groups **individual** guides by career, UK public-sector, technical and immigration areas with descriptive titles and honest status. Original Global Talent editions have been moved into a clearly labelled archive/reference subsection rather than mixed with the main current guides.
+[RESOURCE_INDEX.md](RESOURCE_INDEX.md) groups **individual** guides by career, UK public-sector, technical and immigration areas with descriptive titles and honest status. Original Global Talent editions are retained in Git history and no longer appear as duplicate files in the live resource directory.
 
 ### 4. Uniform category navigation
 
@@ -55,7 +55,7 @@ The [Project Charter](technical/project-documentation/project-charter-template.m
 
 ### 6. Find-your-way-around links in long guides
 
-Current long guides, templates and checklists now offer links back to the category, starting page, complete directory and homepage at the end. The original source archives were intentionally left untouched to preserve their contents.
+Current long guides, templates and checklists now offer links back to the category, starting page, complete directory and homepage at the end. Original source editions are retained in Git history, with only one live guide per topic.
 
 ## Priority content risks that remain
 

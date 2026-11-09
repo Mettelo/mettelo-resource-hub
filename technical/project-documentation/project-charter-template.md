@@ -622,3 +622,9 @@ The original template contains project-classification options **PUBLIC / INTERNA
 **Source:** *Mettelo_Project_Charter_and_Delivery_Framework_Final.docx*, 16 pages, Version 1.0. The original version was preserved, including its unfilled approval placeholders and appendix examples. Some tables need editorial conversion from Word layout into conventional Markdown tables.
 
 **Prepared for Mettelo Labs.**
+
+---
+
+### Find your way around
+
+[← Project documentation](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

@@ -5,9 +5,9 @@
 Prepared by **Johnson Taiwo**, Mettelo
 
 [← Global Talent resources](README.md) · [← Immigration guides](../README.md) · [← Resource Hub](../../README.md)  
-[Original 30-page October 2026 handbook (archived without deletion)](technology-original-2026.md) · [Technology checklist](technology-checklist.md) · [Tracker guide](tracker-guide.md)
+[Technology checklist](technology-checklist.md) · [Tracker guide](tracker-guide.md)
 
-> **Important:** This guide is a practical *career and evidence-development plan*, not a legal eligibility determination or a promise of endorsement. A two-year period is **not** an official application requirement. Some people already have sufficient evidence; others may need considerably longer. The October 2026 Mettelo source is preserved separately. This enhanced guide adds independently researched public resources, practical workflows, examples and a month-by-month table. **Source material and new recommendations are distinguished below.**
+> **Important:** This guide is a practical *career and evidence-development plan*, not a legal eligibility determination or a promise of endorsement. A two-year period is **not** an official application requirement. Some people already have sufficient evidence; others may need considerably longer. The October 2026 source edition is retained in Git commit history, not as a second active guide. This enhanced guide adds independently researched public resources, practical workflows, examples and a month-by-month table. **Source material and new recommendations are distinguished below.**
 
 ## Start here — what is the Global Talent visa for digital technology?
 
@@ -688,7 +688,7 @@ These are **ways to do real work**, not a list of organisations guaranteed to en
 
 ### What comes from the original Mettelo October 2026 source
 
-The [archived 30-page Mettelo technology handbook](technology-original-2026.md) supplied the initial approach: UK/Nigeria career positioning, talent/promise distinction, recognition and two optional areas, 3 expert letters, document map, product building, open source, mentorship, speaking, press, 90-day actions and 24-month career planning. This enhanced version retains those themes while significantly deepening the practical execution.
+The October 2026 original 30-page source (available through Git commit history) supplied the initial approach: UK/Nigeria career positioning, talent/promise distinction, recognition and two optional areas, 3 expert letters, document map, product building, open source, mentorship, speaking, press, 90-day actions and 24-month career planning. This enhanced version retains those themes while significantly deepening the practical execution.
 
 ### What has been newly added
 
@@ -709,7 +709,7 @@ The beginner-oriented introduction and anonymised successful-holder patterns (ad
 
 ### Editorial state
 
-**Enhanced, substantially reviewed draft (November 2026).** Key statutory documentary requirements have been checked against current GOV.UK pages. A full legal review of every legacy source statement and a final GitHub rendering/link QA are still outstanding. If live official guidance changes, follow it and update the relevant statement before sharing the guide as authoritative. The archived source is retained for transparency.
+**Enhanced, substantially reviewed draft (November 2026).** Key statutory documentary requirements have been checked against current GOV.UK pages. A full legal review of every legacy source statement and a final GitHub rendering/link QA are still outstanding. If live official guidance changes, follow it and update the relevant statement before sharing the guide as authoritative. The original source is recoverable from Git commit history.
 
 **Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**
 

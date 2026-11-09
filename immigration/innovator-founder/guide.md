@@ -5,9 +5,46 @@ Prepared by **Johnson Taiwo** for Mettelo · Original source: Review edition 1, 
 
 [← Innovator Founder resources](README.md) · [← Immigration guides](../README.md) · [← Resource Hub](../../README.md)
 
-> **Editorial status: Draft — condensed Markdown adaptation.** This is an organised, source-grounded adaptation of the original 38-page Mettelo PDF, **not a word-for-word transcription**. The original guide contains additional examples and detailed directories. The associated Excel tracker has been reviewed separately.
+> **Editorial status: Enhanced draft — condensed Markdown adaptation with a new verified practical starting workflow.** This is an organised, source-grounded adaptation of the original 38-page Mettelo PDF, **not a word-for-word transcription**. The original guide contains additional examples and detailed directories. The associated Excel tracker has been reviewed separately.
 >
 > Visa procedures can change. The initial endorsement and the subsequent UKVI visa application are **separate decisions**. Always check the live government guidance before you apply, make payments or rely on figures. This is educational information, not regulated immigration advice.
+
+## Read this first — turn a business idea into credible evidence
+
+**What this visa actually assesses:** The Innovator Founder pathway is for founders creating a genuinely **innovative, viable and scalable** UK venture who play a real day-to-day role in the business. You need an endorsement from a **currently authorised endorsing body** and separate Home Office eligibility, including personal requirements. A company registration, PowerPoint deck, enthusiastic community or AI product label alone does not establish endorsement eligibility. [Immigration Rules Appendix Innovator Founder](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-innovator-founder).
+
+### A practical eight-week founder exercise (not a visa requirement)
+
+| Week | Specific activity | How to do it | What you can actually show |
+| --- | --- | --- | --- |
+| 1 | Define a real UK market problem | Interview 5–10 potential UK customers about recent failed attempts to solve it; record consent and questions | Need statements and interview log, not invented demand |
+| 2 | Compare alternatives | Examine three actual competing products: target users, price, functionality, weakness and business model | Evidence-based comparison; clear gap |
+| 3 | Test innovation | Identify which **core** business capability is original, difficult to replicate and demonstrably developed by founders | Technical/product concept, IP/know-how plan and genuine founder ownership |
+| 4 | Prototype one feature | Build a minimally useful version, with data/licence/security safeguards | Real demonstration and test evidence, not just slides |
+| 5 | Recruit pilot testers | Invite genuine prospective users with permission; define what successful use means | Pilot scope, feedback and observed usage |
+| 6 | Evaluate costs and founder capability | Estimate build/operating costs using quotes, supplier rates, staffing needs, skills and actual available funds | Viable cost plan with assumptions and uncertainty |
+| 7 | Develop UK growth strategy | Build 12–24-month milestones for customers, hires, cash and expansion, with assumptions not guaranteed outcomes | Defensible scalable business plan |
+| 8 | Assess endorsement readiness | Check the official authorised endorsers list, their specific criteria, processes and charges; identify gaps before submitting | Documented review and target endorsing body, **not** an endorsement |
+
+### A stronger way to record market interviews
+
+Ask about the interviewee's **recent actual behaviour**: when the problem occurred, current workaround, cost/time consequence, approval process and budget. Avoid leading questions such as “Would you use my amazing AI platform?” Record only consenting, anonymised insights.
+
+**Fictional example:** A UK SME manually reconciles orders from two channels. The applicant's possible innovation might be an original reconciliation mechanism that deals with ambiguous identifiers and produces auditable corrections. They would still need to prove why the approach differs meaningfully from existing commercial products, that their team can build it, that customers genuinely need it and that UK growth assumptions are realistic. A generic integration dashboard is not necessarily innovative.
+
+### Official rule checks before paying anyone
+
+| Check | Official source | What to verify now |
+| --- | --- | --- |
+| Business criteria | [Home Office endorsement rules](https://www.gov.uk/government/publications/scale-up-and-innovator-founder-visa-endorsing-bodies-guidance/innovator-founder-and-scale-up-visas-guidance-for-endorsing-bodies-accessible) | Novelty, founder role, viable budget, evidence of market demand and scalability |
+| Authorised endorsing bodies | [Current GOV.UK endorsing organisations](https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies) | **Current business endorsers**, not organisations restricted to legacy cases |
+| Personal visa requirements | [GOV.UK eligibility](https://www.gov.uk/innovator-founder-visa/eligibility) | Age, English, maintenance funds and any applicable exceptions |
+| Supporting documents | [Official documents checklist](https://www.gov.uk/innovator-founder-visa/documents-youll-need-to-apply) | Endorsement letter, identity, savings/translation/TB where required |
+| UK permission and switching | [Official overview](https://www.gov.uk/innovator-founder-visa) | Actual in-country eligibility, timing, costs and implications |
+
+**Important:** The government list of endorsers can change; the latest version reviewed was dated 7 August 2026. Do not assume a named company from the earlier Mettelo source is still authorised.
+
+---
 
 ## Navigate the guide
 

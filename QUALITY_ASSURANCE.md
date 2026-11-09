@@ -44,7 +44,11 @@ The [root README](README.md) now includes four clear area cards, popular startin
 
 Each category page now identifies a recommended first guide and next resource and provides **Home / Start Here / parent** navigation. Users do not have to hunt for a filename or guess which edition to choose.
 
-### 5. Find-your-way-around links in long guides
+### 5. First source-table usability correction
+
+The [Project Charter](technical/project-documentation/project-charter-template.md) now opens with six clean, editable Markdown tables for objectives, deliverables, responsibilities, technologies, data inventory and risks. Their fields come from the actual 16-page source. The original complete source transfer is retained below them, and **remaining approval and RACI tables still need reconstruction**.
+
+### 6. Find-your-way-around links in long guides
 
 Current long guides, templates and checklists now offer links back to the category, starting page, complete directory and homepage at the end. The original source archives were intentionally left untouched to preserve their contents.
 
@@ -54,7 +58,7 @@ Current long guides, templates and checklists now offer links back to the catego
 | --- | --- | --- | --- | --- |
 | **P0 — before open public release** | Visa, passport, grant, eligibility and deadline claims may become outdated or contain oversimplification | Global Talent (all three), Innovator Founder, Nigerian passport | Check current official instructions line by line, verify document limits and specialised routes, remove unsupported statements | **Open** |
 | **P0** | Some original PDFs were extracted as page text; multi-column text and tables can be misordered or flattened | Public Sector Blueprint, Git & GitHub Command Reference, several migrated guides | Compare visually against source files and rebuild tables/code blocks without inventing missing text | **Open** |
-| **P1** | Charter source Word tables appear flattened; approval and data/privacy matrices could be misread | [Project Charter](technical/project-documentation/project-charter-template.md) | Convert each meaningful register/table to proper Markdown with exact headers and values from source | **Open** |
+| **P1** | Some Charter source Word tables appear flattened; approval and data/privacy matrices could be misread | [Project Charter](technical/project-documentation/project-charter-template.md) | **Six usable quick-start registers restored** (objectives, deliverables, roles, stack, data, risks); continue converting remaining source tables, including approval/RACI | **Partially fixed** |
 | **P1** | Source document status conflicts: older files were labelled Published despite limited evidence of a complete audit | Earlier career guides and prior index | Keep source-review claims scoped; conduct documented source-fidelity audit before applying Published | **Partially improved; audit open** |
 | **P1** | Interactive Excel trackers and catalogue are not downloadable from the repository | Global Talent trackers, Innovator Founder tracker, Project Experience Catalogue | Add and virus/privacy-check original workbooks if publication is authorised, or keep explanatory Markdown only | **Open** |
 | **P1** | Third-party resources and active calls vary by country, age, membership, date and current programme | Three enhanced Global Talent guides | Verify each exact external URL, date, eligibility and entry process; remove dead or unsupported opportunities | **Open** |

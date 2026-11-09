@@ -1,684 +1,291 @@
 # Mettelo GitHub Contribution Guide
 
-**For Mettelo Labs, open-source projects and contributor teams**
+**Practical contribution, review and project-quality standards for Mettelo Labs**  
+**Source document v1.0 · Reformatted Markdown edition · 9 November 2026**
 
-[← GitHub resources](README.md) · [← Technical resources](../README.md) · [← Resource Hub](../../README.md)
+[🏠 Home](../../README.md) · [Start Here](../../START_HERE.md) · [GitHub resources](README.md) · [Practical Handbook](github-handbook.md) · [Command Reference](git-github-command-reference.md)
 
-| Document detail | Original value |
-| --- | --- |
-| Document owner | Mettelo Labs |
-| Version | 1.0 |
-| Source status | Approved operating guide |
-| Effective date | **[DD MONTH YYYY]** — not completed in the original |
-| Review cycle | Every 12 months or after a major GitHub workflow change |
-| Classification | Public / contributor-facing |
+> **Policy status — confirmation required:** The original 16-page Mettelo operating guide is labelled “Approved”, but its **effective date is an unfilled placeholder**. This version preserves the source's responsibilities and expectations and reformats them for real contributors, while adding clearly labelled instructional examples. **Do not claim branch protections, automatic checks or repository policies have been configured unless verified in the actual project.** This reformatted edition requires Mettelo governance review. Original source is recoverable in Git history.
 
-**One shared standard for issues, branches, pull requests, review, documentation, quality and contributor recognition.**
+## Start here — contribute something useful in seven steps
 
-> **Source-fidelity note:** This Markdown edition includes a clearer practical getting-started section followed by the 16-page source transfer. It transfers the 16-page supplied *Mettelo GitHub Contribution Guide Final.docx*, rather than inventing technical policy. The source identifies an approved guide but leaves its effective date unresolved. The source has some multi-column layout and numbered-list artefacts, so this edition is marked **Draft — formatting/policy implementation review** pending final confirmation. Policy statements below are those of the original guide; do not assume every repository has already implemented its controls.
-
-## Start here — how to contribute to a real Mettelo project
-
-The source policy describes roles, issues, branching, code review, data permissions, security, releases and contributor recognition. **Before you begin, make sure you have actual repository access and the Project Lead has assigned or accepted a defined task.** The presence of this guide does not mean every GitHub repository currently has branch protection or automated checks configured.
-
-### The first contribution, in seven concrete actions
-
-| Step | Do this | How to know it is complete |
+| Step | What you actually do | Evidence of completion |
 | --- | --- | --- |
-| **1 — Find suitable work** | Open repository Issues, choose a realistic task and ask the owner if scope/acceptance is unclear | An assigned or acknowledged issue with expected outcome |
-| **2 — Confirm project rules** | Read README, licence, data policy, contributing rules, branch protections and required reviews | You know the intended base branch, permissions and validation |
-| **3 — Create a branch** | Clone/fetch as appropriate and name a new issue-related branch | `git status -sb` shows the correct feature branch |
-| **4 — Implement and test** | Make one coherent change, follow style/data licensing, and run the *actual* tests listed by the project | Diff and test evidence match the task |
-| **5 — Make a focused PR** | Explain problem, change, verification, limitations, data and AI considerations | Reviewer can reproduce/inspect without guessing |
-| **6 — Respond to review** | Discuss concerns, fix only agreed changes, rerun tests, get approved merge | Review history documents actual decision |
-| **7 — Record contribution** | Update project docs or release notes and preserve authorised PR link for portfolio evidence | Real attributable work and accurate outcome, not inflated title |
+| **1. Find an issue** | Read project README and select a task with a clear problem | Acknowledged/assigned issue, defined acceptance |
+| **2. Check access and rules** | Confirm contributor role, privacy/licence and intended base branch | Actual repository permissions and project guidance |
+| **3. Branch** | Start an issue-related feature or documentation branch | Branch visible in your clone |
+| **4. Implement and test** | Deliver one bounded change with genuine methods/tests | Code/doc diff, actual executed validations |
+| **5. Open a PR** | Describe need, approach, evidence, limitations and security/privacy impacts | Complete PR linked to issue |
+| **6. Respond to review** | Discuss comments, fix agreed concerns and get approval | Authentic reviewer decisions and test re-run |
+| **7. Close and credit** | Merge through approved process and update documentation/credits | Merged PR, appropriate release/issue records |
 
-### Example: contribute a data quality check
+### Example for a new data contributor (fictional)
 
-**Scenario (fictional):** A team project imports public transport data and needs to reject files with missing service identifiers before downstream processing. The contributor's issue might read:
+**Issue:** “Validate missing transport service IDs before monthly aggregation.”  
+**Acceptance:** Detect invalid rows, fail clearly or isolate them per actual requirements, add tests using synthetic records, and explain limitation in README.  
+**Pull request:** One testable validation change and documentation.  
+**Proof:** Real test output and review history, not a screenshot saying “100% successful.”
 
-| Issue field | Good example |
+**Do not claim** that a PR automatically proves employment, seniority or commercial impact. It proves exactly the work that the PR and reviewer record show.
+
+## Contents
+
+1. [Purpose and working principles](#1-purpose-and-working-principles)
+2. [Roles, permissions and access](#2-roles-permissions-and-access)
+3. [Repository names and file structure](#3-repository-names-and-file-structure)
+4. [Issue planning](#4-issue-planning)
+5. [Branch and commit standards](#5-branch-and-commit-standards)
+6. [Pull requests](#6-pull-requests)
+7. [Reviews and merge policy](#7-reviews-and-merge-policy)
+8. [Code, SQL and BI quality](#8-code-sql-and-bi-quality)
+9. [Documentation and reproducibility](#9-documentation-and-reproducibility)
+10. [Data, privacy and licensing](#10-data-privacy-and-licensing)
+11. [Security and incident response](#11-security-and-incident-response)
+12. [Responsible AI use](#12-responsible-ai-use)
+13. [Releases, change logs and closure](#13-releases-change-logs-and-closure)
+14. [Contribution recognition](#14-contribution-recognition)
+15. [Templates and acknowledgements](#15-templates-and-acknowledgements)
+
+---
+
+## 1. Purpose and working principles
+
+GitHub is intended to be the source of truth for technical changes, decisions, code, documentation, releases and contributions in Mettelo Labs repositories. The source guide covers maintainers, reviewers, project leads, owners, contributors and observers across code, models, BI, research, APIs, automations and non-code assets.
+
+**Work principles:** define the problem before writing code; open issues for material work; make changes small enough to review; record assumptions/limitations; use review for quality and learning; credit actual contributors; protect the people and partners whose information the project processes.
+
+## 2. Roles, permissions and access
+
+| Role | Responsibility |
 | --- | --- |
-| Problem | Some source rows may have no `service_id`, making aggregation unreliable |
-| Acceptance | Check null IDs; test an all-valid and missing-value case; fail clearly; add README instruction |
-| Scope | One validation function, tests and documentation; not a full pipeline rewrite |
-| Evidence | Actual PR with test output and reviewer approval |
-| Privacy | Use synthetic tests, not credentials or real customer data |
+| Organisation Owner | Organisation security, repository/team settings and emergency access |
+| Repository Maintainer | Repository administration, protected branches, reviewer coordination and release |
+| Project Lead | Scope, delivery, team coordination, priorities and acceptance |
+| Technical Lead | Architecture, technical direction and engineering quality |
+| Reviewer | Actual review of code, data, design or documentation |
+| Contributor | Work on assigned/accepted issues via approved branches and pull requests |
+| Observer | Read-only learning, audit or partner oversight where authorised |
 
-**A meaningful PR description** should answer: “Why was this necessary? What changed? How was it checked? What could still fail? Was any data or AI assistance involved?” An inexperienced contributor should be able to follow the explanation.
+**Access principles:** least privilege; no shared personal accounts/tokens; MFA where required; remove unnecessary access on departure; report unexpected repository visibility immediately.
+
+**Check before contributing:** Ask the actual maintainer whether repository access, required review and CI are configured. This guide describes a **desired operating model**, not automatic enforcement on every repository.
+
+## 3. Repository names and file structure
+
+Use descriptive lowercase hyphenated names, e.g. `mettelo-road-safety-dashboard`. Avoid `final-project` or personal vanity names. The source expects project-appropriate root files: `README.md`, approved `LICENSE`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md`, `CHANGELOG.md`, and `CITATION.cff` where relevant.
+
+### Example structure (adapt to actual project)
+
+```text
+project/
+├── data/          # permitted sample or processed data only
+├── docs/          # architecture and decisions
+├── notebooks/     # exploration
+├── src/           # reusable implementation
+├── tests/         # quality checks
+├── dashboards/    # BI source/specifications
+├── reports/       # approved outputs
+├── .github/       # issue/PR templates
+└── README.md
+```
+
+**Licences:** A public repository doesn't automatically make imported data, models, screenshots or employer code redistributable. Confirm the licence for each included asset. A repository named “public” is not a substitute for permissions.
+
+## 4. Issue planning
+
+The source requires an issue for **material** work. Start with a specific action title, reason, acceptance criteria, dependencies, evidence, labels/priority and ownership.
+
+**Useful titles:** “Add postcode validation to ingestion”; “Document dashboard filter behaviour”; “Fix duplicate rows in monthly totals”.
 
 ### Copyable issue template
 
 ```markdown
-## Problem / user need
-[What currently fails or is missing? Who is affected?]
+## Problem
+[What is failing, missing or unclear?]
 
 ## Expected outcome
-[One observable, testable outcome.]
+[What observable change will resolve it?]
 
 ## Acceptance criteria
-- [ ] [Criterion 1]
-- [ ] [Criterion 2]
+- [ ] [Testable result 1]
+- [ ] [Testable result 2]
 
 ## Scope and dependencies
-[What is included/excluded? Required data or approvals?]
+[Included work, exclusions, data/approval dependencies]
 
-## Security, licence or privacy concerns
-[Safe sample data and permission requirements.]
+## Evidence required
+[Test command, review, screenshot, permitted sample]
 
-## Proposed owner and review
-[Contributor / reviewer roles, once agreed.]
+## Owner/reviewer
+[Actual people or roles after assignment]
 ```
 
-### Copyable PR template
+**Workflow:** Check duplicates → clarify with Project Lead → request/accept assignment → branch → report blockers/scope changes → close only once merged **and acceptance is met**.
 
-```markdown
-## Linked issue
-[Issue link]
+## 5. Branch and commit standards
 
-## What changed and why
-[Concrete summary of intended behaviour.]
+**Source policy:** `main` should remain stable; routine work goes through branches. Direct main commits require a formally authorised emergency exception. Example branch names:
 
-## Validation performed
-[Actual command and results, or manual check + limitations.]
-
-## Data, licence and security
-[What inputs were used? Are there any sensitive data/secrets?]
-
-## AI assistance
-[Describe material assistance accurately where project policy requires it.]
-
-## Review needed
-[Anything the reviewer should verify, decide or clarify.]
-```
-
-### Important project-governance boundaries
-
-- **Review:** Contributors should not self-approve changes when independent review is required. If there are no automated tests, disclose that and perform the project's legitimate manual checks; do not invent a green CI result.
-- **Data:** Public GitHub does not mean public rights to customer data, surveys, datasets or code from an employer. Use permitted/open or synthetic material.
-- **Recognition:** A merged PR establishes contribution to a project, not automatic professional equivalence to Lead Engineer or co-founder. Keep the real issue, discussion, code and reviewer record.
-- **Policies:** The original source says “Approved operating guide” but leaves **its effective date blank**. Until the relevant Mettelo authority completes and ratifies it, treat this repository copy as **policy implementation draft**, not confirmed adoption across all projects.
-
-**More help:** [GitHub Practical Handbook](github-handbook.md) · [Safe Git commands](git-github-command-reference.md) · [Project Charter](../project-documentation/project-charter-template.md) · [GitHub official documentation](https://docs.github.com/en/get-started).
-
----
-
-## Contents
-
-- [Overview](#section-1)
-- [01 Purpose and Contribution Philosophy](#section-2)
-- [02 Organisation Structure, Access and Roles](#section-3)
-- [03 Repository Creation and Standard Structure](#section-4)
-- [04 Issues and Work Planning](#section-5)
-- [05 Branching and Commit Standards](#section-6)
-- [06 Pull Request Standards](#section-7)
-- [07 Review, Approval and Merge Policy](#section-8)
-- [08 Code, SQL, Analytics and Dashboard Standards](#section-9)
-- [09 Documentation and Reproducibility](#section-10)
-- [10 Data, Privacy and Licensing](#section-11)
-- [11 Security and Secrets Management](#section-12)
-- [12 Responsible Use of AI](#section-13)
-- [13 Releases, Change Logs and Project Closure](#section-14)
-- [14 Contributor Recognition and Evidence](#section-15)
-- [15 Templates, Quick Reference and Acknowledgement](#section-16)
-
-## Contributor workflow at a glance
-
-1. Find or create a clear issue; confirm scope and acceptance criteria.
-2. Work on a focused issue-linked branch, not directly on `main`.
-3. Commit understandable logical changes without secrets or private data.
-4. Open a pull request describing the change, tests, data/security concerns and any material AI assistance.
-5. Obtain the required independent review and address comments.
-6. Merge using the repository's approved method, record results and maintain documentation.
-
-The following source sections contain the full operating guidance, including roles, examples and acknowledgement text.
-
----
-
-<a id="section-1"></a>
-
-## Document control and overview
-
-*Original document page 1 of 16.*
-
-For Mettelo Labs, open-source projects and contributor teams
-Document owner Mettelo Labs
-Version 1.0
-Status Approved operating guide
-Effective date [DD MONTH YYYY]
-Review cycle Every 12 months or after a major GitHub workflow
-change
-Classification Public / contributor-facing
-One shared standard for issues, branches, pull requests, review, documentation, quality and
-contributor recognition.
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-2"></a>
-
-## 01 Purpose and Contribution Philosophy
-
-*Original document page 2 of 16.*
-
-Purpose and Contribution Philosophy
-GitHub is the single source of truth for Mettelo Labs technical work. It provides a transparent record of
-project decisions, code, documentation, reviews, releases and individual contributions.
-This guide applies to
-- All Mettelo-owned repositories
-- Labs projects hosted within the Mettelo GitHub organisation
-- Contributors, maintainers, reviewers, project leads and organisation owners
-- Code, data documentation, dashboards, models, APIs, automation, research and non-code assets
-stored in GitHub
-Our contribution philosophy
-- Start with a clearly described problem.
-- Create an issue before beginning material work.
-- Keep changes small enough to review properly.
-- Document decisions, assumptions and limitations.
-- Use review as a quality and learning process, not a gatekeeping exercise.
-- Give transparent credit for actual contribution.
-- Protect users, data, partners and the reputation of Mettelo.
-The objective is not simply to produce code. It is to create useful, maintainable and credible
-evidence of capability.
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-3"></a>
-
-## 02 Organisation Structure, Access and Roles
-
-*Original document page 3 of 16.*
-
-Organisation Structure, Access and Roles
-GitHub roles
-Organisation Owner
-Manages organisation settings, security, teams,
-repositories and emergency access. Limited to trusted
-Mettelo leadership.
-Repository Maintainer Administers an approved repository, protects branches,
-manages releases and coordinates reviewers.
-Project Lead Owns delivery outcomes, scope, priorities, team
-coordination and acceptance of work.
-Technical Lead Sets technical direction, reviews architecture and
-supports engineering quality.
-Reviewer Provides subject-matter, code, data, design or
-documentation review.
-Contributor Works on assigned issues through approved branches
-and pull requests.
-Observer Has read access for learning, assurance, partner
-oversight or evaluation.
-Access principles
-- Use the least level of access required.
-- Do not share accounts, tokens or credentials.
-- Enable multi-factor authentication where required by Mettelo.
-- Remove access when a contributor leaves a project or no longer requires it.
-- Report unexpected access or repository visibility immediately.
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-4"></a>
-
-## 03 Repository Creation and Standard Structure
-
-*Original document page 4 of 16.*
-
-Repository Creation and Standard
-Structure
-Repository naming
-Use short, descriptive, lowercase names separated by hyphens. Avoid personal names, dates unless
-essential, and vague terms such as “final-project”.
-Preferred examples:
-mettelo-food-bank-impact
-mettelo-road-safety-dashboard
-mettelo-job-market-intelligence
-Avoid:
-ProjectFinalV2
-john-dashboard
-data-project
-Required root files
-- README.md — purpose, setup, methodology, results and limitations
-- LICENSE — approved licence for the repository
-- CONTRIBUTING.md — contribution workflow and project-specific standards
-- CODE_OF_CONDUCT.md — link to the Mettelo Community Code of Conduct
-- SECURITY.md — how to report vulnerabilities or sensitive issues
-- CHANGELOG.md — material changes by release
-- CITATION.cff — preferred citation and contributor metadata where relevant
-Recommended folder structure
-├── data/ # permitted sample or processed data only
-├── docs/ # methodology, architecture and decisions
-├── notebooks/ # exploratory notebooks
-├── src/ # production code
-├── tests/ # automated tests and QA checks
-├── dashboards/ # BI source files or specifications
-├── reports/ # outputs and final reports
-├── .github/ # issue and pull request templates
-└── README.md
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-5"></a>
-
-## 04 Issues and Work Planning
-
-*Original document page 5 of 16.*
-
-Issues and Work Planning
-Every material contribution should begin with a GitHub issue. Issues define the work, create visibility
-and provide the link between project scope and delivered changes.
-A good issue includes
-- Clear title beginning with an action verb
-- Context and problem to be solved
-- Expected outcome
-- Acceptance criteria
-- Dependencies and relevant links
-- Required evidence, screenshots or tests
-- Labels, priority, milestone and owner
-Issue title examples
-- Add postcode-level validation to the ingestion pipeline
-- Document dashboard filter behaviour
-- Fix duplicate records in monthly aggregation
-- Design contributor onboarding issue template
-Issue workflow
-1. Confirm the issue is not duplicated.
-2. Clarify scope with the Project Lead if needed.
-3. Assign the issue to yourself or request assignment.
-4. Create a branch linked to the issue.
-5. Update the issue when blocked or when scope changes.
-6. Close the issue only after the pull request is merged and acceptance criteria are met.
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-6"></a>
-
-## 05 Branching and Commit Standards
-
-*Original document page 6 of 16.*
-
-Branching and Commit Standards
-Protected branches
-The main branch must remain stable and releasable. Direct commits to main are not permitted except for
-formally authorised emergency action.
-Branch naming
+```text
 feature/123-add-data-validation
 fix/214-correct-date-filter
 docs/87-update-readme
 chore/56-upgrade-dependencies
 hotfix/301-remove-exposed-secret
-Commit messages
-Use concise, imperative messages describing the change. Include the issue number where practical.
-Good:
-Add schema validation for survey responses (#123)
-Fix null handling in monthly totals (#214)
-Document local setup steps (#87)
-Avoid:
-changes
-final fix
-work done
-Commit hygiene
-- Commit one logical change at a time.
-- Do not mix unrelated refactoring with feature delivery.
-- Do not commit generated files, local environments, passwords or personal data.
-- Rebase or update from the target branch before requesting final review where required.
+```
 
-[↑ Back to contents](#contents)
+Write concise imperative commits describing actual work, e.g. `Add schema validation for survey responses (#123)`. One logical change per commit; avoid mixing unrelated refactors; never commit local environments, tokens, personally identifying data or unlicensed content.
 
----
+**Typical local sequence** (replace actual branch/path and check your project policy):
 
-<a id="section-7"></a>
+```bash
+git status -sb
+git switch -c feature/123-add-data-validation
+# Make the agreed change and run real tests
+git diff
+git add path/to/changed-file
+git diff --staged
+git commit -m "Add source validation checks (#123)"
+git push -u origin HEAD
+```
 
-## 06 Pull Request Standards
+See [safe command reference](git-github-command-reference.md) for integration, conflict and recovery.
 
-*Original document page 7 of 16.*
+## 6. Pull requests
 
-Pull Request Standards
-A pull request is the formal request to review and merge a contribution. It should allow a reviewer to
-understand what changed, why it changed and how quality was checked.
-Required pull request content
-- Summary of the problem and solution
-- Linked issue using “Closes #123” where appropriate
-- Description of material design or methodology decisions
-- Testing and validation performed
-- Screenshots for dashboards, user interfaces or visual changes
-- Data/privacy/licensing considerations
-- Known limitations or follow-up work
-- Reviewer assignment
-Pull request size
-- Prefer focused changes that can be reviewed within 20–40 minutes.
-- Split large work into preparatory, implementation and documentation pull requests.
-- Draft pull requests may be used to obtain early feedback.
-Minimum approval
-- At least one authorised reviewer for standard changes
-- Technical Lead or Maintainer approval for architecture, dependencies, security or release changes
-- Project Lead acceptance where the change affects scope or user outcomes
+PRs should tell reviewers **what was wrong, what changed, how you verified it and what remains**. The source expects: summary, linked issue, design/method decisions, checks, visual evidence where appropriate, data/security/licensing, limitations and reviewer.
 
-[↑ Back to contents](#contents)
+**Source review-size preference:** changes understandable in approximately 20–40 minutes; this is a helpful **planning preference**, not a guarantee or universal limit. Split big work into preparatory, implementation and documentation PRs where sensible.
 
----
+### Copyable PR template
 
-<a id="section-8"></a>
+```markdown
+## Summary and linked issue
+Closes #[issue-number]  <!-- only when a real issue will be resolved -->
 
-## 07 Review, Approval and Merge Policy
+## What changed and why
+[Specific design, code or documentation work and decision rationale]
 
-*Original document page 8 of 16.*
-
-Review, Approval and Merge Policy
-Reviewer responsibilities
-- Review the issue and acceptance criteria before assessing implementation.
-- Check correctness, maintainability, documentation, privacy and security.
-- Explain requested changes clearly and respectfully.
-- Distinguish blocking issues from optional suggestions.
-- Do not approve work you have not reasonably examined.
-Contributor response
-- Respond to all material review comments.
-- Resolve comments only after the concern has been addressed or agreed.
-- Explain where a recommendation is not adopted.
-- Request re-review after significant changes.
-Merge methods
-Squash and merge Default for feature branches; creates a clear single
-commit on main.
-Merge commit Used where preserving a meaningful branch history is
-required.
-Rebase and merge Used only where agreed by the Maintainer and the
-branch history is already clean.
-A contributor must not merge their own pull request unless the repository rules explicitly
-permit it and required independent approval is present.
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-9"></a>
-
-## 08 Code, SQL, Analytics and Dashboard Standards
-
-*Original document page 9 of 16.*
-
-Code, SQL, Analytics and Dashboard
-Standards
-General engineering quality
-- Use clear names and small, testable functions or modules.
-- Remove unused code and commented-out experiments before release.
-- Pin or document dependencies.
-- Handle errors and edge cases explicitly.
-- Include tests or reproducible QA evidence for material logic.
-Python
-- Follow PEP 8 unless the repository defines a stricter formatter.
-- Use type hints for shared production code where practical.
-- Use docstrings for public functions and complex logic.
-- Separate notebooks used for exploration from production code.
-SQL
-- Use consistent casing, indentation and meaningful aliases.
-- Avoid SELECT * in production queries.
-- Document grain, joins, filters and assumptions.
-- Add validation queries for totals, duplicates, nulls and referential integrity.
-Dashboards and BI
-- Use agreed definitions for measures and dimensions.
-- Document filters, refresh logic and data latency.
-- Use accessible labels, readable contrast and consistent number formats.
-- Validate totals against an independent source or query.
-- Avoid publishing sensitive row-level data.
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-10"></a>
-
-## 09 Documentation and Reproducibility
-
-*Original document page 10 of 16.*
-
-Documentation and Reproducibility
-A Mettelo project is not complete if another contributor cannot understand, run, review or extend it.
-README minimum standard
-7. Project title and one-sentence summary
-8. Problem statement and intended users
-9. Data sources, licences and access instructions
-10. Architecture or analytical approach
-11. Setup and local execution steps
-12. Key outputs and screenshots
-13. Validation and testing approach
-14. Limitations, ethical considerations and known risks
-15. Contributor credits and contact route
-Decision records
-Important architecture, data, modelling or governance choices should be recorded in docs/decisions
-using short Architecture Decision Records (ADRs).
-# ADR-003: Use DuckDB for local analytical processing
-Status: Accepted
-Context: ...
-Decision: ...
-Consequences: ...
-Reproducibility checklist
-- No undocumented local-only steps
-- Environment or dependency file included
-- Sample or synthetic data available where real data cannot be shared
-- Random seeds recorded where relevant
-- Commands and expected outputs documented
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-11"></a>
-
-## 10 Data, Privacy and Licensing
-
-*Original document page 11 of 16.*
-
-Data, Privacy and Licensing
-Dataset approval
-Only use data that is public, appropriately licensed, supplied under an approved agreement, or explicitly
-authorised by the Mettelo Project Lead and data owner.
-Do not commit
-- Personal data that is not approved for publication
-- Confidential partner data
-- Credentials, tokens, private URLs or connection strings
-- Copyrighted datasets without redistribution rights
-- Raw data containing unnecessary identifiers
-Data documentation
-- Source and owner
-- Licence and permitted use
-- Date accessed and update frequency
-- Data dictionary and grain
-- Quality issues and transformations
-- Privacy, bias and ethical considerations
-Licensing
-- Every public repository must have an approved licence.
-- Third-party code, models, images and data must retain required notices.
-- Do not copy code from another repository without checking its licence.
-- Where licence compatibility is uncertain, pause and ask the Maintainer.
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-12"></a>
-
-## 11 Security and Secrets Management
-
-*Original document page 12 of 16.*
-
-Security and Secrets Management
-Required controls
-- Store secrets in environment variables or an approved secrets manager.
-- Provide a .env.example file containing names only, never real values.
-- Use dependency scanning and automated security checks where supported.
-- Keep permissions minimal and remove unused collaborators.
-- Report vulnerabilities privately through SECURITY.md rather than a public issue.
-Suspected secret exposure
-16. Do not attempt to hide the event by only deleting the file.
-17. Notify the Maintainer or Organisation Owner immediately.
-18. Revoke and rotate the credential.
-19. Remove it from repository history where required.
-20. Assess logs and downstream systems for misuse.
-21. Document the incident and corrective action.
-Security issues take priority over normal project delivery. Prompt reporting will be treated as
-responsible behaviour.
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-13"></a>
-
-## 12 Responsible Use of AI
-
-*Original document page 13 of 16.*
-
-Responsible Use of AI
-AI tools may support research, coding, documentation and testing, but contributors remain accountable
-for every submitted output.
-Permitted use
-- Generating draft code or tests that are independently reviewed
-- Explaining unfamiliar concepts or suggesting refactoring options
-- Drafting documentation that is checked against the implementation
-- Supporting brainstorming with non-confidential information
-Required safeguards
-- Never submit confidential, personal or restricted data to an unapproved AI tool.
-- Verify factual claims, calculations, code and citations.
-- Check generated code for licensing, security and dependency risks.
-- Disclose material AI assistance in the pull request where it affected the solution.
-- Do not present AI-generated work as independently authored expertise.
-Suggested disclosure
-AI assistance: GitHub Copilot was used to draft unit-test scaffolding.
-All tests and assertions were reviewed, corrected and executed by the contributor.
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-14"></a>
-
-## 13 Releases, Change Logs and Project Closure
-
-*Original document page 14 of 16.*
-
-Releases, Change Logs and Project Closure
-Release readiness
-- Acceptance criteria completed
-- Required reviews approved
-- Automated checks passing
-- Documentation updated
-- Data and licence checks complete
-- Security issues resolved or formally accepted
-- Release notes prepared
-Versioning
-Use semantic versioning where the project produces reusable software: MAJOR.MINOR.PATCH.
-Dashboards, reports and research outputs may use dated or milestone-based releases where more
-suitable.
-Release notes should state
-- What was added, changed or fixed
-- Any migration or setup action
-- Known limitations
-- Contributors included in the release
-- Links to relevant issues and pull requests
-Closure
-- Final README and documentation approved
-- Repository topics and description updated
-- Outstanding issues categorised
-- Demo or showcase completed
-- Contributor credits verified
-- Lessons learned recorded
-- Repository archived or transferred to maintenance status
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-15"></a>
-
-## 14 Contributor Recognition and Evidence
-
-*Original document page 15 of 16.*
-
-Contributor Recognition and Evidence
-Mettelo uses GitHub activity as one source of contribution evidence, but recognition is based on the
-quality, relevance and traceability of work—not raw commit counts.
-Evidence may include
-- Issues defined or resolved
-- Pull requests authored and merged
-- Reviews that materially improved quality
-- Architecture or methodology decisions
-- Documentation, testing and quality assurance
-- Project leadership and release coordination
-- Community support linked to delivery outcomes
-Contributor credits
-- Use GitHub contributors and release notes.
-- Maintain a CONTRIBUTORS.md file for broader roles not fully visible through commits.
-- Describe contributions accurately using role and deliverable language.
-- Obtain consent before using personal profiles in public promotion.
-Portfolio use
-Contributors may reference public Mettelo work in their portfolio, subject to the repository licence,
-confidentiality obligations and accurate description of their own contribution.
-
-[↑ Back to contents](#contents)
-
----
-
-<a id="section-16"></a>
-
-## 15 Templates, Quick Reference and Acknowledgement
-
-*Original document page 16 of 16.*
-
-Templates, Quick Reference and
-Acknowledgement
-Pull request template
-## Summary
-## Linked issue
-Closes #
-## What changed
 ## Validation performed
+[Actual test command + result or documented manual test]
+
 ## Screenshots / evidence
-## Data, security or licensing considerations
-## AI assistance disclosure
-## Checklist
-- [ ] Tests pass
-- [ ] Documentation updated
-- [ ] No secrets or restricted data included
-Issue template
-## Problem
-## Expected outcome
-## Acceptance criteria
-- [ ]
-## Dependencies
-## Evidence required
-Contributor acknowledgement
-I confirm that I have read and understood this guide and agree to follow the repository, security, data,
-review and conduct standards that apply to my Mettelo contributions.
-Full name ____________________________
-GitHub username ____________________________
-Project / team ____________________________
-Signature ____________________________
-Date ____________________________
-Questions or access requests should be directed to the relevant Project Lead, Repository
-Maintainer or Mettelo Labs administrator.
+[Approved images or reproducible test files, if relevant]
 
-[↑ Back to contents](#contents)
+## Data, security and licensing
+[Source permissions, privacy, secrets, known risks]
+
+## Known limitations and follow-up
+[Real remaining work]
+
+## AI assistance
+[Material use disclosed in line with project requirements]
+
+## Review requested
+[Relevant authorised reviewer and specific decision]
+```
+
+**Approvals described in original policy:** at least one authorised reviewer for standard changes; Technical Lead/Maintainer for architecture, dependency, security and release changes; Project Lead acceptance for scope/user outcome changes. **Verify settings on the actual project** rather than assuming that GitHub enforces these rules automatically.
+
+## 7. Reviews and merge policy
+
+**Reviewers:** check issue acceptance, correctness, maintainability, tests, documentation, privacy and security. Label blocking concerns distinctly from optional recommendations. Explain feedback respectfully; never approve work you have not inspected.
+
+**Contributors:** answer material comments, resolve after a real fix or agreed decision, justify rejected suggestions and request re-review after significant changes.
+
+| Merge method | When source policy describes using it |
+| --- | --- |
+| Squash and merge | Default feature-work method; one readable commit on main |
+| Merge commit | Preserve meaningful branch history |
+| Rebase and merge | Only with maintainer agreement and an already clean history |
+
+Do **not** self-merge unless the specific repository explicitly permits it and required independent approval is present.
+
+## 8. Code, SQL and BI quality
+
+| Area | What a reviewer should look for |
+| --- | --- |
+| General code | Clear names, small testable modules, pinned/documented dependencies, error handling and relevant tests |
+| Python | PEP 8 or stricter repository formatter, appropriate type hints/docstrings, exploration separated from production |
+| SQL | Readable formatting, documented joins/grain/filters, no indiscriminate `SELECT *` production queries, tests for nulls, duplicates, totals and referential integrity |
+| Dashboards/BI | Agreed measures/dimensions, refresh/latency disclosure, accessibility, independent total validation and controlled sensitive records |
+
+**Practical example:** If joining sales to customers, specify whether a customer may have multiple transactions. Show a small synthetic test checking that aggregation doesn't double-count customers. A “looks correct in Power BI” screenshot is not an adequate replacement for reconciled values.
+
+## 9. Documentation and reproducibility
+
+The README should allow an authorised person to understand and, when permitted, run or extend the project: title, real problem/users, data sources and licences, approach/architecture, setup, outputs, QA, limitations, credits and contact route.
+
+### Architecture Decision Record (illustration)
+
+```markdown
+# ADR-003: Use DuckDB for local analytical processing
+Status: Accepted [only if actually approved]
+Context: [Real user, performance, cost or reproducibility issue]
+Options: [Meaningful alternatives]
+Decision: [What was agreed and by whom]
+Consequences: [Trade-offs, limitations, follow-up]
+```
+
+**Reproducibility:** No unexplained local-only dependency; versioned environment, permitted sample/synthetic data, seeds where relevant, exact commands and expected results.
+
+## 10. Data, privacy and licensing
+
+Use only appropriately public/licensed data, material covered by an approved agreement, or data expressly authorised by the proper owner. **Do not commit:** private individual records, confidential partner/client material, credentials, unlicensed copyrighted datasets, raw unneeded identifiers or restricted connection URLs.
+
+For every dataset record source/owner, licence and permitted use, access date, refresh, dictionary/grain, transformations, quality limits, privacy, bias and ethics. If a licence is unclear, stop and ask the Maintainer.
+
+## 11. Security and incident response
+
+- Store secrets in approved secret managers/environment variables; `.env.example` may contain **key names only**, no actual values.
+- Use suitable dependency/security checks where supported; do not claim automatic scanning is configured without verification.
+- Report vulnerabilities privately via the repository's `SECURITY.md` guidance, not an open issue.
+- Use least-privilege access and remove expired members.
+
+**If a secret is suspected to be exposed:** notify Maintainer/Organisation Owner immediately → revoke/rotate credential → assess history and downstream misuse → arrange safe history remediation if necessary → document the incident and corrective work. **Simply deleting the latest file does not revoke a leaked secret.** Prompt reporting is responsible practice.
+
+## 12. Responsible AI use
+
+AI may help draft tests, suggest implementation options, explain technical concepts or propose documentation **only within data and application-permission rules**. Submitters remain responsible for every claim and line of code.
+
+**Check:** no confidential inputs given to unapproved AI; output tested for correctness and licences; generated dependencies/security assessed; material AI contribution honestly disclosed.
+
+**Example disclosure:** “AI assistance: a coding assistant drafted preliminary unit-test scaffolding. I checked assertions against requirements, changed the tests and executed them locally; results are listed above.” Describe only what actually occurred.
+
+## 13. Releases, change logs and closure
+
+**Release readiness:** acceptance met; required review approved; *configured* checks passing; documentation current; data/licence/security issues resolved or formally accepted; release note prepared.
+
+**Versions:** `MAJOR.MINOR.PATCH` where semantic versioning makes sense for reusable software. Research, reports and dashboards may instead use dated/milestone releases as specified by the project.
+
+**Release notes should include:** changed features/fixes, any migration needed, limitations, real contributors and relevant issues/PRs.
+
+**Closure:** final README/release/docs approved, outstanding issues triaged, showcase complete where appropriate, contributions accurate, lessons captured, repo archived or handed to actual maintainer.
+
+## 14. Contribution recognition
+
+Credit comes from **the quality, relevance and traceability of actual work**, not commit count. Examples include substantive issues, merged PRs, thoughtful reviews, architecture/methodology decisions, testing, reproducibility work, project leadership with genuine responsibility and community support tied to real outputs.
+
+Keep meaningful review/contributor records and `CONTRIBUTORS.md` where appropriate. Obtain consent before public use of individuals' profiles. Contributors may describe **approved public work** in portfolios only within licence/confidentiality and accurate role boundaries.
+
+**Career evidence:** “Reviewed three PRs and corrected missing-value checks” is stronger and more truthful than claiming “Led engineering” if the person did not lead it.
+
+## 15. Templates and acknowledgements
+
+The issue and PR templates above are copyable versions of the source's Appendix templates. Where an authorised Mettelo process requires written acknowledgement, it should confirm that a real contributor read and understood applicable repository, security, data and review rules.
+
+**Original acknowledgement fields:** Full name, GitHub username, project/team, signature and date. These are *personal identity/signature records*—never request completed forms in a public GitHub issue or PR. Collection must use an approved private route.
+
+**For questions:** Project Lead, Repository Maintainer or Mettelo Labs administrator.
 
 ---
 
-## Notes for repository maintainers
+## Editorial, legal and policy provenance
 
-The original operating guide names root files expected on Mettelo project repositories, including `LICENSE`, `CODE_OF_CONDUCT.md`, `SECURITY.md`, `CHANGELOG.md` and optional `CITATION.cff`. This **resource library** may have a different document-publication workflow from code projects. Review and adopt the relevant requirements deliberately rather than implying every file has already been implemented.
+**Source:** *Mettelo GitHub Contribution Guide Final.docx*, 16 pages, source version 1.0. All 15 operating subject areas, policy roles, review/merge approach, data security, AI, issue/PR templates and acknowledgement requirements are retained. The earlier text extraction and exact original wording remain recoverable through Git history. Worked example, readable tables and copyable code/template blocks are editorial additions.
 
-The source's acknowledgement includes blank fields for personal identity and signature. Contributors should not submit filled signed acknowledgements to a public issue or pull request unless Mettelo has an authorised and appropriate collection process.
-
-**Source:** *Mettelo_GitHub_Contribution_Guide_Final.docx*, 16 pages, Version 1.0. Original text transferred into GitHub Markdown. Editorial improvements to table formatting and the source's misnumbered ordered lists remain open.
-
-**Prepared for Mettelo Labs.**
-
----
+**Unresolved policy fact:** The original effective date is `[DD MONTH YYYY]`; no implementation verification has been provided for every Mettelo repository. The original's “Approved” status describes the source, **not independent confirmation that this edited version has been formally adopted**. Obtain owner validation before labelling it final policy.
 
 ### Find your way around
 
-[← GitHub resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)
+[← GitHub resources](README.md) · [Practical Handbook](github-handbook.md) · [Command Reference](git-github-command-reference.md) · [Project Charter](../project-documentation/project-charter-template.md) · [Start Here](../../START_HERE.md) · [Directory](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

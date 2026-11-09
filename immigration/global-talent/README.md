@@ -20,9 +20,11 @@
 
 ## Academia and research pathway
 
-**[Read the academia and research pathway guide](academia-and-research.md)** — the 31-page source handbook transferred into Markdown with section navigation and official verification references.
+**[Read the enhanced Academia & Research pathway guide](academia-and-research.md)** — a newly researched guide explaining all **four distinct routes**, eligible research appointments, approved individual fellowships, UKRI-endorsed grant work, full peer review, named research organisations and **24 months of specific action-table strategies**.
 
-**Status: Draft — editorial review pending.** Source page text is present, but tables and detailed rules still need review.
+[Preserved October 2026 original 31-page research handbook](academia-and-research-original-2026.md) · [Research route-specific checklist](research-checklist.md)
+
+**Status: Enhanced researched draft; final legal and Markdown rendering review pending.** Professional programmes, grants and research vacancies must be checked at the time of application.
 
 ## Preparation trackers
 

@@ -47,3 +47,9 @@ GitHub Markdown is excellent for reading, linking and copying a checklist, but u
 Check the live [visa requirements](https://www.gov.uk/innovator-founder-visa) and the [government-approved endorsing-body list](https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies). The workbook's review date was 23 October 2026, and the applicable rules or provider conditions may change.
 
 **Prepared by Johnson Taiwo · Mettelo**
+
+---
+
+### Find your way around
+
+[← Innovator Founder resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

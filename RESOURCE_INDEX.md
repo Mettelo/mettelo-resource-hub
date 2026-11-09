@@ -61,7 +61,7 @@
 
 [Global Talent tracker instructions](immigration/global-talent/tracker-guide.md) · [All Global Talent resources](immigration/global-talent/README.md)
 
-**Archived source editions (reference only):** [Digital Technology](immigration/global-talent/technology-original-2026.md) · [Arts & Culture](immigration/global-talent/arts-and-culture-original-2026.md) · [Academia & Research](immigration/global-talent/academia-and-research-original-2026.md)
+**Earlier source editions:** preserved in Git commit history, not displayed as duplicate guides. The three links in the table above are the current versions.
 
 ### Other immigration and practical guidance
 

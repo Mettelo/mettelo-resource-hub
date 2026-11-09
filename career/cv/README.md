@@ -1,19 +1,13 @@
-# CV and résumé resources
+# CV and Résumé Resources
 
 [← Career development](../README.md) · [← Resource Hub](../../README.md)
 
-## Available now
+## Available guides
 
-### [CV Development Workflow — seven steps](cv-development-workflow.md)
+- **[CV Development Workflow — Cross-industry Edition 3](cv-development-workflow-edition-3.md)** — November 2026 revision, seven practical steps with an evidence bank for each substantive role. **Latest source edition; draft Markdown formatting review.**
+- [CV Development Workflow — Earlier Edition](cv-development-workflow.md) — original edition previously published on GitHub.
+- [Blank CV Template](cv-template.md) — general reusable CV structure.
 
-A complete, copy-friendly Markdown edition of the Mettelo CV development guide. Covers role analysis, selecting work examples, checking evidence, planning, drafting, reviewing and formatting.
+**Important:** Edition 3 broadens the workflow to multiple professions and career levels. Its suggested 7–12 evidence points per substantive role are for building an *evidence bank*, not a required number of bullets in the final CV.
 
-**Source edition:** Simplified edition 2, 23 October 2026. **Status:** Published.
-
-## Available template
-
-### [CV Template — copyable Markdown](cv-template.md)
-
-A blank, adaptable CV structure covering a professional profile, skills, experience, projects, education and certifications. Converted from the original Word template.
-
-**Status:** Published. The Markdown version contains the original placeholders but does not reproduce Word page layout.
+The two newly uploaded specialised Data, AI & Technology CV templates are awaiting individual Markdown conversion.

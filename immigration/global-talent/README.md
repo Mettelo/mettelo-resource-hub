@@ -1,16 +1,19 @@
 # UK Global Talent visa resource collection
 
-[← Immigration resources](../README.md)
+[← Immigration resources](../README.md) · [← Resource Hub](../../README.md)
 
-**Source materials identified:** technology, arts and culture, academia and research pathway guides, plus three spreadsheet trackers.
+## Digital technology pathway
 
-**Planned Markdown files**
+**[Read the digital technology pathway guide](technology.md)** — full 30-page source handbook transferred to Markdown, with page-by-page navigation and official source links.
 
-- `technology.md`
-- `arts-and-culture.md`
-- `academia-and-research.md`
-- `tracker-guide.md`
+**Status: Source transferred; editorial review pending.** The fixed-layout PDF includes tables whose alignment may need correction, and immigration guidance requires ongoing verification. Original source checked 23 October 2026; official GOV.UK references reviewed 9 November 2026.
 
-The spreadsheet trackers may also be supplied as optional downloadable assets because Markdown cannot reproduce formulas or interactive tracking.
+## Other pathways and trackers
 
-**Status:** Not yet converted. Check the live official eligibility and endorsement guidance before relying on any rule.
+- `arts-and-culture.md` — planned
+- `academia-and-research.md` — planned
+- `tracker-guide.md` — planned
+
+Three spreadsheet trackers are available among the original materials, and should be maintained as optional downloadable companions to their Markdown instructions.
+
+**Important:** These are community learning resources, not immigration advice. Follow the current official application and endorsement guidance and the relevant endorsing body's instructions.

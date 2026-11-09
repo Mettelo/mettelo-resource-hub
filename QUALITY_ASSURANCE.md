@@ -31,6 +31,14 @@
 
 **CV Development Workflow — Edition 3:** The 11-page flat PDF extraction and earlier CV workflow were retained in Git history but removed as duplicate files from the current directory. The [single current CV Development Workflow](career/cv/cv-development-workflow-edition-3.md) was rebuilt with eight clear steps (preparation plus seven prompts), semantic Markdown headings, evidence-bank tables, seven usable prompt blocks, cross-industry examples, metrics verification, a fifteen-minute exercise and free official UK guidance. The original core methodology remains identified separately from the new editorial additions. **Editorial sign-off and real-user reading tests remain pending.**
 
+## Duplicate-document consolidation — 9 November 2026
+
+**One active guide per topic is now the default.** The earlier CV Development Workflow files were removed previously. This pass removed three older Global Talent pathway source editions from the working tree and consolidated the two overlapping Data/AI CV templates into one specialist technical template. **Deleted content remains recoverable through Git commit history.**
+
+The Global Talent checklists and tracker instructions are retained as **distinct companion tools**, not duplicate full guides. The GitHub Handbook (learning), Command Reference (lookup) and Contribution Guide (team policy) remain separate because they serve different purposes. The general CV template remains separate from the technical specialist template, likewise for different audiences. The Civil Service/NHS guides are shared by direct links rather than duplicated under both categories.
+
+**QA distinction:** The earlier link counts belong to the original navigation audit and should not be interpreted as a retest after consolidation; this pass includes fresh targeted tests of remaining guide links and stale references. Final external-link, formatting and legal review still remains.
+
 ## Improvements completed
 
 ### 1. Homepage rebuilt

@@ -1,484 +1,409 @@
 # CV Development Workflow — Cross-industry Edition 3
 
-[← CV resources](README.md) · [← Resource Hub](../../README.md)
+**Seven practical steps to build an evidence-led CV that matches a real vacancy**  
+*Mettelo | Improved Markdown edition | 9 November 2026 | Prepared by O. Johnson Taiwo*
 
-**Mettelo Resource Hub — source-based Markdown edition**
+[🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [CV templates](README.md) · [All resources](../../RESOURCE_INDEX.md)
 
-> **Editorial status: Draft — source text migrated.** This is a page-by-page transfer from the original user-supplied 11-page PDF, not an independently verified or fully typeset guide. The extracted source may contain flattened tables, word wrapping and PDF text-order artefacts. Source-specific suggestions, grade scores, Git command examples and application criteria must be checked against the appropriate current guidance or software manual before use.
+> **Status: Enhanced editorial draft.** This is a **restructured and expanded edition** of the original 11-page *Cross-industry Edition 3* source. The [unaltered page-by-page migration](cv-development-workflow-edition-3-source.md) remains available for comparison. The seven-step sequence and per-role evidence-bank principle come from that source; additional explanatory material, practical exercises and free references are new editorial additions. Application instructions always take priority. This guide does not guarantee interviews, ranking or a particular ATS outcome.
 
-## Page navigation
+## First, what is this workflow for?
 
-- [Page 1](#page-1)
-- [Page 2](#page-2)
-- [Page 3](#page-3)
-- [Page 4](#page-4)
-- [Page 5](#page-5)
-- [Page 6](#page-6)
-- [Page 7](#page-7)
-- [Page 8](#page-8)
-- [Page 9](#page-9)
-- [Page 10](#page-10)
-- [Page 11](#page-11)
+A CV is a selection document: its reader needs to see **relevant evidence of what you can do**, where you did it and why it matters for *this* role. A list of tools or everyday duties may describe your background, but often leaves the employer unable to tell what you actually delivered.
 
-<a id="page-1"></a>
+This workflow separates **evidence gathering** from **CV writing**. That distinction matters: people often ask AI to rewrite their CV before they have explained their real contributions, so the result sounds polished but generic—or contains unsupported claims.
 
-## Page 1
+**Who can use it:** students and first-time applicants, experienced professionals, career changers, people returning after a break, regulated-sector workers, technical specialists, managers and senior leaders. The method is cross-industry: a care worker's meaningful result may involve safe escalation or continuity of support, while a data engineer's may involve tested data reliability. Both deserve precise evidence.
 
-CV development workflow
-Seven practical steps for developing a clear and credible CV across professions,
-sectors and career levels.
-Mettelo | Cross-industry edition 3 | November 2026
-Prepared by O. Johnson Taiwo | Founder, Mettelo
+### Get to the right section
 
-How to use this guide
-1. Open one AI conversation. Start at Step 1 with the vacancy documents, or state the role, level, sector
-and country you are targeting.
-2. Read “Before you start” on the step page. Copy only the paragraph under “Copy this prompt”, replace
-each bracketed field and send it as one message.
-3. Answer the questions and check the response against your records. Ask for corrections and complete
-“Check before continuing”. Do not approve unsupported claims.
-4. Confirm that step’s output is approved, then copy and send the next prompt. Keep all seven steps in
-the same conversation. Save the approved evidence bank and final CV.
-Jump to a step
-1 Understand the role and your career context
-Role and candidate profile; priority requirement map
+| Step | Your question | Output you should have before continuing |
+| --- | --- | --- |
+| [0 · Prepare safely](#0-before-you-start) | What should I gather or remove? | Vacancy pack, accurate role timeline, safe records |
+| [1 · Understand the role](#1-understand-the-role-and-your-context) | What does this employer actually require? | Essential/desirable requirement map |
+| [2 · Build a role-by-role evidence bank](#2-build-an-evidence-bank-for-every-role) | What did I genuinely do in each job? | Separate evidence table for each job or experience |
+| [3 · Verify and strengthen](#3-verify-and-strengthen-your-evidence) | Can I explain and support every claim? | Confirmed evidence and unresolved questions |
+| [4 · Select and plan](#4-match-evidence-to-the-vacancy-and-plan-your-cv) | Which evidence belongs in *this* application? | Prioritised CV outline, coverage map |
+| [5 · Draft the CV](#5-draft-the-complete-cv) | How can I present it simply and accurately? | Complete tailored draft |
+| [6 · Quality review](#6-review-the-cv-against-the-vacancy) | What is unclear, exaggerated or missing? | Corrected, fact-checked draft |
+| [7 · Format and submit](#7-format-check-and-prepare-the-files) | Can a recruiter and system read the final file? | Inspectable files and final application check |
 
-2 Build an evidence bank for each role
-Evidence by each job; typically 7 to 12 developed points where supported
-
-3 Check and strengthen the evidence
-Approved evidence, quantified or precise qualitative outcomes
-
-4 Select evidence and plan the CV
-Vacancy-fit map and concise final CV outline
-
-5 Draft the complete CV
-Complete tailored document
-
-6 Review the CV against the vacancy
-Corrected draft plus evidence and communication checks
-
-7 Format and check the application files
-Editable and shareable formats, final self-check
-
-Before you start
-Cross-industry evidence examples
-Communication and collaboration evidence prompts
-Final evidence and publication checklist
-
-Prepared by O. Johnson Taiwo, Founder   Contents 1
-
-[↑ Pages](#page-navigation)
+**Short on time?** If you already have an approved evidence bank, start at Step 1 for the new vacancy, then revisit Steps 4–7. If you changed jobs or acquired new evidence, update Steps 2–3.
 
 ---
 
-<a id="page-2"></a>
+## 0. Before you start
 
-## Page 2
+### Collect these documents
 
-Before you start
-Purpose and operating principles
-Use this workflow to examine your career evidence, identify what a target role requires and develop a CV
-from facts you can support. Each step produces an output for you to check before the next step begins.
-The process applies to career starters, career changers, returners, operational and regulated
-professionals, technical specialists, managers and executives.
- Adapt to the individual: occupation, country, seniority, role requirements, experience and application
-  format.
- Develop a detailed evidence bank before drafting: aim for 7 to 12 distinct evidence points per
-  substantive employment role when supported; never fabricate points to hit the target.
- Each developed point should establish the need or problem, personal contribution, actual approach
-  and tools or professional methods, confirmed outcome and why the result mattered.
- Evaluate collaboration, cross-functional or multidisciplinary working, communication, presentation,
-  influence, judgement and leadership when genuinely relevant. Do not insert teamwork or presentation
-  claims into jobs where they did not occur.
- Keep the final CV selective. Use the best evidence for the specific vacancy; 7 to 12 evidence-bank
-  points per role does not mean 7 to 12 published bullets for every job.
- Quantification is useful when defensible, not compulsory; genuine qualitative outcomes and
-  maintained standards count.
- Employer instructions, professional regulations and local convention take priority over any default in
-  this guide.
-What to prepare
- Complete vacancy description and person specification, or target job title, level, sector and country if
-  no vacancy exists.
- Current and earlier CVs; accurate employment history, education, qualifications, licences, relevant
-  courses and projects.
- Optional evidence: performance reviews, job descriptions, project notes, professional portfolios,
-  anonymised samples and relevant figures you can substantiate.
- A safe, anonymised version of any sensitive material; never upload patient, pupil, customer or
-  employer-confidential information without permission.
-If you need a new conversation
-Save the approved requirements map, role evidence banks, latest CV and any unresolved questions.
-Attach or paste them into the new conversation, state your current step and ask the AI to continue from
-those records. Check its understanding before proceeding.
+| Needed | What to provide | Safety check |
+| --- | --- | --- |
+| Vacancy | Exact advert, job description, essential/desirable criteria, salary/location if relevant | Keep employer instructions attached to your working draft |
+| Experience history | Job titles, organisations, dates, key duties and real projects; include temporary/voluntary roles | Correct inconsistencies rather than allowing AI to infer dates |
+| Evidence | Performance notes, project readmes, permissible figures, outcomes, awards, qualifications, licences | Remove patient, pupil, employee, client, customer and employer-sensitive information |
+| Existing CVs | Current and older copies, plus portfolio/LinkedIn where useful | Flag outdated roles, expired registrations and withdrawn claims |
+| Constraints | Application format, word/page limit, blind recruitment, AI policy, country, profession | The vacancy and professional rules override all defaults |
 
-Prepared by O. Johnson Taiwo, Founder   Contents 2
+### Three non-negotiable principles
 
-[↑ Pages](#page-navigation)
+**1. The seven steps are an editing process, not seven AI commands you must run.** You can work through them manually, with a mentor, or using AI where allowed.
+
+**2. User-confirmed is not independently verified.** Label each claim *document-supported*, *confirmed from recollection*, or *unresolved*. Do not describe an unsupported number as validated merely because an AI tool rewrote it.
+
+**3. Develop more evidence than you publish.** The original Edition 3 recommends **around 7–12 distinct evidence points for each substantial role, if genuinely available**. This is an optional *evidence bank*, not a required bullet count in a final CV.
+
+### What a strong evidence point contains
+
+**Need or risk → Your responsibility → Method and decisions → Outcome → Why the outcome mattered.**
+
+For a regulated role, the need may be maintaining safety or meeting a professional standard. For a service role, it may be handling escalation correctly or improving consistency. For an engineering role, it may be reducing failures through sound technical controls.
+
+**Don't know a percentage?** Use a supported qualitative outcome, such as successful handover, accurate reconciliations, safer escalation or an independently accepted deliverable.
 
 ---
 
-<a id="page-3"></a>
+## 1. Understand the role and your context
 
-## Page 3
+### What to do
 
-1 Understand the role and your career context
-Before you start: Attach the full vacancy description, person specification and application instructions. If
-you have no vacancy, state your target role, level, sector and country. Replace the bracketed fields in the
-prompt, including your career situation.
-Copy this prompt
-Act as a careers and recruitment adviser with experience across industries. Help me develop a
-credible CV for [TARGET ROLE] at [LEVEL] in [SECTOR, COUNTRY], based on the attached
-vacancy, person specification and employer instructions. Do not write the CV yet. First establish
-my career situation: [EARLY CAREER / EXPERIENCED / CAREER CHANGER / RETURNER /
-SPECIALIST / SENIOR LEADER], my actual profession(s), transferable experience, target
-application type and any sector-specific constraints. Identify essential and desirable
-requirements separately from your interpretations. Explain the key professional, operational,
-service, technical, commercial, ethical or leadership needs the role addresses, and what
-successful performance looks like. Identify relevant capability in professional practice,
-judgement, communication, stakeholder relationships, teamwork, multidisciplinary or cross-
-functional collaboration, presenting information, influencing, accountability and any people
-management. Assess these capabilities only where they are relevant to the role. Identify
-mandatory qualifications, registration, licences, eligibility and safeguarding requirements only
-where supported by the vacancy or authoritative professional rules; flag anything unverified.
-Produce a prioritised requirement-to-evidence table and questions for exploring my history. Note
-length, location, blind recruitment, AI-use and file instructions. If there is no vacancy, label the
-map provisional. Do not invent employer requirements, professional requirements or
-achievements. Ask for my existing CV and evidence, then wait.
-Check before continuing
-Check that the role priorities match the vacancy, mandatory requirements are supported and your career
-context is correct. Correct any assumptions, then explicitly approve the requirements map before Step 2.
+Read the vacancy and highlight requirements **actually stated** by the employer. Separate mandatory qualifications/registration from desirable technical capabilities and broader context. Identify who the work serves, what decisions are needed, and what competence looks like at the level advertised.
 
-Prepared by O. Johnson Taiwo, Founder   Contents 3
+**Practical example:** A job might mention SQL, stakeholder communication and quality assurance. Do not just add three keywords to your CV. Ask: *Which actual task required SQL? Who used the output? What check did I perform? What happened when I found a problem?* If the vacancy says a qualification is essential, it cannot be replaced by a convincing paragraph.
 
-[↑ Pages](#page-navigation)
+### Requirement-mapping worksheet
+
+| Priority | Exact employer requirement | Essential / desirable | Strong evidence would show | My existing proof | Gap / question |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [Quote the requirement] | [E/D] | [Real task, method, outcome] | [Employer/project] | [Unknown detail] |
+| 2 | [Quote the requirement] | [E/D] | [Real task, method, outcome] | [Employer/project] | [Unknown detail] |
+
+**Use this prompt (optional; paste vacancy first):**
+
+```text
+Act as an experienced cross-industry recruitment adviser. I am targeting [ROLE, LEVEL, SECTOR, COUNTRY] and my career stage is [EARLY CAREER / EXPERIENCED / CHANGER / RETURNER / SPECIALIST / LEADER]. Read the attached job advert, person specification and application instructions. Do not write my CV.
+
+1. Extract the employer's explicit essential and desirable requirements, retaining their exact meaning; label your interpretations separately.
+2. Explain the role's service, operational, technical, commercial or professional problems and the level of independence, judgement and leadership expected.
+3. For each high-priority requirement, describe a type of real work example that could demonstrate it, including communication, multidisciplinary work, safety, compliance or stakeholder influence ONLY where applicable.
+4. Identify mandatory credentials, registration, clearance or experience stated in the vacancy; do not infer rules without authoritative support.
+5. Record any word/page limits, anonymisation, file format, eligibility and AI-use instructions.
+6. Produce a concise requirement-to-evidence table, a list of missing information and the five most useful questions about my background.
+
+If there is no vacancy, mark the output a PROVISIONAL ROLE PROFILE, not an employer's actual specification. Stop and ask for my real employment history.
+```
+
+**Approve Step 1 only when** the requirements are not invented, mandatory conditions are correct and the target role/career stage is right.
 
 ---
 
-<a id="page-4"></a>
+## 2. Build an evidence bank for every role
 
-## Page 4
+The source Edition 3's most important improvement is to assess **each employment role separately**, rather than pull seven glamorous achievements from an entire career and ignore other positions.
 
-2 Build an evidence bank for each role
-Before you start: Provide your current and earlier CVs, career notes and a complete list of roles with
-dates. Include relevant placements, volunteering and independent work. Identify outdated details and
-corrections, then use the approved Step 1 requirements map.
-Copy this prompt
-Review every distinct employment position in my history separately, comparing each with the
-target requirements. Do not write the final CV. For each substantive role, investigate and
-develop an evidence bank targeting 7 to 12 distinct, credible, outcome-focused points where my
-real work supports that many; if fewer exist, retain fewer and mark gaps. Include recurring
-professional responsibilities and sustained standards, not just special projects. For each
-potential point, capture: (1) concrete problem, risk, requirement or service need; (2) my exact
-responsibility and decisions versus colleagues’ contributions; (3) what I actually did; (4) the
-specific tools, systems, materials, frameworks, professional processes or methods genuinely
-used, where relevant; (5) observable result, delivered output, controlled risk, maintained
-standard or confirmed outcome; and (6) organisational, customer, patient, pupil, team or public
-value. Specifically look for genuine examples of collaborating within teams, working cross-
-functionally or with multidisciplinary professionals, escalating issues, communicating with
-diverse audiences, writing documentation, briefing or presenting, negotiating or influencing,
-training others and handling feedback. Do not assume any of these occurred. Also include
-technical and professional competence, quality, safety, compliance, planning, judgement,
-service delivery and improvement appropriate to the occupation. Identify source and confidence
-for each claim, plus missing specifics. Separate permanent jobs, temporary roles, volunteering,
-training, placements, academic and independent work. Do not attach one employer’s tools or
-achievements to another. Flag contradictions. Present a numbered evidence-bank table for
-each role and conclude with targeted missing-evidence questions. Wait for review.
-Check before continuing
-Check that each substantive role has a separate bank, examples belong to the correct role and missing
-information is flagged. Correct misplaced tools, dates or achievements before beginning the questions in
-Step 3.
+### How to investigate a role
 
-Prepared by O. Johnson Taiwo, Founder   Contents 4
+For each job, start with recurring responsibilities and ask what the work **required you to decide, protect, deliver, check, document or coordinate**. Then examine distinct projects and unusual incidents. Include both improvements and sustained professional standards.
 
-[↑ Pages](#page-navigation)
+| Field | Evidence-bank entry | Why it matters |
+| --- | --- | --- |
+| Role / dates | [Organisation, real job title, period] | Keeps achievements attached to the right employer |
+| Need / context | [Problem, risk, service or professional requirement] | Explains why the work mattered |
+| My part | [What I was accountable for; decisions] | Distinguishes personal from team work |
+| How | [Tools, professional methods, checks, relationships] | Demonstrates actual capability |
+| Result | [Verified output, incident resolved, standard maintained, change observed] | Separates delivery from activity |
+| Value | [To service, customer, public, team, patient, business] | Establishes relevance |
+| Evidence status | [Document-supported / recollection / unresolved] | Prevents invented certainty |
 
----
+### Cross-industry prompts to uncover overlooked work
 
-<a id="page-5"></a>
+| Occupation | Questions worth asking | What not to infer |
+| --- | --- | --- |
+| **Health and care** | What was observed? How did you escalate and hand over? What documentation or policy applied? | Clinical decisions, health improvements or professional registration you did not hold |
+| **Education** | What need did you assess? How was teaching adapted? What progress was actually observed? | Guaranteed learning outcomes without records |
+| **Finance and audit** | Which reconciliation/control found an exception? What standard or sign-off applied? | Savings or compliance certification not evidenced |
+| **Retail and hospitality** | How did you manage service failures, handovers, stock or complaints? | Financial impact from routine customer service |
+| **Operations/logistics** | What delivery constraint or delay did you coordinate? What agreed service level was maintained? | End-to-end ownership if you only supported one stage |
+| **Engineering/construction** | Which specification, inspection or fault response was involved? Who authorised corrections? | Design or safety sign-off beyond your actual responsibility |
+| **Data/technology** | What was the data grain/source? Which checks, tests or architecture decisions did you own? Who relied on the output? | Team results, deployment responsibilities or technologies you never used |
+| **Public administration** | Which procedure, stakeholder group or service standard? What changed after your communication? | Policy ownership or statutory responsibility beyond your role |
 
-## Page 5
+**Practical tip:** Keep employment roles, volunteering, placements, study and independent projects labelled separately. A project completed at home cannot silently become an employer achievement.
 
-3 Check and strengthen the evidence
-Before you start: Use the separate role evidence banks from Step 2. Keep supporting records or
-anonymised examples available. Answer the questions for one evidence point at a time and say when a
-detail or result cannot be confirmed.
-Copy this prompt
-Help me verify and enrich each evidence-bank point, one job and one evidence point at a time.
-Ask up to five precise, non-repetitive questions per message about the original need or problem,
-context and scale, personal ownership, decisions, concrete actions, relevant systems, tools or
-professional approaches, quality or safety checks, partners involved, communication or
-presentation, challenges, trade-offs and what happened. Where collaboration mattered,
-establish which functions or professions were involved, why they collaborated, my role in the
-interaction, how information was shared and the resulting action. Where I presented, taught,
-briefed or influenced, identify the audience, purpose, format and outcome. Do not label routine
-co-working as leading multidisciplinary delivery. For numerical results, ask for baseline, end
-point, period, method, supporting records and whether the figure is exact or approximate; never
-propose invented percentages. Where figures are unavailable, elicit specific confirmed
-qualitative outcomes, including safe service, issue resolution, audit completion, clear
-communication, accurate handover, reliable delivery or maintained standards. Differentiate
-direct results, team results and contributions. After each point, produce a corrected evidence
-statement with evidence status: CONFIRMED BY ME / SUPPORTED BY DOCUMENT /
-UNRESOLVED. My approval does not constitute independent verification. Ask me to amend or
-approve; exclude unresolved assertions from the CV. At the end, return approved evidence
-banks for each role and wait.
-Check before continuing
-Check each corrected evidence statement against your own account and available records. Confirm the
-personal contribution, methods, team interactions and outcome. Approve accurate statements explicitly
-and keep unresolved claims out of the CV.
+**Use this prompt:**
 
-Prepared by O. Johnson Taiwo, Founder   Contents 5
+```text
+Using the approved role requirements and my current/previous CVs, build a separate detailed EVIDENCE BANK for EACH job in my history. Do not draft my CV.
 
-[↑ Pages](#page-navigation)
+For each substantial role, aim to investigate up to 7–12 DISTINCT evidence points if my actual work supports that many; fewer are fine. Include important recurring duties and sustained service standards, not only one-off achievements.
+
+For every point ask: What real problem, risk or requirement was involved? What was my exact responsibility and decision? What method, technology, professional process or quality check did I actually use? With whom did I communicate or collaborate, if relevant? What real output or outcome followed? Why did it matter? What evidence supports it?
+
+Maintain columns: ID; employer/role/date; need; personal contribution; actual approach/tools; collaboration/communication; outcome; value; evidence status; unanswered questions.
+
+Examine cross-functional cooperation, briefing, escalation, documentation, quality, compliance, professional judgement and leadership only where genuine. Keep all employers' tools and results separate. Mark inconsistent dates or unsupported numbers as unresolved. Include early career, voluntary or project work under truthful labels.
+
+Present a numbered table for each role and ask targeted clarification questions. Stop before CV drafting.
+```
+
+**Approve Step 2 only when** every substantial role has been considered separately and work is correctly attributed.
 
 ---
 
-<a id="page-6"></a>
+## 3. Verify and strengthen your evidence
 
-## Page 6
+A specific result is better than an impressive-sounding one you cannot explain. Review **one evidence point at a time**, asking a maximum of five focussed questions per round where AI is used.
 
-4 Select evidence and plan the CV
-Before you start: Confirm that Step 3 has produced an approved evidence bank for each role. Use these
-banks alongside the Step 1 requirements map and the employer’s length instructions. Keep unresolved
-claims outside the proposed CV.
-Copy this prompt
-Using only my approved evidence, decide which experiences and details best address the
-target requirements. Do not draft the CV yet. Map essential and desirable criteria to direct,
-transferable or missing evidence. Identify my strongest professional strengths, including
-technical or occupational competence and genuinely supported collaboration, communication,
-presentation, professional judgement, customer or service focus or leadership. Make sure
-evidence of working with cross-functional, multidisciplinary or stakeholder groups is considered
-where relevant, without forcing it into every role. Rank evidence by relevance, recency,
-complexity, actual contribution, professional rigour and meaningful outcome. Do not rank an
-example more highly simply because its numerical result is larger. Recommend a sensible
-number of final CV bullets per role: typically about 3 to 8 for relevant substantial roles, fewer for
-short or older roles, and more only if role or employer instructions justify it. Use the bank of 7 to
-12 evidence points to select the most relevant achievements for the submitted CV. Recommend
-profile, skills, experience, training, projects, volunteering, certification or registrations in an
-appropriate order. Adjust for early careers, career change, career breaks, specialist and
-regulated applications, academic CVs and country conventions. Preserve actual titles, dates,
-experience context and truthful gaps. Present a simple outline and ask for approval.
-Check before continuing
-Check that the outline covers the essential criteria, gives the strongest relevant evidence enough space
-and follows the employer’s length instructions. Approve the section order, bullet allocation and any
-omitted achievements before drafting.
+### A simple claim-verification protocol
 
-Prepared by O. Johnson Taiwo, Founder   Contents 6
+| Check | Question | Action |
+| --- | --- | --- |
+| Context | What triggered the work? | Explain problem or professional responsibility |
+| Ownership | Did I lead, design, contribute, support or review? | Use the exact truthful verb |
+| Method | What did I actually do and why? | Name relevant tool, process, standard or decision |
+| Scale | How many records, users, sites or cases? | Include only if observed or safely approximate |
+| Outcome | What changed—or what standard was maintained? | Separate delivered output, observed result and interpretation |
+| Source | Can I show a dated record or explain my recollection? | Mark document-supported / recollection / unresolved |
 
-[↑ Pages](#page-navigation)
+### The metric check few people do
 
----
+Before writing “reduced reporting time by 30%”, identify the starting and ending durations, the number of observations, measurement period, and which work caused the change. If a task used to take 10 hours and now takes 7, the relative decrease is (10 − 7) ÷ 10 = 30%; **only use this when 10 and 7 are real observations and the comparison is fair**.
 
-<a id="page-7"></a>
+When the only proof is that a dashboard was delivered, write that accurately rather than inventing a time reduction. For team results, say **contributed to** where that is your real role.
 
-## Page 7
+### An illustrative transformation (fictional example)
 
-5 Draft the complete CV
-Before you start: Approve the Step 4 outline and bullet allocation. Confirm job titles, dates, qualifications
-and contact details, including any information that must be removed for blind recruitment. Use only the
-evidence approved in Step 3.
-Copy this prompt
-Draft my complete CV from the approved outline and only verified career facts, following
-employer instructions on anonymisation, format and length. Use natural UK English unless the
-target country or employer requires another convention. Create a specific, concise profile,
-relevant professional, technical and interpersonal capabilities, employment history, qualifications
-and other justified sections. For each selected employment bullet, lead with my genuine action
-or professional responsibility and clearly show the relevant need or problem, specific approach
-and tools or professional method, and meaningful outcome and value; include all elements
-naturally where space permits, never with padding or invention. Show credible evidence of
-working within teams or across functions and professions, communication, stakeholder liaison,
-presenting, briefing, documenting, influencing or training wherever these were approved and
-relevant. Do not merely claim “excellent communication skills” or insert generic “collaborated
-with stakeholders”; show with whom, for what purpose, what I did and the result. Use a flexible
-target of approximately 15 to 25 words per bullet where practical; allow longer or shorter
-statements when clearer or professionally appropriate. Do not force software names into non-
-technical professions; “tools” can be instruments, assessment systems, service procedures,
-policy frameworks or operational methods. Use precise quantitative results only when supported
-and otherwise precise qualitative outcomes. Be faithful to contribution versus team impact. Do
-not double-count experience, exaggerate seniority, invent registration or alter titles. Provide the
-clean CV first and unresolved questions separately; wait for review.
-Check before continuing
-Read every section and confirm that it represents your actual experience. Check that outcomes, tools
-and collaboration claims match approved evidence. Request corrections to misleading, missing or
-unsupported statements before the quality review.
+**Before:** “Responsible for reports and stakeholder management.”
 
-Prepared by O. Johnson Taiwo, Founder   Contents 7
+**After, only if true:** “Reconciled monthly reporting totals against source records, escalated discrepancies to finance colleagues and documented the agreed corrections before publication.”
 
-[↑ Pages](#page-navigation)
+This is more informative even without a percentage: it shows **method, collaboration and the control outcome**. It remains fictional and must not be copied as personal experience.
+
+**Use this prompt:**
+
+```text
+Verify my role-by-role evidence banks. Work through one job and one evidence point at a time, asking at most FIVE precise questions per message. Ask about context, my responsibility, decisions, method/tools, review or safety checks, stakeholder communication, challenges and the result.
+
+For every number, establish baseline, end value, denominator/period and evidence; never suggest a made-up percentage. Where no trustworthy metric exists, ask about a confirmed non-numerical outcome such as resolved issue, accepted deliverable, safe escalation, completed audit, documented handover or maintained service standard.
+
+Distinguish my direct actions from team outcomes. Challenge labels such as 'led', 'owned', 'built', 'architected' and 'managed' if the history only supports 'supported' or 'contributed'.
+
+For each point provide a corrected factual evidence statement and status: DOCUMENT-SUPPORTED / CANDIDATE-CONFIRMED FROM RECOLLECTION / UNRESOLVED. Candidate approval is NOT independent verification.
+
+Ask me to approve or amend the point. Exclude unresolved claims from future CV drafting. At the end return approved role-separated evidence banks and stop.
+```
+
+**Approve Step 3 only when** the selected statements match your own work, numbers and methods.
 
 ---
 
-<a id="page-8"></a>
+## 4. Match evidence to the vacancy and plan your CV
 
-## Page 8
+Not every real achievement deserves space in every application. Selection is based on **relevance, actual ownership, level, clarity and outcome**, not the biggest percentage or longest software list.
 
-6 Review the CV against the vacancy
-Before you start: Provide the latest complete CV draft. Compare it with the vacancy, application
-instructions and approved evidence banks. Identify any details that changed during drafting so that the
-review can check them against your records.
-Copy this prompt
-Conduct a thorough quality review of my CV against the vacancy, employer instructions and
-approved evidence banks. Prioritise factual accuracy, mandatory qualifications and registration,
-dates, tools, the distinction between personal and team outcomes, the basis of numerical
-claims, and privacy. Audit each substantive role for: evidence of occupational or technical
-competence; specific methods or tools where important; a real problem or delivery need; clear
-personal action; a confirmed outcome or maintained standard; and useful evidence of
-teamwork, cross-functional or multidisciplinary practice, communication, presentation or
-influence when relevant and verified. Identify missing interpersonal evidence rather than
-inventing it. Flag any generic bullet that could describe almost any applicant, and either rewrite
-using verified details or ask a focused question. Assess relevance and coverage of essential
-requirements, clarity, accessibility, jargon, repetition, tone, spelling, terminology, seniority,
-length, order, formatting feasibility, dates, credential status and document and portfolio links.
-Distinguish strong evidence from weak or unsupported claims. Do not issue invented ATS
-compatibility scores or claim guaranteed ranking. Provide a prioritised correction summary
-followed by a complete improved CV, preserving factual approval status. Wait for final approval.
-Check before continuing
-Resolve the factual issues identified in the review. Check the corrected CV in full, including qualifications,
-dates, contribution and outcomes. Explicitly approve the final wording before requesting Word or PDF
-files.
+### Prioritisation table
 
-Prepared by O. Johnson Taiwo, Founder   Contents 8
+| Vacancy requirement | Evidence ID | Strength | Where it should appear | Decision |
+| --- | --- | --- | --- | --- |
+| [Essential capability] | [Role 2, E05] | Direct / transferable / missing | First bullet of relevant role | Keep |
+| [Required qualification] | [Education Q01] | Meets / does not meet | Qualifications | Check |
+| [Communication] | [Role 1, E03] | Relevant example | Role bullet or profile | Keep |
+| [Obsolete tool] | [Role 4, E01] | Low relevance | Remove or reduce | Omit |
 
-[↑ Pages](#page-navigation)
+### Choose sections intelligently
 
----
+- **Experienced professional:** contact/profile → relevant skills → employment → education/credentials → selected projects if needed.
+- **Student/first job:** contact/profile → education and applied projects/placements → volunteering/work → skills, adjusted to the vacancy.
+- **Career changer:** contact/profile → transferable capability → credible relevant projects → accurate chronological employment; don't disguise the previous career.
+- **Regulated profession:** verified professional registration, licence or mandatory qualifications must be placed prominently according to the vacancy.
+- **Senior specialist/leader:** show scope, judgement, governance, strategy, people/technical leadership and measurable or confirmed outcomes, without implying management of people when you influenced through expertise.
 
-<a id="page-9"></a>
+**Length and bullet counts:** The source suggests **roughly 3–8 final bullets** for substantial relevant roles and fewer for older/short positions, as flexible guidance, not a national standard. The National Careers Service emphasises clarity and tailoring; **the actual employer's format and length instructions take priority**.
 
-## Page 9
+**Use this prompt:**
 
-7 Format and check the application files
-Before you start: Approve the complete wording from Step 6 and confirm the employer’s file, page limit
-and naming requirements. Use this approved version for formatting. Changes to facts or claims must be
-reviewed before export.
-Copy this prompt
-Prepare my approved CV in the employer-required format, preserving all verified facts. Prefer a
-clean readable single-column structure unless the vacancy requires otherwise; use consistent
-section headings, bullet alignment, dates and legible fonts. Keep contact and employment
-details in selectable document body text. Remove all working notes, prompts, evidence status
-tags, placeholders and Mettelo branding from my personal CV. Prioritise relevant information
-rather than shrinking type to fit an arbitrary page count. Produce an editable Word file and PDF
-when tools are available and employer instructions permit; inspect every page for clipping,
-unintended breaks, paragraph spacing, readable text, working links and sensible PDF text
-order. Do not claim file creation or inspection unless actually performed. Choose a filename
-compliant with employer instructions, including blind recruitment. Provide a final submission
-checklist confirming vacancy, contact details, attachments, dates, required credentials, consent
-and privacy and employer AI-use rules. I will personally open, check and submit the final
-documents. Save my approved role-by-role evidence bank separately for future applications and
-interviews.
-Check before continuing
-Open both files and check every page, contact detail, link and attachment against the application
-instructions. Check that the exported wording matches the approved CV. Keep your evidence bank
-separately and submit the application yourself.
+```text
+From the approved requirements map and VERIFIED role evidence only, select content for a tailored CV; do not draft yet.
 
-Prepared by O. Johnson Taiwo, Founder   Contents 9
+1. Map each essential/desirable criterion to direct, transferable or missing evidence. Show the evidence ID, not invented keywords.
+2. Rank examples by actual relevance, responsibility, complexity, professional rigour, recency and confirmed result; do not rank only by numeric size.
+3. Select a sensible number of bullets per role and explain why. The earlier 7–12 points per role are the evidence BANK, not a final CV bullet requirement.
+4. Recommend section order appropriate for [CAREER STAGE / REGULATED PROFESSION / COUNTRY] and account honestly for volunteering, placements and career gaps.
+5. Flag unresolved mandatory qualifications or professional requirements. Keep original titles and dates.
+6. Present a concise planned outline and outstanding questions. Stop for my approval.
+```
 
-[↑ Pages](#page-navigation)
+**Approve Step 4 only when** the essential criteria are represented by real evidence and weaker material has been removed.
 
 ---
 
-<a id="page-10"></a>
+## 5. Draft the complete CV
 
-## Page 10
+### What good final bullets actually do
 
-Cross-industry evidence examples
-These are illustrative patterns, not achievements to copy. Each must be replaced by the candidate’s true
-actions, methods and results.
+Use a natural, compact sentence that answers **what I did, how I did it, and why it mattered**. Include problem context where useful, but do not squeeze an entire STAR interview story into every bullet.
 
- Professional context            What specific evidence may look like
+| Too generic | Stronger *illustrative* rewrite |
+| --- | --- |
+| “Helped with data quality.” | “Investigated missing source records using SQL reconciliation checks and documented exceptions for the reporting team before the next release.” |
+| “Excellent communication and teamwork.” | “Briefed service colleagues on revised handover steps and recorded their feedback before updating the agreed procedure.” |
+| “Managed customers and stock.” | “Checked incoming stock against delivery notes, investigated mismatches with suppliers and maintained accurate records for the next shift.” |
 
-                                 Escalated a documented change in service-user condition via agreed protocols
- Healthcare / care               and multidisciplinary handover, enabling timely assessment and continuity of
-                                 care.
+**All examples are fictional and may only be used if they describe real, verified work.** The goal is specificity, not decorative numbers. A shorter or longer bullet can be better than an artificial word-limit target.
 
-                                 Used formative assessments and differentiated activities to address identified
- Education                       learning gaps, then reviewed pupil progress and shared findings with
-                                 colleagues.
+### Common CV sections
 
-                                 Investigated unreconciled balances using ledger checks and control procedures,
- Finance / audit
-                                 documented exceptions and supported accurate period-end reporting.
+**Contact:** name, appropriate contact information, professional portfolio/link if relevant. Follow blind-recruitment instructions: do not add disallowed identifiers.
 
-                                 Resolved a recurring stock or service issue using point-of-sale records and team
- Retail / hospitality
-                                 briefings, improving handover consistency or service reliability.
+**Profile:** a short, evidence-led summary of relevant career level, sector, strongest capabilities and types of problem solved. Avoid “hard-working self-starter” and claims such as “expert” without context.
 
-                                 Coordinated warehouse and transport colleagues around an amended delivery
- Operations / logistics
-                                 plan, communicating exceptions and protecting agreed service commitments.
+**Skills:** technologies, professional practices, tools and interpersonal capabilities that appear in actual work; distinguish trained exposure from professional use.
 
-                                 Explained procedural changes to operational colleagues through concise
- Public administration           guidance and briefings, improving consistent application of the approved
-                                 process.
+**Employment:** correct employer, job title, location if appropriate, dates and selectively ordered proof.
 
- Engineering /                   Coordinated technical specialists and site personnel to address an identified
- construction                    quality issue, using inspection records and approved corrective controls.
+**Education and registration:** qualifications, actual grades/status where relevant and mandatory registration. Do not imply future training is completed.
 
-                                 Validated a failing pipeline with SQL checks and cross-team incident review,
- Data / technology
-                                 restoring a reliable reporting output and documenting recovery controls.
+**Projects and volunteering:** include when relevant and label honestly; keep dates, scope and actual authorship clear.
 
-Prepared by O. Johnson Taiwo, Founder   Contents 10
+**Use this prompt:**
 
-[↑ Pages](#page-navigation)
+```text
+Write my COMPLETE tailored CV from the approved outline, approved evidence banks and confirmed career facts only.
 
----
+Follow the employer's exact length, format, blind-recruitment and AI-use instructions. Use natural UK English unless the target country requires otherwise. Write a specific concise profile; relevant supported skills; real job titles and dates; evidence-led employment bullets; and only useful education, project, voluntary, credential or portfolio sections.
 
-<a id="page-11"></a>
+For each employment bullet use a truthful action/responsibility, concrete method, and verified output or outcome, with relevant context. Make the sentence readable: 15–25 words can be a starting guide, NOT a hard universal rule. Use accurate quantitative figures if document-supported, or precise non-numerical outcomes when not.
 
-## Page 11
+Show genuine cross-functional working, presentations, handovers, influence or leadership only when approved evidence supports it. Distinguish direct achievements, team contributions and maintained standards. Do not fabricate tools, credentials, seniority, money saved, percentages or confidential details. Do not attribute employer work to a private project or vice versa.
 
-Communication and collaboration
-Questions to develop specific evidence
- Who specifically needed your information or support? Consider team members, other departments,
-  clinicians, teachers, suppliers, leaders or customers where relevant.
- Why was the coordination necessary, and what risk or decision did it affect?
- What did you communicate, document, negotiate, demonstrate, teach, brief or present?
- How did you communicate? Identify the actual format, such as a handover, meeting, written report,
-  dashboard, presentation, training session or telephone conversation.
- What observable decision, resolution, understanding, safer process or better delivery followed?
- Would “led”, “coordinated”, “supported” or “contributed” truthfully describe your role?
+Return the complete CV first, then separate unresolved questions outside the CV. Ask for my full factual review.
+```
 
-Final evidence and publication checklist
- Every job is considered individually; role-by-role evidence banks target 7 to 12 points only where the
-  experience truly supports them.
- Strong bullets show relevant need, personal action, concrete approach or professional methods,
-  confirmed result and value.
- Evidence of collaboration and communication is actively investigated, not mechanically inserted.
- Operational, regulated, creative, service and technical professions receive appropriately different
-  evidence emphasis.
- No fabricated figures, tools, credentials, leadership, audience, presentations or responsibilities.
- The final CV is tailored and selective; bullet length and quantity are not treated as universal national
-  standards.
- Employer instructions, country conventions, sector rules, privacy, accessibility and anonymisation are
-  followed.
- The person has approved the facts and checked every page of the submission document.
-AI, privacy and standards statement
-AI may misread evidence, invent details, miscalculate numbers or overstate achievements. The applicant
-is responsible for checking every statement and must follow employer AI-use rules. Anonymise personal,
-patient, pupil, service-user, client and commercially confidential information unless sharing is permitted.
-This resource is informed by common professional CV principles; it is not government accredited, a
-national CV standard, professional registration advice, or a guarantee of interviews or job offers.
-Useful official UK reference points (review current advice before publishing): National Careers Service
-careers advice (nationalcareers.service.gov.uk); Civil Service Careers application guidance (civil-service-
-careers.gov.uk); ICO guidance on AI and personal information (ico.org.uk). Local and employer
-instructions take precedence.
-Mettelo | Built for What’s Next | mettelo.com/start/
-© 2026 Mettelo. Prepared by O. Johnson Taiwo, Founder. | mettelo.com
-
-Prepared by O. Johnson Taiwo, Founder   Contents 11
-
-[↑ Pages](#page-navigation)
+**Approve Step 5 only after reading every claim yourself.** AI fluent prose is not proof that a responsibility or result happened.
 
 ---
 
-## Publication note
+## 6. Review the CV against the vacancy
 
-This Markdown version preserves the original pages and their wording. It has **not yet passed** a layout-sensitive table, technical-command, legal or employment-policy audit. It should be reviewed against the original before its status is changed to Published.
+A strong review checks two separate things: **truth** and **usefulness for this employer**. Grammar and attractive formatting come later.
 
-**Prepared by Johnson Taiwo for Mettelo.**
+### Quality gate — do not skip
+
+| Check | How to test | What to correct |
+| --- | --- | --- |
+| Factual accuracy | Compare each bullet with evidence bank and actual chronology | Remove or rewrite introduced claims |
+| Ownership | Inspect words like led, designed, implemented, managed | Distinguish personal versus team responsibility |
+| Measures | Recheck source, period, arithmetic and attribution | Replace unsupported % and financial claims |
+| Role fit | Trace each essential requirement to a credible example | Strengthen supported evidence; disclose real gaps |
+| Clarity | Ask someone outside the profession to explain the bullet | Remove jargon or generic “responsible for” wording |
+| Privacy | Review portfolio links, client details, medical/service data | Redact restricted data; obtain permissions |
+| Credentials | Check professional registrations and qualification status | Correct expired/unfinished or misrepresented status |
+| Document instructions | Check blind recruitment, name/location and file format | Follow the vacancy, not a general template |
+| ATS/readability | Test a plain-text copy of the document in reading order | Simplify complex columns, header text and nonselectable text |
+
+**Why “ATS scores” are risky:** a tool's numerical match estimate is not an official employer score. Use the **real requirement coverage** and a readable CV as the decision rule. National Careers Service guidance focuses on tailoring the CV, consistent formatting, headings and legibility.
+
+**Use this prompt:**
+
+```text
+Act as a rigorous CV editor and evidence auditor. Compare my draft against the actual vacancy, application instructions and approved evidence bank.
+
+1. List any statement I did not substantiate, unclear personal/team attribution, wrong tool/date/qualification, unverified metric or privacy concern.
+2. Map each essential requirement to the exact CV sentence that shows it, or mark evidence genuinely missing.
+3. Identify the five most generic bullets and rewrite ONLY with existing approved details; otherwise ask a specific question.
+4. Check the profile, section order, repeated phrases, progression, accessibility, reading order, contact details, correct roles, spelling and employer-required length/format.
+5. Give a prioritised correction table with severity and suggested action, followed by the COMPLETE corrected CV.
+6. Do not invent screening/ATS scores, guarantee shortlisting, or silently fill any missing evidence.
+
+Wait for my approval before export.
+```
+
+**Approve Step 6 only once** you've confirmed actual content, not just accepted the AI's polished wording.
 
 ---
+
+## 7. Format, check and prepare the files
+
+### Make it easy to read
+
+Use straightforward headings, consistent dates, readable font size and enough whitespace. A single-column layout is a sensible default for many digital applications **unless the employer requests otherwise**, especially if the original template used complex sidebars. Do not hide contact information or critical achievements in graphics. Keep PDF text selectable and check the extracted reading order.
+
+### A real final-file test
+
+1. Save the approved CV as an editable document if required; create PDF **only when permitted**.
+2. Open the file and check every page visually—headings, dates, spacing, bullets, odd page breaks, clipped words.
+3. Select all text in the PDF and paste into a plain-text editor. Confirm logical reading order, dates and bullets have not vanished or become scrambled.
+4. Click hyperlinks manually. Confirm the correct email and phone and that portfolio links are accessible to the intended reader.
+5. Compare the final file with the approved CV text to ensure export did not change claims.
+6. Confirm the employer's naming convention, CV page limit, anonymisation and permitted file types.
+7. Save the approved evidence bank separately for next application and interview practice.
+
+**Use this prompt:**
+
+```text
+Format the final approved CV without altering facts. Follow [EMPLOYER FILE TYPE, PAGE LIMIT, BLIND RECRUITMENT AND NAMING RULES]. Use clear single-column structure unless otherwise required, consistent ordinary headings and bullets, readable fonts and logical text order.
+
+If document tools are available, create an editable Word file and PDF only where permitted; render and inspect each page, verify selectable PDF text, readable links and sensible reading order. Report what you actually checked. If files cannot be created/inspected, supply the final clean CV text and exact manual instructions instead—do not claim a file exists.
+
+Remove guide branding, prompts, placeholders, review labels and hidden confidential material from the application CV. Produce a final checklist of vacancy, attachment, contact information, dates, credentials, privacy, allowed AI use and employer-specific format. Ask me to review and submit personally.
+```
+
+### Final self-check
+
+- [ ] Correct employer, vacancy and application route.
+- [ ] Essential criteria supported where genuinely met; gaps not disguised.
+- [ ] Every role/date/credential is accurate.
+- [ ] Actions, tools, claims and team contributions truthfully worded.
+- [ ] No invented percentage, audience, service outcome or financial benefit.
+- [ ] Sensitive details and unapproved project records removed.
+- [ ] No leftover placeholders, AI instructions or guide branding.
+- [ ] Final Word/PDF file has been **opened and visually checked**.
+- [ ] Exported file meets actual employer instructions.
+- [ ] Final approved evidence bank saved separately for future applications.
+
+---
+
+## Free tools, official guidance and useful exercises
+
+These are **additional editorial resources**, not part of the original 11-page source. They help with understanding and practising the workflow; none guarantees a better ranking or a job.
+
+| Free resource | How to use it concretely | Link |
+| --- | --- | --- |
+| **National Careers Service — CV guidance** | Compare your draft against the official sections, tailoring and readability tips | [How to write a CV](https://nationalcareers.service.gov.uk/careers-advice/cv-sections) |
+| **National Careers Service — STAR** | Practise turning vague responsibilities into situation/task/action/result evidence before shortening them for CV use | [STAR method](https://nationalcareers.service.gov.uk/careers-advice/interview-advice/the-star-method) |
+| **National Careers Service — employment gaps** | Check sensible ways to describe genuine breaks or transferable activities | [Explain an employment gap](https://nationalcareers.service.gov.uk/careers-advice/explain-gaps-in-work-history) |
+| **National Careers Service — transferable skills** | Identify useful abilities from paid work, learning, volunteering and life experience | [Understand and develop skills](https://nationalcareers.service.gov.uk/careers-advice/identifying-skills-and-upskilling) |
+| **Mettelo general CV outline** | Copy a blank CV structure and adapt it to a real vacancy | [CV template](cv-template.md) |
+| **Mettelo interview workflow** | Convert approved role evidence into authentic spoken examples | [Interview preparation](../interviews/interview-preparation-workflow.md) |
+| **Mettelo experience catalogue** | Understand how to record a career-long evidence bank in a separate workbook | [Catalogue guide](../../technical/project-documentation/project-experience-catalogue-guide.md) |
+
+### Fifteen-minute evidence exercise
+
+1. Select **one** vague bullet from your CV, e.g. “Managed weekly reports”.
+2. In private notes answer: Who used the report? What problem did it address? What did you personally check/change? Which tool/process did you use? What observable outcome can you truthfully confirm?
+3. Write a one-sentence revised bullet from those answers.
+4. Ask a colleague or mentor who understands the work to check whether it is accurate and intelligible. Do not reveal confidential records.
+5. Place the original and revised sentence side by side and decide which better demonstrates the target vacancy's relevant requirement.
+
+### How to adapt the workflow without a job advert
+
+Use a **provisional target role** based on current occupation and career level. Read two or three genuine job profiles or advertisements for typical requirements, but label the composite as *market research*, not the requirements of a particular employer. Later, repeat Step 1 against the actual vacancy.
+
+### After the first application
+
+Keep your **approved evidence bank**. When a new vacancy arrives, update the requirement map and select different approved achievements. Do not copy an entire CV unchanged if the employer is assessing a substantially different role.
+
+---
+
+## Source and editorial change record
+
+**Preserved original:** [Cross-industry Edition 3 — 11-page extracted source](cv-development-workflow-edition-3-source.md), November 2026. It supplied the seven-step order, separate 7–12-point role evidence banks (when supported), cross-industry focus, interpersonal evidence prompts, fact checking, flexible bullet counts and submission checks.
+
+**What was changed:** This edition replaces the hard-to-navigate page-by-page PDF extraction with semantic Markdown headings, clean tables and copyable prompts. It adds a beginner introduction, field-by-field evidence worksheets, explicit example transformations, quality matrices, practical exercise, free official UK careers references and direct next-step navigation. These additions are **Mettelo editorial recommendations** rather than new rules from the original source or any employer.
+
+**Review status:** Enhanced draft — substantial source-informed restructure completed; final editorial sign-off and hands-on applicant testing still pending. The official UK guidance linked above was consulted on 9 November 2026; verify the live version for future applications.
+
+**Prepared by O. Johnson Taiwo · Mettelo — Built for What's Next.**
 
 ### Find your way around
 
-[← CV resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)
+[← CV resources](README.md) · [⭐ Start here](../../START_HERE.md) · [Complete directory](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

@@ -6,6 +6,38 @@
 
 > **Status:** Markdown instructions created from the original `Professional Project Experience Catalogue.xlsx`. The original **interactive Excel workbook has not been uploaded to GitHub**. This guide does not claim that the Capability Report formulas, dropdowns or cross-sheet summaries run in Markdown.
 
+## A complete worked example: one real task becomes reusable evidence
+
+**Fictional illustration (do not copy as personal achievement):** An analyst discovered missing IDs in a recurring data extract. They added a validation step, discussed failures with the reporting lead, and recorded the exceptions before the report was used. This is an example of a reproducible, quality-focused contribution **without a made-up percentage**.
+
+| Workbook field | Illustrative entry |
+| --- | --- |
+| Date | [Actual work date when known] |
+| Experience or Project | Add missing-ID validation to scheduled report |
+| Situation or Context | Monthly extract sometimes had blank identifiers |
+| Responsibility or Objective | Identify and explain invalid records before report use |
+| Actions Taken | Checked input schema, tested for null IDs, recorded exceptions and discussed resolution with reporting lead |
+| Outcome or Result | Exception list produced and reviewed before publication; wider efficiency impact not measured |
+| Behaviour or Competency | Quality assurance / problem-solving (select actual workbook dropdown category) |
+| Technical Skill or Method | SQL validation, reconciliation and documentation (only if personally used) |
+| Impact Rating (1–5) | Candidate's **subjective internal rating**, with rationale; **not** official employer score |
+| STAR Complete? | Developing until responsibility, result and evidence are confirmed |
+| Supporting Notes | [Actual authorised source, issue or review link; private if needed] |
+
+**Convert the entry into an application:** For a CV, compress it to one relevant factual bullet. For an interview, keep the fuller Situation/Task/Action/Result and prepare to explain the decision and how you verified the outcome. For a senior post, evidence of stakeholder trade-offs, assurance, leadership and limitations may be needed, **but do not infer it** from a simple validation task.
+
+### Avoid three spreadsheet problems
+
+1. **Duplicate achievements:** One project may support multiple skills, but do not copy it as several different achievements and count them as independent impact.
+2. **Inflated impact rating:** A rating is a self-reflection aid. Keep an explicit explanation of what it measures and never present it as a Civil Service score.
+3. **Sensitive data:** Preserve only permitted evidence; private workbook links, clients, respondents and employee details should not be uploaded into the public Resource Hub.
+
+### If you cannot access the original Excel workbook
+
+You can still use the **blank fields** from the table above in a private Markdown note or local spreadsheet. The GitHub resource contains **instructions only**; it does not include the source Excel workbook's working formulas and dropdowns. Ask Mettelo for an authorised workbook release rather than reconstructing formula results from prose.
+
+---
+
 ## Purpose
 
 Use the workbook to record genuine project and work examples, then review the capabilities demonstrated. The file is useful for maintaining an evidence bank before writing CVs, employment histories, personal statements or preparing for interviews.

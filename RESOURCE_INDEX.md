@@ -18,8 +18,20 @@
 | Nigerian passport renewal (UK) | [Read migrated guide](immigration/nigerian-passport/passport-renewal-uk.md) | Draft — editorial review pending |
 | GitHub contribution guide | [Read migrated guide](technical/github/contribution-guide.md) | Draft — formatting and effective-date review pending |
 | Project documentation templates | [Project charter and templates](technical/project-documentation/README.md) | Source migrated; table formatting review pending |
-| NHS and Civil Service guidance | [UK careers](uk-careers/README.md) | Inventory pending |
+| NHS and Civil Service guidance | [UK public-sector guides](uk-careers/README.md) | Source PDFs migrated; review pending |
 
 The original resources are held separately. Duplicate formats of one guide will be consolidated into one Markdown page. Spreadsheet tools requiring formulas or interactive tracking will remain optional downloadable companion files.
 
 **Editorial rule:** Mark a resource Published only after checking the conversion against the original and verifying time-sensitive claims.
+
+## Latest additions — 9 November 2026
+
+- [CV Development Workflow, Cross-industry Edition 3](career/cv/cv-development-workflow-edition-3.md) — newer source edition, review pending.
+- [Git & GitHub Command Reference](technical/github/git-github-command-reference.md) — 11-page reference, review pending.
+- [UK Public Sector Application Blueprint](uk-careers/public-sector-application-blueprint.md) — 31-page source migration, review pending.
+- [Civil Service Behaviour AI Guide](uk-careers/civil-service/behaviour-ai-guide.md).
+- [Civil Service and NHS Personal Statement Guide](uk-careers/civil-service/personal-statement-guide.md).
+- [Civil Service and NHS Employment History Guide](uk-careers/civil-service/employment-history-guide.md).
+- [Civil Service and NHS Interview Preparation Guide](uk-careers/civil-service/interview-preparation-guide.md).
+
+Additional uploaded CV templates, the GitHub Handbook and the Professional Project Experience Catalogue are not yet migrated.

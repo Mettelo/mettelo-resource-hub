@@ -5,7 +5,7 @@
 
 [🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [CV templates](README.md) · [All resources](../../RESOURCE_INDEX.md)
 
-> **Status: Enhanced editorial draft.** This is a **restructured and expanded edition** of the original 11-page *Cross-industry Edition 3* source. The [unaltered page-by-page migration](cv-development-workflow-edition-3-source.md) remains available for comparison. The seven-step sequence and per-role evidence-bank principle come from that source; additional explanatory material, practical exercises and free references are new editorial additions. Application instructions always take priority. This guide does not guarantee interviews, ranking or a particular ATS outcome.
+> **Status: Enhanced editorial draft.** This is a **restructured and expanded edition** of the original 11-page *Cross-industry Edition 3* source. The original page-by-page source and earlier edition are retained in the repository's Git history rather than displayed as duplicate guides. The seven-step sequence and per-role evidence-bank principle come from that source; additional explanatory material, practical exercises and free references are new editorial additions. Application instructions always take priority. This guide does not guarantee interviews, ranking or a particular ATS outcome.
 
 ## First, what is this workflow for?
 
@@ -396,7 +396,7 @@ Keep your **approved evidence bank**. When a new vacancy arrives, update the req
 
 ## Source and editorial change record
 
-**Preserved original:** [Cross-industry Edition 3 — 11-page extracted source](cv-development-workflow-edition-3-source.md), November 2026. It supplied the seven-step order, separate 7–12-point role evidence banks (when supported), cross-industry focus, interpersonal evidence prompts, fact checking, flexible bullet counts and submission checks.
+**Source:** Cross-industry Edition 3 — original 11-page extracted text, November 2026, retained in Git history. It supplied the seven-step order, separate 7–12-point role evidence banks (when supported), cross-industry focus, interpersonal evidence prompts, fact checking, flexible bullet counts and submission checks.
 
 **What was changed:** This edition replaces the hard-to-navigate page-by-page PDF extraction with semantic Markdown headings, clean tables and copyable prompts. It adds a beginner introduction, field-by-field evidence worksheets, explicit example transformations, quality matrices, practical exercise, free official UK careers references and direct next-step navigation. These additions are **Mettelo editorial recommendations** rather than new rules from the original source or any employer.
 

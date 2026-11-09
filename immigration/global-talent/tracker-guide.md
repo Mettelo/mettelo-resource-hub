@@ -73,3 +73,9 @@ The original materials were prepared in October 2026. Requirements can change. U
 ---
 
 [↑ Back to pathway selection](#choose-your-pathway)
+
+---
+
+### Find your way around
+
+[← Global Talent pathways](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

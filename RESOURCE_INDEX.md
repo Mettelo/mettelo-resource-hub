@@ -7,7 +7,7 @@
 | Resource | Markdown destination | Status |
 | --- | --- | --- |
 | CV development workflow | [Read guide](career/cv/cv-development-workflow.md) | **Published** |
-| CV template | [CV category](career/cv/README.md) | Planned |
+| CV template | [Read template](career/cv/cv-template.md) | **Published** |
 | Interview preparation workflow | [Interview](career/interviews/README.md) | Planned |
 | LinkedIn profile editing guide | [LinkedIn](career/linkedin/README.md) | Planned |
 | Global Talent: digital technology | [Global Talent](immigration/global-talent/README.md) | Planned |

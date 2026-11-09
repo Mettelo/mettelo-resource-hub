@@ -1,11 +1,19 @@
-# Interview preparation
+# Interview preparation resources
 
-[← Career development](../README.md) · [← Resource Hub](../../README.md)
+[🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [Career menu](../README.md)
 
-## Available now
+## Recommended guide
 
-### [Interview preparation workflow — eight steps](interview-preparation-workflow.md)
+**[Eight-step Interview Preparation Workflow →](interview-preparation-workflow.md)**
 
-The complete Mettelo interview preparation workflow, with eight copyable prompts, interview-type guidance, checks between stages and a final preparation sheet.
+It takes you from the actual invitation and criteria through choosing genuine examples, improving evidence, introducing yourself, preparing likely question types, conducting mock interviews and final preparation.
 
-**Source:** Edition 1, 23 October 2026. **Status:** Published.
+| If your interview is for… | Read next |
+| --- | --- |
+| Civil Service | [Civil Service interview preparation](../../uk-careers/civil-service/interview-preparation-guide.md) |
+| NHS | [NHS interview preparation](../../uk-careers/nhs/README.md) |
+| Another sector | Continue with the general [eight-step workflow](interview-preparation-workflow.md) |
+
+**Status:** General workflow previously marked source-reviewed. Public-sector PDF-derived materials remain drafts. Likely questions are for practice, not confirmed employer questions. Follow actual assessment and AI-assistance rules.
+
+[← Career menu](../README.md) · [← Home](../../README.md)

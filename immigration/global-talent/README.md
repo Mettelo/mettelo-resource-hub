@@ -20,13 +20,9 @@ The **three pathways are different**. Choose the profession and type of recognit
 4. Track genuine work, source documents and gaps using the linked checklist or [tracker guide](tracker-guide.md).
 5. Verify current official rules before seeking endorsement or paying a fee.
 
-## Original source editions — for reference
+## One current guide for each pathway
 
-The original source-based Markdown editions were preserved during the later enhancements. **New readers should use the enhanced guides above first.**
-
-- [Original Digital Technology handbook](technology-original-2026.md)
-- [Original Arts & Culture handbook](arts-and-culture-original-2026.md)
-- [Original Academia & Research handbook](academia-and-research-original-2026.md)
+Only the three enhanced pathway guides appear in the working library. Earlier extracted editions are recoverable through Git commit history rather than displayed as duplicate resources. Each pathway's checklist and the shared tracker instructions are **supporting tools**, not alternative guides.
 
 ## Status and limits
 

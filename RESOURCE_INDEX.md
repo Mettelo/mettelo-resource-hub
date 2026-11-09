@@ -13,7 +13,6 @@
 | Resource | What it helps you do | Status |
 | --- | --- | --- |
 | [CV Development Workflow — Edition 3](career/cv/cv-development-workflow-edition-3.md) | Rebuilt seven-step CV process: evidence tables, copyable prompts, exercises and free guidance | **Enhanced draft** — source-restructured; final user testing pending |
-| [CV Development Workflow — earlier edition](career/cv/cv-development-workflow.md) | Earlier version for reference | Earlier edition |
 | [General CV template](career/cv/cv-template.md) | Build a starting CV structure | Available |
 | [Data, AI & Technology CV template](career/cv/data-ai-technology-cv-template.md) | Plan a specialist technical CV | Review pending |
 | [Data, AI & Tech Professional CV template 2](career/cv/data-ai-tech-professional-cv-template-2.md) | Alternative two-column source structure (flattened to Markdown) | Review pending |

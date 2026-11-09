@@ -13,6 +13,6 @@
 
 ### Before you copy anything
 
-The original Mettelo Charter requires appropriate authorisation before controlled delivery. **Do not upload completed confidential or internal charters to public GitHub.** The source's complex Word tables still need Markdown formatting review. The **interactive Excel capability catalogue is not downloadable** here; only its usage guide is available.
+The original Mettelo Charter requires appropriate authorisation before controlled delivery. **Do not upload completed confidential or internal charters to public GitHub.** Key Word source tables (objectives, deliverables, RACI, QA and approvals) have now been restored as readable Markdown. A final line-by-line source comparison remains pending. The **interactive Excel capability catalogue is not downloadable** here; only its usage guide is available.
 
 [← Technical menu](../README.md) · [← Home](../../README.md)

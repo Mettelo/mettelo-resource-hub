@@ -1,13 +1,17 @@
-# Civil Service Application Resources
+# Civil Service application resources
 
-[← UK careers](../README.md)
+[🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [UK careers menu](../README.md)
 
-## Guides
+**Begin with the actual vacancy advert**, its grade, essential criteria, word limits and any Success Profiles assessment instructions. Use a guide to develop verified evidence; never assume a sample prompt knows your real achievements.
 
-- [UK Public Sector Application Blueprint](../public-sector-application-blueprint.md)
-- [Personal Statement Guide](personal-statement-guide.md)
-- [Behaviour STAR Guide](behaviour-ai-guide.md)
-- [Employment History Guide](employment-history-guide.md)
-- [Interview Preparation Guide](interview-preparation-guide.md)
+| Your application stage | Guide | What to check |
+| --- | --- | --- |
+| Understand the overall method | [UK Public Sector Application Blueprint](../public-sector-application-blueprint.md) | Which evidence and criteria are actually assessed |
+| Prepare employment history | [Employment History Guide](employment-history-guide.md) | Campaign-specific blind recruitment rules and real role-by-role evidence |
+| Write a personal statement | [Personal Statement Guide](personal-statement-guide.md) | Exact word limit and essential criteria |
+| Write behaviour examples | [Civil Service Behaviour STAR Guide](behaviour-ai-guide.md) | Named behaviour, grade and stated length |
+| Prepare for an interview | [Civil Service Interview Guide](interview-preparation-guide.md) | Invitation's exact assessed areas; speak naturally from real experience |
 
-These are source-text migrations currently awaiting editorial review. Follow the specific job advert and current official application instructions.
+**Status:** All PDF-derived Civil Service writing guides and the blueprint remain **review pending**. Original prompts include general defaults (such as anonymisation and word counts) that are **not universal**. The official vacancy always overrides them.
+
+[← UK careers menu](../README.md) · [← Home](../../README.md)

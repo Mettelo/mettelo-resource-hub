@@ -7,8 +7,8 @@
 | When | Template | What to do |
 | --- | --- | --- |
 | **Before project delivery** | **[Project Charter & Delivery Framework](project-charter-template.md)** | Define problem, scope, deliverables, architecture, data, roles, QA and required sign-off |
-| **During each week** | [Weekly Project Update](weekly-update-template.md) | Summarise delivery, blockers, decisions and next steps |
-| **At review/closure** | [Retrospective & Lessons Learned](retrospective-template.md) | Record evidence-based lessons, unresolved work and future improvements |
+| **During each week** | [Weekly Project Update](weekly-update-template.md) | Use an actual progress/evidence/RAG template, decisions and owners |
+| **At review/closure** | [Retrospective & Lessons Learned](retrospective-template.md) | Facilitate a short review and assign actionable improvements |
 | **When preparing CV/interview examples** | [Project Experience & Capability Catalogue Guide](project-experience-catalogue-guide.md) | Record STAR evidence and relevant skills in the source Excel workbook |
 
 ### Before you copy anything

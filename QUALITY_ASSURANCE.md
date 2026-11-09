@@ -10,7 +10,7 @@
 | Measure | Result | Limit |
 | --- | --- | --- |
 | Active Markdown files in reviewed inventory | **47**: 19 navigation/administrative pages + **28** main guides, templates and checklists | Files outside this known inventory, non-Markdown assets and GitHub-rendered browser view are not covered |
-| Internal relative links checked after edits | **541** across 47 active documents | Text-based path resolution against current inventory; not an authenticated browser click test |
+| Internal relative links checked after edits | **551** across 47 active documents | Text-based path resolution against current inventory; not an authenticated browser click test |
 | Missing internal file destinations | **0** | External links may still redirect or expire |
 | In-page anchor links checked in content files | **251** across 28 content documents; no unresolved headings found by Markdown-slug approximation | GitHub's exact rendered slugs, duplicated heading IDs and nonstandard HTML need a visual sample check |
 | Unbalanced Markdown code fences | **None observed** in 28 content-document checks | Does not guarantee every command works |

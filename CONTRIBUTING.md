@@ -1,21 +1,46 @@
-# Contributing to Mettelo Resource Hub
+# Contribute to the Mettelo Resource Hub
 
-[← Home](README.md)
+[🏠 Home](README.md) · [⭐ Start here](START_HERE.md) · [Complete directory](RESOURCE_INDEX.md) · [Quality review](QUALITY_ASSURANCE.md)
 
-We welcome corrections, broken-link reports and suggestions for resources that would help the community.
+We welcome corrections, broken-link reports, clearer instructions and proposals for practical community resources.
 
-## How to contribute
+## Found a problem? Follow these steps
 
-1. Open an Issue describing the proposed improvement and the affected guide.
-2. For factual corrections, include an official or primary source where possible.
-3. For content edits, propose a focused pull request and explain what changed.
-4. Keep guides accessible, practical, UK English and easy to navigate.
+1. **Open the affected guide** and copy its link plus the section name.
+2. [Create an issue](https://github.com/Mettelo/mettelo-resource-hub/issues) describing the problem, the current wording, and the correction you recommend.
+3. For immigration, official procedures, prices, research eligibility or job applications, **provide a current primary source** where possible. Do not rely on examples, social media or old screenshots as proof of live rules.
+4. If you can edit the source, create a focused branch/pull request. Explain which files changed, how you checked the content and what remains unverified.
+5. Maintainers review and approve changes before they are considered part of the library.
 
 ## Editorial standards
 
-- Preserve the meaning of approved original documents. Do not invent examples, credentials, results or eligibility rules.
-- Use clear headings, descriptive links, copyable code or prompt blocks, and relative paths for internal navigation.
-- Include a resource title, last-reviewed date, source information and a short disclaimer when appropriate.
-- Check official sources before editing immigration or government-procedure guidance.
-- Remove personal, confidential and copyrighted third-party material unless permission has been granted.
-- A maintainer reviews changes before merging. Do not treat an open pull request as published advice.
+| Standard | What the editor must check |
+| --- | --- |
+| **Navigation** | Guide has a clear title, category/home return links, and usable contents if long. |
+| **Evidence fidelity** | Original source is correctly represented; new research is clearly labelled; no invented achievements or invented source passages. |
+| **Markdown quality** | Tables have correct columns; headings are sensible; commands and prompts are copyable; internal links and anchors work. |
+| **Current official information** | Visa, immigration, passport, public-sector application and legal rules checked on official websites, with verification date. |
+| **Technical safety** | Commands with destructive side effects clearly marked and tested in safe environments where possible. |
+| **Reader safety** | No private identifiers, sensitive employer/client data, copyrighted third-party material without permission or hidden commercial endorsements. |
+| **Accessibility** | Clear UK English, descriptive link text, mobile-readable tables where feasible, meaningful headings and no crucial instructions conveyed only by colour. |
+| **Publication status** | Draft stays draft until source comparison, factual review and relevant links have genuinely been checked. |
+
+## Status and release policy
+
+- **Draft / Review pending:** Readable resource, not fully audited. Descriptions must state the outstanding review.
+- **Enhanced draft:** Expanded guide containing newly researched recommendations; final fact-check and link review pending.
+- **Source reviewed:** The source and Markdown conversion were checked; live facts may require later re-review.
+- **Published:** Only after the responsible editor records completed source, navigation, legal/technical and link checks appropriate to the subject.
+- **Archived original:** Retained for reference and provenance. Do not silently overwrite it when producing a new edition.
+
+**Do not change every resource to Published at once.** Each guide needs its own approval record. The [current QA report](QUALITY_ASSURANCE.md) lists outstanding issues.
+
+## Practical GitHub contribution standards
+
+Use clear, focused changes; update the relevant category README and [Resource Index](RESOURCE_INDEX.md) when adding or renaming a guide; use **relative Markdown links** for repository files; avoid deleting original source editions without an explicit archive decision; and make your pull-request description specific enough that reviewers can verify the work.
+
+When adding a new guide, include: purpose, intended audience, how to use it, primary source and date, limitations/status, next recommended resource, and return navigation.
+
+---
+
+**Mettelo · Built for What's Next.**

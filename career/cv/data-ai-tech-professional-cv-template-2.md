@@ -95,3 +95,9 @@ Availability: [Notice period]          Built [solution] that improved [client
 **Source:** *Data, AI & Tech Professional CV Template 2*, uploaded Word document. Text extracted for GitHub; graphic layout and Word column formatting are not reproduced.
 
 **Prepared for Mettelo.**
+
+---
+
+### Find your way around
+
+[← CV resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

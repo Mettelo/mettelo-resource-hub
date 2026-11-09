@@ -13,7 +13,7 @@
 | Resource | What it helps you do | Status |
 | --- | --- | --- |
 | [CV Development Workflow — Edition 3](career/cv/cv-development-workflow-edition-3.md) | Rebuilt seven-step CV process: evidence tables, copyable prompts, exercises and free guidance | **Enhanced draft** — source-restructured; final user testing pending |
-| [General CV template](career/cv/cv-template.md) | Build a starting CV structure | Available |
+| [General CV template](career/cv/cv-template.md) | Adapt a clear CV structure with verified experience and career-stage guidance | Enhanced template; final review pending |
 | [Data, AI & Technology CV template](career/cv/data-ai-technology-cv-template.md) | One consolidated technical CV template covering Data, AI and engineering | Revised template; editorial review pending |
 | [Interview preparation — eight steps](career/interviews/interview-preparation-workflow.md) | Develop real examples and practise an interview | Source reviewed previously |
 | [LinkedIn profile editing guide](career/linkedin/linkedin-profile-guide.md) | Improve professional profile and experience wording | Source reviewed previously |
@@ -24,11 +24,11 @@
 
 | Resource | What it covers | Status |
 | --- | --- | --- |
-| [UK Public Sector Application Blueprint](uk-careers/public-sector-application-blueprint.md) | Public-sector application methodology and evidence | Review pending; PDF-to-Markdown layout issues possible |
-| [Civil Service behaviour STAR guide](uk-careers/civil-service/behaviour-ai-guide.md) | Develop truthful behaviour examples | Review pending |
-| [Civil Service/NHS personal statement guide](uk-careers/civil-service/personal-statement-guide.md) | Adapt supporting statements to relevant criteria | Review pending |
-| [Civil Service/NHS employment history guide](uk-careers/civil-service/employment-history-guide.md) | Employment evidence and sector-specific application writing | Review pending |
-| [Civil Service/NHS interview guide](uk-careers/civil-service/interview-preparation-guide.md) | Public-sector interview prompts and rehearsal | Review pending |
+| [UK Public Sector Application Blueprint](uk-careers/public-sector-application-blueprint.md) | Clear six-part methodology, official-framework distinctions, evidence examples and AI safeguards | Enhanced draft; manual source comparison pending |
+| [Civil Service behaviour STAR guide](uk-careers/civil-service/behaviour-ai-guide.md) | Select grade-appropriate examples, write and fact-check STAR evidence | Enhanced draft; final review pending |
+| [Civil Service/NHS personal statement guide](uk-careers/civil-service/personal-statement-guide.md) | Match criteria to evidence with separate NHS and Civil Service drafting paths | Enhanced draft; final review pending |
+| [Civil Service/NHS employment history guide](uk-careers/civil-service/employment-history-guide.md) | Record actual duties, chronology and distinct contributions without rigid bullet counts | Enhanced draft; final review pending |
+| [Civil Service/NHS interview guide](uk-careers/civil-service/interview-preparation-guide.md) | Prepare named assessed areas, practical answers, follow-ups and mock interviews | Enhanced draft; final review pending |
 
 **Select your route:** [Civil Service](uk-careers/civil-service/README.md) · [NHS](uk-careers/nhs/README.md). Each vacancy and NHS organisation may have different criteria, limits and AI-use rules.
 
@@ -39,11 +39,11 @@
 | Resource | What it covers | Status |
 | --- | --- | --- |
 | [Mettelo GitHub Handbook](technical/github/github-handbook.md) | Beginner-to-advanced hands-on team project workflow | Enhanced/format review pending |
-| [Git & GitHub Command Reference](technical/github/git-github-command-reference.md) | Commands for branches, PRs, reviews and recovery | Review pending; destructive operations need care |
+| [Git & GitHub Command Reference](technical/github/git-github-command-reference.md) | Copyable commands, concrete workflows, recovery and security cautions | Enhanced draft; hands-on command test pending |
 | [GitHub Contribution Guide](technical/github/contribution-guide.md) | Mettelo's contributor standards, review and security | Review pending; original effective-date placeholder |
-| [Project Charter & Delivery Framework](technical/project-documentation/project-charter-template.md) | Project scope, architecture, governance, QA and closure | Review pending; flattened source tables |
-| [Weekly Project Update](technical/project-documentation/weekly-update-template.md) | Report team progress and support needs | Available |
-| [Retrospective & Lessons Learned](technical/project-documentation/retrospective-template.md) | Record meaningful lessons and follow-up changes | Available |
+| [Project Charter & Delivery Framework](technical/project-documentation/project-charter-template.md) | Charter template with repaired objectives, RACI, release gates, quality and sign-off tables | Enhanced source formatting; further comparison pending |
+| [Weekly Project Update](technical/project-documentation/weekly-update-template.md) | Ready-to-copy progress, evidence, risks and decision template with example | Enhanced template |
+| [Retrospective & Lessons Learned](technical/project-documentation/retrospective-template.md) | Facilitate constructive project reviews, assign follow-up actions and record lessons | Enhanced template |
 | [Project Experience & Capability Catalogue guide](technical/project-documentation/project-experience-catalogue-guide.md) | Understand a seven-sheet evidence-tracking Excel workbook | Guide available; original interactive Excel companion pending |
 
 ## 4 · Immigration and practical resources
@@ -66,10 +66,10 @@
 
 | Resource | What it covers | Status |
 | --- | --- | --- |
-| [Innovator Founder preparation guide](immigration/innovator-founder/guide.md) | Original toolkit condensed to Markdown | Review pending |
+| [Innovator Founder preparation guide](immigration/innovator-founder/guide.md) | Business innovation/viability/scalability with eight-week customer validation plan | Enhanced draft; legal/call QA pending |
 | [Innovator Founder 20-point checklist](immigration/innovator-founder/checklist.md) | Preparatory tracking | Available; source workbook companion pending |
 | [Innovator Founder tracker instructions](immigration/innovator-founder/tracker-guide.md) | How to work with original tracker | Guide available; workbook not uploaded |
-| [Nigerian passport renewal from the UK](immigration/nigerian-passport/passport-renewal-uk.md) | Process and practical checks | Review pending; verify latest NIS instructions |
+| [Nigerian passport renewal from the UK](immigration/nigerian-passport/passport-renewal-uk.md) | Route selection, official NIS checks and source-based practical instructions | Enhanced safety guidance; current route details must be rechecked |
 
 ## Other useful pages
 

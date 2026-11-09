@@ -31,3 +31,9 @@
 Keep the update factual. Link approved GitHub issues, pull requests and test evidence where available. Do not publish confidential project details to a public repository.
 
 **Prepared for Mettelo Labs.**
+
+---
+
+### Find your way around
+
+[← Project documentation](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

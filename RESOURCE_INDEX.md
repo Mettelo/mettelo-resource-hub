@@ -40,11 +40,11 @@
 | --- | --- | --- |
 | [Mettelo GitHub Handbook](technical/github/github-handbook.md) | Beginner-to-advanced hands-on team project workflow | Enhanced/format review pending |
 | [Git & GitHub Command Reference](technical/github/git-github-command-reference.md) | Copyable commands, concrete workflows, recovery and security cautions | Enhanced draft; hands-on command test pending |
-| [GitHub Contribution Guide](technical/github/contribution-guide.md) | Mettelo's contributor standards, review and security | Review pending; original effective-date placeholder |
-| [Project Charter & Delivery Framework](technical/project-documentation/project-charter-template.md) | Charter template with repaired objectives, RACI, release gates, quality and sign-off tables | Enhanced source formatting; further comparison pending |
+| [GitHub Contribution Guide](technical/github/contribution-guide.md) | Rebuilt 15-section contribution policy with issue/PR templates, data and security safeguards | Enhanced draft; Mettelo policy effective date and adoption remain unconfirmed |
+| [Project Charter & Delivery Framework](technical/project-documentation/project-charter-template.md) | Fully reconstructed 15-section project charter and governance template with 23 readable source-informed tables | Enhanced draft; source reconciliation and owner sign-off pending |
 | [Weekly Project Update](technical/project-documentation/weekly-update-template.md) | Ready-to-copy progress, evidence, risks and decision template with example | Enhanced template |
 | [Retrospective & Lessons Learned](technical/project-documentation/retrospective-template.md) | Facilitate constructive project reviews, assign follow-up actions and record lessons | Enhanced template |
-| [Project Experience & Capability Catalogue guide](technical/project-documentation/project-experience-catalogue-guide.md) | Understand a seven-sheet evidence-tracking Excel workbook | Guide available; original interactive Excel companion pending |
+| [Project Experience & Capability Catalogue guide](technical/project-documentation/project-experience-catalogue-guide.md) | Seven-sheet workbook guide with filled fictional example and evidence-quality instructions | Enhanced guide; interactive Excel companion not hosted |
 
 ## 4 · Immigration and practical resources
 

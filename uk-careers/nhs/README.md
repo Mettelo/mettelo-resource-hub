@@ -1,14 +1,16 @@
-# NHS Application Resources
+# NHS application resources
 
-[← UK career resources](../README.md) · [← Resource Hub](../../README.md)
+[🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [UK careers menu](../README.md)
 
-## Available NHS material
+**Start with the particular NHS organisation's person specification and values.** The Mettelo PDFs combine some Civil Service and NHS advice, so shared files are linked rather than duplicated.
 
-Some of the original Mettelo PDF guides cover both NHS and Civil Service applications. Their Markdown source has been placed in the shared Civil Service folder to avoid duplicated guides:
+| Your stage | Open this guide | What matters |
+| --- | --- | --- |
+| Understand the overall methodology | [UK Public Sector Application Blueprint](../public-sector-application-blueprint.md) | Match the actual shortlisting criteria |
+| Describe previous work | [NHS employment history guidance](../civil-service/employment-history-guide.md) | Accurate clinical/service claims, responsibilities and outcomes |
+| Prepare a supporting statement | [NHS supporting statement guidance](../civil-service/personal-statement-guide.md) | Employer-specific person specification and applicable word limit |
+| Prepare for an interview | [NHS interview preparation](../civil-service/interview-preparation-guide.md) | Trust values, service context, genuine examples and ethical use of AI |
 
-- [UK Public Sector Application Blueprint](../public-sector-application-blueprint.md)
-- [NHS supporting statement guidance and prompt](../civil-service/personal-statement-guide.md)
-- [NHS employment history guidance and prompt](../civil-service/employment-history-guide.md)
-- [NHS interview preparation](../civil-service/interview-preparation-guide.md)
+**Status:** Shared source-derived PDFs are available but remain **review pending**. Avoid invented patient outcomes, safeguarding experience or professional registration. Check each Trust's instructions, requirements and rules for permitted AI use.
 
-**Status:** Source text transferred; editorial and current-policy review pending. Always follow the specific NHS Trust's person specification, values, word limits and application requirements. Do not invent clinical outcomes or imply regulated qualifications you do not hold.
+[← UK careers menu](../README.md) · [← Home](../../README.md)

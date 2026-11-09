@@ -5,7 +5,7 @@
 ### Start with the latest workflow
 
 **[CV Development Workflow — Cross-industry Edition 3 →](cv-development-workflow-edition-3.md)**  
-A seven-step process: understand the vacancy, build genuine role-by-role evidence, check claims, select examples, draft, review and prepare files. Recommended as the **current edition**, with final source-text/format review pending.
+A seven-step process: understand the vacancy, build genuine role-by-role evidence, check claims, select examples, draft, review and prepare files. Recommended as the **current edition**, with a newly rebuilt, readable Markdown structure; final editorial sign-off pending.
 
 ### Choose a template
 
@@ -14,6 +14,10 @@ A seven-step process: understand the vacancy, build genuine role-by-role evidenc
 | [General CV template](cv-template.md) | Most professional roles | Markdown outline |
 | [Data, AI & Technology CV template](data-ai-technology-cv-template.md) | Technical roles needing detailed skills and experience | Word source flattened into text |
 | [Data, AI & Tech Professional CV template 2](data-ai-tech-professional-cv-template-2.md) | A more visual sidebar/profile approach | Original two-column Word layout **not** reproduced |
+
+### Preserved source edition
+
+[Edition 3 original 11-page text migration](cv-development-workflow-edition-3-source.md) is archived for source comparison. The [enhanced Edition 3 guide](cv-development-workflow-edition-3.md) has usable headings, evidence tables, seven copyable prompts, cross-industry examples and free official UK career resources.
 
 ### Previous edition
 

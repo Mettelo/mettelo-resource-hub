@@ -20,9 +20,17 @@
 
 **Status: Draft — editorial review pending.** Source page text is present, but tables and detailed rules still need review.
 
-## Trackers
+## Preparation trackers
 
-- `tracker-guide.md` — planned
+**[How to use the three preparation trackers](tracker-guide.md)**
+
+GitHub-readable checklists based on the supplied original Excel workbooks:
+
+- [Digital Technology checklist](technology-checklist.md)
+- [Arts and Culture checklist](arts-and-culture-checklist.md)
+- [Research checklist with route-specific sections](research-checklist.md)
+
+**Status:** Markdown checklists and instructions available. Original interactive Excel files are not hosted in this repository yet; official eligibility checks and editorial review remain outstanding.
 
 Three spreadsheet trackers are available among the original materials, and should be maintained as optional downloadable companions to their Markdown instructions.
 

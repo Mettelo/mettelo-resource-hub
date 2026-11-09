@@ -2,12 +2,12 @@
 
 [← Home](README.md)
 
-**Status:** Planned = original source identified, not yet converted; Draft = conversion under review; Published = checked and available to read.
+**Status:** Planned = original source identified, not yet converted; Draft = conversion under review; Published = converted and checked against source.
 
 | Resource | Markdown destination | Status |
 | --- | --- | --- |
-| CV development workflow | [CV](career/cv/README.md) | Planned |
-| CV template | [CV](career/cv/README.md) | Planned |
+| CV development workflow | [Read guide](career/cv/cv-development-workflow.md) | **Published** |
+| CV template | [CV category](career/cv/README.md) | Planned |
 | Interview preparation workflow | [Interview](career/interviews/README.md) | Planned |
 | LinkedIn profile editing guide | [LinkedIn](career/linkedin/README.md) | Planned |
 | Global Talent: digital technology | [Global Talent](immigration/global-talent/README.md) | Planned |

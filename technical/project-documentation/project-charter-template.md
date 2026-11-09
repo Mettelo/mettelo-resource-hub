@@ -29,6 +29,67 @@
 5. Obtain the required sign-off **before** beginning controlled delivery; approval does not remove ongoing review obligations.
 6. If a section includes a flattened table, transfer the labelled column headers into an appropriate Markdown table or approved document editor before signing off.
 
+## Quick-start registers — properly formatted Markdown
+
+The original Word source contains several tables whose text was flattened during the initial import. The editable registers below restore the **column structure** of key fields so project teams can use the template. The complete 16-page source transfer remains further down this file. **These are blank starting tables, not completed or approved charter content.**
+
+### 1. Objectives register
+
+| ID | Objective | Measure | Target | Owner |
+| --- | --- | --- | --- | --- |
+| OBJ-01 | [Specific objective] | [Metric] | [Target] | [Name] |
+| OBJ-02 | [Specific objective] | [Metric] | [Target] | [Name] |
+| OBJ-03 | [Specific objective] | [Metric] | [Target] | [Name] |
+
+### 2. Deliverables and acceptance register
+
+| ID | Deliverable | Description | Owner | Due | Acceptance criteria |
+| --- | --- | --- | --- | --- | --- |
+| DEL-01 | [Dashboard / model / API / dataset] | [Description] | [Name] | [Date] | [Objective acceptance test] |
+| DEL-02 | Documentation | README, method, limitations and operating guidance | [Name] | [Date] | Complete and independently understandable |
+| DEL-03 | Showcase | Demo, presentation or recorded walkthrough | [Name] | [Date] | Approved by Project Lead and QA |
+
+### 3. Core accountability register
+
+| Role | Named person | Accountability |
+| --- | --- | --- |
+| Project Sponsor | [Name] | Owns problem, strategic alignment and final acceptance |
+| Project Lead | [Name] | Owns scope, delivery, coordination and reporting |
+| Technical Lead | [Name] | Owns architecture, technical quality and review |
+| Data / Privacy Lead | [Name] | Owns data suitability, access and privacy controls |
+| QA Reviewer | [Name] | Provides independent quality and release assurance |
+| Documentation Lead | [Name] | Owns project documentation and contributor evidence |
+
+### 4. Proposed technology stack
+
+| Layer | Tool / technology | Purpose | Owner | Constraint / licence |
+| --- | --- | --- | --- | --- |
+| Source / ingestion | [Tool] | [Purpose] | [Name] | [Constraint] |
+| Storage | [Tool] | [Purpose] | [Name] | [Constraint] |
+| Transformation | [Tool] | [Purpose] | [Name] | [Constraint] |
+| Analytics / ML | [Tool] | [Purpose] | [Name] | [Constraint] |
+| Presentation / API | [Tool] | [Purpose] | [Name] | [Constraint] |
+| Version control | GitHub | Issues, branches, reviews and releases | [Name] | Repository visibility agreed |
+
+### 5. Data inventory and permission review
+
+| Dataset / source | Owner | Access / URL | Licence / terms | Refresh | Sensitivity | Quality status |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Dataset] | [Owner] | [Location] | [Licence] | [Frequency] | [Public / Internal / Personal] | [Status] |
+| [Dataset] | [Owner] | [Location] | [Licence] | [Frequency] | [Public / Internal / Personal] | [Status] |
+
+### 6. Project risks
+
+| ID | Risk | Likelihood | Impact | Mitigation | Owner | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| R-01 | [Risk event and consequence] | [L / M / H] | [L / M / H] | [Mitigation] | [Name] | Open |
+| R-02 | [Risk event and consequence] | [L / M / H] | [L / M / H] | [Mitigation] | [Name] | Open |
+| R-03 | [Risk event and consequence] | [L / M / H] | [L / M / H] | [Mitigation] | [Name] | Open |
+
+**Before proceeding:** Complete the main source sections on scope, governance, milestones, architecture, quality, risk, release approval and handover. These quick-start registers **do not** replace formal charter sign-off. Avoid adding sensitive project details to a public repository.
+
+---
+
 ## Contents
 
 - [1. Document control](#section-1)

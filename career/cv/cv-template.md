@@ -96,7 +96,7 @@ For a fuller preparation process, work through the [seven-step CV development wo
 
 ### About the template
 
-This is a Markdown adaptation of the supplied **Mettelo CV Template** (two-page Word document). Section names, placeholders and approximate profile guidance reflect the source. The source's suggested 15–25-word bullet length has been made **flexible**, because there is no universal mandatory bullet length and specific clarity matters more than a formula. Markdown does not preserve the original Word page layout; use an editable document application when you need precise pagination.
+Use this template as a starting structure, then tailor it to an actual vacancy. There is no universal mandatory bullet length: clarity and real evidence matter more than a formula. Use an editable document editor when you need precise pagination and file formatting.
 
 **AI and accuracy note:** AI writing tools can introduce unsupported achievements or inflate responsibilities. Review every claim yourself, protect confidential information and observe any employer restrictions on AI use.
 

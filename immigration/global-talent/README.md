@@ -22,7 +22,7 @@ The **three pathways are different**. Choose the profession and type of recognit
 
 ## One current guide for each pathway
 
-Only the three enhanced pathway guides appear in the working library. Earlier extracted editions are recoverable through Git commit history rather than displayed as duplicate resources. Each pathway's checklist and the shared tracker instructions are **supporting tools**, not alternative guides.
+There is **one current guide per pathway**. Checklists and tracker instructions are supporting tools, not alternative guides.
 
 ## Status and limits
 

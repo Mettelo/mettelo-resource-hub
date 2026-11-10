@@ -41,6 +41,31 @@ The Mettelo Resource Hub helps members learn, prepare career applications, devel
 | Interactive Excel companions | Markdown tracker guidance is available, but interactive Excel files are not provided here | Do not claim workbook formulas are available online |
 | Public GitHub access | Repository remains **private** until authorised visibility is changed | Community access requires a publishing decision |
 
+## Immigration collection — editorial edition 1.0 review (10 November 2026)
+
+**Scope:** All **15 known active Markdown files under `immigration/`**: four category entry pages, three comprehensive Global Talent guides, three Global Talent checklists, one shared tracker, one Innovator Founder guide, checklist and tracker, and the Nigerian passport practical guide.
+
+| Quality control | Outcome and limitations |
+| --- | --- |
+| Reader navigation | Rebuilt four category landing pages, added direct pathway-selection and task-based “start here” instructions |
+| Broken internal Markdown file links | **0** found by repository-path check |
+| Local heading and intra-repository anchor links | **0** unresolved in a post-edit structural check of **190 usable internal references**, including **21 cross-file anchors** |
+| Three Global Talent plans | **24 monthly entries preserved in each** |
+| Content depth | Digital Technology evidence/action guide; professional creative routes including specific DBA/BFC/RIBA/PACT pathways; research routes; detailed Innovator Founder problem discovery and customer testing |
+| Innovator checklist | Repaired **20 tasks** to link to the actual, current 13-section guide (old non-existent section numbers removed) |
+| Trackers | Replaced missing-workbook-dependent instructions with **two self-contained copyable private evidence trackers** |
+| Passport guide | Route-specific, current official first steps; no duplicated legacy fee/page text; special UK intervention dates labelled time-limited |
+| Markdown table structure | **No inconsistent cell counts** found in sampled complete table blocks across the principal guides and checklists |
+| Document formatting | **No unbalanced code fences** in the reviewed immigration files |
+| Reader-facing editorial copy | Removed background references to source file formats and obsolete version pages |
+| Official-rule spot check | Checked GOV.UK Appendix Global Talent and Innovator Founder, technology evidence, arts/design/film/fashion/architecture, UKRI funding and peer review, endorsers, and NIS/High Commission public notices on 10 November 2026 |
+| External URL completeness | **Not exhaustively tested**; especially opportunity listings, booking systems and time-sensitive calls must be checked when used |
+| Independent legal sign-off | **Not performed**; the editorial edition is complete, not a substitute for a regulated immigration professional reviewing a particular application |
+
+### Release classification
+
+**Mettelo editorial edition 1.0 — complete for public-facing reading and further review.** Do **not** market as fully legal-certified, live-opportunity-certified or guaranteed visa advice. The most relevant outstanding release controls are an independent specialist review for material legal claims, real-browser mobile reading, and a scheduled external-link freshness check. Government rules and individual eligibility always override the community guide.
+
 ## Final release gates still to complete
 
 | Priority | Required action | Why it matters |

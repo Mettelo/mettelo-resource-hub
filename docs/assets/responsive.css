@@ -1,0 +1,230 @@
+/* Mettelo Resource Library — responsive system, Nov 2026
+   Applies to homepage and every guide. Loaded after library.css. */
+:root{--content-gutter:clamp(16px,3.5vw,42px);--tap-height:44px}
+html{scroll-padding-top:18px;-webkit-text-size-adjust:100%}
+body{min-width:0}
+img,svg,video,iframe{max-width:100%}
+a,button,select,input{touch-action:manipulation}
+:where(a,button,input,select):focus-visible{outline:3px solid #cf8d24;outline-offset:3px}
+.container{width:100%;max-width:1190px;padding-inline:var(--content-gutter)}
+.site-header{z-index:100;isolation:isolate}
+.header-inner{max-width:1280px}
+.nav-toggle{display:none;align-items:center;justify-content:center;gap:8px;min-width:44px;min-height:44px;border:1px solid #6e7380;border-radius:5px;color:#f4ecd8;background:transparent;font-size:13px;font-weight:700;cursor:pointer}
+.nav-toggle-lines{display:grid;gap:4px;width:19px}
+.nav-toggle-lines i{height:2px;width:19px;background:currentColor;border-radius:2px}
+.nav-toggle-label{font-size:12px}
+.page-nav-backdrop{display:none}
+.search-field{max-width:100%}
+.resource-card h3{overflow-wrap:break-word;hyphens:auto}
+.resource-card:focus-visible{outline-offset:4px}
+.home-trust-banner .container>div{min-width:0}
+
+/* Reading page: prevent the grid, preformatted blocks, tables and long links
+   from making the entire viewport horizontally scrollable. */
+body[data-page="guide"] .reader-shell{width:100%;min-width:0;max-width:1480px}
+body[data-page="guide"] .reader-main{min-width:0;max-width:none}
+body[data-page="guide"] #guide-content{min-width:0;overflow-wrap:anywhere}
+body[data-page="guide"] .markdown-content :where(p,li,blockquote,a,td,th){overflow-wrap:anywhere}
+body[data-page="guide"] .markdown-content .table-scroll{width:100%;max-width:100%;overflow-x:auto;overscroll-behavior-x:contain;border:1px solid #ded5c3;border-radius:6px;-webkit-overflow-scrolling:touch;background:white;scrollbar-width:thin}
+body[data-page="guide"] .markdown-content .table-scroll table{margin:0;border:0;min-width:560px}
+body[data-page="guide"] .markdown-content pre{max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;white-space:pre}
+body[data-page="guide"] .reader-title-block h1{overflow-wrap:anywhere}
+body[data-page="guide"] .reader-meta{row-gap:4px}
+body[data-page="guide"] .guide-switcher select{max-width:100%}
+body[data-page="guide"] .reader-tools{flex-wrap:wrap}
+body[data-page="guide"] .reader-find{min-width:0}
+body[data-page="guide"] .markdown-content blockquote{margin-inline:0}
+body[data-page="guide"] .markdown-content :where(h2,h3,h4){scroll-margin-top:76px}
+body[data-page="guide"] .architecture-overview{
+  box-sizing:border-box;width:100%;max-width:100%;margin-inline:0;
+  padding:clamp(15px,2.5vw,25px);overflow:visible
+}
+body[data-page="guide"] .architecture-grid{margin:0!important;max-width:100%;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+body[data-page="guide"] .architecture-stage{padding:20px 14px 15px!important;min-width:0;overflow-wrap:anywhere}
+body[data-page="guide"] .architecture-stage h4{font-size:clamp(15px,1.2vw,18px)}
+body[data-page="guide"] .architecture-stage .architecture-intro{font-size:13px}
+body[data-page="guide"] .architecture-stage li{font-size:12px}
+body[data-page="guide"] .architecture-decision p{font-size:12px}
+body[data-page="guide"] .architecture-stage:not(:last-child)::after{display:none}
+.architecture-stage{border-top-color:#303861}
+.architecture-stage::before{content:none!important}
+.reader-sidebar .toc a{display:block}
+body[data-page="guide"] .reader-sidebar .toc a{min-height:38px}
+body[data-page="guide"] .reader-sidebar .toc a.active{border-left-width:4px}
+
+/* Tablet layout: full-width reading area, accessible slide-out contents.
+   981–1199 remains two-column for roomy landscape tablets. */
+@media(max-width:1199px) and (min-width:981px){
+ body[data-page="guide"] .reader-shell{grid-template-columns:minmax(220px,248px) minmax(0,1fr)}
+ body[data-page="guide"] .reader-main{padding:34px clamp(22px,3.3vw,48px) 75px}
+ body[data-page="guide"] .architecture-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+ body[data-page="guide"] .architecture-stage h4{min-height:0}
+ .cards{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+
+/* Compact navigation for tablets and small laptops */
+@media(max-width:980px){
+ .header-inner{min-height:72px;padding:10px var(--content-gutter);gap:12px}
+ .brand{min-width:0;margin-right:auto;gap:10px}
+ .brand img.official-logo{width:128px;max-width:128px}
+ .brand-note{font-size:12px;white-space:nowrap}
+ .brand-divider{height:24px}
+ .nav-toggle{display:inline-flex}
+ .header-action{display:none}
+ .top-nav{
+   display:none!important;position:absolute;top:100%;right:var(--content-gutter);
+   width:min(340px,calc(100vw - 2*var(--content-gutter)));
+   flex-direction:column;align-items:stretch;gap:0;
+   border:1px solid #d5c7ad;border-radius:8px;padding:8px;
+   background:#141925;box-shadow:0 18px 45px rgba(20,25,37,.25);
+   z-index:105
+ }
+ .top-nav.is-open{display:flex!important}
+ .top-nav a{display:block;padding:13px 15px;min-height:44px;border-radius:4px;color:#f4ecd8;font-size:14px}
+ .top-nav a:hover,.top-nav a:focus-visible{background:#303861}
+ .hero-inner{grid-template-columns:1fr;gap:22px;padding:55px var(--content-gutter) 60px}
+ .hero h1{font-size:clamp(35px,6vw,54px);max-width:780px}
+ .hero-copy{font-size:clamp(15px,2.5vw,17px);line-height:1.7}
+ .hero-aside{display:none}
+ .section-pad{padding:55px 0 70px}
+ .cards{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+ .steps{grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+ .footer-inner{gap:24px}
+ body[data-page="guide"] .reader-shell{display:block!important}
+ body[data-page="guide"] .reader-main{padding:25px var(--content-gutter) 70px;width:100%}
+ body[data-page="guide"] .reader-sidebar{
+   display:block!important;position:fixed!important;top:0;bottom:0;left:0;
+   width:min(385px,88vw);max-width:none;height:100dvh;max-height:none;
+   overflow-y:auto;overflow-x:hidden;padding:22px 20px 35px;
+   background:#fbf7ee;z-index:1150;box-shadow:18px 0 50px rgba(20,25,37,.19);
+   visibility:hidden;transform:translateX(-105%);pointer-events:none;
+   transition:transform .26s ease,visibility .26s step-end;
+ }
+ body[data-page="guide"] .reader-sidebar.open{
+   visibility:visible;pointer-events:auto;transform:translateX(0);
+   transition:transform .26s ease,visibility 0s;
+ }
+ .toc-close{
+   display:inline-flex;align-items:center;justify-content:center;
+   min-height:44px;min-width:44px;border:1px solid #c7bca7;
+   border-radius:5px;background:#fff;font-size:18px;cursor:pointer;margin-bottom:14px;
+ }
+ .toc-backdrop{position:fixed;inset:0;background:rgba(16,21,35,.56);z-index:1140;display:none}
+ .toc-backdrop.is-visible{display:block}
+ body.toc-is-open{overflow:hidden}
+ body[data-page="guide"] .mobile-reader-nav{
+   display:flex!important;align-items:center;justify-content:space-between;
+   gap:12px;position:sticky;top:0;z-index:30;
+   background:#fff;border-bottom:1px solid #e5ddce;
+   padding:10px 0 12px;margin:-10px 0 18px
+ }
+ body[data-page="guide"] .mobile-reader-nav button{
+   display:inline-flex;align-items:center;justify-content:center;
+   min-height:44px;min-width:125px;padding:9px 14px;background:#141925;
+   color:#fff;border:1px solid #141925;border-radius:5px;font-weight:750;font-size:13px
+ }
+ body[data-page="guide"] .mobile-reader-nav a{
+   display:inline-flex;min-height:44px;align-items:center;
+   font-size:13px;padding:9px 4px;white-space:nowrap
+ }
+ body[data-page="guide"] .guide-switcher{margin-bottom:22px}
+ body[data-page="guide"] .architecture-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+ body[data-page="guide"] .architecture-stage h4{min-height:0}
+ body[data-page="guide"] .markdown-content{font-size:16px;line-height:1.82}
+ body[data-page="guide"] .reader-title-block h1{font-size:clamp(28px,4.8vw,40px)}
+}
+@media(max-width:650px){
+ :root{--content-gutter:18px}
+ .header-inner{min-height:66px}
+ .brand img.official-logo{width:114px;max-width:114px}
+ .brand-note{font-size:11px}
+ .brand{gap:8px}
+ .nav-toggle{width:44px;overflow:hidden;padding:8px}
+ .nav-toggle-label{display:none}
+ .hero-inner{padding-top:43px;padding-bottom:48px}
+ .hero h1{font-size:clamp(33px,9vw,43px);margin:17px 0;line-height:1.16;letter-spacing:-.045em}
+ .hero-copy{font-size:15px;line-height:1.7}
+ .eyebrow{flex-wrap:wrap;font-size:9px;gap:8px;letter-spacing:.12em}
+ .home-badge{gap:7px;line-height:1.4;font-size:9px}
+ .hero-actions{flex-direction:column;align-items:stretch}
+ .hero-actions .button{width:100%;min-height:46px}
+ .home-trust-banner{padding:14px 0}
+ .home-trust-banner .container{display:block}
+ .home-trust-banner .container>div+div{margin-top:10px}
+ .search-section{padding:17px 0}
+ .search-field{padding:11px 13px;min-height:48px}
+ .search-field input{font-size:16px}
+ .search-field kbd{display:none}
+ .search-tip{text-align:left;line-height:1.6}
+ .cards{grid-template-columns:minmax(0,1fr);gap:13px}
+ .resource-card{min-height:0;padding:20px 20px 18px}
+ .resource-card h3{font-size:19px;line-height:1.4}
+ .card-glyph{margin:15px 0 11px;font-size:30px}
+ .card-bottom{flex-wrap:wrap}
+ .steps{grid-template-columns:minmax(0,1fr);gap:20px}
+ .section-heading{display:block;margin-bottom:23px}
+ .section-heading h2{font-size:clamp(24px,6vw,29px)}
+ .item-count{display:inline-flex;margin-top:12px}
+ .use-section{padding:48px 0}
+ .notice-section{padding:30px 0 50px}
+ .notice-box{padding:19px}
+ .footer-inner{display:block;padding-top:32px}
+ .footer-inner>div:last-child{display:flex;flex-wrap:wrap;gap:14px;margin-top:20px}
+ .copyright{line-height:1.8}
+ body[data-page="guide"] .reader-main{padding:16px 17px 60px}
+ body[data-page="guide"] .reader-breadcrumb{margin-bottom:18px;flex-wrap:wrap}
+ body[data-page="guide"] .guide-switcher{display:block;padding:13px 14px}
+ body[data-page="guide"] .guide-switcher label{display:block;margin-bottom:7px}
+ body[data-page="guide"] .guide-switcher select{font-size:16px;width:100%;min-width:0;min-height:46px}
+ body[data-page="guide"] .reader-pretitle{font-size:10px;letter-spacing:.1em}
+ body[data-page="guide"] .reader-title-block h1{font-size:clamp(26px,7vw,34px);margin:9px 0 12px}
+ body[data-page="guide"] .reader-title-block p{font-size:15px;line-height:1.65}
+ body[data-page="guide"] .reader-meta{display:block;margin:15px 0}
+ body[data-page="guide"] .reader-meta span{display:block}
+ body[data-page="guide"] .reader-meta span+span::before{display:none}
+ body[data-page="guide"] .reader-legal-note{padding:14px 15px;margin:17px 0 23px}
+ body[data-page="guide"] .reader-tools{display:flex;align-items:stretch;gap:8px;margin-bottom:30px}
+ body[data-page="guide"] .reader-find{flex:1 1 100%;padding:10px 12px;min-height:46px}
+ body[data-page="guide"] .reader-find input{font-size:16px}
+ body[data-page="guide"] .reader-tools button{min-height:44px;flex:0 0 auto}
+ body[data-page="guide"] #find-count{min-height:22px;align-self:center}
+ body[data-page="guide"] .markdown-content{font-size:15.5px;line-height:1.78}
+ body[data-page="guide"] .markdown-content h2{font-size:clamp(21px,6vw,26px);margin-top:38px;line-height:1.35}
+ body[data-page="guide"] .markdown-content h3{font-size:19px;line-height:1.4;margin-top:26px}
+ body[data-page="guide"] .markdown-content h4{font-size:16px}
+ body[data-page="guide"] .markdown-content p{margin:12px 0 17px}
+ body[data-page="guide"] .markdown-content ul,
+ body[data-page="guide"] .markdown-content ol{padding-left:20px}
+ body[data-page="guide"] .markdown-content li{margin-bottom:8px}
+ body[data-page="guide"] .markdown-content blockquote{padding:13px 14px}
+ body[data-page="guide"] .markdown-content .table-scroll{margin:14px 0}
+ body[data-page="guide"] .architecture-overview{padding:18px 13px;width:100%;margin:25px 0 30px}
+ body[data-page="guide"] .architecture-grid{grid-template-columns:minmax(0,1fr);gap:18px}
+ body[data-page="guide"] .architecture-stage{padding:18px 16px!important}
+ body[data-page="guide"] .architecture-stage:not(:last-child)::after{
+   content:"↓";position:absolute;display:block;bottom:-20px;left:50%;
+   top:auto;right:auto;color:#ae771d;width:34px;height:18px;
+   font-size:20px;line-height:1;transform:translateX(-50%);z-index:1;
+   background:#fbf7ee
+ }
+ body[data-page="guide"] .architecture-stage h4{font-size:18px;margin-bottom:9px}
+ body[data-page="guide"] .architecture-stage .architecture-intro{font-size:14px}
+ body[data-page="guide"] .architecture-stage li{font-size:13.5px}
+ body[data-page="guide"] .architecture-decision p{font-size:13px}
+ body[data-page="guide"] .architecture-heading h3{font-size:22px}
+ body[data-page="guide"] .architecture-heading p{font-size:13px}
+ body[data-page="guide"] .reader-bottom{margin-top:38px}
+}
+@media(max-width:360px){
+ :root{--content-gutter:13px}
+ .brand img.official-logo{width:102px;max-width:102px}
+ .brand-note{font-size:10px}
+ .header-inner{gap:6px}
+ body[data-page="guide"] .reader-main{padding-inline:13px}
+ body[data-page="guide"] .mobile-reader-nav{gap:4px}
+ body[data-page="guide"] .mobile-reader-nav button{min-width:110px;padding-inline:8px;font-size:12px}
+}
+@media(prefers-reduced-motion:reduce){
+ .reader-sidebar{transition:none!important}
+ .resource-card,.button{transition:none!important}
+}

@@ -1,15 +1,25 @@
-# Renew a Nigerian passport from the UK
+# Nigerian Passport Renewal from the UK
 
-[🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [Immigration menu](../README.md)
+**Mettelo practical passport and consular guidance · Updated 10 November 2026**  
+[🏠 Resource Hub](../../README.md) · [Immigration](../README.md) · [Start Here](../../START_HERE.md)
 
-### Main guide
+## Start with the right process
 
-**[How to Renew a Nigerian Passport Online from the UK →](passport-renewal-uk.md)**
+**[Read the complete Nigerian Passport Renewal Guide](passport-renewal-uk.md)**
 
-The guide covers eligibility and route choice, documents, online application, NIS Mobile/contactless steps where appropriate, biometrics, postage, tracking, troubleshooting and a final checklist.
+The guide explains how to decide between eligible **contactless renewal** and **appointment-based biometric renewal**, prepare genuine identity documents, pay safely, handle return envelopes where officially required, and track an application.
 
-**Status: Practical guide; confirm current official instructions.** The guide includes an **official route-selection safety table** clarifying contactless versus in-person biometric requirements. Passport fees, eligibility, processing methods and mailing directions can change; final editorial review remains open. **Check the official [Nigeria Immigration Service](https://immigration.gov.ng/) and [Nigeria High Commission London](https://www.nigeriahc.org.uk/requirements-for-e-passport/) before paying, posting documents or travelling.**
+| Your case | Essential check |
+| --- | --- |
+| Existing adult passport | Confirm contactless eligibility in the actual NIS portal |
+| First-time/minor application | Follow the separate first-time/minor rules |
+| Lost, damaged or changed details | Check replacement or correction requirements |
+| Time-limited UK consular exercise | Check dated location, documents and fees on the High Commission website |
 
-Never post passport, NIN, personal addresses or application IDs in public GitHub issues.
+### Official help
 
-[← Immigration menu](../README.md) · [← Home](../../README.md)
+[Nigeria Immigration Service](https://immigration.gov.ng/) · [NIS contactless guidance](https://immigration.gov.ng/contactless/) · [Nigeria High Commission London](https://www.nigeriahc.org.uk/requirements-for-e-passport/).
+
+**Important:** Passport application options, prices, booking arrangements and postal instructions can change. Confirm your **own route** directly before paying, mailing an original passport or travelling. Mettelo does not collect personal documents or process applications.
+
+[← Immigration](../README.md) · [🏠 Homepage](../../README.md)

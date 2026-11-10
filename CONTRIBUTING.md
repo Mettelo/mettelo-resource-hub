@@ -17,13 +17,13 @@ We welcome corrections, broken-link reports, clearer instructions and proposals 
 | Standard | What the editor must check |
 | --- | --- |
 | **Navigation** | Guide has a clear title, category/home return links, and usable contents if long. |
-| **Evidence fidelity** | Original source is correctly represented; new research is clearly labelled; no invented achievements or invented source passages. |
+| **Evidence fidelity** | Claims are accurate, verifiable, attributed properly and never invented. |
 | **Markdown quality** | Tables have correct columns; headings are sensible; commands and prompts are copyable; internal links and anchors work. |
 | **Current official information** | Visa, immigration, passport, public-sector application and legal rules checked on official websites, with verification date. |
 | **Technical safety** | Commands with destructive side effects clearly marked and tested in safe environments where possible. |
 | **Reader safety** | No private identifiers, sensitive employer/client data, copyrighted third-party material without permission or hidden commercial endorsements. |
 | **Accessibility** | Clear UK English, descriptive link text, mobile-readable tables where feasible, meaningful headings and no crucial instructions conveyed only by colour. |
-| **Publication status** | Draft stays draft until source comparison, factual review and relevant links have genuinely been checked. |
+| **Publication status** | Draft stays draft until factual review and relevant links have genuinely been checked. |
 
 ## Status and release policy
 
@@ -31,13 +31,13 @@ We welcome corrections, broken-link reports, clearer instructions and proposals 
 - **Enhanced draft:** Expanded guide containing newly researched recommendations; final fact-check and link review pending.
 - **Source reviewed:** The source and Markdown conversion were checked; live facts may require later re-review.
 - **Published:** Only after the responsible editor records completed source, navigation, legal/technical and link checks appropriate to the subject.
-- **Previous edition:** Retained in Git history when a revised guide replaces it. Do not create multiple live edition files for the same subject.
+- **One current guide per topic:** Update the active guide rather than creating competing live versions.
 
 **Do not change every resource to Published at once.** Each guide needs its own approval record. The [current QA report](QUALITY_ASSURANCE.md) lists outstanding issues.
 
 ## Practical GitHub contribution standards
 
-Use clear, focused changes; update the relevant category README and [Resource Index](RESOURCE_INDEX.md) when adding or renaming a guide; use **relative Markdown links** for repository files; preserve original source editions in Git history when consolidating an existing guide; and make your pull-request description specific enough that reviewers can verify the work.
+Use clear, focused changes; update the relevant category README and [Resource Index](RESOURCE_INDEX.md) when adding or renaming a guide; use **relative Markdown links** for repository files; use one canonical page per subject; and make your pull-request description specific enough that reviewers can verify the work.
 
 When adding a new guide, include: purpose, intended audience, how to use it, primary source and date, limitations/status, next recommended resource, and return navigation.
 

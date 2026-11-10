@@ -14,6 +14,22 @@ The **UK Global Talent visa (Academia and Research)** is designed for establishe
 
 There are **two separate decisions**: a qualifying academic/research **endorsement** (unless a specifically listed prestigious prize removes the endorsement requirement), followed by the **Home Office visa application**. The route covers legitimate **academic, industrial and government research**, but routine dashboards, general reporting or university administrative support should not be confused with original research or PhD-equivalent research expertise.
 
+### Official fast-track funding-list checks — verified 10 November 2026
+
+**Do not assume that any university, charity or grant is eligible.** The UKRI endorsement requires **both** an approved funding organisation and an approved UK employing/hosting institution, plus the actual qualifying role and grant conditions.
+
+| Verify | Specific official source | Recent update or requirement |
+| --- | --- | --- |
+| Approved research **funders** | [UKRI endorsed-funders list](https://www.gov.uk/government/publications/ukri-endorsement-endorsed-funders-global-talent-visa) | Updated **4 September 2026**; entries can change |
+| Approved **host organisations** | [UKRI approved institutions](https://www.gov.uk/government/publications/ukri-endorsement-employing-or-hosting-institutions-global-talent-visa) | Updated **15 September 2026** |
+| Exact grant / role | [UKRI route eligibility](https://www.gov.uk/global-talent-researcher-academic/uk-research-innovation-endorsement) | Grant **at least £30,000**, duration **at least two years**, applicant working **at least half their time** on grant, generally **one year left** on contract/hosting |
+| Eligible research appointment | [Academic or research position](https://www.gov.uk/global-talent-researcher-academic/academic-or-researcher) | An eligible offer at approved UK institution; actual research/innovation or qualifying leadership |
+| Other qualifying paths | [Research route overview](https://www.gov.uk/global-talent-researcher-academic) | Approved individual fellowship, peer review or qualifying listed prize may provide another route |
+
+**Who to contact first:** For a UKRI grant route, start with the **actual university research administration / grants office and HR** and obtain confirmation of the exact grant reference, sponsor, job responsibilities and permitted institutional guarantee. A professor's informal assurance is not the same as an authorised HR letter. For a fellowship, ask the **actual awarding programme** whether its exact scheme is on the relevant current endorsed list.
+
+**Good evidence:** An actual award reference and approved host confirmation supported by your real contract and responsibilities. **Not good evidence:** A list of funders copied from the web without proof you work on one of their eligible grants.
+
 ### Understand the four completely different endorsement routes
 
 | Route | Who it is for | What must be real | Key documents |

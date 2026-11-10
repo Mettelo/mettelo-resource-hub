@@ -70,51 +70,14 @@ async function run(){
   });
   toc.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{if(window.innerWidth<=900){$('reader-sidebar').classList.remove('open');toggle?.setAttribute('aria-expanded','false')}}));
   target.querySelectorAll('table').forEach(t=>{const box=document.createElement('div');box.className='table-scroll';t.parentNode.insertBefore(box,t);box.append(t)});
-  target.querySelectorAll('pre code.language-mermaid').forEach((code,i)=>{
-    const pre=code.closest('pre'), frame=document.createElement('section');
-    frame.className='diagram-frame';frame.setAttribute('aria-label','Interactive decision architecture diagram '+(i+1));
-    const head=document.createElement('div');head.className='diagram-head';
-    const label=document.createElement('strong');label.className='diagram-label';label.textContent='PROCESS ARCHITECTURE · '+String(i+1).padStart(2,'0');
-    const controls=document.createElement('div');controls.className='diagram-controls';
-    for(const [name,action] of [['−','out'],['+','in'],['100%','actual'],['Fit','fit'],['Expand ↗','expand']]){
-      const button=document.createElement('button');button.type='button';button.textContent=name;button.dataset.diagramAction=action;
-      button.setAttribute('aria-label',{'out':'Zoom out','in':'Zoom in','fit':'Fit diagram to view','actual':'Show full-size diagram','expand':'Expand diagram to full screen'}[action]);if(action==='expand')button.classList.add('diagram-expand');controls.append(button);
-    }
-    head.append(label,controls);
-    const viewport=document.createElement('div');viewport.className='diagram-viewport';viewport.tabIndex=0;viewport.setAttribute('aria-label','Diagram. Use buttons to zoom or expand; scroll to pan.');
-    const canvas=document.createElement('div');canvas.className='diagram-canvas';
-    const diagram=document.createElement('div');diagram.className='mermaid';diagram.textContent=code.textContent;
-    canvas.append(diagram);viewport.append(canvas);
-    const caption=document.createElement('p');caption.className='diagram-caption';caption.textContent='Follow the arrows and decision branches. Scroll within this diagram to follow the arrows at a readable size. Use Expand for more space.';
-    frame.append(head,viewport,caption);pre.replaceWith(frame);
-    frame.dataset.originalDiagram=code.textContent;
+  // Replace cramped technical Mermaid graphs with full-width editorial process architecture.
+  // Each stage is a real HTML section: readable at natural size, accessible, and printable.
+  target.querySelectorAll('pre code.language-mermaid').forEach(code=>{
+    const pre=code.closest('pre');
+    const architecture=window.MetteloArchitecture?.render(doc);
+    if(architecture)pre.replaceWith(architecture);
   });
-  if(window.mermaid && target.querySelector('.mermaid')){
-    try{
-      mermaid.initialize({startOnLoad:false,securityLevel:'strict',theme:'base',
-        flowchart:{htmlLabels:false,useMaxWidth:false,curve:'basis',nodeSpacing:40,rankSpacing:62,padding:18},
-        themeVariables:{primaryColor:'#f4ecd8',primaryTextColor:'#141925',primaryBorderColor:'#cf8d24',lineColor:'#303861',
-        secondaryColor:'#f8f7f3',tertiaryColor:'#fff',fontFamily:'system-ui, Segoe UI, sans-serif',fontSize:'17px'}});
-      await mermaid.run({querySelector:'#guide-content .mermaid'});
-      target.querySelectorAll('.diagram-frame').forEach(prepareDiagram);
-    }catch(err){
-      console.error('Mermaid rendering failed',err);
-      target.querySelectorAll('.diagram-frame').forEach(frame=>{
-        if(frame.querySelector('svg')){prepareDiagram(frame);return;}
-        const canvas=frame.querySelector('.diagram-canvas');canvas.replaceChildren();
-        const fallback=document.createElement('pre');fallback.className='diagram-fallback';
-        fallback.textContent=frame.dataset.originalDiagram||'Diagram unavailable';
-        canvas.append(fallback);
-        frame.querySelector('.diagram-caption').textContent='The interactive diagram could not be loaded. This process-map source is provided as a fallback.';
-      });
-    }
-  }else if(target.querySelector('.mermaid')){
-    target.querySelectorAll('.diagram-frame').forEach(frame=>{
-      const canvas=frame.querySelector('.diagram-canvas');canvas.replaceChildren();
-      const fallback=document.createElement('pre');fallback.className='diagram-fallback';fallback.textContent=frame.dataset.originalDiagram||'Diagram unavailable';canvas.append(fallback);
-      frame.querySelector('.diagram-caption').textContent='Diagram library unavailable. Text version displayed.';
-    });
-  }
+  setupTocNavigation(heads,toc);
   setupFind(target);
  }catch(err){console.error('Resource loading failed',err);$('render-error').hidden=false;$('reader-intro').textContent='The requested resource could not be retrieved.';}
 }
@@ -157,6 +120,51 @@ function prepareDiagram(frame){
  }));
  document.addEventListener('keydown',event=>{if(event.key==='Escape'&&frame.classList.contains('diagram-fullscreen'))frame.querySelector('[data-diagram-action="expand"]')?.click()});
  apply(1,true);
+}
+function setupTocNavigation(headings,toc){
+  const links=[...toc.querySelectorAll('a[href^="#"]')];
+  if(!links.length)return;
+  const mobileToggle=$('mobile-nav-toggle');
+  const sidebar=$('reader-sidebar');
+  const reduced=window.matchMedia('(prefers-reduced-motion: reduce)');
+  let currentId='',scrollTimer,progress=document.getElementById('reading-progress');
+  if(!progress){progress=document.createElement('div');progress.id='reading-progress';progress.setAttribute('aria-hidden','true');document.body.prepend(progress)}
+  function highlight(id){
+    if(!id||id===currentId)return;
+    currentId=id;
+    links.forEach(link=>{const active=link.hash.slice(1)===id;link.classList.toggle('active',active);if(active)link.setAttribute('aria-current','location');else link.removeAttribute('aria-current')});
+    const active=links.find(link=>link.hash.slice(1)===id);
+    if(active&&sidebar&&!sidebar.classList.contains('open')){
+      const bottom=active.offsetTop+active.offsetHeight,top=active.offsetTop;
+      if(bottom>sidebar.scrollTop+sidebar.clientHeight-32||top<sidebar.scrollTop+50){sidebar.scrollTo({top:Math.max(0,top-sidebar.clientHeight*.3),behavior:reduced.matches?'auto':'smooth'})}
+    }
+  }
+  links.forEach(link=>link.addEventListener('click',event=>{
+    const id=decodeURIComponent(link.hash.slice(1));
+    const node=document.getElementById(id);if(!node)return;
+    event.preventDefault();
+    history.replaceState(null,'','#'+encodeURIComponent(id));
+    node.scrollIntoView({block:'start',behavior:reduced.matches?'instant':'smooth'});
+    highlight(id);
+    if(window.innerWidth<=900){sidebar.classList.remove('open');mobileToggle?.setAttribute('aria-expanded','false')}
+  }));
+  // Stable scroll-spy avoids rapid flickering between adjacent headings.
+  function onScroll(){
+    clearTimeout(scrollTimer);scrollTimer=setTimeout(()=>{
+      const boundary=window.innerHeight*.23;
+      let active=headings[0];
+      for(const heading of headings){if(heading.getBoundingClientRect().top<=boundary)active=heading;else break}
+      if(active)highlight(active.id);
+      const max=Math.max(1,document.documentElement.scrollHeight-window.innerHeight);
+      progress.style.transform='scaleX('+Math.min(1,Math.max(0,window.scrollY/max))+')';
+    },35)
+  }
+  window.addEventListener('scroll',onScroll,{passive:true});
+  window.addEventListener('resize',onScroll,{passive:true});
+  const anchor=decodeURIComponent(location.hash.slice(1));
+  if(anchor&&document.getElementById(anchor)){requestAnimationFrame(()=>document.getElementById(anchor).scrollIntoView({block:'start',behavior:'instant'}));highlight(anchor)}
+  else highlight(headings[0]?.id);
+  onScroll();
 }
 function setupFind(root){
  const input=$('find-in-guide'),counter=$('find-count');

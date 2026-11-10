@@ -149,7 +149,7 @@ function setupTocNavigation(headings,toc){
   if(active&&sidebar&&window.innerWidth>900){
    const itemTop=active.getBoundingClientRect().top,sidebarRect=sidebar.getBoundingClientRect();
    if(itemTop<sidebarRect.top+65||itemTop>sidebarRect.bottom-75){
-    active.scrollIntoView({behavior:reduced.matches?'instant':'smooth',block:'nearest'});
+    sidebar.scrollTo({top:sidebar.scrollTop+itemTop-sidebarRect.top-sidebar.clientHeight*.35,behavior:reduced.matches?'instant':'smooth'});
    }
   }
  }

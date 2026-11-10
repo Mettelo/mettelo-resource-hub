@@ -314,6 +314,19 @@ The [official UK government list, updated 7 August 2026](https://www.gov.uk/gove
 
 **Do not approach organisations listed only under “Legacy Innovator Endorsing Bodies” for a brand-new initial endorsement.** They generally serve qualifying applicants previously endorsed under earlier routes. Always recheck the live directory before paying any agent.
 
+### Budget for endorsement assessments and contact meetings
+
+The [official government endorsing-body directory (updated 7 August 2026)](https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies) states these **endorser charges** for the Innovator Founder route:
+
+| Endorser-stage expense | Official published charge | Planning implication |
+| --- | ---: | --- |
+| Initial endorsement application | **£1,000 per person** | Budget separately from Home Office application and product development |
+| Mandatory contact-point meetings if granted | **£500 per meeting**; generally **at least two** | Plan for **at least £1,000** of contact-point charges over permission |
+| **Total of these endorser-stage items** | **At least £2,000** under the cited charges | **Does not include** visa fee, Immigration Health Surcharge, legal/translation costs, dependants, company formation, IP or development |
+
+**Do not treat £2,000 as the total cost of the visa.** Government application fees and immigration-health charges are separate and can change. Fees may be payable at different stages; read the current provider terms and official charge pages before committing funds. The cost of product development and actual business capital also depends on the business, with no universal fixed £50,000 minimum investment for the new-business route.
+
+
 ### What to send in an appropriate enquiry
 
 Prepare a concise founder summary, problem statement, target buyer, distinctive innovation, credible test or commercial evidence, founding team's real capability, viable costs and structured growth plan. Ask **whether your business falls within current assessment scope, what documents are required, actual charges and process**. Never ask for “guaranteed endorsement” or pay an unverified intermediary.

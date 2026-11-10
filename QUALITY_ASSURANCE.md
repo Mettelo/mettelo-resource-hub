@@ -80,6 +80,28 @@
 | [Innovator Founder tracker guide](immigration/innovator-founder/tracker-guide.md) | Reviewed existing workbook explanation and practical tracking structure | Original interactive workbook not hosted; current rules require checking |
 | [Nigerian passport renewal (UK)](immigration/nigerian-passport/passport-renewal-uk.md) | Added prominent decision table distinguishing **contactless eligibility from in-person biometric requirements**, official portal and payment/postal safety steps | Source procedure remains from Oct 2026; NIS rules, fees and postal process can change |
 
+## Targeted official-source verification — 10 November 2026
+
+**This is a selected factual/source review, not a blanket legal sign-off or exhaustive URL test.** Current official pages were opened and cross-checked for important eligibility and route claims; corrections and new evidence-clarification sections were committed into existing guides.
+
+| Resource | Official verification performed | Actual change |
+| --- | --- | --- |
+| [Digital Technology](immigration/global-talent/technology.md) | [GOV.UK document requirements](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement) and [application timing](https://www.gov.uk/global-talent-digital-technology/apply-for-endorsement) | Added an explicit exact limits table: CV, three genuine expert letters with 12 months' familiarity, recognition and optional evidence items, maximum ten documents, reuse and endorsement-vs-visa stage |
+| [Arts & Culture](immigration/global-talent/arts-and-culture.md) | [GOV.UK general arts](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts), [design industry](https://www.gov.uk/global-talent-arts-culture/design-industry) | Added specialist **Design Business Association** route checklist, eligibility/letter/evidence differences and clear warning not to transfer general ACE evidence requirements blindly |
+| [Academia & Research](immigration/global-talent/academia-and-research.md) | [UKRI funders](https://www.gov.uk/government/publications/ukri-endorsement-endorsed-funders-global-talent-visa) (updated **4 Sep 2026**), [UKRI hosts](https://www.gov.uk/government/publications/ukri-endorsement-employing-or-hosting-institutions-global-talent-visa) (updated **15 Sep 2026**) and [actual grant conditions](https://www.gov.uk/global-talent-researcher-academic/uk-research-innovation-endorsement) | Added concrete funder/host/grant eligibility checks, authoritative lists and specific university research-office/HR contacts |
+| [Innovator Founder](immigration/innovator-founder/guide.md) | [Official current endorsers](https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies) (updated **7 Aug 2026**) and [Immigration Rules](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-innovator-founder) (updated **29 Oct 2026**) | Listed four eligible initial-endorsement options including invitation-only GEP, distinguished legacy bodies and clarified endorsement date/day-to-day founder role/contact meetings |
+| [NHS supporting information](uk-careers/civil-service/personal-statement-guide.md) | [Coventry and Warwickshire Partnership NHS Trust applicant guidance](https://www.covwarkpt.nhs.uk/application-guidance-) and [Shrewsbury and Telford Hospital applicant guidance](https://www.jobs.sath.nhs.uk/find-job/applicant-guidance) were successfully opened; [Civil Service personal statement guidance](https://www.civil-service-careers.gov.uk/how-to-write-your-ps/) was also accessible | Existing rewritten guides are consistent with vacancy-first assessment and concrete criterion evidence; note the Shrewsbury/Telford site expressly says it does **not** accept CVs and requires Trac applications, illustrating why provider-specific instructions must control |
+
+**One limitation discovered:** A request to the NHS Employers candidate-AI guidance URL returned **HTTP 403**, which can indicate automated access restrictions rather than a dead link. This page has **not** been confirmed broken and should be manually checked in a normal browser before modifying its references.
+
+**Separate NIS verification:** The [contactless](https://immigration.gov.ng/contactless/) and [passport renewal](https://immigration.gov.ng/info-center/renewal-of-passport/) webpages were accessible and confirm the need to select the applicable process. Exact contactless fees, postal instructions and High Commission requirements **have not** been finally certified in this review.
+
+**Structural regression test of edited immigration guides:** All three Global Talent guides still contain **24 monthly rows**; in-document anchor links on the five examined immigration/passport pages passed the text check.
+
+**Release decision:** These targeted official-source updates do **not** close the P0 immigration-publication risk. A comprehensive current-rule checklist, manual external-URL audit and review of actual applicant scenarios are still required.
+
+---
+
 ## Known open risks and release blockers
 
 | Severity | Risk / reason | Applies to | Required before declaring published |

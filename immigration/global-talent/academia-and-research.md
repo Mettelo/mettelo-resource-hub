@@ -16,7 +16,7 @@ This guide explains each route and the records you may need to check with a host
 
 Use the route-finder table below before developing an evidence portfolio. Check the [official academic and research overview](https://www.gov.uk/global-talent-researcher-academic) and route-specific instructions when making a decision. An endorsement application and a visa application are distinct processes.
 
-## Find your research route in two minutes
+## Identify the relevant research endorsement route
 
 | What you genuinely have now | Check first | Next real action |
 | --- | --- | --- |
@@ -29,7 +29,7 @@ Use the route-finder table below before developing an evidence portfolio. Check 
 **Decision rule:** Select **one genuine qualifying route**. The four routes are not a combined checklist; do not mix a peer-review referee request with an ineligible university grant and assume that completes an endorsement.
 
 
-## Visual decision architecture: academia and research
+## Academic and research: process overview
 
 Research applications follow **different endorsement routes**, each with its own eligibility and documentation. Do not assemble a generic evidence bundle before identifying your actual route.
 
@@ -78,7 +78,7 @@ flowchart LR
 
 **Reader note:** This diagram does not mean an applicant may freely choose any of the four routes. Eligibility depends on the actual appointment, award, funding or research record and current official rules.
 
-## Introduction: who is this visa for?
+## How the academic and research visa pathway works
 
 The **UK Global Talent visa (Academia and Research)** is designed for established and potential leaders in science, engineering, medicine, humanities and social science research. It generally gives more freedom to work for different employers or be self-employed than an employer-sponsored route. It is not a PhD scholarship or job, and earning a master's degree, publishing one paper or having “research” in a job title does not automatically qualify someone.
 
@@ -126,7 +126,7 @@ The [Royal Society route decision tree](https://royalsociety.org/grants/global-t
 
 The Home Office currently indicates fast-track endorsements often take around **two weeks**, while full peer review is commonly around **five weeks**. These are estimates. Endorsement is not permission to remain. [GOV.UK overview](https://www.gov.uk/global-talent-researcher-academic/overview).
 
-## Contents
+## Guide contents
 
 1. [Practical route-specific approaches](#1-practical-route-specific-approaches)
 2. [Build genuine scientific publications and expert relationships](#2-build-genuine-scientific-publications-and-expert-relationships)

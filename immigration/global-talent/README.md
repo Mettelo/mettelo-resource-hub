@@ -3,7 +3,7 @@
 **Three distinct pathways, one current guide for each.**  
 **Updated 10 November 2026 · Mettelo Resources**
 
-[🏠 Resource Hub](../../README.md) · [Start Here](../../START_HERE.md) · [Immigration](../README.md)
+[🏠 Resource Hub](../../README.md) · [Start Here](../../START_HERE.md) · [UK Visas & Nigerian Passport Services](../README.md)
 
 ## Choose by your *actual* work and recognition
 
@@ -38,4 +38,4 @@ A technology engineer's ten-document framework does not become the research peer
 
 **Mettelo · Built for What's Next · Prepared by Johnson Taiwo**
 
-[← Immigration](../README.md) · [Start Here](../../START_HERE.md) · [🏠 Home](../../README.md)
+[← Visa & Passport Resources](../README.md) · [Start Here](../../START_HERE.md) · [🏠 Home](../../README.md)

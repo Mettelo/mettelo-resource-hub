@@ -1,7 +1,7 @@
 # UK Global Talent Visa — Arts & Culture Pathway
 
 **Practical, discipline-specific, evidence-led guide with a detailed 24-month development plan**  
-**Enhanced Mettelo edition · 9 November 2026**  
+**Mettelo Resource Hub · Edition 1.0 · Updated 10 November 2026**  
 Prepared by **Johnson Taiwo** · Mettelo — Built for What's Next
 
 [← Global Talent resources](README.md) · [← Immigration resources](../README.md) · [← Resource Hub](../../README.md)  
@@ -635,9 +635,9 @@ Read [official letter requirements](https://www.gov.uk/global-talent-arts-cultur
 
 ### Honest publication status
 
-**Enhanced researched draft, 9 November 2026.** The main government eligibility and general arts evidence requirements have been checked against current official public sources. The professional opportunity pages were checked for their stated programme structures and geography. **Future calls, awards, deadlines, fees and availability must be rechecked each time.** Claims that any individual creative activity *will* be accepted by Arts Council England would be misleading.
+**Mettelo editorial edition 1.0, updated 10 November 2026.** The main government eligibility and general arts evidence requirements have been checked against current official public sources. The professional opportunity pages were checked for their stated programme structures and geography. **Future calls, awards, deadlines, fees and availability must be rechecked each time.** Claims that any individual creative activity *will* be accepted by Arts Council England would be misleading.
 
-A final legal/content audit, rendered Markdown review, and link QA remain outstanding before marking this as fully published.
+This is a complete educational resource. Recheck specialist rules and currently available opportunities before relying on it; a separate immigration professional review has not been commissioned.
 
 **Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**
 

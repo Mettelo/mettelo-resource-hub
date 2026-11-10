@@ -1,4 +1,4 @@
-# UK Innovator Founder Visa Guide — Business Development and Endorsement Preparation
+# UK Innovator Founder Visa Guide: Business Development and Endorsement Preparation
 
 **Mettelo Practical Business & Innovation Guide**  
 **Prepared by Johnson Taiwo · Updated 10 November 2026**
@@ -7,7 +7,31 @@
 
 > **Who this guide helps:** founders in the UK, Nigeria or elsewhere who want to understand the Innovator Founder route, discover real UK problems, test whether a proposed business is genuinely different, and prepare evidence for an endorsing body's assessment. This is educational guidance, not immigration advice or a guarantee of endorsement. All costs, bodies, requirements and opportunity windows must be checked again before application. The practical targets in this guide are *Mettelo recommendations*, not Home Office requirements.
 
-## Visual venture-development architecture — from UK problem to endorsement
+## Begin with a business problem worth investigating
+
+The Innovator Founder route involves an assessment of a proposed business and a separate immigration decision. Having an idea, registering a company or producing an attractive business plan does not mean the venture meets an endorsing body's requirements.
+
+This guide is for people considering the route who want to investigate real problems in the UK, speak with potential customers, test a proposed solution and document the evidence behind a business case. It covers discovery, differentiation, commercial viability, scalability, approach to an authorised endorsing body and the practical preparation that comes before an application. The suggested exercises are **business-development guidance**, not official visa milestones.
+
+If you have no idea yet, start with the problem-research chapters. If you already operate a business, begin by testing its differentiation and evidence. The table below identifies the relevant starting point. Confirm the current rules on the [official Innovator Founder visa page](https://www.gov.uk/innovator-founder-visa).
+
+## Choose where to start
+
+| Your situation | Go to |
+| --- | --- |
+| I don't understand the visa | [1. Understand the route](#1-understand-the-innovator-founder-route) |
+| I have no business idea | [3. Find UK problems worth solving](#3-how-to-find-real-problems-in-the-uk) |
+| I want specific business ideas | [4. Twelve researched opportunity directions](#4-twelve-business-opportunity-directions-to-investigate) |
+| I have an idea but don't know if it is innovative | [5. Check uniqueness and competitive advantage](#5-test-whether-the-idea-is-really-innovative) |
+| I need customers and proof | [6. Discover, interview and validate](#6-customer-discovery-and-validation-that-produces-real-evidence) |
+| I need a business plan and financial model | [7. Build a defensible business case](#7-build-a-defensible-innovative-viable-and-scalable-business-case) |
+| I want to find UK organisations and funding | [8. Research directory](#8-uk-problem-research-funding-and-support-directory) |
+| I need an actionable timetable | [9. First 90 days](#9-the-first-90-days--practical-implementation-plan) and [10. Twelve-month plan](#10-twelve-month-business-development-roadmap) |
+| I am ready to approach endorsers | [11. Endorsing bodies and application process](#11-approach-authorised-endorsing-bodies-carefully) |
+| I want a quality check or reusable prompts | [12. Templates](#12-copyable-worksheets-and-prompts) and [13. Readiness gate](#13-final-readiness-and-risk-checks) |
+
+
+## Visual venture-development architecture: from UK problem to endorsement
 
 Use this as a **business-development and evidence workflow**. It is not a substitute for approval by an authorised endorsing body or UK immigration requirements.
 
@@ -49,24 +73,6 @@ flowchart LR
 ```
 
 **Reader note:** Genuine validation improves a business case but does not guarantee that an endorsing body will find it innovative, viable and scalable. Requirements and check-in arrangements must be checked at the time.
-
-
-## Choose where to start
-
-| Your situation | Go to |
-| --- | --- |
-| I don't understand the visa | [1. Understand the route](#1-understand-the-innovator-founder-route) |
-| I have no business idea | [3. Find UK problems worth solving](#3-how-to-find-real-problems-in-the-uk) |
-| I want specific business ideas | [4. Twelve researched opportunity directions](#4-twelve-business-opportunity-directions-to-investigate) |
-| I have an idea but don't know if it is innovative | [5. Check uniqueness and competitive advantage](#5-test-whether-the-idea-is-really-innovative) |
-| I need customers and proof | [6. Discover, interview and validate](#6-customer-discovery-and-validation-that-produces-real-evidence) |
-| I need a business plan and financial model | [7. Build a defensible business case](#7-build-a-defensible-innovative-viable-and-scalable-business-case) |
-| I want to find UK organisations and funding | [8. Research directory](#8-uk-problem-research-funding-and-support-directory) |
-| I need an actionable timetable | [9. First 90 days](#9-the-first-90-days--practical-implementation-plan) and [10. Twelve-month plan](#10-twelve-month-business-development-roadmap) |
-| I am ready to approach endorsers | [11. Endorsing bodies and application process](#11-approach-authorised-endorsing-bodies-carefully) |
-| I want a quality check or reusable prompts | [12. Templates](#12-copyable-worksheets-and-prompts) and [13. Readiness gate](#13-final-readiness-and-risk-checks) |
-
----
 
 ## 1. Understand the Innovator Founder route
 
@@ -119,7 +125,7 @@ Look for domains where you already understand workflows or have legitimate acces
 
 Use at least **three different kinds of evidence** before choosing a problem: official data, observed workflow and customer confirmation.
 
-### Strategy A — investigate government statistics for recurring pressures
+### Strategy A: investigate government statistics for recurring pressures
 
 1. Open the latest [ONS Business Insights and Conditions Survey](https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins/businessinsightsandimpactontheukeconomy/5november2026). Choose a problem domain: supply chains, energy costs, labour shortages, exporting, transport, cyber resilience.
 2. Examine the exact question, respondent category, survey uncertainty and whether the pressure applies to your **specific target buyer**.
@@ -129,7 +135,7 @@ Use at least **three different kinds of evidence** before choosing a problem: of
 
 **Real signal, not guaranteed market demand:** ONS reported on **5 November 2026** that **21% of UK businesses with 10+ employees** were concerned about cyber attacks affecting supply chains, while **69% of businesses overall** expressed some concern about energy prices. These are **survey estimates, not proof that anyone will buy your software**. [ONS release](https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins/businessinsightsandimpactontheukeconomy/5november2026).
 
-### Strategy B — use public procurement as a problem radar
+### Strategy B: use public procurement as a problem radar
 
 Search [Contracts Finder](https://www.gov.uk/contracts-finder) and [Find a Tender](https://www.find-tender.service.gov.uk/) for terms such as `data quality`, `supplier assurance`, `waste monitoring`, `housing repairs`, `school attendance` and `energy management`.
 
@@ -137,21 +143,21 @@ Read tender descriptions and past awards to learn **which outcomes buyers pay fo
 
 **Concrete research task:** Review five tender notices in a chosen theme. For each, record the problem, named buying organisation, date, desired output, incumbent approach and a proposed customer interview—not a speculative endorsement claim.
 
-### Strategy C — find local operational inefficiencies
+### Strategy C: find local operational inefficiencies
 
 Choose one town/sector and interview five to ten genuine organisations with relevant workflows: independent pharmacies, distributors, letting agencies, food wholesalers, community organisations, SMEs or construction subcontractors.
 
 Ask about recurring **workarounds**: spreadsheets, manually rekeyed invoices, delayed service updates, duplicated data entry, lost requests and repeated exception handling. Ask **how often** the issue happens and **who approves spending** to address it. Never scrape private contact details or customer records without permission.
 
-### Strategy D — follow regulator and service-quality findings
+### Strategy D: follow regulator and service-quality findings
 
 Use a published regulator's sector reports to identify systemic quality, transparency or compliance issues. Examples: [Care Quality Commission](https://www.cqc.org.uk/publications) (care services), [Ofsted](https://www.gov.uk/government/organisations/ofsted/about/statistics) (education), [Environment Agency data](https://environment.data.gov.uk/) (environment), [Ofgem](https://www.ofgem.gov.uk/publications) (energy). An issue in a regulator's report can guide **hypotheses**, not licence you to handle patient, pupil or consumer data without lawful permissions.
 
-### Strategy E — talk to front-line operators and professional communities
+### Strategy E: talk to front-line operators and professional communities
 
 Observe legally accessible professional forums, trade association events, small-business networks and webinars. Approach people with a **specific problem question**, not a long product pitch. Look for the same workarounds reported independently by several buyers. Avoid drawing conclusions from angry online comments without direct validation.
 
-### Strategy F — compare unmet needs with what buyers already purchase
+### Strategy F: compare unmet needs with what buyers already purchase
 
 Use public supplier directories, customer reviews, actual procurement contracts, competitor demo videos, product documentation and [Companies House](https://find-and-update.company-information.service.gov.uk/) to identify providers. A competitor's existence may be **positive evidence of demand**; your task is to find the truly unresolved portion. Don't claim “no competition” until you have searched.
 
@@ -211,7 +217,7 @@ The [Home Office endorsing-body guidance](https://www.gov.uk/government/publicat
 
 ## 6. Customer discovery and validation that produces real evidence
 
-### Find interviewees — who and where
+### Find interviewees: who and where
 
 | Market | Roles to approach | Where to identify organisations | Opening question |
 | --- | --- | --- | --- |
@@ -310,7 +316,7 @@ These are **research, customer-discovery, funding or business-support resources*
 
 **Research hygiene:** Check each portal's current terms, update date, licence, geographic coverage and whether you need registration. **Do not scrape restricted customer details**, assume a grant is open, or portray a public tender as a partner endorsement.
 
-## 9. The first 90 days — practical implementation plan
+## 9. The first 90 days: practical implementation plan
 
 | Period | Precise tasks | Who to contact or where to look | Deliverable / decision |
 | --- | --- | --- | --- |
@@ -472,7 +478,6 @@ Business: [IDEA]. Founder experience: [TRUE SKILLS]. Target customer: [SEGMENT].
 | Complex five-year forecast with no assumptions | Looks precise but is not credible | Use scenarios with actual acquisition, cost and runway assumptions |
 | Paid “guaranteed endorsement” | Misleading and risky | Follow the current authorised government list and documented criteria |
 
----
 
 ## Primary references and update policy
 

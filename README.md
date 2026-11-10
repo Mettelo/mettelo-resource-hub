@@ -37,7 +37,7 @@ Welcome. This is Mettelo's organised, GitHub-readable resource library. **You do
 
 1. **Pick a goal** using [Start here](START_HERE.md) or select a category above.
 2. **Open the resource.** Use the links at the top of the page to go back to the category or home.
-3. **Read its status and date.** Some guides are source migrations or enhanced drafts and still require editorial or current-rules checking.
+3. **Read its status and date.** Some guides remain under editorial or current-rules review.
 4. **Use only what applies.** Prompts are starting points; examples and placeholder metrics are not your personal evidence.
 5. **Check authoritative guidance.** Immigration procedures, application criteria, government rules, job adverts and deadlines can change.
 
@@ -45,10 +45,10 @@ Welcome. This is Mettelo's organised, GitHub-readable resource library. **You do
 
 | Label | Meaning |
 | --- | --- |
-| **Available — review pending** | The file is readable, but source comparison, formatting or factual checking remains outstanding. |
+| **Available — review pending** | The resource is readable, but formatting or factual checking remains outstanding. |
 | **Enhanced draft** | Material has been substantially developed, including new practical recommendations; legal/technical or external-link QA may remain. |
 | **Source reviewed** | The resource has been checked against supplied source content; time-sensitive rules must still be rechecked. |
-| **Companion not uploaded** | A Markdown guide exists, but its interactive Excel or original Word/PDF companion is not available here. |
+| **Companion not uploaded** | A guide is available, but a separate interactive template is not provided here. |
 
 **This repository is currently a working library.** Files are available to read, but do not treat all of them as independently verified publications. See the [directory](RESOURCE_INDEX.md) for document-level statuses and [navigation/QA report](QUALITY_ASSURANCE.md) for known issues.
 

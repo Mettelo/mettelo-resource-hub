@@ -1,4 +1,4 @@
-# UK Global Talent Visa — Digital Technology Pathway
+# UK Global Talent Visa Guide — Digital Technology Pathway
 
 **A practical, evidence-led 24-month development and application handbook**  
 **Mettelo Resource Hub · Edition 1.0 · Updated 10 November 2026**  

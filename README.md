@@ -27,6 +27,7 @@ Welcome. This is Mettelo's organised, GitHub-readable resource library. **You do
 | Prepare for a Civil Service or NHS application | [UK Public Sector resource menu](uk-careers/README.md) |
 | Learn Git/GitHub for real data projects | [GitHub Practical Handbook](technical/github/github-handbook.md) |
 | Start or organise a team project | [Project Charter & Delivery Framework](technical/project-documentation/project-charter-template.md) |
+| Discover a UK business problem and explore Innovator Founder | [Innovator Founder: 12 business concepts, research and validation](immigration/innovator-founder/guide.md) |
 | Understand Digital Technology Global Talent | [Digital Technology pathway and 24-month plan](immigration/global-talent/technology.md) |
 | Understand Arts & Culture Global Talent | [Arts & Culture pathway and 24-month plan](immigration/global-talent/arts-and-culture.md) |
 | Understand Academia & Research Global Talent | [Academia & Research pathway and 24-month plan](immigration/global-talent/academia-and-research.md) |

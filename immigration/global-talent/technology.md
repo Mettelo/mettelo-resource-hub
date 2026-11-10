@@ -91,11 +91,12 @@ The month-by-month table in this resource is **Mettelo's suggested career-develo
 
 ## Contents
 
-0. [Start here: what is this visa?](#start-here--what-is-the-global-talent-visa-for-digital-technology)
+**New to this route?** [Start here: what is this visa?](#start-here--what-is-the-global-talent-visa-for-digital-technology)
+
 1. [Understand the actual rules](#1-understand-the-actual-rules)
 2. [Choose the right professional pathway](#2-choose-the-right-professional-pathway)
 3. [Map evidence to the criteria](#3-map-evidence-to-the-criteria)
-- [Successful applicant evidence patterns](#practical-evidence-patterns-observed-in-successful-applicants)
+   - [Successful applicant evidence patterns](#practical-evidence-patterns-observed-in-successful-applicants)
 4. [Choose one practical evidence-building strategy](#4-choose-one-practical-evidence-building-strategy)
 5. [Build and validate a meaningful technology product](#5-build-and-validate-a-meaningful-technology-product)
 6. [Make open-source contributions that matter](#6-make-open-source-contributions-that-matter)

@@ -16,7 +16,7 @@ Welcome. This is Mettelo's organised, GitHub-readable resource library. **You do
 | **Career development** | CV workflows, CV templates, interview preparation, LinkedIn profiles | **[Explore careers →](career/README.md)** |
 | **UK Civil Service & NHS** | Personal statements, behaviours, employment history, public-sector interviews | **[Explore UK job applications →](uk-careers/README.md)** |
 | **Technical skills & projects** | GitHub handbook, command reference, project contribution and documentation templates | **[Explore technical resources →](technical/README.md)** |
-| **Immigration & practical guides** | Three Global Talent pathways, Innovator Founder and Nigerian passport renewal | **[Explore immigration guides →](immigration/README.md)** |
+| **UK Visas & Nigerian Passport Services** | Global Talent for technology, arts and research; Innovator Founder business route; Nigerian passport renewal in the UK | **[Explore visa pathways and passport guidance →](immigration/README.md)** |
 
 ## Popular starting points
 
@@ -63,6 +63,6 @@ Found a broken link, outdated requirement, unclear step or confusing page? [Open
 
 ---
 
-**Important:** The immigration material is for general information, not regulated immigration advice. Check current Home Office and endorsing-body rules. CV, interview and AI-writing resources must be checked against your own genuine experience and the employer's application instructions.
+**Important:** The UK visa and Nigerian passport material is for general information, not regulated immigration advice. Check current Home Office and endorsing-body rules. CV, interview and AI-writing resources must be checked against your own genuine experience and the employer's application instructions.
 
 **Mettelo · Built for What's Next.**

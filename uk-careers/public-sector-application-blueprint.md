@@ -3,7 +3,7 @@
 **Mettelo's practical application development framework · Rebuilt Markdown edition · 9 November 2026**  
 Prepared by Johnson Taiwo · [UK Careers](README.md) · [Start Here](../START_HERE.md) · [Home](../README.md)
 
-> **Status: Enhanced editorial draft.** The earlier 31-page source-based extraction was difficult to navigate and contained flattened multi-column pages and overly prescriptive scoring, word-count and anonymisation claims. This **revised, structured adaptation** retains its six central subjects—assessment, safe AI, employment history, personal statements, S.T.A.R.I.M™ and common weaknesses—but clarifies what is an Mettelo method versus an employer requirement. Original full extraction remains recoverable through Git history. Verify the live vacancy and recruitment guidance before applying.
+> **Using this guide:** Start with the actual job advert, essential criteria and applicant instructions. Examples are illustrative; never invent qualifications, responsibilities, outcomes or metrics. Employer requirements take priority.
 
 ## Read this first
 
@@ -26,7 +26,7 @@ Prepared by Johnson Taiwo · [UK Careers](README.md) · [Start Here](../START_HE
 
 ### Civil Service Success Profiles
 
-The official [Civil Service Success Profiles](https://www.civil-service-careers.gov.uk/a-guide-to-civil-service-success-profiles/) comprise **behaviours, strengths, ability, technical skills and experience**. Individual vacancies choose relevant elements and assessment methods. The official [behaviours](https://www.gov.uk/government/publications/success-profiles/success-profiles-civil-service-behaviours) are grade-specific. A personal statement is commonly used to show evidence against essential criteria, but format and word limits vary. Civil Service scoring systems must be read from the *actual* assessment and feedback provided; the original PDF's 1–7 “panel interpretation” table is a **Mettelo simplification, not a universal official scoring rubric**.
+The official [Civil Service Success Profiles](https://www.civil-service-careers.gov.uk/a-guide-to-civil-service-success-profiles/) comprise **behaviours, strengths, ability, technical skills and experience**. Individual vacancies choose relevant elements and assessment methods. The official [behaviours](https://www.gov.uk/government/publications/success-profiles/success-profiles-civil-service-behaviours) are grade-specific. A personal statement is commonly used to show evidence against essential criteria, but format and word limits vary. Civil Service scoring systems must be read from the *actual* assessment and feedback provided; a generic 1–7 “panel interpretation” table is a **Mettelo simplification, not a universal official scoring rubric**.
 
 **What to do:** Highlight essential criteria and specifically assessed behaviours/technical areas, then map each to a true example. Do not attempt to address every Success Profile element unless the advert asks for it.
 
@@ -50,7 +50,7 @@ NHS organisations usually use the job description and **person specification** t
 
 ## Part 2. Safe AI and candidate responsibility
 
-The source's AI-safe framework is valuable when treated as a **verification process**. AI should help organise facts, ask better questions and improve clarity; it should never invent details.
+Use the AI-safe framework as a **verification process**. AI should help organise facts, ask better questions and improve clarity; it should never invent details.
 
 ### Safe six-stage method
 
@@ -90,7 +90,7 @@ Do not invent clinical actions, safeguarding responsibility, seniority, credenti
 
 ## Part 3. Employment history with genuine evidence
 
-The source's employment-history formula is useful for distinguishing work from vague personal claims. But not every employment-history field is an essay: some ask only for dates and core duties.
+Good employment history distinguishes genuine work from vague personal claims. But not every employment-history field is an essay: some ask only for dates and core duties.
 
 ### Separate your work by role
 
@@ -121,7 +121,7 @@ Detailed companion: [Employment History Guide](civil-service/employment-history-
 
 ## Part 4. Personal and supporting statements
 
-The original source's statement architecture centred on evidence against essential criteria and authentic outcomes. That remains the foundation; rigid 750/1,000/1,450-word targets do not.
+Build every statement around genuine evidence against the actual essential criteria. That remains the foundation; rigid 750/1,000/1,450-word targets do not.
 
 ### A clear paragraph plan
 
@@ -139,7 +139,7 @@ Use person-specification order where helpful. A candidate for an NHS analyst rol
 
 ### Civil Service example selection
 
-Match the named essential criteria and grade, including technical or experience requirements. One solid example can cover multiple criteria if the links are explicit. Do not use the original PDF's instruction to draw all examples from the current role; older, voluntary or project work may be stronger and legitimate.
+Match the named essential criteria and grade, including technical or experience requirements. One solid example can cover multiple criteria if the links are explicit. Do not use an instruction to draw all examples from the current role; older, voluntary or project work may be stronger and legitimate.
 
 Detailed companion: [Supporting and Personal Statement Guide](civil-service/personal-statement-guide.md).
 
@@ -170,7 +170,7 @@ Detailed companion: [Supporting and Personal Statement Guide](civil-service/pers
 
 *Clear application line:* “I reconciled conflicting monthly reporting definitions with service leads, introduced documented validation checks and confirmed the revised measures before publication, enabling teams to use consistent figures.”
 
-This is stronger because the method and result are explained. The Mettelo source used an example with a **42% reduction**; that number was illustrative and must never be copied into a real application without source evidence.
+This is stronger because the method and result are explained. A fictional example might mention a **42% reduction**; that number was illustrative and must never be copied into a real application without source evidence.
 
 ### Use STAR and S.T.A.R.I.M™ intelligently
 
@@ -224,8 +224,6 @@ Related: [Civil Service Behaviour Guide](civil-service/behaviour-ai-guide.md) ·
 | [NHS Employers values recruitment](https://www.nhsemployers.org/articles/values-based-recruitment) | For values as behaviours rather than slogans |
 | [NHS Trust application example](https://www.jobs.sath.nhs.uk/find-job/applicant-guidance) | For a practical supporting-information workflow |
 | [NHS Employers AI in applications](https://www.nhsemployers.org/articles/guidance-use-artificial-intelligence-candidate-applications) | For responsible AI and employer considerations |
-
-**Source/editorial record:** Reconstructed from the six topics of the original 31-page Mettelo blueprint, with its distinctive S.T.A.R.I.M™ framing retained and explicitly identified as non-official. Added precise NHS/Civil Service differences, evidence matrices, structured writing prompts, verified published references and realistic no-metric examples. The original flat extraction remains in Git history. **Status: Enhanced draft awaiting manual editorial/render and legal check.**
 
 ### Find your way around
 

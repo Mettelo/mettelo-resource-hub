@@ -9,6 +9,22 @@ Prepared by **Johnson Taiwo** · Mettelo — Built for What's Next
 
 > **Important:** This guide supports professional artistic development. Each discipline may have different endorsement requirements. The 24-month activities are optional and do not guarantee recognition or a visa.
 
+## Your first decision: which kind of creative professional are you?
+
+| Your actual creative work | Read first | Take this action |
+| --- | --- | --- |
+| Music/composition | [Music strategy](#5-music--concrete-delivery-strategy) | Identify real programmes, venues, music critics and credited work |
+| Painting/sculpture | [Visual-arts strategy](#6-painting-drawing-and-visual-arts) | Record juried exhibitions, relevant independent criticism and actual credits |
+| Photography | [Contemporary visual practice](#7-photography-and-contemporary-visual-practice) | Verify whether the work is assessed as professional visual art versus commercial practice |
+| Theatre, dance or choreography | [Performing-arts work](#8-dance-choreography-and-theatre) | Preserve production credits and legitimate professional programmes |
+| Writing or poetry | [Literature and writing](#9-literature-poetry-and-creative-writing) | Confirm professional publication and literary review evidence |
+| **Film, fashion, architecture or design** | [Specialist assessor comparison](#specialist-creative-routes--use-the-correct-official-evidence-rules) | Select the exact GOV.UK specialist pathway **before** using the general-arts evidence checklist |
+| Starting with limited recognition | [First 90 days](#15-your-first-90-days) → [24-month strategies](#16-24-month-practical-development-plan) | Choose one practice, one legitimate professional selection channel and evidence log |
+
+**Vocabulary:** *Professional appearance* means a genuine eligible artistic presentation, not any public upload; *independent critical recognition* means verifiable professional review of the work, not a paid advert or a press release; *recommendation* means a genuine letter from an eligible expert/organisation that has actually worked with you.
+
+---
+
 ## Before anything else — understand the visa
 
 ### What is Global Talent for Arts & Culture?

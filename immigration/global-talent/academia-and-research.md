@@ -1,4 +1,4 @@
-# UK Global Talent Visa — Academia & Research
+# UK Global Talent Visa Guide — Academia & Research
 
 **Mettelo Resource Hub · Edition 1.0 · Updated 10 November 2026**  
 Prepared by **Johnson Taiwo** · Mettelo

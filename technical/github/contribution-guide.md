@@ -124,7 +124,7 @@ The source requires an issue for **material** work. Start with a specific action
 
 ## 5. Branch and commit standards
 
-**Source policy:** `main` should remain stable; routine work goes through branches. Direct main commits require a formally authorised emergency exception. Example branch names:
+**Working standard:** `main` should remain stable; routine work goes through branches. Direct main commits require a formally authorised emergency exception. Example branch names:
 
 ```text
 feature/123-add-data-validation
@@ -155,7 +155,7 @@ See [safe command reference](git-github-command-reference.md) for integration, c
 
 PRs should tell reviewers **what was wrong, what changed, how you verified it and what remains**. The source expects: summary, linked issue, design/method decisions, checks, visual evidence where appropriate, data/security/licensing, limitations and reviewer.
 
-**Source review-size preference:** changes understandable in approximately 20–40 minutes; this is a helpful **planning preference**, not a guarantee or universal limit. Split big work into preparatory, implementation and documentation PRs where sensible.
+**Review-size guideline:** changes understandable in approximately 20–40 minutes; this is a helpful **planning preference**, not a guarantee or universal limit. Split big work into preparatory, implementation and documentation PRs where sensible.
 
 ### Copyable PR template
 

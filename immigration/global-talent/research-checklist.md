@@ -2,7 +2,7 @@
 
 [← Tracker guide](tracker-guide.md) · [← Pathway guide](academia-and-research.md) · [← Global Talent resources](README.md)
 
-> **Source:** Adapted from the supplied original Mettelo Excel tracker. This is an editable *copying template*, not a live tracker, eligibility decision or legal checklist verified for today. **Do not put private evidence links or personal information in a public GitHub repository.** Create a private copy for your own progress.
+> **How to use:** Select one actual research endorsement route, check its specific evidence requirements and make a private record. Marking a task ready is not confirmation of eligibility.
 
 **Statuses:** To do · Working on it · Ready · Not needed (only when genuinely inapplicable).
 
@@ -32,7 +32,7 @@ If you lack a qualifying UK research appointment, apply to **genuine research op
 
 ## Choose one route first
 
-The original workbook dynamically changes its first six checklist items when you select a route in cell B4. **Markdown has no dropdown or formulas**, so use only the relevant route below. Peer review talent and peer review promise are separate options in the Excel tracker.
+Use **only the subsection for your chosen endorsement route**; the four routes do not share the same evidence requirements. Exceptional Talent and Exceptional Promise peer review have different recommendation-letter requirements.
 
 ### Appointment
 
@@ -81,7 +81,7 @@ The original workbook dynamically changes its first six checklist items when you
 
 ## Common follow-up items
 
-These six source items apply after choosing the route, subject to the current official requirements.
+Complete the relevant preparation items for your route, subject to current official requirements.
 
 - [ ] **1.** If needed, obtain required English translations or identity clarifications.
 - [ ] **2.** Complete endorsement form, fee and required document handoff; save confirmation.
@@ -96,7 +96,7 @@ Use these columns in a private spreadsheet or notes file: **Date | What I did an
 
 ## Official sources
 
-Confirm current requirements using the [GOV.UK Global Talent guidance](https://www.gov.uk/global-talent) and the relevant endorsement route. The source tracker may contain dated thresholds or procedural details and **does not replace live eligibility rules**.
+Confirm current requirements using the [GOV.UK Global Talent guidance](https://www.gov.uk/global-talent) and the relevant endorsement route. Requirements can change; **live official eligibility rules always take priority**.
 
 Prepared by Johnson Taiwo for Mettelo.
 

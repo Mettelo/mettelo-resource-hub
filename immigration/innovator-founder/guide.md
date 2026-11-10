@@ -26,7 +26,7 @@ If you have no idea yet, start with the problem-research chapters. If you alread
 | I need customers and proof | [6. Discover, interview and validate](#6-customer-discovery-and-validation-that-produces-real-evidence) |
 | I need a business plan and financial model | [7. Build a defensible business case](#7-build-a-defensible-innovative-viable-and-scalable-business-case) |
 | I want to find UK organisations and funding | [8. Research directory](#8-uk-problem-research-funding-and-support-directory) |
-| I need an actionable timetable | [9. First 90 days](#9-the-first-90-days--practical-implementation-plan) and [10. Twelve-month plan](#10-twelve-month-business-development-roadmap) |
+| I need an actionable timetable | [9. First 90 days](#9-the-first-90-days-practical-implementation-plan) and [10. Twelve-month plan](#10-twelve-month-business-development-roadmap) |
 | I am ready to approach endorsers | [11. Endorsing bodies and application process](#11-approach-authorised-endorsing-bodies-carefully) |
 | I want a quality check or reusable prompts | [12. Templates](#12-copyable-worksheets-and-prompts) and [13. Readiness gate](#13-final-readiness-and-risk-checks) |
 

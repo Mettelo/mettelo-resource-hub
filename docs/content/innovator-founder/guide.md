@@ -15,7 +15,7 @@ This guide is for people considering the route who want to investigate real prob
 
 If you have no idea yet, start with the problem-research chapters. If you already operate a business, begin by testing its differentiation and evidence. The table below identifies the relevant starting point. Confirm the current rules on the [official Innovator Founder visa page](https://www.gov.uk/innovator-founder-visa).
 
-## Choose where to start
+## Find the right starting point
 
 | Your situation | Go to |
 | --- | --- |
@@ -31,7 +31,7 @@ If you have no idea yet, start with the problem-research chapters. If you alread
 | I want a quality check or reusable prompts | [12. Templates](#12-copyable-worksheets-and-prompts) and [13. Readiness gate](#13-final-readiness-and-risk-checks) |
 
 
-## Visual venture-development architecture: from UK problem to endorsement
+## Innovator Founder: process overview
 
 Use this as a **business-development and evidence workflow**. It is not a substitute for approval by an authorised endorsing body or UK immigration requirements.
 

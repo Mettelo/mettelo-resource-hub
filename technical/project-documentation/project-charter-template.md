@@ -342,7 +342,7 @@ Weekly updates and retrospectives use dedicated companion templates. For usabili
 
 ---
 
-**Status:** Enhanced source-informed template; final review and actual Mettelo governance sign-off on the reformatted edition remain pending. Do not upload filled private charters to this resource library. Maintain appropriate version-controlled approval documentation.
+**Status:** Mettelo working template; final governance approval remains pending. Do not upload filled private charters to this resource library. Maintain appropriate version-controlled approval documentation.
 
 **Prepared for Mettelo Labs · Built for What's Next.**
 

@@ -213,3 +213,13 @@ body[data-page="guide"] .diagram-fullscreen .diagram-viewport{
  .diagram-controls button{font-size:11px;padding:6px 8px}
  body[data-page="guide"] .diagram-viewport{height:400px}
 }
+
+/* Free independent publication banner */
+.home-badge{display:inline-flex;flex-wrap:wrap;gap:12px;align-items:center;margin:15px 0 0;padding:9px 13px;background:#fff8e8;border:1px solid #dfc992;color:#654711;font-size:10px;font-weight:800;letter-spacing:.075em}
+.home-badge span{color:#cf8d24}
+.home-trust-banner{background:#141925;color:#ece5d8;padding:18px 0}
+.home-trust-banner .container{display:flex;align-items:center;justify-content:space-between;gap:24px}
+.home-trust-banner .container>div{font-size:12px;line-height:1.65;max-width:530px}
+.home-trust-banner strong{color:#f0c178}
+.home-trust-banner span{color:#ece5d8}
+@media(max-width:760px){.home-trust-banner .container{display:block}.home-trust-banner .container>div+div{margin-top:9px}.home-badge{font-size:9px}}

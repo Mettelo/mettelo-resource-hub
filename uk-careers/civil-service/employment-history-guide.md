@@ -51,7 +51,7 @@ The examples are for learning only. Applicants must replace them with verified w
 | Voluntary/placement work | Label accurately and include when it demonstrates criteria | Avoids losing valuable genuine experience |
 | Role with strict text limit | Prioritise essential duties and relevant outcomes | Application instruction governs |
 
-**There is no universal minimum of 7–12 bullets, six projects or 25 words per bullet.** Such counts were in the original Mettelo PDF as prompts for deeper questioning, not a requirement of NHS or Civil Service recruitment.
+**There is no universal minimum of 7–12 bullets, six projects or 25 words per bullet.** Develop as much factual evidence as is useful, but select only relevant points for the actual application field.
 
 ## 4 · NHS route — employment history and supporting information are separate
 

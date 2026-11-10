@@ -228,8 +228,6 @@ Choose three or four useful questions based on what remains unclear about the ro
 
 ---
 
-**Source:** *Mettelo Interview Preparation Workflow*, Edition 1, 23 October 2026 (12-page source). The eight original prompts and accompanying instructions are reproduced for Markdown reading; GitHub navigation and copyable blocks have been added.
-
 **Prepared by Johnson Taiwo · Mettelo**
 
 ---

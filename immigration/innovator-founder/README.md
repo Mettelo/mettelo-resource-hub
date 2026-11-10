@@ -2,7 +2,7 @@
 
 **Mettelo business discovery and immigration preparation · Updated 10 November 2026**
 
-[🏠 Resource Hub](../../README.md) · [Start Here](../../START_HERE.md) · [Immigration](../README.md)
+[🏠 Resource Hub](../../README.md) · [Start Here](../../START_HERE.md) · [UK Visas & Nigerian Passport Services](../README.md)
 
 ## Start with the complete practical guide
 
@@ -36,4 +36,4 @@ Check the [government's authorised endorsing-body list](https://www.gov.uk/gover
 
 **Mettelo · Built for What's Next · Prepared by Johnson Taiwo**
 
-[← Immigration](../README.md) · [Start Here](../../START_HERE.md) · [🏠 Home](../../README.md)
+[← Visa & Passport Resources](../README.md) · [Start Here](../../START_HERE.md) · [🏠 Home](../../README.md)

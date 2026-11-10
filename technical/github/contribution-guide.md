@@ -280,7 +280,7 @@ The issue and PR templates above are copyable versions of the source's Appendix 
 
 ---
 
-**Unresolved policy fact:** The original effective date is `[DD MONTH YYYY]`; no implementation verification has been provided for every Mettelo repository. The original's “Approved” status describes the source, **not independent confirmation that this edited version has been formally adopted**. Obtain owner validation before labelling it final policy.
+**Governance status:** Confirm effective date, authorised approval and actual repository security/review settings with Mettelo administrators before treating these guidelines as enforced policy.
 
 ### Find your way around
 

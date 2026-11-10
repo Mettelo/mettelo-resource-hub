@@ -1,19 +1,39 @@
-# UK Innovator Founder — preparation resources
+# Innovator Founder — From UK Problem to Credible Business
 
-[🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [Immigration menu](../README.md)
+**Mettelo business discovery and immigration preparation · Updated 10 November 2026**
 
-Begin with the [complete founder guide](guide.md), including **12 UK business hypotheses**, research organisations, discovery interviews, competitor comparison, a 90-day execution plan and a 12-month roadmap. Then use the checklist to record genuine progress.
+[🏠 Resource Hub](../../README.md) · [Start Here](../../START_HERE.md) · [Immigration](../README.md)
 
-Use these in order:
+## Start with the complete practical guide
 
-| Step | Guide | Purpose |
+**[Read: UK Innovator Founder — Build and Validate a UK Business](guide.md)**
+
+The guide includes **12 concrete UK business hypotheses**, six ways to find real UK problems, named government datasets and research organisations, customer interview questions, competitor analysis, a viability/scalability model, 90-day and 12-month plans, and the official endorsement sequence.
+
+## Your three practical tools
+
+| Resource | What you get | Best use |
 | --- | --- | --- |
-| **1 · Understand the pathway** | [UK Innovator Founder Business Guide](guide.md) | Visa eligibility, finding UK business problems, twelve opportunities and assessing innovation |
-| **2 · Develop and test the idea** | [20-point preparation checklist](checklist.md) | Customer discovery, competitors, viability, scalability and factual readiness |
-| **3 · Understand the workbook** | [Tracker instructions](tracker-guide.md) | Learn the source workbook's Checklist and Progress Log tabs |
+| [**Business and Innovator Founder guide**](guide.md) | Full beginner-to-advanced explanation of the route and market-research strategy | Understand, discover and test a viable idea |
+| [**20-step preparation checklist**](checklist.md) | Genuine business evidence and application-readiness tasks | Check what is done and what remains |
+| [**Copyable progress tracker**](tracker-guide.md) | Problem register, innovation/finance evidence, weekly updates and decisions | Keep a private evidence log without requiring Excel |
 
-**Status:** The main guide now covers UK problem discovery, twelve business opportunity hypotheses, customer interviews, competitor research, startup economics, a 90-day plan, a 12-month roadmap and official eligibility checks. Final immigration-rule and link reviews remain open. An interactive Excel tracker is not provided here.
+### No idea yet?
 
-**Before any application:** Check the [current UK Innovator Founder rules](https://www.gov.uk/innovator-founder-visa) and [authorised endorsing bodies](https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies). This is education, not regulated immigration advice.
+Start with [six UK-problem discovery methods](guide.md#3-how-to-find-real-problems-in-the-uk), then compare the [twelve business opportunities](guide.md#4-twelve-business-opportunity-directions-to-investigate). Pick a sector you understand, interview real UK operators and **investigate competitors before building**.
 
-[← Immigration menu](../README.md) · [← Home](../../README.md)
+### Already have a business?
+
+Use the [innovation challenge](guide.md#5-test-whether-the-idea-is-really-innovative) and [business-case sections](guide.md#7-build-a-defensible-innovative-viable-and-scalable-business-case). A registered company, AI feature or prototype does not establish endorsement eligibility alone.
+
+### Thinking about endorsement?
+
+Check the [government's authorised endorsing-body list](https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies). The listed initial endorsers and legacy providers are different. Endorsement is not a visa grant.
+
+**Official route:** [GOV.UK Innovator Founder](https://www.gov.uk/innovator-founder-visa) · [Immigration Rules](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-innovator-founder).
+
+**Mettelo offers education, not regulated immigration advice.** Government rules, charges and provider conditions can change; do not share confidential customer evidence, bank records or personal immigration details in GitHub.
+
+**Mettelo · Built for What's Next · Prepared by Johnson Taiwo**
+
+[← Immigration](../README.md) · [Start Here](../../START_HERE.md) · [🏠 Home](../../README.md)

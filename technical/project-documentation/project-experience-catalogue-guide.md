@@ -4,7 +4,7 @@
 
 [← Career resources](../../career/README.md) · [← Project documentation](README.md) · [← Resource Hub](../../README.md)
 
-> **Status:** Markdown instructions created from the original `Professional Project Experience Catalogue.xlsx`. The original **interactive Excel workbook has not been uploaded to GitHub**. This guide does not claim that the Capability Report formulas, dropdowns or cross-sheet summaries run in Markdown.
+> **Using this guide:** Start with the actual job advert, essential criteria and applicant instructions. Examples are illustrative; never invent qualifications, responsibilities, outcomes or metrics. Employer requirements take priority.
 
 ## A complete worked example: one real task becomes reusable evidence
 
@@ -122,8 +122,6 @@ Never store passwords, confidential company names, restricted links, personal id
 - [Project Charter & Delivery Framework](project-charter-template.md)
 
 ---
-
-**Source:** `Professional Project Experience Catalogue.xlsx`, seven worksheets, inspected 9 November 2026. This Markdown guide is an explanation of the existing workbook rather than a replacement for its calculations.
 
 **Mettelo · Prepared by Johnson Taiwo.**
 

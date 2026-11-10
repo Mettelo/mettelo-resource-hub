@@ -9,6 +9,32 @@ Prepared by **Johnson Taiwo**, Mettelo
 
 > **Important:** This guide is a practical *career and evidence-development plan*, not a legal eligibility determination or a promise of endorsement. A two-year period is **not** an official application requirement. Some people already have sufficient evidence; others may need considerably longer. This guide includes practical workflows, verified public references and a month-by-month development plan.
 
+## Visual decision architecture — digital technology
+
+This diagram is a **planning map**, not an automatic eligibility decision. Check the current official requirements and endorsing-body guidance before relying on any evidence category.
+
+```mermaid
+flowchart TD
+    A["Professional track record"] --> B{"Qualifying digital technology contribution?"}
+    B -- "Not established" --> X["Develop relevant work and reassess"]
+    B -- "Potentially yes" --> C{"Exceptional Talent or Exceptional Promise?"}
+    C --> D["Mandatory recognition criterion"]
+    D --> E["Select two applicable optional criteria"]
+    E --> F["Map claims to independent, dated evidence"]
+    F --> G{"Evidence attribution, limits and quality checked?"}
+    G -- "No" --> H["Address gaps; remove weak claims"]
+    H --> F
+    G -- "Yes" --> I["Secure qualifying expert recommendation letters"]
+    I --> J["Submit endorsement application"]
+    J --> K{"Endorsed or otherwise eligible under official rules?"}
+    K -- "No" --> L["Read decision and current review guidance"]
+    K -- "Yes" --> M["Separate visa application and immigration checks"]
+    M --> N["Decision and ongoing immigration compliance"]
+```
+
+**How to use this architecture:** Treat each box as a review checkpoint. The criteria and documentary limits are explained in the sections below; practical projects or a 24-month development plan do not replace the official requirements.
+
+
 ## Which parts should you read first?
 
 | Your situation | First useful sections | A realistic first output |

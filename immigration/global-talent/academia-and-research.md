@@ -13,25 +13,46 @@ Prepared by **Johnson Taiwo** · Mettelo
 Research applications follow **different endorsement routes**, each with its own eligibility and documentation. Do not assemble a generic evidence bundle before identifying your actual route.
 
 ```mermaid
-flowchart TD
-    A["Researcher's current professional position"] --> B{"Which official route fits an actual achievement or offer?"}
-    B --> C["Eligible academic/research appointment"]
-    B --> D["Eligible individual fellowship"]
-    B --> E["Approved research grant or funding"]
-    B --> F["Peer-review assessment"]
-    C --> G["Employer / HR and appointment-specific documentation"]
-    D --> H["Award and fellowship eligibility documentation"]
-    E --> I["Grant, funder, host and role-specific proof"]
-    F --> J["Research record, recommendations and expert assessment material"]
-    G --> K["Check current official route-specific rules"]
-    H --> K
-    I --> K
-    J --> K
-    K --> L{"Complete, authentic and eligible?"}
-    L -- "No" --> M["Correct missing evidence or reassess route"]
-    M --> B
-    L -- "Yes" --> N["Endorsement or fast-track process, as applicable"]
-    N --> O["Separate immigration application and decision"]
+flowchart LR
+  subgraph A["01 · MATCH REAL ELIGIBILITY"]
+    direction TB
+    A1["Assess current research role / award / funding"] --> A2{"Which official route genuinely fits?"}
+    A2 --> A3["Appointment"]
+    A2 --> A4["Individual fellowship"]
+    A2 --> A5["Approved grant / funding"]
+    A2 --> A6["Peer-review assessment"]
+  end
+  subgraph B["02 · ROUTE-SPECIFIC DOCUMENTS"]
+    direction TB
+    B1["HR and qualifying appointment papers"]
+    B2["Fellowship eligibility and award records"]
+    B3["Funder, grant and host evidence"]
+    B4["Research track record and expert recommendations"]
+  end
+  subgraph C["03 · REVIEW & ENDORSEMENT"]
+    direction TB
+    C1["Verify current route-specific official rules"] --> C2{"Documents authentic, complete and eligible?"}
+    C2 -->|No| C3["Correct gaps or reconsider route"]
+    C3 -.-> C1
+    C2 -->|Yes| C4["Submit appropriate endorsement / fast-track route"]
+  end
+  subgraph D["04 · IMMIGRATION"]
+    direction TB
+    D1["Separate visa checks"] --> D2["Visa application and decision"]
+  end
+  A3 --> B1
+  A4 --> B2
+  A5 --> B3
+  A6 --> B4
+  B1 --> C1
+  B2 --> C1
+  B3 --> C1
+  B4 --> C1
+  C4 --> D1
+  classDef gate fill:#fff0cc,stroke:#a66b12,color:#141925,stroke-width:2px;
+  classDef alert fill:#fff5f0,stroke:#bb6b3c,color:#141925;
+  class A2,C2 gate;
+  class C3 alert;
 ```
 
 **Reader note:** This diagram does not mean an applicant may freely choose any of the four routes. Eligibility depends on the actual appointment, award, funding or research record and current official rules.

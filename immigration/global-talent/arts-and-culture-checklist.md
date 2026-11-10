@@ -2,7 +2,7 @@
 
 [← Tracker guide](tracker-guide.md) · [← Pathway guide](arts-and-culture.md) · [← Global Talent resources](README.md)
 
-> **Source:** Adapted from the supplied original Mettelo Excel tracker. This is an editable *copying template*, not a live tracker, eligibility decision or legal checklist verified for today. **Do not put private evidence links or personal information in a public GitHub repository.** Create a private copy for your own progress.
+> **How to use:** Make a private copy and identify the correct creative discipline and assessor before collecting documents. A completed checklist does not prove Global Talent eligibility.
 
 **Statuses:** To do · Working on it · Ready · Not needed (only when genuinely inapplicable).
 
@@ -10,7 +10,7 @@
 
 ## What the checklist items actually mean
 
-The source checklist contains 18 tasks. Use this table **before** ticking each item; the right answer depends on **general arts versus a specialist assessor**, the correct talent/promise criteria, and what independent evidence exists.
+The checklist contains 18 preparation tasks. Use this table **before** ticking each item; the right answer depends on **general arts versus a specialist assessor**, the correct talent/promise criteria, and what independent evidence exists.
 
 | Checklist group | Practical way to verify it | Common false assumption |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ The source checklist contains 18 tasks. Use this table **before** ticking each i
 
 ---
 
-## Source checklist items
+## Your 18 preparation tasks
 
 - [ ] **1.** Confirm that general arts is the correct route for your discipline.
 - [ ] **2.** Check talent or promise, professional history and required country coverage.
@@ -61,7 +61,7 @@ Use these columns in a private spreadsheet or notes file: **Date | What I did an
 
 ## Official sources
 
-Confirm current requirements using the [GOV.UK Global Talent guidance](https://www.gov.uk/global-talent) and the relevant endorsement route. The source tracker may contain dated thresholds or procedural details and **does not replace live eligibility rules**.
+Confirm current requirements using the [GOV.UK Global Talent guidance](https://www.gov.uk/global-talent) and the relevant endorsement route. Requirements can change; **live official eligibility rules always take priority**.
 
 Prepared by Johnson Taiwo for Mettelo.
 

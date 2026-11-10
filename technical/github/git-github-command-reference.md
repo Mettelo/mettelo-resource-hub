@@ -281,8 +281,6 @@ gh pr create --fill
 - [GitHub CLI PR creation](https://cli.github.com/manual/gh_pr_create).
 - [GitHub CLI manual](https://cli.github.com/manual/).
 
-**Editorial changes:** Rebuilt the original source's 16 command areas into semantic sections with proper code fences, operational explanations and risk distinctions. This is a source-informed **adaptation**, not a verbatim reproduction; original 11-page extraction can be retrieved through Git history. Individual commands have been checked against documentation; they have **not all been executed on a test repository**. Keep status as *enhanced technical draft* pending hands-on test.
-
 ### Find your way around
 
 [← GitHub resources](README.md) · [Practical Handbook](github-handbook.md) · [Contribution Guide](contribution-guide.md) · [Start Here](../../START_HERE.md) · [Directory](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)

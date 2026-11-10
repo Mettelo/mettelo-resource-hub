@@ -8,7 +8,7 @@
 
 The guide covers eligibility and route choice, documents, online application, NIS Mobile/contactless steps where appropriate, biometrics, postage, tracking, troubleshooting and a final checklist.
 
-**Status: Draft.** The guide includes an **official route-selection safety table** clarifying contactless versus in-person biometric requirements. Passport fees, eligibility, processing methods and mailing directions can change; final editorial review remains open. **Check the official [Nigeria Immigration Service](https://immigration.gov.ng/) and [Nigeria High Commission London](https://www.nigeriahc.org.uk/requirements-for-e-passport/) before paying, posting documents or travelling.**
+**Status: Practical guide; confirm current official instructions.** The guide includes an **official route-selection safety table** clarifying contactless versus in-person biometric requirements. Passport fees, eligibility, processing methods and mailing directions can change; final editorial review remains open. **Check the official [Nigeria Immigration Service](https://immigration.gov.ng/) and [Nigeria High Commission London](https://www.nigeriahc.org.uk/requirements-for-e-passport/) before paying, posting documents or travelling.**
 
 Never post passport, NIN, personal addresses or application IDs in public GitHub issues.
 

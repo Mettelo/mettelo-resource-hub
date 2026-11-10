@@ -271,7 +271,7 @@ AI can invent facts, overstate responsibility or produce wording that does not s
 
 ### Official LinkedIn Help
 
-*Platform guidance in the original document was checked on 24 October 2026. Controls can change. Use the live field limits and Help instructions.*
+*LinkedIn fields and platform controls can change. Check live field limits and current Help instructions before updating a profile.*
 
 - **A —** [Edit your profile](https://www.linkedin.com/help/linkedin/answer/a546603)
 - **B —** [Add profile sections](https://www.linkedin.com/help/linkedin/answer/a540837)

@@ -105,8 +105,6 @@ Scope: Monthly operational reporting for three regional teams.
 
 ### Replace a vague duty
 
-**Original:** “Responsible for preparing reports and working with stakeholders.”
-
 **Revised:** “Wrote SQL validation checks and built Power BI dashboards, reducing monthly report preparation from two working days to four hours.”
 
 **A complementary contribution:** “Worked with regional colleagues to agree reporting definitions and test dashboard outputs before adoption across three teams.”
@@ -283,8 +281,6 @@ AI can invent facts, overstate responsibility or produce wording that does not s
 - **F —** [Open to Work visibility](https://www.linkedin.com/help/linkedin/answer/a507508)
 
 ---
-
-**Source:** *Mettelo LinkedIn Profile Editing Guide*, Revised edition 2, 24 October 2026 (10-page Word document). Full guide and all six original copyable writing briefs adapted into GitHub Markdown, with internal navigation and source links.
 
 **Prepared by Johnson Taiwo · Mettelo**
 

@@ -17,7 +17,7 @@ This guide explains how to assess your experience against the published requirem
 
 Before collecting documents, read the [official digital technology overview](https://www.gov.uk/global-talent-digital-technology) and [endorsement evidence rules](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement). The next table will help you choose where to begin in this guide.
 
-## Which parts should you read first?
+## Find the sections relevant to you
 
 | Your situation | First useful sections | A realistic first output |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Before collecting documents, read the [official digital technology overview](htt
 **Vocabulary:** *Endorsement* = specialist recognition assessment; *visa* = separate Home Office immigration decision; *exceptional promise* = potential leadership at an appropriately early career stage, **not** a weaker-document shortcut; *optional criteria* = specific qualifying contribution areas, **not** optional evidence you may simply omit.
 
 
-## Visual decision architecture: digital technology
+## Digital technology: process overview
 
 This diagram is a **planning map**, not an automatic eligibility decision. Check the current official requirements and endorsing-body guidance before relying on any evidence category.
 
@@ -96,7 +96,7 @@ This guide's planning activities are separate from the official endorsement crit
 **Evidence quality test:** The document count is a *submission format*, not a points score. Having ten pages or ten items without credible independent recognition does not establish eligibility.
 
 
-## Start here: what is the Global Talent visa for digital technology?
+## How the digital technology visa pathway works
 
 ### What is this visa?
 
@@ -140,7 +140,7 @@ The month-by-month table in this resource is **Mettelo's suggested career-develo
 **Read first:** [Global Talent overview](https://www.gov.uk/global-talent-digital-technology) · [Eligibility](https://www.gov.uk/global-talent-digital-technology/eligibility) · [Documents](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement) · [Tech Nation applicant guidance](https://technation-globaltalentvisa-guide.notion.site/e645304dc1ba4f77a1f095d224a8a7b9).
 
 
-## Contents
+## Guide contents
 
 **New to this route?** [Start here: what is this visa?](#start-here-what-is-the-global-talent-visa-for-digital-technology)
 
@@ -497,7 +497,7 @@ Three letters must come from eligible experts who have actually known your **wor
 
 > **How to read the table:** This is an actionable menu, **not a visa checklist**. Each month offers three distinct strategies: choose the activities relevant to your role instead of doing all three. The suggested numbers of users, talks, papers and contributions are Mettelo planning suggestions, not Tech Nation acceptance thresholds. An external organisation appearing in a row is a genuine place to look, **not a partner already committed to helping**. Check acceptance windows, restrictions and capacity before contacting it. If you already have credible evidence, skip redundant stages and conduct an eligibility audit.
 
-### No evidence at all? Start with the right branch
+### Starting with limited relevant evidence
 
 | Starting situation | First useful action | Organisation or person to contact | What **not** to assume |
 | --- | --- | --- | --- |

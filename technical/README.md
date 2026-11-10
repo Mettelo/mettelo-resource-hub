@@ -17,6 +17,6 @@
 
 [GitHub learning and contribution](github/README.md) · [Project documentation and templates](project-documentation/README.md)
 
-**Status:** Source-derived technical guides are readable but formatting and command-safety review remains open. The interactive experience-catalogue Excel workbook is not stored here; its Markdown guide explains the source workbook.
+**Status:** Technical guides are available; command-safety review remains open. The experience-catalogue guide explains how to track evidence, but an interactive Excel workbook is not supplied here.
 
 [← Back to homepage](../README.md)

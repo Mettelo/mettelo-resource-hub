@@ -4,7 +4,7 @@
 
 **Mettelo practical writing guide · Revised 9 November 2026 · Prepared by Johnson Taiwo**
 
-> **Editorial status: Improved working guide.** This replaces the poorly formatted three-page PDF extraction with a structured, source-informed adaptation. The original suggested sector-specific prompts, reviewing the full advert, matching criteria, using genuine STAR evidence and checking AI-generated text. This edition adds a rigorous mapping process, worked fictional examples, question-first AI prompts and employer-specific safeguards. Original source remains recoverable through Git history. The vacancy instructions always override this guide.
+> **Using this guide:** Start with the actual job advert, essential criteria and applicant instructions. Examples are illustrative; never invent qualifications, responsibilities, outcomes or metrics. Employer requirements take priority.
 
 ## Choose your application route
 
@@ -133,8 +133,6 @@ Then provide the complete candidate-review draft. Audit essential-criterion cove
 - [NHS Employers — AI use in candidate applications](https://www.nhsemployers.org/articles/guidance-use-artificial-intelligence-candidate-applications).
 - [Civil Service Careers — writing personal statements](https://www.civil-service-careers.gov.uk/how-to-write-your-ps/).
 - [Civil Service — official Success Profiles behaviours](https://www.gov.uk/government/publications/success-profiles/success-profiles-civil-service-behaviours).
-
-**Source and change record:** Original Mettelo three-page PDF offered one Civil Service and one NHS prompt, document-order instructions and review/disclaimer guidance. This revision retains the two-track method but **corrects blanket blind/non-blind assumptions, unrealistic example counts and unverified word targets** and adds concrete criterion mapping, NHS non-clinical safeguards and question-first prompts. Enhanced editorial draft; final manual source/render review pending.
 
 ### Find your way around
 

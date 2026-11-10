@@ -3,7 +3,7 @@
 **Five-page practical workshop guide**  
 [← GitHub resources](README.md) · [← Technical resources](../README.md) · [← Resource Hub](../../README.md)
 
-> **Migration status: Editorial draft.** This is a structured Markdown adaptation of the original five-page *Mettelo GitHub Handbook* PDF. It preserves the examples, learning sequence and key safety warnings. It is not a page-for-page verbatim transcription or a replacement for the original PDF's visual layout.
+> **Guide status:** Practical learning guidance. Verify commands and repository permissions in your own environment; never expose credentials or restricted data.
 
 ## Before your first GitHub session — understand what success looks like
 
@@ -296,8 +296,6 @@ You are ready when you can explain **what** you changed, **why** it matters, **h
 **Notation:** Replace placeholders such as `<file>` and `<commit-id>`. Comments beginning `#` in command examples are explanations rather than required commands.
 
 ---
-
-**Source:** *Mettelo GitHub Handbook*, five-page PDF, “GitHub for Real Data Projects / Zero to Advanced”. This Markdown file adapts its full five-stage training structure; the original layout and visual tables are not reproduced.
 
 **Mettelo — Where contribution becomes opportunity.**
 

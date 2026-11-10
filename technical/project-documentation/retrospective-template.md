@@ -70,8 +70,6 @@ Use a retrospective after a milestone, sprint or project completion to learn **w
 - [ ] Confidential/client/personal information is removed for public summaries.
 - [ ] Share the approved outcomes with the team and update relevant issues.
 
-**Source distinction:** Original Appendix B asked six reflection questions (value, barriers, repeat, change, unresolved, future projects). This version preserves those questions and adds facilitation, evidence, actions and follow-up.
-
 ### Find your way around
 
 [← Project documentation](README.md) · [← Charter](project-charter-template.md) · [Start Here](../../START_HERE.md) · [Directory](../../RESOURCE_INDEX.md)

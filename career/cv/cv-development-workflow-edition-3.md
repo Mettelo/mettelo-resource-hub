@@ -5,7 +5,7 @@
 
 [🏠 Home](../../README.md) · [⭐ Start here](../../START_HERE.md) · [CV templates](README.md) · [All resources](../../RESOURCE_INDEX.md)
 
-> **Status: Enhanced editorial draft.** This is a **restructured and expanded edition** of the original 11-page *Cross-industry Edition 3* source. The original page-by-page source and earlier edition are retained in the repository's Git history rather than displayed as duplicate guides. The seven-step sequence and per-role evidence-bank principle come from that source; additional explanatory material, practical exercises and free references are new editorial additions. Application instructions always take priority. This guide does not guarantee interviews, ranking or a particular ATS outcome.
+> **Guide status:** Practical CV development guidance. Use only genuine evidence and follow the employer's application instructions. No template guarantees shortlisting.
 
 ## First, what is this workflow for?
 
@@ -50,7 +50,7 @@ This workflow separates **evidence gathering** from **CV writing**. That distinc
 
 **2. User-confirmed is not independently verified.** Label each claim *document-supported*, *confirmed from recollection*, or *unresolved*. Do not describe an unsupported number as validated merely because an AI tool rewrote it.
 
-**3. Develop more evidence than you publish.** The original Edition 3 recommends **around 7–12 distinct evidence points for each substantial role, if genuinely available**. This is an optional *evidence bank*, not a required bullet count in a final CV.
+**3. Develop more evidence than you publish.** For your working evidence bank, consider **around 7–12 distinct evidence points for each substantial role, if genuinely available**. This is an optional *evidence bank*, not a required bullet count in a final CV.
 
 ### What a strong evidence point contains
 
@@ -98,7 +98,7 @@ If there is no vacancy, mark the output a PROVISIONAL ROLE PROFILE, not an emplo
 
 ## 2. Build an evidence bank for every role
 
-The source Edition 3's most important improvement is to assess **each employment role separately**, rather than pull seven glamorous achievements from an entire career and ignore other positions.
+A key principle is to assess **each employment role separately**, rather than pull seven glamorous achievements from an entire career and ignore other positions.
 
 ### How to investigate a role
 
@@ -364,7 +364,7 @@ Remove guide branding, prompts, placeholders, review labels and hidden confident
 
 ## Free tools, official guidance and useful exercises
 
-These are **additional editorial resources**, not part of the original 11-page source. They help with understanding and practising the workflow; none guarantees a better ranking or a job.
+These free resources can help you practise the workflow. They help with understanding and practising the workflow; none guarantees a better ranking or a job.
 
 | Free resource | How to use it concretely | Link |
 | --- | --- | --- |
@@ -394,13 +394,7 @@ Keep your **approved evidence bank**. When a new vacancy arrives, update the req
 
 ---
 
-## Source and editorial change record
-
-**Source:** Cross-industry Edition 3 — original 11-page extracted text, November 2026, retained in Git history. It supplied the seven-step order, separate 7–12-point role evidence banks (when supported), cross-industry focus, interpersonal evidence prompts, fact checking, flexible bullet counts and submission checks.
-
-**What was changed:** This edition replaces the hard-to-navigate page-by-page PDF extraction with semantic Markdown headings, clean tables and copyable prompts. It adds a beginner introduction, field-by-field evidence worksheets, explicit example transformations, quality matrices, practical exercise, free official UK careers references and direct next-step navigation. These additions are **Mettelo editorial recommendations** rather than new rules from the original source or any employer.
-
-**Review status:** Enhanced draft — substantial source-informed restructure completed; final editorial sign-off and hands-on applicant testing still pending. The official UK guidance linked above was consulted on 9 November 2026; verify the live version for future applications.
+**Review status:** Mettelo guide; final editorial sign-off and hands-on applicant testing remain pending. The official UK guidance linked above was consulted on 9 November 2026; verify the live version for future applications.
 
 **Prepared by O. Johnson Taiwo · Mettelo — Built for What's Next.**
 

@@ -2,7 +2,7 @@
 
 [← Tracker guide](tracker-guide.md) · [← Pathway guide](technology.md) · [← Global Talent resources](README.md)
 
-> **Source:** Adapted from the supplied original Mettelo Excel tracker. This is an editable *copying template*, not a live tracker, eligibility decision or legal checklist verified for today. **Do not put private evidence links or personal information in a public GitHub repository.** Create a private copy for your own progress.
+> **How to use:** Make a private copy, record genuine supporting evidence and check your chosen criteria against current GOV.UK and Tech Nation rules. This checklist helps organise your application; completing it does not establish eligibility.
 
 **Statuses:** To do · Working on it · Ready · Not needed (only when genuinely inapplicable).
 
@@ -10,9 +10,9 @@
 
 ## How to prepare credible technology evidence — practical explanations
 
-The tick boxes below preserve the original tracker tasks. **Before marking anything Ready**, match each item to the **current Tech Nation/GOV.UK rules**, not merely to an activity you completed. Keep originals in an access-controlled folder, with a separate record of document ownership and what you personally contributed.
+Use the tasks below to prepare a credible evidence pack. **Before marking anything Ready**, match each item to the **current Tech Nation/GOV.UK rules**, not merely to an activity you completed. Keep originals in an access-controlled folder, with a separate record of document ownership and what you personally contributed.
 
-| What the source task means | Specific action | What an authentic record might contain |
+| What the task means | Specific action | What an authentic record might contain |
 | --- | --- | --- |
 | **Choose Talent/Promise and two optional areas** | Review which field of digital technology you actually work in, your recognition, innovation, product-led contributions, outside-work field impact or research; map to the correct category | Criteria matrix distinguishing actual recognition from desired future activity |
 | **Demonstrate mandatory recognition** | Seek independently verifiable evidence of genuine professional recognition; consider whether reviewers, selection panels or trusted industry sources recognised actual work | Real dated professional award, qualified published evaluation or other admissible recognition, not a self-issued badge |
@@ -32,7 +32,7 @@ For each source item ask: **What exact criterion does this support? Is the work 
 
 ---
 
-## Source checklist items
+## Your 18 preparation tasks
 
 - [ ] **1.** Choose talent or promise and the two additional criteria you will use.
 - [ ] **2.** Prepare your CV within three A4 pages.
@@ -58,7 +58,7 @@ Use these columns in a private spreadsheet or notes file: **Date | What I did an
 
 ## Official sources
 
-Confirm current requirements using the [GOV.UK Global Talent guidance](https://www.gov.uk/global-talent) and the relevant endorsement route. The source tracker may contain dated thresholds or procedural details and **does not replace live eligibility rules**.
+Confirm current requirements using the [GOV.UK Global Talent guidance](https://www.gov.uk/global-talent) and the relevant endorsement route. Requirements can change; **live official eligibility rules always take priority**.
 
 Prepared by Johnson Taiwo for Mettelo.
 

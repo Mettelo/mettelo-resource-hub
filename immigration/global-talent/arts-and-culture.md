@@ -33,6 +33,23 @@ Most applicants first apply for an **endorsement**, in which specialist arts exp
 
 The official [discipline list](https://www.gov.uk/government/publications/global-talent-endorsing-bodies/disciplines-covered-by-arts-council-england-or-its-associated-bodies) was updated **1 July 2026**. Some work, especially commercial photography, screenwriting, filmmaking or fashion, requires careful assessment of which specialist body actually applies.
 
+### Specialist design-industry pathway — verified in November 2026
+
+The UK now has a specific [Global Talent design-industry guidance page](https://www.gov.uk/global-talent-arts-culture/design-industry). **The Design Business Association (DBA)** assesses design applications on behalf of Arts Council England. Designers should use this route's own evidence requirements, not simply the combined arts examples elsewhere in this guide.
+
+| What to check | DBA route's published guidance |
+| --- | --- |
+| Professional record | Regular work in design over the last five years; internationally published, distributed or exhibited work |
+| Talent versus Promise | A **substantial** record in at least two countries for talent; a **developing** record in at least one country for promise |
+| Letters | **Three** genuine recommendations; **two** from established expert organisations you have worked with, at least one UK-based; a third from another suitable organisation or person |
+| Supporting documentation | Up to **ten** single evidence pieces, each up to **two A4 sides** and from the last **five years** |
+| Categories | Evidence for at least **two of three**: significant independent critical media, qualifying international prizes, or professional design appearances/publications/exhibitions |
+| Practical evidence | Named published design credits, credible design criticism by identifiable experts, real international recognition, actual client/commissioner records where relevant |
+
+**Avoid common errors:** a commercial design portfolio, agency employment or international client list can demonstrate real work but is not automatically qualifying **independent** recognition. A grant or bursary does **not** automatically count as an international prize. A genuine prize is distinct from the specially listed **prestigious prize** exemption which can remove endorsement requirements.
+
+**Action:** Before following any of the 24-month creative strategies, identify the **right professional field and its actual specialist assessor**; do not assume that an ACE general arts evidence set transfers unchanged to DBA, PACT, BFC or RIBA.
+
 ### Exceptional Talent versus Exceptional Promise
 
 | | Exceptional Talent — established leader | Exceptional Promise — potential leader |

@@ -56,7 +56,13 @@ async function run(){
   if(!res.ok) throw new Error('HTTP '+res.status);
   const source=await res.text();
   // Extract Mermaid source before parsing Markdown. Never expose raw Mermaid code as a broken diagram.
-  const transformedSource=source.replace(/(^|\n)```mermaid[^\n]*\n[\s\S]*?\n```/g,(_,prefix)=>prefix+'\n<div class="architecture-placeholder" data-mettelo-architecture="1"></div>\n');
+  // On the website, the layout already supplies title, author, legal notice and navigation.
+  // Keep this metadata in the canonical Markdown, but start the published article at its first proper section.
+  const firstSection=source.search(/^## /m);
+  const body=firstSection>=0?source.slice(firstSection):source;
+  // Avoid duplicating the website's navigable sidebar with a second, static Markdown contents list.
+  const withoutDuplicateContents=body.replace(/^## (?:Guide )?[Cc]ontents\s*\n[\s\S]*?(?=^## |$(?![\s\S]))/gm,'');
+  const transformedSource=withoutDuplicateContents.replace(/(^|\n)```mermaid[^\n]*\n[\s\S]*?\n```/g,(_,prefix)=>prefix+'\n<div class="architecture-placeholder" data-mettelo-architecture="1"></div>\n');
   const renderer=new marked.Renderer();
   renderer.link=function({href,title,text}){const dest=remap(href);const external=/^https?:/i.test(dest);return '<a href="'+escapeHtml(dest||'#')+'"'+(title?' title="'+escapeHtml(title)+'"':'')+(external?' target="_blank" rel="noopener noreferrer"':'')+'>'+text+'</a>';};
   const markup=marked.parse(transformedSource,{gfm:true,breaks:false,renderer});

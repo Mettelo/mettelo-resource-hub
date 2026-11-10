@@ -541,7 +541,7 @@ The general-arts route requires **three authentic recommendation letters**. **Tw
 | Format | Dated, signed, maximum **three single A4 sides** per letter excluding permitted credential/contact information. |
 | Authenticity | Independently truthful author; no invented work, backdating or purchase of signatures. |
 
-**An artistic adviser you have never worked with does not solve the letter requirement.** A generic social-media influencer profile is not a substitute for an established arts organisation. The original Mettelo PDF's DocuSign instructions may help coordinate authentic signatures but cannot replace compliance checks.
+**An artistic adviser you have never worked with does not solve the letter requirement.** A generic social-media influencer profile is not a substitute for an established arts organisation. Electronic signatures may assist legitimate coordination where accepted, but they cannot replace authentic authorship or current compliance requirements.
 
 Read [official letter requirements](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts).
 
@@ -595,10 +595,6 @@ Read [official letter requirements](https://www.gov.uk/global-talent-arts-cultur
 11. [New Writing North Awards](https://newwritingnorth.com/northern-writers-awards/awards/) and [eligibility](https://newwritingnorth.com/northern-writers-awards/eligibility/).
 12. [British Council Nigeria Creative Economy](https://www.britishcouncil.org.ng/programmes/arts/creative-economy) and [UK/Nigeria Season of Culture 2028](https://www.britishcouncil.org.ng/programmes/arts/uk-nigeria-season-culture-2028).
 13. [ART X Lagos official participation FAQ](https://www.artxlagos.com/faqs).
-
-### Source provenance and what has changed
-
-**New expanded Mettelo recommendations:** Beginner introduction; official route distinctions; evidence-category audit; six artform-specific strategies; independently evaluated critical review process; named real organisations with direct application/opportunity pages and eligibility caveats; UK/Nigeria partnership route; first 90 days; **24 monthly tables/entries with multiple actionable strategies**; five specific outreach workflows; evidence register; and readiness safeguards.
 
 ### Honest publication status
 

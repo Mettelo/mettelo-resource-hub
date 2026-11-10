@@ -21,12 +21,12 @@ First, identify the discipline under which you may be assessed. Then use the tab
 
 | Your actual creative work | Read first | Take this action |
 | --- | --- | --- |
-| Music/composition | [Music strategy](#5-music--concrete-delivery-strategy) | Identify real programmes, venues, music critics and credited work |
+| Music/composition | [Music strategy](#5-music-concrete-delivery-strategy) | Identify real programmes, venues, music critics and credited work |
 | Painting/sculpture | [Visual-arts strategy](#6-painting-drawing-and-visual-arts) | Record juried exhibitions, relevant independent criticism and actual credits |
 | Photography | [Contemporary visual practice](#7-photography-and-contemporary-visual-practice) | Verify whether the work is assessed as professional visual art versus commercial practice |
 | Theatre, dance or choreography | [Performing-arts work](#8-dance-choreography-and-theatre) | Preserve production credits and legitimate professional programmes |
 | Writing or poetry | [Literature and writing](#9-literature-poetry-and-creative-writing) | Confirm professional publication and literary review evidence |
-| **Film, fashion, architecture or design** | [Specialist assessor comparison](#specialist-creative-routes--use-the-correct-official-evidence-rules) | Select the exact GOV.UK specialist pathway **before** using the general-arts evidence checklist |
+| **Film, fashion, architecture or design** | [Specialist assessor comparison](#specialist-creative-routes-use-the-correct-official-evidence-rules) | Select the exact GOV.UK specialist pathway **before** using the general-arts evidence checklist |
 | Starting with limited recognition | [First 90 days](#15-your-first-90-days) → [24-month strategies](#16-24-month-practical-development-plan) | Choose one practice, one legitimate professional selection channel and evidence log |
 
 **Vocabulary:** *Professional appearance* means a genuine eligible artistic presentation, not any public upload; *independent critical recognition* means verifiable professional review of the work, not a paid advert or a press release; *recommendation* means a genuine letter from an eligible expert/organisation that has actually worked with you.
@@ -164,7 +164,7 @@ For the legally operative wording, see [Appendix Global Talent, GTE 3.1–3.4](h
 2. [Which evidence categories to prioritise](#2-which-evidence-categories-to-prioritise)
 3. [Disciplines and credible artistic career routes](#3-disciplines-and-credible-artistic-career-routes)
 4. [Approaches reflected in successful creative careers](#4-approaches-reflected-in-successful-creative-careers)
-5. [Music — concrete delivery strategy](#5-music--concrete-delivery-strategy)
+5. [Music — concrete delivery strategy](#5-music-concrete-delivery-strategy)
 6. [Painting, drawing and visual arts](#6-painting-drawing-and-visual-arts)
 7. [Photography and contemporary visual practice](#7-photography-and-contemporary-visual-practice)
 8. [Dance, choreography and theatre](#8-dance-choreography-and-theatre)

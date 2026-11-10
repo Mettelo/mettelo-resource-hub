@@ -17,7 +17,7 @@ This guide is for creative professionals who want to understand the relevant rou
 
 First, identify the discipline under which you may be assessed. Then use the table below to find the applicable chapters, and compare the guidance with the [current government Global Talent overview](https://www.gov.uk/global-talent/overview). Do not pay for publicity or an award solely because it is described as useful for a visa application.
 
-## Your first decision: which kind of creative professional are you?
+## Find the sections relevant to your creative work
 
 | Your actual creative work | Read first | Take this action |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ First, identify the discipline under which you may be assessed. Then use the tab
 **Vocabulary:** *Professional appearance* means a genuine eligible artistic presentation, not any public upload; *independent critical recognition* means verifiable professional review of the work, not a paid advert or a press release; *recommendation* means a genuine letter from an eligible expert/organisation that has actually worked with you.
 
 
-## Visual decision architecture: arts and culture
+## Arts and culture: process overview
 
 The correct assessment route depends on your **specific creative discipline**. This map separates route selection, documentary evidence and the later visa stage.
 
@@ -74,7 +74,7 @@ flowchart LR
 
 **Reader note:** This is a route-selection workflow. Not every evidence category applies to every artistic discipline, and an appearance or review is not automatically qualifying evidence.
 
-## Before anything else: understand the visa
+## How the arts and culture visa pathway works
 
 ### What is Global Talent for Arts & Culture?
 
@@ -158,7 +158,7 @@ For the legally operative wording, see [Appendix Global Talent, GTE 3.1–3.4](h
 
 **Do not confuse training with recognition:** a photography certificate is useful for skill-building; an actual independently juried professional exhibition is a different event. A Spotify upload is evidence of distribution activity, but not necessarily proof of internationally significant sales or professional recognition. Performing at an informal event is not necessarily a qualifying professional appearance.
 
-## Contents
+## Guide contents
 
 1. [Official general-arts eligibility and evidence](#1-official-general-arts-eligibility-and-evidence)
 2. [Which evidence categories to prioritise](#2-which-evidence-categories-to-prioritise)

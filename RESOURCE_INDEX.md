@@ -4,7 +4,7 @@
 
 **How to use:** Select the category that matches your goal, then open the guide. All links here lead directly to a specific Markdown resource or category page. For first-time visitors, the [task-based Start Here page](START_HERE.md) is simpler.
 
-**Status key:** **Review pending** = readable draft, not fully checked; **Enhanced draft** = expanded with new material, final QA pending; **Source reviewed** = source-fidelity check completed; **Companion pending** = original interactive attachment not uploaded.
+**Status key:** **Review pending** = readable draft, not fully checked; **Enhanced draft** = expanded with new material, final QA pending; **Content reviewed** = editorial checks completed; **Template pending** = interactive template is not available.
 
 ## 1 · Career development
 
@@ -24,7 +24,7 @@
 
 | Resource | What it covers | Status |
 | --- | --- | --- |
-| [UK Public Sector Application Blueprint](uk-careers/public-sector-application-blueprint.md) | Clear six-part methodology, official-framework distinctions, evidence examples and AI safeguards | Enhanced draft; manual source comparison pending |
+| [UK Public Sector Application Blueprint](uk-careers/public-sector-application-blueprint.md) | Clear six-part methodology, official-framework distinctions, evidence examples and AI safeguards | Enhanced draft; final content review pending |
 | [Civil Service behaviour STAR guide](uk-careers/civil-service/behaviour-ai-guide.md) | Select grade-appropriate examples, write and fact-check STAR evidence | Enhanced draft; final review pending |
 | [Civil Service/NHS personal statement guide](uk-careers/civil-service/personal-statement-guide.md) | Match criteria to evidence with separate NHS and Civil Service drafting paths | Enhanced draft; final review pending |
 | [Civil Service/NHS employment history guide](uk-careers/civil-service/employment-history-guide.md) | Record actual duties, chronology and distinct contributions without rigid bullet counts | Enhanced draft; final review pending |
@@ -60,19 +60,18 @@
 
 [Global Talent tracker instructions](immigration/global-talent/tracker-guide.md) · [All Global Talent resources](immigration/global-talent/README.md)
 
-**Earlier source editions:** preserved in Git commit history, not displayed as duplicate guides. The three links in the table above are the current versions.
 
 ### Other immigration and practical guidance
 
 | Resource | What it covers | Status |
 | --- | --- | --- |
 | [Innovator Founder preparation guide](immigration/innovator-founder/guide.md) | Business innovation/viability/scalability with eight-week customer validation plan | Enhanced draft; legal/call QA pending |
-| [Innovator Founder 20-point checklist](immigration/innovator-founder/checklist.md) | Preparatory tracking | Available; source workbook companion pending |
-| [Innovator Founder tracker instructions](immigration/innovator-founder/tracker-guide.md) | How to work with original tracker | Guide available; workbook not uploaded |
-| [Nigerian passport renewal from the UK](immigration/nigerian-passport/passport-renewal-uk.md) | Route selection, official NIS checks and source-based practical instructions | Enhanced safety guidance; current route details must be rechecked |
+| [Innovator Founder 20-point checklist](immigration/innovator-founder/checklist.md) | Preparatory tracking | Available; interactive workbook not available |
+| [Innovator Founder tracker instructions](immigration/innovator-founder/tracker-guide.md) | How to use the progress tracker | Guide available; workbook not uploaded |
+| [Nigerian passport renewal from the UK](immigration/nigerian-passport/passport-renewal-uk.md) | Route selection, official NIS checks and practical instructions | Enhanced safety guidance; current route details must be rechecked |
 
 ## Other useful pages
 
 [🏠 Return home](README.md) · [⭐ Start here](START_HERE.md) · [Report a correction](https://github.com/Mettelo/mettelo-resource-hub/issues) · [Contribution rules](CONTRIBUTING.md) · [Quality assurance report](QUALITY_ASSURANCE.md)
 
-**Editorial convention:** We do not mark a guide fully reviewed solely because a Markdown file exists. Legal/immigration requirements, external links, application deadlines and live vacancies require up-to-date verification. Original interactive spreadsheets are not included unless an actual downloadable file is explicitly linked.
+**Editorial convention:** We do not mark a guide fully reviewed solely because a Markdown file exists. Legal/immigration requirements, external links, application deadlines and live vacancies require up-to-date verification. Interactive spreadsheets are available only where an explicit download is provided.

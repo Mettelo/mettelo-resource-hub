@@ -1,7 +1,7 @@
 # UK Global Talent Visa — Digital Technology Pathway
 
 **A practical, evidence-led 24-month development and application handbook**  
-**Mettelo Resource Hub · Enhanced edition · 9 November 2026**  
+**Mettelo Resource Hub · Edition 1.0 · Updated 10 November 2026**  
 Prepared by **Johnson Taiwo**, Mettelo
 
 [← Global Talent resources](README.md) · [← Immigration guides](../README.md) · [← Resource Hub](../../README.md)  
@@ -738,9 +738,9 @@ The product, open-source, speaking and referee playbooks are optional **Mettelo 
 9. [PyData London speaking FAQ](https://london.pydata.org/faq/).
 10. [PyData events](https://pydata.org/all-events/).
 
-### Editorial state
+### Important currency and review notice
 
-**Enhanced, substantially reviewed draft (November 2026).** Key statutory documentary requirements have been checked against current GOV.UK pages. Final legal content and external-link review remain outstanding. If live official guidance changes, follow it and update the relevant statement before sharing the guide as authoritative. 
+**Mettelo editorial edition 1.0 (10 November 2026).** Key statutory documentary requirements have been checked against current GOV.UK pages. Final legal content and external-link review remain outstanding. If live official guidance changes, follow it and update the relevant statement before sharing the guide as authoritative. 
 
 **Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**
 

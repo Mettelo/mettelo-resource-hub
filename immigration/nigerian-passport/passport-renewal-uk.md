@@ -1,4 +1,4 @@
-# Nigerian Passport Renewal from the UK — Step-by-Step Guide
+# Nigerian Passport Renewal from the UK: Step-by-Step Guide
 
 **Mettelo Practical Guide · Edition 1.0 · Updated 10 November 2026**  
 **Prepared by Johnson Taiwo**
@@ -7,7 +7,28 @@
 
 > **Important:** This is a practical community guide. Nigerian passport services, eligibility, booking locations, fees and postal requirements can change. **Always confirm the instructions for your actual case on the Nigeria Immigration Service (NIS) portal and Nigeria High Commission website before paying, attending or posting a passport.** Do not share NIN, passport numbers or receipts publicly.
 
-## Visual service journey — passport renewal from the UK
+## Before you begin your renewal
+
+This is a free, step-by-step guide for Nigerians in the UK who want to understand how to renew a passport through the **official Nigerian authorities**. Mettelo does not accept applications, book appointments, collect passport information or issue travel documents.
+
+Your correct process depends on the passport's status, whether any personal details are changing, your age and the renewal method currently available for your circumstances. Some applicants may be able to follow an eligible contactless process; others may need an appointment or a different application category.
+
+Start with the situation table below. Before paying or sending documents, confirm the current instructions on the [Nigeria Immigration Service website](https://immigration.gov.ng/) and with the appropriate [Nigerian mission in the UK](https://www.nigeriahc.org.uk/). Avoid sharing passport numbers, NIN details or payment receipts through informal channels.
+
+## Start here: which application applies to you?
+
+| Situation | Correct first action | Main warning |
+| --- | --- | --- |
+| Renewing an existing passport, no change of personal details | Check whether your case/location is **eligible for contactless renewal** or needs an in-person appointment | Contactless is not universal |
+| First Nigerian passport | Select a **first-time** application, not a renewal workflow | Different documents and biometric process may apply |
+| Lost, stolen or damaged passport | Use the **lost/damaged** process and check police/affidavit or other requirements where applicable | Different fees and documents may apply |
+| Name/date/other details change | Use the authorised **change-of-data** route | Do not use ordinary renewal to bypass verification |
+| Applicant under 18 | Check minor and parental-consent rules | Do not assume adult contactless eligibility |
+| NIS Mobile errors | Check official technical support and avoid duplicate paid applications | Do not pay agents to “unlock” a payment or OTP |
+
+**Use:** [NIS passport services](https://immigration.gov.ng/passports/) · [NIS contactless](https://immigration.gov.ng/contactless/) · [NIS general renewal instructions](https://immigration.gov.ng/info-center/renewal-of-passport/) · [Nigeria High Commission London](https://www.nigeriahc.org.uk/requirements-for-e-passport/).
+
+## Visual service journey: passport renewal from the UK
 
 Use this process map as an overview only. The **Nigerian Immigration Service and the relevant Nigerian mission** determine the current eligibility rules, locations and processing instructions.
 
@@ -47,20 +68,6 @@ flowchart LR
 
 **Reader note:** Remote renewal is conditional, and not all applicants can use it. Do not assume an appointment, biometric step, postal route or return-envelope rule without checking your actual processing centre.
 
-
-## Start here — which application applies to you?
-
-| Situation | Correct first action | Main warning |
-| --- | --- | --- |
-| Renewing an existing passport, no change of personal details | Check whether your case/location is **eligible for contactless renewal** or needs an in-person appointment | Contactless is not universal |
-| First Nigerian passport | Select a **first-time** application, not a renewal workflow | Different documents and biometric process may apply |
-| Lost, stolen or damaged passport | Use the **lost/damaged** process and check police/affidavit or other requirements where applicable | Different fees and documents may apply |
-| Name/date/other details change | Use the authorised **change-of-data** route | Do not use ordinary renewal to bypass verification |
-| Applicant under 18 | Check minor and parental-consent rules | Do not assume adult contactless eligibility |
-| NIS Mobile errors | Check official technical support and avoid duplicate paid applications | Do not pay agents to “unlock” a payment or OTP |
-
-**Use:** [NIS passport services](https://immigration.gov.ng/passports/) · [NIS contactless](https://immigration.gov.ng/contactless/) · [NIS general renewal instructions](https://immigration.gov.ng/info-center/renewal-of-passport/) · [Nigeria High Commission London](https://www.nigeriahc.org.uk/requirements-for-e-passport/).
-
 ## 1. Prepare your documents and details
 
 Before opening an application, have your existing passport, NIN details where required, correct name/date information, contact email and payment access ready. For minors, changes of personal details and replacements, check the route-specific official document list.
@@ -83,7 +90,7 @@ Enter personal information exactly as it appears in the relevant identity record
 
 **Costs:** NIS booklet/contactless charges can differ by passport type, route and updated policy. The High Commission's **11 September 2026 notice** confirms a **£20 standard administrative charge** and says claims that £70 had been authorised were incorrect. Its **November 2026 intervention notice** permits a £20 postal order **or e-payment** for the ordinary administrative charge, while replacement/lost/damaged cases can require different amounts. **Do not buy a postal order or send money until you have confirmed the current charge and accepted method for your precise process.** [Official High Commission announcement](https://www.nigeriahc.org.uk/requirements-for-e-passport/).
 
-## 4. Contactless renewal — only when the official portal confirms eligibility
+## 4. Contactless renewal: only when the official portal confirms eligibility
 
 If NIS explicitly offers contactless renewal for your case, follow the latest authorised NIS Mobile installation and identity-linking instructions. The app may request face, fingerprint/liveness or other verification steps as applicable.
 
@@ -96,7 +103,7 @@ If NIS explicitly offers contactless renewal for your case, follow the latest au
 
 **If a device fails:** Try the service's supported troubleshooting steps, verify device/app permissions, and use [NIS official support](https://immigration.gov.ng/contact/). Trying another compatible device may be practical, but is **not an official guaranteed workaround**. Avoid unofficial app links and anyone claiming they can bypass biometric security.
 
-## 5. Appointment-based renewal — when required
+## 5. Appointment-based renewal: when required
 
 1. Use the official appointment booking process indicated by NIS/High Commission.
 2. Save and print the appointment slip and any required application form/receipts.

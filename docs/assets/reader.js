@@ -55,9 +55,11 @@ async function run(){
   const res=await fetch('../content/'+doc+'.md',{cache:'no-cache'});
   if(!res.ok) throw new Error('HTTP '+res.status);
   const source=await res.text();
+  // Extract Mermaid source before parsing Markdown. Never expose raw Mermaid code as a broken diagram.
+  const transformedSource=source.replace(/(^|\n)```mermaid[^\n]*\n[\s\S]*?\n```/g,(_,prefix)=>prefix+'\n<div class="architecture-placeholder" data-mettelo-architecture="1"></div>\n');
   const renderer=new marked.Renderer();
   renderer.link=function({href,title,text}){const dest=remap(href);const external=/^https?:/i.test(dest);return '<a href="'+escapeHtml(dest||'#')+'"'+(title?' title="'+escapeHtml(title)+'"':'')+(external?' target="_blank" rel="noopener noreferrer"':'')+'>'+text+'</a>';};
-  const markup=marked.parse(source,{gfm:true,breaks:false,renderer});
+  const markup=marked.parse(transformedSource,{gfm:true,breaks:false,renderer});
   target.innerHTML=DOMPurify.sanitize(markup,{USE_PROFILES:{html:true},ADD_ATTR:['target','rel','class']});
   const used=new Map();
   const heads=[...target.querySelectorAll('h2,h3')];
@@ -72,10 +74,17 @@ async function run(){
   target.querySelectorAll('table').forEach(t=>{const box=document.createElement('div');box.className='table-scroll';t.parentNode.insertBefore(box,t);box.append(t)});
   // Replace cramped technical Mermaid graphs with full-width editorial process architecture.
   // Each stage is a real HTML section: readable at natural size, accessible, and printable.
-  target.querySelectorAll('pre code.language-mermaid').forEach(code=>{
-    const pre=code.closest('pre');
+  const placeholders=target.querySelectorAll('[data-mettelo-architecture], pre code.language-mermaid');
+  placeholders.forEach(node=>{
+    const host=node.matches('code')?node.closest('pre'):node;
     const architecture=window.MetteloArchitecture?.render(doc);
-    if(architecture)pre.replaceWith(architecture);
+    if(architecture) host.replaceWith(architecture);
+    else {
+      const warning=document.createElement('p');
+      warning.className='error-box';
+      warning.textContent='The visual process map is temporarily unavailable. Follow the full guidance in the sections below.';
+      host.replaceWith(warning);
+    }
   });
   setupTocNavigation(heads,toc);
   setupFind(target);

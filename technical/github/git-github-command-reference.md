@@ -4,7 +4,7 @@
 
 [🏠 Home](../../README.md) · [GitHub guides](README.md) · [Practical Handbook](github-handbook.md) · [Contribution Standards](contribution-guide.md)
 
-> **Enhanced technical draft.** This replaces an 11-page PDF command table flattened into poorly readable text. The original command categories (setup, inspection, commits, branches, remotes, stash, integration, recovery, GitHub CLI and troubleshooting) are retained, but commands now have copyable shell blocks, intended effects and risk notes. Source extraction remains recoverable via Git history. Test destructive operations in a disposable repository; do not assume commands are safe on protected production branches.
+> **Safety:** This is Mettelo's practical Git reference. Commands include intended effects and risk notes. Test destructive operations in a disposable repository, and follow actual branch-protection and review requirements.
 
 ## Start here — placeholders and safety
 

@@ -2,8 +2,6 @@
 
 [← Tracker guide](tracker-guide.md) · [← Innovator Founder guide](guide.md) · [← Resource Hub](../../README.md)
 
-**Source:** Mettelo Innovator Founder Tracker.xlsx, Checklist tab, original dated 23 October 2026.
-
 > **Use this as a PRIVATE working checklist:** GitHub displays these as unticked boxes for reading, but the publicly hosted document does **not** save your personal checkmarks. Copy the list into a private GitHub repository, notes app or tracker. Keep passport records, customer information, banking evidence and endorsement references private.
 
 ## Understand the checklist — what counts as a useful result?
@@ -35,7 +33,7 @@ The 20 source items are a **preparation sequence**, not 20 visa points. Do not m
 
 ---
 
-## Checklist — all 20 original source tasks
+## Practical 20-step preparation checklist
 
 - [ ] **1. Check current permission and application deadline** — Required | Guide sections 1–3
 - [ ] **2. Define innovation and compare UK competitors** — Required business test | Sections 4–5

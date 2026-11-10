@@ -28,11 +28,11 @@
 
 **Available — review pending:** A file is on GitHub, but formatting, factual updates or a final comparison with the source is outstanding. It is **not** an independently validated guide.
 
-**Source reviewed:** Reviewed against the supplied original. It may still require periodic updates or verification against the live rules.
+**Content reviewed:** Checked for clarity and accuracy; periodically recheck live requirements.
 
 **Enhanced draft:** Expanded with new practical material. Source retention and internal links have been checked, but legal, technical and external-link review may still be needed.
 
-**Companion not uploaded:** A Markdown explanation exists, but the source interactive Excel/Word file is not downloadable from this repo.
+**Template unavailable:** The guide is readable, but the interactive template is not available in this library.
 
 ## Navigating without getting lost
 

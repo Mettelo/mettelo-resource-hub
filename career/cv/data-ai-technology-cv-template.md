@@ -4,14 +4,14 @@
 
 **One official, editable Markdown template for technical CVs** · Mettelo
 
-> **Status: Revised template — editorial review pending.** This combines the useful content of the two previously uploaded Word CV templates into one clear Markdown layout. The old two-column version was flattened during extraction and is preserved in Git history. There is **one active technical CV template**. All square-bracket text is an instruction to replace, not a claim about you.
+> **Guide status:** Practical Mettelo guidance. Follow current employer/platform requirements and verify all personal claims.
 
 ## How to use this template
 
 1. Read the [CV Development Workflow](cv-development-workflow-edition-3.md) and prepare truthful, role-by-role evidence.
 2. Read the actual job advert; select relevant tools, responsibilities, outcomes and qualifications.
 3. Copy the **CV template** below into your preferred editor. Replace every placeholder, delete example lines that do not apply, and maintain genuine chronological details.
-4. Prefer a simple single-column structure for online applications unless the employer asks otherwise. The previous Word sidebar version remains available through Git history **only as a historical design reference**; it is not a separate current guide.
+4. Prefer a simple single-column structure for online applications unless the employer asks otherwise. Check readability, employer format instructions and the final text reading order.
 5. Review the completed CV for accessibility, privacy, required credentials, reading order and the vacancy's file/AI-use instructions.
 
 ---
@@ -121,9 +121,9 @@ Choose **only capabilities you can discuss or demonstrate**. It is better to sho
 | Product/technical manager | Product problem, prioritisation, trade-offs, stakeholders, adoption and delivery outcome | Unsupported revenue/usage or people-management claims |
 | Technical marketing / growth analytics | Experiment design, attribution, data governance, confirmed customer or commercial impact | Mixing ad-platform estimates with verified incremental outcomes |
 
-### Former two-column Word layout: what was retained
+### Accessible layout guidance
 
-The earlier visual design placed a short **Professional Focus**, technical skills, strengths, education and certifications in a sidebar, with profile, career highlights and work history in a main column. Those **content categories are retained here** in a single-column, Markdown-readable structure. If you create a designed Word CV later, you may apply sidebars as a **presentation choice**, provided reading order and employer requirements are satisfied. Do not attempt to replicate a two-column Word page by placing manually spaced columns in Markdown.
+Some designed CVs place a short **Professional Focus**, technical skills, strengths, education and certifications in a sidebar, with profile, career highlights and work history in a main column. This guide uses an accessible single-column layout. If you create a designed Word CV later, you may apply sidebars as a **presentation choice**, provided reading order and employer requirements are satisfied. Do not attempt to replicate a two-column Word page by placing manually spaced columns in Markdown.
 
 ### Final submission checklist
 
@@ -136,8 +136,6 @@ The earlier visual design placed a short **Professional Focus**, technical skill
 - [ ] Word/PDF rendering and selectable reading order have been checked where files are required.
 - [ ] Portfolio and contact links work.
 - [ ] The final CV reads as *your* professional experience, not as a template.
-
-**Source and change record:** Consolidated from two Mettelo-owned Word-based CV templates originally migrated as `data-ai-technology-cv-template.md` and `data-ai-tech-professional-cv-template-2.md`. Both originals remain recoverable from Git history. This improved Markdown edition provides one active template and clear field-by-field guidance.
 
 ### Find your way around
 

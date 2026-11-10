@@ -4,7 +4,7 @@
 
 **Mettelo · Improved editorial edition · 9 November 2026 · Prepared by Johnson Taiwo**
 
-> **Status: Enhanced working guide.** The original three-page PDF supplied two sector-specific AI prompts, instructions for sharing full job requirements and factual-review warnings. This restructured edition retains those aims and replaces rigid rules (6–10 projects, 7–12 bullets per job, every bullet over 25 words, blanket anonymisation) with adaptable, evidence-based preparation. Original source is recoverable in Git history. Employer instructions take precedence.
+> **Using this guide:** Start with the actual job advert, essential criteria and applicant instructions. Examples are illustrative; never invent qualifications, responsibilities, outcomes or metrics. Employer requirements take priority.
 
 ## What is Employment History for?
 
@@ -118,8 +118,6 @@ Draft role history clearly and concisely. Then check consistency with the submit
 ## Free authoritative resources
 
 [National Careers Service — CV sections](https://nationalcareers.service.gov.uk/careers-advice/cv-sections) · [NHS Trust applicant guidance](https://www.jobs.sath.nhs.uk/find-job/applicant-guidance) · [NHS Employers person specification](https://www.nhsemployers.org/publications/tchandbook) · [Civil Service Success Profiles — Experience](https://www.gov.uk/government/publications/success-profiles/success-profiles-experience).
-
-**Source distinction:** The original Mettelo PDF's ambition was role-by-role alignment and fact-checking. The source's rigid counts, blanket anonymisation and “make impact more measurable” prompts have been **replaced** with evidence validation and employer-specific rules, drawing additionally from the linked official resources. This remains an enhanced draft pending final editor sign-off.
 
 ### Find your way around
 

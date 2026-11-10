@@ -26,8 +26,7 @@ document.title=meta.title+' | Mettelo Resource Library';
 $('reader-title').textContent=meta.title;
 $('reader-category').textContent=meta.category;
 $('reader-intro').textContent=meta.intro;
-document.querySelectorAll('.sidebar-link').forEach(a=>{if(a.dataset.doc===doc){a.classList.add('active');a.setAttribute('aria-current','page')}});
-$('related-links').innerHTML=(meta.related||[]).map(([label,key])=>'<a href="?doc='+encodeURIComponent(key)+'">'+escapeHtml(label)+' →</a>').join('')||'<a href="../">Browse all resources →</a>';
+const selector=$('guide-select'); if(selector){selector.value=doc;selector.addEventListener('change',e=>{location.href='?doc='+encodeURIComponent(e.target.value)})}
 const toggle=$('mobile-nav-toggle');
 toggle?.addEventListener('click',()=>{const open=$('reader-sidebar').classList.toggle('open');toggle.setAttribute('aria-expanded',String(open))});
 $('copy-link').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(location.href);$('copy-link').textContent='Link copied ✓';setTimeout(()=>$('copy-link').textContent='Copy page link',2100)}catch{$('copy-link').textContent='Copy the URL from your browser';}});
@@ -69,6 +68,7 @@ async function run(){
     h.id=id;
     const a=document.createElement('a');a.textContent=clean.length>75?clean.slice(0,72)+'…':clean;a.href='#'+id;a.className=h.tagName==='H3'?'toc-h3':'toc-h2';toc.append(a);
   });
+  toc.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{if(window.innerWidth<=900){$('reader-sidebar').classList.remove('open');toggle?.setAttribute('aria-expanded','false')}}));
   target.querySelectorAll('table').forEach(t=>{const box=document.createElement('div');box.className='table-scroll';t.parentNode.insertBefore(box,t);box.append(t)});
   target.querySelectorAll('pre code.language-mermaid').forEach((code,i)=>{
     const pre=code.closest('pre'), frame=document.createElement('section');
@@ -76,16 +76,16 @@ async function run(){
     const head=document.createElement('div');head.className='diagram-head';
     const label=document.createElement('strong');label.className='diagram-label';label.textContent='PROCESS ARCHITECTURE · '+String(i+1).padStart(2,'0');
     const controls=document.createElement('div');controls.className='diagram-controls';
-    for(const [name,action] of [['−','out'],['+','in'],['Fit','fit'],['Expand ↗','expand']]){
+    for(const [name,action] of [['−','out'],['+','in'],['100%','actual'],['Fit','fit'],['Expand ↗','expand']]){
       const button=document.createElement('button');button.type='button';button.textContent=name;button.dataset.diagramAction=action;
-      button.setAttribute('aria-label',{'out':'Zoom out','in':'Zoom in','fit':'Fit diagram to view','expand':'Expand diagram to full screen'}[action]);if(action==='expand')button.classList.add('diagram-expand');controls.append(button);
+      button.setAttribute('aria-label',{'out':'Zoom out','in':'Zoom in','fit':'Fit diagram to view','actual':'Show full-size diagram','expand':'Expand diagram to full screen'}[action]);if(action==='expand')button.classList.add('diagram-expand');controls.append(button);
     }
     head.append(label,controls);
     const viewport=document.createElement('div');viewport.className='diagram-viewport';viewport.tabIndex=0;viewport.setAttribute('aria-label','Diagram. Use buttons to zoom or expand; scroll to pan.');
     const canvas=document.createElement('div');canvas.className='diagram-canvas';
     const diagram=document.createElement('div');diagram.className='mermaid';diagram.textContent=code.textContent;
     canvas.append(diagram);viewport.append(canvas);
-    const caption=document.createElement('p');caption.className='diagram-caption';caption.textContent='Follow the arrows and decision branches. Use Expand for a detailed view, or zoom and scroll to examine each step.';
+    const caption=document.createElement('p');caption.className='diagram-caption';caption.textContent='Follow the arrows and decision branches. Scroll within this diagram to follow the arrows at a readable size. Use Expand for more space.';
     frame.append(head,viewport,caption);pre.replaceWith(frame);
     frame.dataset.originalDiagram=code.textContent;
   });
@@ -120,43 +120,43 @@ async function run(){
 }
 function prepareDiagram(frame){
  const svg=frame.querySelector('svg');if(!svg)return;
- const viewport=frame.querySelector('.diagram-viewport');
- const canvas=frame.querySelector('.diagram-canvas');
- // Retain the complete Mermaid viewBox so all nodes and arrowheads remain visible.
- let nativeWidth=1000,nativeHeight=650;
+ const viewport=frame.querySelector('.diagram-viewport'),canvas=frame.querySelector('.diagram-canvas');
  const box=svg.viewBox?.baseVal;
- if(box?.width){nativeWidth=box.width;nativeHeight=box.height}
- else {nativeWidth=parseFloat(svg.getAttribute('width'))||1000;nativeHeight=parseFloat(svg.getAttribute('height'))||650}
+ const nativeWidth=box?.width||parseFloat(svg.getAttribute('width'))||1050;
+ const nativeHeight=box?.height||parseFloat(svg.getAttribute('height'))||600;
  svg.removeAttribute('width');svg.removeAttribute('height');
- svg.setAttribute('role','img');svg.setAttribute('aria-label','Process architecture showing the decisions and steps in this immigration pathway');
+ svg.setAttribute('role','img');svg.setAttribute('aria-label','Immigration process map. Scroll horizontally and vertically to inspect every step.');
  let scale=1;
- function apply(value,center=false){
-   scale=Math.min(2.5,Math.max(.25,value));
-   const w=Math.ceil(nativeWidth*scale),h=Math.ceil(nativeHeight*scale);
-   svg.style.width=w+'px';svg.style.height=h+'px';
-   canvas.style.width=Math.max(w,viewport.clientWidth)+'px';
-   canvas.style.minHeight=h+'px';
-   if(center){viewport.scrollLeft=Math.max(0,(w-viewport.clientWidth)/2);viewport.scrollTop=0}
+ const label=document.createElement('span');label.className='diagram-zoom-label';label.setAttribute('aria-live','polite');
+ frame.querySelector('.diagram-controls')?.prepend(label);
+ function apply(next,reset=false){
+  scale=Math.max(.25,Math.min(3,next));
+  const width=Math.ceil(nativeWidth*scale),height=Math.ceil(nativeHeight*scale);
+  svg.style.setProperty('width',width+'px','important');
+  svg.style.setProperty('height',height+'px','important');
+  svg.style.setProperty('min-width',width+'px','important');
+  canvas.style.width=width+'px';canvas.style.height=height+'px';
+  canvas.style.minWidth=width+'px';canvas.style.minHeight=height+'px';
+  label.textContent=Math.round(scale*100)+'%';
+  if(reset){viewport.scrollLeft=0;viewport.scrollTop=0}
  }
- function fit(){const space=Math.max(260,viewport.clientWidth-34);apply(Math.min(1.05,space/nativeWidth),true)}
- frame.querySelectorAll('[data-diagram-action]').forEach(b=>b.addEventListener('click',()=>{
-   const action=b.dataset.diagramAction;
-   if(action==='in')apply(scale*1.3);
-   if(action==='out')apply(scale/1.3);
-   if(action==='fit')fit();
-   if(action==='expand'){
-     const expanded=frame.classList.toggle('diagram-fullscreen');
-     b.textContent=expanded?'Close ✕':'Expand ↗';
-     b.setAttribute('aria-label',expanded?'Close expanded diagram':'Expand diagram to full screen');
-     document.body.style.overflow=expanded?'hidden':'';
-     setTimeout(fit,30);
-   }
+ function fit(){apply(Math.min(1,(viewport.clientWidth-28)/nativeWidth),true)}
+ frame.querySelectorAll('[data-diagram-action]').forEach(button=>button.addEventListener('click',()=>{
+  const action=button.dataset.diagramAction;
+  if(action==='in')apply(scale*1.3);
+  if(action==='out')apply(scale/1.3);
+  if(action==='actual')apply(1,true);
+  if(action==='fit')fit();
+  if(action==='expand'){
+   const expanded=frame.classList.toggle('diagram-fullscreen');
+   button.textContent=expanded?'Close ✕':'Expand ↗';
+   button.setAttribute('aria-label',expanded?'Close expanded diagram':'Expand diagram to full screen');
+   document.body.classList.toggle('diagram-is-open',expanded);
+   apply(1,true);
+  }
  }));
- const keyHandler=e=>{if(e.key==='Escape'&&frame.classList.contains('diagram-fullscreen')){frame.querySelector('[data-diagram-action="expand"]').click();}};
- document.addEventListener('keydown',keyHandler);
- const resizer=new ResizeObserver(()=>{if(!frame.classList.contains('diagram-fullscreen'))fit()});
- resizer.observe(viewport);
- fit();
+ document.addEventListener('keydown',event=>{if(event.key==='Escape'&&frame.classList.contains('diagram-fullscreen'))frame.querySelector('[data-diagram-action="expand"]')?.click()});
+ apply(1,true);
 }
 function setupFind(root){
  const input=$('find-in-guide'),counter=$('find-count');

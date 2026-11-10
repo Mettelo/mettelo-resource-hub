@@ -8,6 +8,20 @@ Prepared by **Johnson Taiwo** · Mettelo
 
 > **Important:** Use the research endorsement route that matches your actual appointment, fellowship, approved grant or peer-review eligibility. The 24-month plan is optional career development, not a visa requirement.
 
+## Find your research route in two minutes
+
+| What you genuinely have now | Check first | Next real action |
+| --- | --- | --- |
+| **Accepted eligible UK research appointment** | [Route 1](#route-1-actual-uk-research-appointment) | Ask the UK employing institution's HR team to check appointment and recruitment confirmation |
+| **Approved individual fellowship awarded to you** | [Route 2](#route-2-award-a-genuinely-eligible-fellowship) | Match the **exact fellowship name and award date** to the present approved list |
+| **Real eligible role on approved funded UK research grant** | [Route 3](#route-3-actual-research-on-approved-uk-funding) | Ask the principal investigator, grants office and HR for the actual grant and host conditions |
+| **Active original researcher, no job offer/eligible grant** | [Route 4 peer review](#route-4-active-researcher-and-full-expert-assessment) | Check PhD/equivalent research expertise, genuine expert relationship and career-stage requirements |
+| **No research achievements or eligible position yet** | [Professional development](#5-detailed-24-month-development-plan) | Begin genuine original study, training and legitimate research collaboration, not a visa application |
+
+**Decision rule:** Select **one genuine qualifying route**. The four routes are not a combined checklist; do not mix a peer-review referee request with an ineligible university grant and assume that completes an endorsement.
+
+---
+
 ## Introduction — who is this visa for?
 
 The **UK Global Talent visa (Academia and Research)** is designed for established and potential leaders in science, engineering, medicine, humanities and social science research. It generally gives more freedom to work for different employers or be self-employed than an employer-sponsored route. It is not a PhD scholarship or job, and earning a master's degree, publishing one paper or having “research” in a job title does not automatically qualify someone.

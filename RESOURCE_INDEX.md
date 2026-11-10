@@ -46,9 +46,9 @@
 | [Retrospective & Lessons Learned](technical/project-documentation/retrospective-template.md) | Facilitate constructive project reviews, assign follow-up actions and record lessons | Enhanced template |
 | [Project Experience & Capability Catalogue guide](technical/project-documentation/project-experience-catalogue-guide.md) | Seven-sheet workbook guide with filled fictional example and evidence-quality instructions | Enhanced guide; interactive Excel companion not hosted |
 
-## 4 · Immigration and practical resources
+## 4 · UK Visa Pathways & Nigerian Passport Services
 
-[Browse immigration and practical guides →](immigration/README.md)
+[Explore UK Global Talent, Innovator Founder and Nigerian passport services →](immigration/README.md)
 
 ### UK Global Talent: choose one pathway
 
@@ -60,14 +60,14 @@
 
 [Global Talent tracker instructions](immigration/global-talent/tracker-guide.md) · [All Global Talent resources](immigration/global-talent/README.md)
 
-### Other immigration and practical guidance
+### UK Innovator Founder Visa & Nigerian Passport Services
 
 | Resource | What it covers | Status |
 | --- | --- | --- |
-| [Innovator Founder preparation guide](immigration/innovator-founder/guide.md) | UK problem discovery, 12 business ideas, market research, buyer interviews, 90-day and 12-month plans | Practical business guide; final legal/link checks pending |
+| [UK Innovator Founder Visa — Business Development Guide](immigration/innovator-founder/guide.md) | UK problem discovery, 12 business ideas, market research, buyer interviews, 90-day and 12-month plans | Practical business guide; final legal/link checks pending |
 | [Innovator Founder 20-point checklist](immigration/innovator-founder/checklist.md) | Preparatory tracking | Available; interactive workbook not available |
 | [Innovator Founder tracker instructions](immigration/innovator-founder/tracker-guide.md) | How to use the progress tracker | Guide available; workbook not uploaded |
-| [Nigerian passport renewal from the UK](immigration/nigerian-passport/passport-renewal-uk.md) | Route selection, official NIS checks and practical instructions | Enhanced safety guidance; current route details must be rechecked |
+| [Nigerian Passport Renewal & UK Consular Guidance](immigration/nigerian-passport/passport-renewal-uk.md) | Route selection, official NIS checks and practical instructions | Enhanced safety guidance; current route details must be rechecked |
 
 ## Other useful pages
 

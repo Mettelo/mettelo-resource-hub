@@ -7,6 +7,34 @@
 
 > **Who this guide helps:** founders in the UK, Nigeria or elsewhere who want to understand the Innovator Founder route, discover real UK problems, test whether a proposed business is genuinely different, and prepare evidence for an endorsing body's assessment. This is educational guidance, not immigration advice or a guarantee of endorsement. All costs, bodies, requirements and opportunity windows must be checked again before application. The practical targets in this guide are *Mettelo recommendations*, not Home Office requirements.
 
+## Visual venture-development architecture — from UK problem to endorsement
+
+Use this as a **business-development and evidence workflow**. It is not a substitute for approval by an authorised endorsing body or UK immigration requirements.
+
+```mermaid
+flowchart TD
+    A["Identify a concrete UK customer or service problem"] --> B["Document affected users and existing alternatives"]
+    B --> C["Interview potential customers; test the problem"]
+    C --> D{"Evidence of genuine demand?"}
+    D -- "Insufficient" --> E["Revise problem statement or target market"]
+    E --> B
+    D -- "Credible" --> F["Design a differentiated business solution"]
+    F --> G["Build prototype / service test / pilot"]
+    G --> H["Measure adoption, delivery costs and user outcomes"]
+    H --> I{"Innovative, viable and scalable case supported?"}
+    I -- "Not yet" --> J["Strengthen product, capability, commercial model"]
+    J --> G
+    I -- "Potentially" --> K["Prepare founder track record and evidence-led business plan"]
+    K --> L["Approach an authorised endorsing body"]
+    L --> M{"Endorsement granted?"}
+    M -- "No" --> N["Review feedback and current options"]
+    M -- "Yes" --> O["Separate visa application and personal eligibility"]
+    O --> P["Operate business and meet applicable check-in and immigration conditions"]
+```
+
+**Reader note:** Genuine validation improves a business case but does not guarantee that an endorsing body will find it innovative, viable and scalable. Requirements and check-in arrangements must be checked at the time.
+
+
 ## Choose where to start
 
 | Your situation | Go to |

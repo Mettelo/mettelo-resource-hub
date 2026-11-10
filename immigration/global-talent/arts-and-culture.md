@@ -7,7 +7,7 @@ Prepared by **Johnson Taiwo** · Mettelo — Built for What's Next
 [← Global Talent resources](README.md) · [← Immigration resources](../README.md) · [← Resource Hub](../../README.md)  
 [Arts checklist](arts-and-culture-checklist.md) · [Tracker instructions](tracker-guide.md)
 
-> **Publication status: Enhanced draft.** The October 2026 original source remains recoverable through Git commit history, rather than appearing as a duplicate active guide. This is a newly researched and expanded guide, not a verbatim transcription. Immigration rules and arts opportunities change. The activities suggested below build genuine artistic careers; none is an official 24-month requirement or guarantees endorsement. All applicants must follow the applicable live UK rules and their discipline's assessor.
+> **Important:** This guide supports professional artistic development. Each discipline may have different endorsement requirements. The 24-month activities are optional and do not guarantee recognition or a visa.
 
 ## Before anything else — understand the visa
 
@@ -95,7 +95,7 @@ For the legally operative wording, see [Appendix Global Talent, GTE 3.1–3.4](h
 19. [Recommendation letters and compliance](#19-recommendation-letters-and-compliance)
 20. [Application and visa stages](#20-application-and-visa-stages)
 21. [Common weak approaches and alternatives](#21-common-weak-approaches-and-alternatives)
-22. [Official references and editorial status](#22-official-references-and-editorial-status)
+22. [Official references and review notes](#22-official-references-and-review-notes)
 
 ---
 
@@ -578,7 +578,7 @@ Read [official letter requirements](https://www.gov.uk/global-talent-arts-cultur
 
 ---
 
-## 22. Official references and editorial status
+## 22. Official references and review notes
 
 ### Official rules and professional sources reviewed 9 November 2026
 
@@ -597,8 +597,6 @@ Read [official letter requirements](https://www.gov.uk/global-talent-arts-cultur
 13. [ART X Lagos official participation FAQ](https://www.artxlagos.com/faqs).
 
 ### Source provenance and what has changed
-
-**Preserved original:** 29-page original Mettelo Arts & Culture guide, October 2026 (recoverable through Git commit history) contained career framing, music and visual-art pathways, 90-day actions, two-year development content, the three recommendation letters and a DocuSign coordination section. Its historical version remains recoverable through Git.
 
 **New expanded Mettelo recommendations:** Beginner introduction; official route distinctions; evidence-category audit; six artform-specific strategies; independently evaluated critical review process; named real organisations with direct application/opportunity pages and eligibility caveats; UK/Nigeria partnership route; first 90 days; **24 monthly tables/entries with multiple actionable strategies**; five specific outreach workflows; evidence register; and readiness safeguards.
 

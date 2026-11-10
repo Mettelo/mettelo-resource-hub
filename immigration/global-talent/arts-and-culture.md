@@ -50,6 +50,27 @@ The UK now has a specific [Global Talent design-industry guidance page](https://
 
 **Action:** Before following any of the 24-month creative strategies, identify the **right professional field and its actual specialist assessor**; do not assume that an ACE general arts evidence set transfers unchanged to DBA, PACT, BFC or RIBA.
 
+### Specialist creative routes — use the correct official evidence rules
+
+**Important: the general-arts checklist in this resource does not determine requirements for every discipline.** As of 10 November 2026 the official sources below describe separate tests. Follow the appropriate dedicated GOV.UK page and supporting assessor instructions.
+
+| Your creative profession | Official specialist route | What the assessor examines | Practical development and evidence strategy |
+| --- | --- | --- | --- |
+| **Architecture** | [RIBA — architecture](https://www.gov.uk/global-talent-arts-culture/architecture) | Talent/promise, genuine international professional practice; eligible media recognition, significant prizes and publications/exhibitions. **UK use of the title “architect” requires separate Architects Registration Board registration.** | Document credited designs, architectural practice, independent architectural reviews, juried exhibitions and real involvement confirmed by senior contributors. Verify professional title/registration separately. |
+| **Fashion design** | [British Fashion Council — fashion](https://www.gov.uk/global-talent-arts-culture/fashion-design) | **Talent and Promise have different categories.** Talent may include international shows, distribution and sales; Promise can include qualifying fashion sponsorship/support, luxury retailer orders and industry recognition. | Preserve real fashion collection design credits, actual stockist orders/sales, dated show programmes, eligible industry support and verified reviews; do not substitute speculative sales or generic influencer coverage. |
+| **Film, television, animation, VFX and post-production** | [PACT — film and television](https://www.gov.uk/global-talent-arts-culture/film-television) | **PACT assesses exceptional talent, not the ordinary arts exceptional-promise route.** Its award/nomination or notable-industry-recognition rules are specialist and may require qualifying work across different productions. | Verify exact credited production roles, recognised awards/nominations and production distribution/release records. Do not treat a student short film or festival entry as sufficient by itself. |
+| **Professional design industry** | [Design Business Association — design](https://www.gov.uk/global-talent-arts-culture/design-industry) | Distinct design professional record; credible independent critical media, qualifying prizes and international publication/exhibitions | Collect authorised published work, demonstrable individual design contribution, named expert criticism and verified commissioner/organisation records. |
+| **Music, dance, theatre, literature, visual art** | [Arts Council England — general arts](https://www.gov.uk/global-talent-arts-culture/combined-arts-dance-literature-music-theatre-or-visual-arts) | Three letters, professional recognition/track record and relevant qualifying evidence categories | Use the discipline strategies and 24-month tables later in this guide. Preserve independent critical responses and actual professional performances or exhibitions. |
+
+#### Three mistakes to avoid
+
+1. **A filmmaker cannot simply claim exceptional promise under the combined-arts route** when the professional work falls under PACT's specialist film and television assessment.
+2. **Fashion Promise evidence may involve specific industry support or real retail orders**, so copying the general three-category arts table alone could miss the applicable route.
+3. **Being endorsed as an architectural professional is not the same as registration to practise with the protected UK title “architect”.** Check [ARB registration](https://arb.org.uk/architect-information/applying-for-registration/) separately.
+
+**Decision:** Check your exact practice against the [official endorsed discipline list](https://www.gov.uk/government/publications/global-talent-endorsing-bodies/disciplines-covered-by-arts-council-england-or-its-associated-bodies), select the assessor, then collect only the evidence relevant to that route.
+
+
 ### Exceptional Talent versus Exceptional Promise
 
 | | Exceptional Talent — established leader | Exceptional Promise — potential leader |

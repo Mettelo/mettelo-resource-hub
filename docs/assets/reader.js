@@ -79,33 +79,64 @@ async function run(){
     const a=document.createElement('a');a.textContent=clean.length>75?clean.slice(0,72)+'…':clean;a.href='#'+id;a.className=h.tagName==='H3'?'toc-h3':'toc-h2';toc.append(a);
   });
   toc.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{if(window.innerWidth<=900){$('reader-sidebar').classList.remove('open');toggle?.setAttribute('aria-expanded','false')}}));
-  // Tables retain their semantic HTML on desktop and become labelled records on phones.
-  // Complex cells with spans retain the swipeable table layout.
+  // Keep the original semantic table for desktop, and build a separate
+  // labelled, full-width card layout for mobile/tablet readers. Using
+  // dedicated card markup avoids inherited table min-width and display rules.
   target.querySelectorAll('table').forEach((table,index)=>{
     const container=document.createElement('div');
     container.className='table-scroll';
     container.setAttribute('role','region');
-    container.setAttribute('aria-label','Guide comparison table '+(index+1));
+    container.setAttribute('aria-label','Guide table '+(index+1));
     table.parentNode.insertBefore(container,table);container.append(table);
-    const headers=[...table.querySelectorAll('thead tr:first-child th')].map(cell=>cell.textContent.trim());
+
+    const headingRow=table.querySelector('thead tr:last-child');
+    const headers=[...(headingRow?.querySelectorAll('th')||[])]
+      .map(cell=>cell.textContent.trim());
     const rows=[...table.querySelectorAll('tbody tr')];
-    const complicated=!!table.querySelector('[rowspan],[colspan]')||!headers.length||
-      rows.some(row=>row.children.length!==headers.length);
-    if(!complicated){
-      container.classList.add('is-card-table');
-      rows.forEach(row=>{
-        [...row.children].forEach((cell,position)=>{
-          const columnTitle=headers[position]||'Detail '+(position+1);
-          cell.dataset.label=columnTitle;
-          cell.setAttribute('data-column-index',String(position));
-        });
-      });
-    }else{
+    const hasSpans=!!table.querySelector('[rowspan],[colspan]');
+    const simple=!hasSpans&&headers.length>=2&&rows.length>0&&
+      rows.every(row=>row.children.length===headers.length);
+    if(!simple){
       container.tabIndex=0;
-      const notice=document.createElement('p');notice.className='table-scroll-hint';
-      notice.textContent='Swipe sideways to see the complete table.';
-      container.insertAdjacentElement('afterend',notice);
+      const hint=document.createElement('p');
+      hint.className='table-scroll-hint';
+      hint.textContent='Swipe sideways to see the complete table.';
+      container.insertAdjacentElement('afterend',hint);
+      return;
     }
+    container.classList.add('has-mobile-cards');
+    const mobile=document.createElement('div');
+    mobile.className='mobile-table-cards';
+    mobile.setAttribute('role','list');
+    mobile.setAttribute('aria-label','Mobile view of guide table '+(index+1));
+    rows.forEach((row,rowIndex)=>{
+      const card=document.createElement('section');
+      card.className='mobile-table-card';
+      card.setAttribute('role','listitem');
+      const name=document.createElement('h4');
+      name.className='mobile-table-card-title';
+      const first=row.children[0];
+      const titleContent=first.textContent.trim()||('Entry '+(rowIndex+1));
+      name.textContent=titleContent;
+      card.append(name);
+      const fields=document.createElement('dl');
+      fields.className='mobile-table-fields';
+      [...row.children].forEach((cell,col)=>{
+        // The first value is already displayed as the card heading.
+        if(col===0)return;
+        const field=document.createElement('div');
+        field.className='mobile-table-field';
+        const label=document.createElement('dt');
+        label.textContent=headers[col]||'Detail '+(col+1);
+        const value=document.createElement('dd');
+        // Clone only safe, already sanitised rendered content. Links,
+        // emphasis, lists and paragraph formatting remain available.
+        [...cell.childNodes].forEach(child=>value.append(child.cloneNode(true)));
+        field.append(label,value);fields.append(field);
+      });
+      card.append(fields);mobile.append(card);
+    });
+    container.insertAdjacentElement('afterend',mobile);
   });
   // Preserve the list nesting and actual HTML numbering supplied by Markdown.
   target.querySelectorAll('ol[start]').forEach(list=>{

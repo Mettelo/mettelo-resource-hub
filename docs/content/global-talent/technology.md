@@ -1,4 +1,4 @@
-# UK Global Talent Visa Guide — Digital Technology Pathway
+# UK Global Talent Visa Guide: Digital Technology Pathway
 
 **A practical, evidence-led 24-month development and application handbook**  
 **Mettelo Resource Hub · Edition 1.0 · Updated 10 November 2026**  
@@ -9,7 +9,28 @@ Prepared by **Johnson Taiwo**, Mettelo
 
 > **Important:** This guide is a practical *career and evidence-development plan*, not a legal eligibility determination or a promise of endorsement. A two-year period is **not** an official application requirement. Some people already have sufficient evidence; others may need considerably longer. This guide includes practical workflows, verified public references and a month-by-month development plan.
 
-## Visual decision architecture — digital technology
+## Start with your professional record
+
+The UK Global Talent visa's digital technology pathway is intended for people who can demonstrate leadership or the potential for leadership in digital technology. It is not an entry-level training programme, and completing a course or collecting certificates does not establish eligibility. If you work in software, data, AI, product development or a related field, begin by identifying what you have actually built, improved or influenced and who can independently confirm the impact.
+
+This guide explains how to assess your experience against the published requirements, organise credible evidence, identify gaps and prepare for the endorsement and visa stages. It also contains optional project, open-source, community and research approaches for readers who need time to develop a stronger record. The 24-month roadmap is a planning tool, **not a visa requirement or a predicted time to endorsement**.
+
+Before collecting documents, read the [official digital technology overview](https://www.gov.uk/global-talent-digital-technology) and [endorsement evidence rules](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement). The next table will help you choose where to begin in this guide.
+
+## Which parts should you read first?
+
+| Your situation | First useful sections | A realistic first output |
+| --- | --- | --- |
+| **Complete beginner to Global Talent** | [Visa explanation](#start-here--what-is-the-global-talent-visa-for-digital-technology) → [Official rules](#1-understand-the-actual-rules) | Clear understanding of what recognition and evidence mean |
+| **Data analyst, scientist, engineer or developer** | [Professional route selection](#2-choose-the-right-professional-pathway) → [Evidence mapping](#3-map-evidence-to-the-criteria) | Real contribution inventory and gaps |
+| **Founder or product builder** | [Technology product playbook](#5-build-and-validate-a-meaningful-technology-product) → [Referees](#8-develop-real-relationships-with-potential-referees) | Verified product work, customers and recognition strategy |
+| **Little/no independent recognition** | [Evidence-building strategies](#4-choose-one-practical-evidence-building-strategy) → [24-month action options](#10-your-detailed-24-month-implementation-plan) | One concrete project and authentic external-review plan |
+| **Evidence already strong** | [Documents and restrictions](#14-application-document-process-and-submission) → [Readiness checklist](#16-common-failure-points-and-review-checklist) | A truthful evidence pack mapped to actual criteria |
+
+**Vocabulary:** *Endorsement* = specialist recognition assessment; *visa* = separate Home Office immigration decision; *exceptional promise* = potential leadership at an appropriately early career stage, **not** a weaker-document shortcut; *optional criteria* = specific qualifying contribution areas, **not** optional evidence you may simply omit.
+
+
+## Visual decision architecture: digital technology
 
 This diagram is a **planning map**, not an automatic eligibility decision. Check the current official requirements and endorsing-body guidance before relying on any evidence category.
 
@@ -55,22 +76,7 @@ flowchart LR
 
 **How to use this architecture:** Treat each box as a review checkpoint. The criteria and documentary limits are explained in the sections below; practical projects or a 24-month development plan do not replace the official requirements.
 
-
-## Which parts should you read first?
-
-| Your situation | First useful sections | A realistic first output |
-| --- | --- | --- |
-| **Complete beginner to Global Talent** | [Visa explanation](#start-here--what-is-the-global-talent-visa-for-digital-technology) → [Official rules](#1-understand-the-actual-rules) | Clear understanding of what recognition and evidence mean |
-| **Data analyst, scientist, engineer or developer** | [Professional route selection](#2-choose-the-right-professional-pathway) → [Evidence mapping](#3-map-evidence-to-the-criteria) | Real contribution inventory and gaps |
-| **Founder or product builder** | [Technology product playbook](#5-build-and-validate-a-meaningful-technology-product) → [Referees](#8-develop-real-relationships-with-potential-referees) | Verified product work, customers and recognition strategy |
-| **Little/no independent recognition** | [Evidence-building strategies](#4-choose-one-practical-evidence-building-strategy) → [24-month action options](#10-your-detailed-24-month-implementation-plan) | One concrete project and authentic external-review plan |
-| **Evidence already strong** | [Documents and restrictions](#14-application-document-process-and-submission) → [Readiness checklist](#16-common-failure-points-and-review-checklist) | A truthful evidence pack mapped to actual criteria |
-
-**Vocabulary:** *Endorsement* = specialist recognition assessment; *visa* = separate Home Office immigration decision; *exceptional promise* = potential leadership at an appropriately early career stage, **not** a weaker-document shortcut; *optional criteria* = specific qualifying contribution areas, **not** optional evidence you may simply omit.
-
----
-
-## Official-rule verification checkpoint — 10 November 2026
+## Official-rule verification checkpoint: 10 November 2026
 
 This guide's planning activities are separate from the official endorsement criteria. The following document requirements were cross-checked directly against [GOV.UK's Digital Technology documents page](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement):
 
@@ -89,9 +95,8 @@ This guide's planning activities are separate from the official endorsement crit
 
 **Evidence quality test:** The document count is a *submission format*, not a points score. Having ten pages or ten items without credible independent recognition does not establish eligibility.
 
----
 
-## Start here — what is the Global Talent visa for digital technology?
+## Start here: what is the Global Talent visa for digital technology?
 
 ### What is this visa?
 
@@ -134,7 +139,6 @@ The month-by-month table in this resource is **Mettelo's suggested career-develo
 
 **Read first:** [Global Talent overview](https://www.gov.uk/global-talent-digital-technology) · [Eligibility](https://www.gov.uk/global-talent-digital-technology/eligibility) · [Documents](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement) · [Tech Nation applicant guidance](https://technation-globaltalentvisa-guide.notion.site/e645304dc1ba4f77a1f095d224a8a7b9).
 
----
 
 ## Contents
 
@@ -159,7 +163,6 @@ The month-by-month table in this resource is **Mettelo's suggested career-develo
 16. [Common failure points and review checklist](#16-common-failure-points-and-review-checklist)
 17. [Sources, review status and cautions](#17-sources-review-status-and-cautions)
 
----
 
 ## 1. Understand the actual rules
 
@@ -199,7 +202,6 @@ A public URL alone is not necessarily accepted as an evidence document: current 
 
 The endorsement and the immigration application are **different stages**. The official application guidance says a successful applicant must apply for the visa **within three months of receiving the endorsement letter** and that endorsement does not automatically grant a visa. **Applying for endorsement alone does not extend existing UK permission.** People approaching the expiry of their visa should seek appropriate regulated advice promptly. Fees and healthcare-surcharge amounts can change: check the [live GOV.UK overview](https://www.gov.uk/global-talent-digital-technology) before paying.
 
----
 
 ## 2. Choose the right professional pathway
 
@@ -216,7 +218,6 @@ The original Mettelo handbook identified analyst/data scientist, engineer/develo
 
 **Selection exercise:** Write: “My strongest demonstrable contribution is [specific work], my exact part was [decisions and outputs], the independently checkable result is [fact], and the target criterion may be [specific criterion].” If you cannot complete the sentence accurately, the first priority is meaningful work and records, not writing an endorsement story.
 
----
 
 ## 3. Map evidence to the criteria
 
@@ -236,13 +237,12 @@ A single blog, GitHub star count, paid news placement, attendance certificate or
 
 For every potential document, answer all six questions: (1) what exact criterion? (2) what did I personally do? (3) what independent record confirms it? (4) when did it happen? (5) what makes the achievement significant beyond routine duties? (6) can it be shared legally and honestly? Retain items only when the answers are substantive.
 
----
 
 ## Practical evidence patterns observed in successful applicants
 
 **Where these examples come from:** The [Tech Nation Global Talent Ambassador success stories](https://technation.io/global-talent-success-stories/) report professional achievements and advice from people who successfully secured the visa. The [Home Office's evaluation of Global Talent visa holders](https://www.gov.uk/government/publications/global-talent-visa-evaluation-wave-2-report/global-talent-visa-evaluation-wave-2-report) also records applicants' experiences gathering letters, using work evidence and obtaining guidance. The **patterns below are anonymised summaries**, not reconstructions of anyone's confidential application dossier. Public success stories rarely reveal which specific documents an assessor accepted, so no activity here should be described as a proven approval tactic.
 
-### Pattern 1 — A substantial product contribution at work
+### Pattern 1: A substantial product contribution at work
 
 **What successful holders reported:** Some described designing and shipping digital products used at meaningful scale, improving a product's capabilities or addressing expensive technical problems. Their public stories emphasised work actually delivered, not simply their employers' reputation.
 
@@ -255,7 +255,7 @@ For every potential document, answer all six questions: (1) what exact criterion
 
 **Possible records:** Dated product brief, release evidence, permitted metric extract, independent senior review. **Weak substitute:** employment contract plus an assertion that the company is famous.
 
-### Pattern 2 — Open-source work with independent peer acknowledgement
+### Pattern 2: Open-source work with independent peer acknowledgement
 
 **Why this matters:** GOV.UK explicitly identifies open-source contribution **acknowledged by peers as advancing the field** as a possible form of evidence; merely opening a repository does not prove it.
 
@@ -268,7 +268,7 @@ For every potential document, answer all six questions: (1) what exact criterion
 
 **Possible records:** Public accepted PR and discussion, maintainer review, user or release reference. **Weak substitute:** green contribution squares, star counts or a cloned tutorial repository.
 
-### Pattern 3 — Independent external speaking and professional recognition
+### Pattern 3: Independent external speaking and professional recognition
 
 **What successful holders reported:** Public profiles describe presenting expert knowledge, community engagement and professional visibility as parts of established technology careers. These are not all identical forms of acceptance evidence.
 
@@ -280,7 +280,7 @@ For every potential document, answer all six questions: (1) what exact criterion
 
 **Possible records:** Selection communication, official speaker page, recording, presentation materials and organiser confirmation. **Weak substitute:** self-produced event poster or attendance certificate.
 
-### Pattern 4 — Founder activity backed by product and commercial records
+### Pattern 4: Founder activity backed by product and commercial records
 
 **What successful holders reported:** Tech Nation's ambassador profiles include founders with actual product development, partnerships, commercial operations, entrepreneurial recognition and, in some cases, outside awards or acceleration recognition.
 
@@ -293,7 +293,7 @@ For every potential document, answer all six questions: (1) what exact criterion
 
 **Possible records:** Dated product release and usage, customer statements, permissible business accounts, genuine recognised award. **Weak substitute:** certificate of incorporation plus a landing page.
 
-### Pattern 5 — Sustained volunteering and mentoring with actual outcomes
+### Pattern 5: Sustained volunteering and mentoring with actual outcomes
 
 **What successful holders reported:** Some profiles mention long-term voluntary technical teaching or mentoring alongside substantial professional technology work. The successful application cannot be attributed to mentorship alone.
 
@@ -305,7 +305,7 @@ For every potential document, answer all six questions: (1) what exact criterion
 
 **Possible records:** Independent programme confirmation, dated curriculum, participant work and follow-up outcomes. **Weak substitute:** large WhatsApp membership counts or certificates issued by your own community.
 
-### Pattern 6 — Referees developed through genuine work and sufficient time
+### Pattern 6: Referees developed through genuine work and sufficient time
 
 **What successful holders and official research show:** Gathering credible recommendation letters may take months. Applicants have sought advice through former colleagues, work teams, technology networks, visa-holder communities and appropriately qualified professional advisers. Tech Nation requires each expert to have known the applicant's work for **at least 12 months**.
 
@@ -324,13 +324,12 @@ They do **not** prove that a particular Github project, accelerator, talk, publi
 
 **Sources to study:** [Tech Nation's first-hand ambassador accounts](https://technation.io/global-talent-success-stories/) · [Home Office evaluation of successful visa holders](https://www.gov.uk/government/publications/global-talent-visa-evaluation-wave-2-report/global-talent-visa-evaluation-wave-2-report) · [Official document evidence examples](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement).
 
----
 
 ## 4. Choose one practical evidence-building strategy
 
 Do not attempt every route below. Pick the combination that best matches your work, time, permission and professional strengths.
 
-### Strategy A — product builder (recommended for founders and experienced engineers)
+### Strategy A: product builder (recommended for founders and experienced engineers)
 
 **Example idea:** A reusable open-source data quality and pipeline-monitoring product for small organisations. It ingests approved public or synthetic datasets, detects schema drift, validates totals and provides meaningful incident records. This is **an example project**, not a guarantee of genuine innovation; investigate whether the feature is already common.
 
@@ -338,25 +337,24 @@ Do not attempt every route below. Pick the combination that best matches your wo
 
 **Recommended starting links:** [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues), [GitHub releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases), [Companies House](https://find-and-update.company-information.service.gov.uk/), [GOV.UK data protection](https://www.gov.uk/data-protection).
 
-### Strategy B — open-source contributor (recommended for developers, data engineers and ML engineers)
+### Strategy B: open-source contributor (recommended for developers, data engineers and ML engineers)
 
 Choose **one project you actually use**, learn its contribution guidelines and solve a real maintenance problem. Your sequence: reproduce a bug → discuss scope with maintainer → add failing test → implement correction → obtain PR review → respond to feedback → merge → help maintain the fix. Repeat where useful, then tackle a substantive issue. Quality of accepted changes and external acknowledgement matters more than PR counts.
 
 **Where to begin:** [GitHub's official contribution guide](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github), [GitHub good first issue search](https://github.com/issues?q=is%3Aopen+label%3A%22good+first+issue%22), [GitHub open-source guide](https://opensource.guide/how-to-contribute/). Verify whether any issue is still open before volunteering.
 
-### Strategy C — technical communicator and community builder (recommended for established practitioners)
+### Strategy C: technical communicator and community builder (recommended for established practitioners)
 
 Do **real technical work first**, then teach its limitations and decisions. Start with a five-minute practical talk at a meetup and develop a detailed case study. Build an authentic series where participants complete tested tasks; record delivery, peer review and approved outcomes. Aim for independent organisers and audiences as well as your own network. Running your own small webinar is useful practice but should not be mislabelled independent recognition.
 
 **Concrete route:** [PyData London speaking FAQ](https://london.pydata.org/faq/) describes contacting the organisers through Meetup with talk title and abstract; [PyData events](https://pydata.org/all-events/) lists its activities. Speak because you have useful evidence to share, not to collect arbitrary event badges.
 
-### Strategy D — technical research (recommended where research skill and real expert scrutiny exist)
+### Strategy D: technical research (recommended where research skill and real expert scrutiny exist)
 
 Pick a reproducible engineering/AI research question, such as how drift detection behaves under missingness and delayed data. Create baseline models, evaluation data, methods and code; discuss a credible collaboration with an appropriate researcher; seek an actual peer-reviewed or expert-endorsed route. A public preprint is useful dissemination but **does not automatically equal peer-reviewed publication or accepted evidence**.
 
 **Where to begin:** [Zenodo](https://zenodo.org/) for appropriately licensed research releases, [PyData](https://pydata.org/) for technical community contacts, and an academic department or research collaborator in the relevant speciality.
 
----
 
 ## 5. Build and validate a meaningful technology product
 
@@ -397,7 +395,6 @@ Where to learn (learning alone is **not visa evidence**): [DataTalks.Club Data E
 
 Describe: target users; problem and why alternatives fail; installation; architecture; personal technical contribution; dataset permission; tests; measurable results; limitations; licence; contributors; live version and change history. Remove restricted partner/client data and production credentials.
 
----
 
 ## 6. Make open-source contributions that matter
 
@@ -422,7 +419,6 @@ Describe: target users; problem and why alternatives fail; installation; archite
 
 Start: [GitHub contributions](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source), [open-source guidance](https://opensource.guide/how-to-contribute/).
 
----
 
 ## 7. Build professional recognition through genuine external activity
 
@@ -446,7 +442,6 @@ Write a one-page factual story brief: real innovation, whose problem it addresse
 
 Prefer a credible established programme or meaningful community project. Agree goals, frequency and actual learning/problem-solving outputs. Collect consented participant feedback or independently confirmed organiser records. Your own attendance register alone is a weaker record. The distinction between paid job duties and work outside the occupation matters for that criterion.
 
----
 
 ## 8. Develop real relationships with potential referees
 
@@ -472,7 +467,6 @@ Three letters must come from eligible experts who have actually known your **wor
 
 **Do not ask an unfamiliar prominent person to sign a prepared generic endorsement.** Being professionally senior does not override the knowledge requirement.
 
----
 
 ## 9. Publish credible technical work and research
 
@@ -498,7 +492,6 @@ Three letters must come from eligible experts who have actually known your **wor
 - “Thousands of users” where those were newsletter sign-ups, trial registrations or one-off views.
 - “My product reduced operating costs” without an attributable measured comparison.
 
----
 
 ## 10. Your detailed 24-month implementation plan
 
@@ -515,7 +508,7 @@ Three letters must come from eligible experts who have actually known your **wor
 | No expert referees | Do genuine work with reputable experts and document when they first directly knew your contributions | Actual lead engineer, product head, open-source maintainer or research collaborator | A cold-connected senior person can attest to 12 months' work |
 | No independent press or awards | Complete something substantively useful; seek real editorial or professional review | Topic-relevant publication editorial desk or legitimate professional award organiser | Paid publicity is independent recognition |
 
-### Phase 1 — Build a concrete technical foundation (months 1–6)
+### Phase 1: Build a concrete technical foundation (months 1–6)
 
 | Month and practical target | **Three specific action strategies — choose by relevance** | **Who to approach, how, and fallback** | **Evidence to retain** |
 | --- | --- | --- | --- |
@@ -526,7 +519,7 @@ Three letters must come from eligible experts who have actually known your **wor
 | **05 — Turn the prototype into a dependable release** | 1. **A — Engineering:** Add null, duplicate, schema, reconciliation, backfill, retry and failure-handling checks where they apply; record actual results.<br><br>2. **B — Access/ethics:** Check data rights, source licences and privacy; see [UK data protection guidance](https://www.gov.uk/data-protection).<br><br>3. **C — Independent test:** Ask a technical peer to install/run the project from the README; address their bug reports through issues and PRs. | **Who/where:** Invite a DataTalks peer, work-authorised engineer or open-source collaborator; share a test repo, not credentials or client extracts. If nobody volunteers, add an automated clean-install workflow and disclose that it is self-tested. | Release v0.1, coverage or validation report, change log, reviewer issues and clearly described limitations. |
 | **06 — Decide whether to continue, pivot or join a real project** | 1. **A — Audit:** Compare product value and third-party feedback against mandatory recognition and the two prospective optional areas; do not force a mapping.<br><br>2. **B — External project route:** Apply for an appropriately scoped project through [Omdena](https://www.omdena.com/projects); the site offers actual application routes and project types.<br><br>3. **C — Volunteer route:** Create a [DataKind volunteer profile](https://www.datakind.org/join-us/volunteer/) for remote opportunities where skills fit; UK [DataKind UK's form is currently paused](https://www.datakind.org.uk/volunteer/), so use its newsletter instead. | **Approach:** Pitch your demonstrated capability and availability, ask about the work and ownership, and accept that acceptance depends on the organisation. If no placement opens, continue your product pilot. | Six-month evidence audit, chosen main path and documented applications/replies—do not label an application as participation. |
 
-### Phase 2 — Make external contributions and be reviewed (months 7–12)
+### Phase 2: Make external contributions and be reviewed (months 7–12)
 
 | Month and practical target | **Three specific action strategies — choose by relevance** | **Who to approach, how, and fallback** | **Evidence to retain** |
 | --- | --- | --- | --- |
@@ -537,7 +530,7 @@ Three letters must come from eligible experts who have actually known your **wor
 | **11 — Deliver external service or mentoring work** | 1. **A — DataKind Global:** Keep a current [volunteer profile](https://www.datakind.org/join-us/volunteer/) and respond to a specific suitable project opening.<br><br>2. **B — Omdena:** Apply to a [collaborative AI project](https://www.omdena.com/projects) with a clear role in validation, deployment or evaluation.<br><br>3. **C — Independent mentorship:** Offer a bounded project-review clinic through an established community; document work actually reviewed and outcomes, not member counts. | **Contact:** Apply through the actual programme forms and scope a real task. DataKind UK currently says recruitment is paused; subscribe to its [volunteer newsletter](https://www.datakind.org.uk/volunteer/) instead of claiming an active vacancy. | Agreed scope, accepted participation (if selected), dated code/feedback and independent organiser verification. |
 | **12 — Audit whether your activity could count** | 1. **A — Mandatory criterion:** Identify external independent recognition genuinely connected to digital-technology work, or mark 'not yet demonstrated'.<br><br>2. **B — Optional criteria:** Separately check innovation, product-led contribution, beyond-work advancement or research; choose the best two supported by actual records.<br><br>3. **C — Improve weak evidence:** Re-read [GOV.UK document requirements](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement) and [Tech Nation guidance](https://technation.io/global-talent-visa/); do not claim certificates or ordinary teaching are enough. | **Who:** Ask a qualified regulated adviser for immigration questions or an experienced technical reviewer for technical significance. Avoid anyone selling guaranteed letters/endorsement. | Criterion-by-criterion year-one evidence register, provenance, gaps and realistic second-year priorities. |
 
-### Phase 3 — Demonstrate stronger external impact (months 13–18)
+### Phase 3: Demonstrate stronger external impact (months 13–18)
 
 | Month and practical target | **Three specific action strategies — choose by relevance** | **Who to approach, how, and fallback** | **Evidence to retain** |
 | --- | --- | --- | --- |
@@ -548,7 +541,7 @@ Three letters must come from eligible experts who have actually known your **wor
 | **17 — Create technically rigorous research** | 1. **A — Define:** Choose a falsifiable domain problem, such as drift-detection stability with late records; document baseline and competing hypotheses.<br><br>2. **B — Execute:** Use licensed public/synthetic data, repeatable code, statistical uncertainty and negative cases; ask a domain researcher to review protocol.<br><br>3. **C — Publish:** Archive permitted materials on [Zenodo](https://zenodo.org/); explore appropriate peer-reviewed venues separately and do not label a repository deposit 'peer reviewed'. | **Who:** An academic with relevant topic expertise, a university open research group or research-maintenance community. Approach with a complete protocol and clear question, not a generic letter request. | Reproducible paper/report, data licence, code version, external review and actual publication decision. |
 | **18 — Submit more ambitious external talk or workshop** | 1. **A — Re-submit improved talk:** Use [PyData London speaker guidance](https://london.pydata.org/submit-a-talk/) with stronger data and audience-learning objectives.<br><br>2. **B — Propose specialist talk:** Contact relevant [PyData events](https://pydata.org/all-events/) when proposals actually open.<br><br>3. **C — Workshop option:** Offer a code-based technical clinic with a verified organiser and review participants' real work. | **Method:** Send a clear title, abstract, audience, evidence demo and 3 objectives to the published submission route. Do not misrepresent a self-hosted livestream as selected industry speaking. | Acceptance letter only if selected; official programme/recording and documented participant outcomes. |
 
-### Phase 4 — Qualify evidence and decide on application (months 19–24)
+### Phase 4: Qualify evidence and decide on application (months 19–24)
 
 | Month and practical target | **Three specific action strategies — choose by relevance** | **Who to approach, how, and fallback** | **Evidence to retain** |
 | --- | --- | --- | --- |
@@ -559,7 +552,7 @@ Three letters must come from eligible experts who have actually known your **wor
 | **23 — Conduct an independent go/no-go review** | 1. **A — Criteria:** Read latest [eligibility rules](https://www.gov.uk/global-talent-digital-technology/eligibility) and check the complete mandatory and optional record.<br><br>2. **B — Immigration:** Verify your present permission, dependants and the endorsement-then-visa timing; seek regulated advice where status is complex.<br><br>3. **C — Honest decision:** If recognition or 12-month expert relationships are absent, postpone and expand actual professional activity. | **Who:** A regulated immigration adviser for legal issues, and technical/domain reviewers for the credibility of work (not anyone promising approval). | Written readiness decision with missing evidence, verified source dates and revised timetable if not ready. |
 | **24 — Apply only with an admissible, truthful case** | 1. **A — Submission:** Follow the current [official endorsement process](https://www.gov.uk/global-talent-digital-technology/apply-for-endorsement) and Tech Nation authorship and evidence requirements.<br><br>2. **B — Post-endorsement:** If successful, separately complete the visa application on time using the current instructions and fees.<br><br>3. **C — If not ready or refused:** Preserve the real record, check current review options where applicable and develop genuine missing contributions rather than buying documents. | **Where:** Official GOV.UK entry point; genuine expert signatories; qualified immigration assistance where needed. No third-party agent should guarantee endorsement. | Actual submitted receipt only when submitted; otherwise an accurate revised development plan. |
 
-### Practical outreach playbooks — use these alongside the month tables
+### Practical outreach playbooks: use these alongside the month tables
 
 #### Approach 1: Contact a real problem owner for a pilot
 
@@ -595,53 +588,51 @@ Map people who have **personally reviewed your work**: engineering leads, experi
 
 **Reminder:** The official documentary requirements and Tech Nation guidance override these suggested activities. [GOV.UK digital technology eligibility](https://www.gov.uk/global-talent-digital-technology/eligibility) · [Evidence documents](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement).
 
----
 
 ## 11. First 90 days: precise actions
 
-### Days 1–14 — evidence audit
+### Days 1–14: evidence audit
 
 Create a **private** folder structure: `01-career-history/`, `02-product-work/`, `03-public-contributions/`, `04-external-recognition/`, `05-referee-relationships/`. Make a spreadsheet with columns: claim, criterion, dated work, your role, real outcome, primary source, permission and missing evidence. Read [the official eligibility page](https://www.gov.uk/global-talent-digital-technology/eligibility) before selecting your target pathway.
 
 **End-of-fortnight output:** factual chronology and a red/amber/green gap map. Red is a genuine gap, not something AI should fill.
 
-### Days 15–30 — user discovery and proposal
+### Days 15–30: user discovery and proposal
 
 Select one problem within your ability and lawful permissions. Draft interview questions about recent workarounds and measurable failure. Conduct a suggested **5–8 interviews**, keeping names and consented records appropriately private. Compare at least three alternatives and produce a one-page requirements brief.
 
 **End-of-month output:** a falsifiable problem, candidate users, success measure and a reason not to build if the evidence is poor.
 
-### Days 31–60 — prototype and testing
+### Days 31–60: prototype and testing
 
 Build the smallest complete solution. Add a README, appropriate data permissions, automated tests, baseline comparison and a review request to a legitimate expert. Keep architecture decisions and failures, not only a successful demo screenshot.
 
 **End-of-month output:** independently runnable proof of work and explicit limitations.
 
-### Days 61–90 — pilot and first expert review
+### Days 61–90: pilot and first expert review
 
 Conduct a small authorised pilot; collect outcomes and feedback; update the product and issue log; invite technical critique. Prepare a short case-study outline, a plan for sustained contribution and a realistic Month 4–6 backlog.
 
 **End-of-quarter output:** actual product evidence, test results, external feedback and a revised route selection. Not a visa application pack.
 
----
 
 ## 12. Illustrative evidence portfolios for three profiles
 
 These are **examples of how to think about a coherent record**, not claims of eligibility, guaranteed accepted documents or invented achievements.
 
-### Profile A — data engineer employed at a product-led technology company
+### Profile A: data engineer employed at a product-led technology company
 
 **Potential mandatory narrative:** meaningful outside recognition for a technically consequential product or sustained accepted open-source contribution. **Optional areas selected:** significant product-led technical contribution + beyond-occupation technical advancement.
 
 Practical project: own performance/reliability improvements in a genuine product, secure permission to report specific attributed changes, maintain a relevant open-source package and gather independent maintainer assessment. If the employer is *not* a product-led digital business, do not misclassify routine internal reporting as that optional area.
 
-### Profile B — data scientist building an independently used product
+### Profile B: data scientist building an independently used product
 
 **Potential mandatory narrative:** externally recognised original product or research achievement. **Optional areas selected:** innovation + beyond-occupation technical contribution, if both genuinely demonstrated.
 
 Practical project: build and evaluate a distinctive service, document its original technical aspects, acquire genuine users, compare against alternatives, maintain an open-source component and seek external review. A personal prototype is only an early step; no recognition is implied by its creation.
 
-### Profile C — founder of a UK/Nigerian technology product
+### Profile C: founder of a UK/Nigerian technology product
 
 **Potential mandatory narrative:** independently recognised technology entrepreneurship and product impact. **Optional areas selected:** innovation + significant technical/commercial contribution to a product-led business, where the exact category wording and records support them.
 
@@ -649,11 +640,10 @@ Practical project: dated roadmap → prototype → consented pilot → real cust
 
 **Professional judgement:** If an applicant has only certificates and a few tutorial projects, the constructive recommendation may be to build a genuine technology record first rather than submit.
 
----
 
 ## 13. Evidence register and quality controls
 
-### Blank planning register — keep personal entries private
+### Blank planning register: keep personal entries private
 
 | Ref | Proposed area | What actually happened | Primary record | Independent verification | Your ownership | Status |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -678,7 +668,6 @@ Practical project: dated roadmap → prototype → consented pilot → real cust
 - [ ] Appropriate consent, licences and confidentiality clearance.
 - [ ] File format and page/document limits checked against live instructions.
 
----
 
 ## 14. Application-document process and submission
 
@@ -710,7 +699,6 @@ Complete endorsement using [the official application entry point](https://www.go
 
 Protect passports, immigration IDs, personal addresses, company secrets and client records. Avoid publishing completed evidence packs or referee contact details to public GitHub. Do not submit any application-related information contrary to the government's or Tech Nation's current AI and authorship restrictions.
 
----
 
 ## 15. Practical link directory
 
@@ -734,7 +722,6 @@ Protect passports, immigration IDs, personal addresses, company secrets and clie
 
 These are **ways to do real work**, not a list of organisations guaranteed to endorse, recognise, mentor or recommend you. Conference calls, GitHub issues and programme availability change. Check every opportunity's current status before applying.
 
----
 
 ## 16. Common failure points and review checklist
 
@@ -765,7 +752,6 @@ These are **ways to do real work**, not a list of organisations guaranteed to en
 
 **If key items fail, continue the professional development plan instead of creating unsupported documents.**
 
----
 
 ## 17. Sources, review status and cautions
 
@@ -792,7 +778,6 @@ The product, open-source, speaking and referee playbooks are optional **Mettelo 
 
 **Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**
 
----
 
 ### Find your way around
 

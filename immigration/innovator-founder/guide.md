@@ -425,7 +425,7 @@ Business: [IDEA]. Founder experience: [TRUE SKILLS]. Target customer: [SEGMENT].
 
 **Editorial policy:** Mettelo distinguishes official visa rules from original business-development advice. Business ideas above are hypotheses for research—not promises of innovation, demand, funding, endorsement or immigration success. Review government rules and opportunities on the actual application date.
 
-**Status:** Comprehensive practical edition; final full external-link and specialist immigration-adviser sign-off pending.
+**Mettelo editorial edition 1.0:** Complete practical guide. Live endorser terms, external opportunities and individual immigration eligibility must be checked before any application; a separate regulated immigration-adviser sign-off has not been performed.
 
 **Mettelo · Built for What's Next · Prepared by Johnson Taiwo**
 

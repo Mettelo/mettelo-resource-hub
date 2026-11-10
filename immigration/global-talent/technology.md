@@ -707,11 +707,9 @@ These are **ways to do real work**, not a list of organisations guaranteed to en
 
 ## 17. Sources, review status and cautions
 
-The October 2026 original 30-page source (available through Git commit history) supplied the initial approach: UK/Nigeria career positioning, talent/promise distinction, recognition and two optional areas, 3 expert letters, document map, product building, open source, mentorship, speaking, press, 90-day actions and 24-month career planning. This enhanced version retains those themes while significantly deepening the practical execution.
+### Using the practical strategies
 
-### What has been newly added
-
-The beginner-oriented introduction and anonymised successful-holder patterns (added 9 November 2026), the 24-row implementation tables, detailed product/open-source/speaking/referee playbooks, hypothetical project examples, evidence quality gates, revised decision tables and direct practical resource links are **new Mettelo recommendations**, researched and prepared on **9 November 2026**. These are not official visa requirements. Activity counts such as interviews, pilots, months and contributions are suggested planning targets only.
+The product, open-source, speaking and referee playbooks are optional **Mettelo career-development recommendations**, not Home Office requirements. Suggested activity counts and deadlines should be adapted to real professional circumstances.
 
 ### Primary external sources checked
 
@@ -728,7 +726,7 @@ The beginner-oriented introduction and anonymised successful-holder patterns (ad
 
 ### Editorial state
 
-**Enhanced, substantially reviewed draft (November 2026).** Key statutory documentary requirements have been checked against current GOV.UK pages. A full legal review of every legacy source statement and a final GitHub rendering/link QA are still outstanding. If live official guidance changes, follow it and update the relevant statement before sharing the guide as authoritative. 
+**Enhanced, substantially reviewed draft (November 2026).** Key statutory documentary requirements have been checked against current GOV.UK pages. Final legal content and external-link review remain outstanding. If live official guidance changes, follow it and update the relevant statement before sharing the guide as authoritative. 
 
 **Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**
 

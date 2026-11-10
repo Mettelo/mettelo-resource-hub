@@ -1,55 +1,59 @@
-# How to Use the Mettelo Innovator Founder Tracker
+# Innovator Founder — Business Evidence & Progress Tracker
 
-[← Innovator Founder resources](README.md) · [Read 20-item checklist](checklist.md) · [Read guide](guide.md)
+**Mettelo private worksheet · Updated 10 November 2026**  
+[🏠 Home](../../README.md) · [Immigration](../README.md) · [Innovator Founder guide](guide.md) · [Preparation checklist](checklist.md)
 
-The supplied **Mettelo Innovator Founder Toolkit** contains an Excel workbook titled `Mettelo_Innovator_Founder_Tracker.xlsx`. It has two worksheets: **Checklist** and **Progress log**. This page explains their actual fields and how to maintain accurate records.
+Use this free, copyable worksheet to track a **real UK business problem**, market evidence, prototype, customer response, credible budgets, scale plan and immigration preparation. Copy tables to a private spreadsheet/document; the GitHub page does not save your edits.
 
-## Step 1 — Read the guide
+## 1. Create the business hypothesis register
 
-Start with the [Innovator Founder guide](guide.md) to understand the separate endorsement and visa application stages and the three venture tests: **innovation, viability and scalability**. Treat the guide as a preparation aid, not an eligibility decision. Its current GitHub adaptation remains a reviewed-outline draft.
+| ID | Customer and current workflow | Problem and real observation | Competitor / workaround | Test to perform | Status |
+| --- | --- | --- | --- | --- | --- |
+| P-01 | [Specific UK buyer] | [Evidence from interview/source] | [Real alternative] | [Interview / prototype / willingness-to-pay test] | Hypothesis |
+| P-02 | [Buyer] | [Observation] | [Alternative] | [Test] | Researching |
 
-## Step 2 — Work through the Checklist tab
+Read [12 concrete business idea directions](guide.md#4-twelve-business-opportunity-directions-to-investigate) to choose hypotheses, not claims of guaranteed novelty.
 
-The original sheet contains **20 preparation tasks** and the columns:
+## 2. Track the six workstreams
 
-| Column | Use |
-| --- | --- |
-| What I need to prepare | A specific source checklist item |
-| Status | Track your work; begin at **To do** |
-| Target date | Your intended completion date |
-| Saved file link | A link to the evidence stored privately |
-| Reminder and guide section | Indicates required, conditional or planning work and where to read more |
-
-Use the [Markdown version of all 20 tasks](checklist.md) to review the source checklist directly in GitHub. The source specifically cautions that **Ready is your own review, not endorsement or visa approval**, and that **Not needed** is appropriate only when a conditional item has been checked.
-
-## Step 3 — Keep the Progress log
-
-Record **one row per useful action** such as genuine customer research, prototype tests, pilots or application milestones. The source workbook columns are:
-
-| Date | What I did and the actual result | Evidence file link | My next step | Target date |
+| Workstream | What must be demonstrated | Evidence you have | Gaps | Owner / target |
 | --- | --- | --- | --- | --- |
-| YYYY-MM-DD | [Description backed by a real record] | [Secure private link] | [Specific follow-up] | YYYY-MM-DD |
+| UK market problem | Actual recurring buyer need and whom it affects | [Interview notes / primary data] | [Missing] | [Owner/date] |
+| Innovation | Specific, tested distinction from existing solutions | [Competitor matrix / technical tests] | [Missing] | [Owner/date] |
+| Founder ability | Genuine leadership and core business delivery skills | [Portfolio, team, prototype] | [Missing] | [Owner/date] |
+| Viability | Realistic commercial model, costs and resources | [Budget, pilot, confirmed feedback] | [Missing] | [Owner/date] |
+| Scalability | Feasible growth into UK/national markets and recruitment | [Delivery plan, scenarios] | [Missing] | [Owner/date] |
+| Endorsement & visa | Present authorised endorser and personal route requirements | [Official criteria check] | [Missing] | [Owner/date] |
 
-Record **actual outcomes**, not aspirational percentages or invented traction.
+## 3. Weekly progress log
 
-## Step 4 — Protect private evidence
+| Date | Actual work completed | Observation/result | Private evidence location | Decision and next task | Due |
+| --- | --- | --- | --- | --- | --- |
+| YYYY-MM-DD | [Spoke to two prospective buyers] | [Specific repeated workflow, or no demand] | [Private note] | [Clarify purchasing authority] | YYYY-MM-DD |
 
-A public Mettelo repository is appropriate for the **blank guide and blank checklist**, not your completed evidence collection. Keep bank records, immigration details, customer interviews, signed endorsements, IP agreements and financial forecasts private. Share only with trusted advisers or the authorised endorsing body as appropriate.
+**Do not convert registrations, survey compliments or model forecasts into claimed paying customers or revenue.** Keep failures: they prevent wasteful development.
 
-## What Markdown cannot do
+## 4. Decision gates
 
-GitHub Markdown is excellent for reading, linking and copying a checklist, but unlike Excel it does not provide a private editable status dashboard or automatically save a visitor's ticked items. A member who needs interactive tracking should download or create a private copy of the workbook.
+| Gate | Questions | Decision |
+| --- | --- | --- |
+| Problem real? | Have potential independent buyers described the same recurring issue? | Continue / reposition / stop |
+| Genuine difference? | Are named competitors inadequate for reasons real customers confirm? | Build / revise / stop |
+| Deliverable? | Can the founders make and support the core innovation safely? | Pilot / add capability |
+| Commercial? | Can actual buyers approve a purchase, and can costs be met? | Price test / change business |
+| Scalable? | Are repeatable acquisition, staffing, systems and financing plausible? | Expand plan / remain niche |
+| Visa ready? | Does the actual authorised endorser accept this type of venture, and are personal requirements met? | Seek appropriate review / wait |
 
-**Interactive tracker:** The preparation tasks and tracker instructions are available in this library. An interactive Excel file is not currently provided.
+## 5. Handling personal and commercial records
 
-## Before applying
+Never commit bank statements, customer interview recordings, passports, personal emails, confidential datasets, passwords, endorsement letters or nonpublic IP to Mettelo's repository. Use access-controlled files and permitted samples. Maintain dated provenance for any revenue, technical or customer outcome.
 
-Check the live [visa requirements](https://www.gov.uk/innovator-founder-visa) and the [government-approved endorsing-body list](https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies). The workbook's review date was 23 October 2026, and the applicable rules or provider conditions may change.
+## 6. Current official references
 
-**Prepared by Johnson Taiwo · Mettelo**
+[Innovator Founder eligibility](https://www.gov.uk/innovator-founder-visa/eligibility) · [Authorised endorsing bodies](https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies) · [Immigration Rules](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-innovator-founder).
 
----
+**A completed Mettelo tracker is not an endorsement or visa assessment.** The [20-step checklist](checklist.md) covers supporting preparation; the [main guide](guide.md) provides detailed UK market research and a 90-day plan.
 
-### Find your way around
+**Mettelo · Built for What's Next · Prepared by Johnson Taiwo**
 
-[← Innovator Founder resources](README.md) · [⭐ Start here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md) · [🏠 Home](../../README.md)
+[← Innovator Founder](README.md) · [← Immigration](../README.md) · [Start Here](../../START_HERE.md) · [🏠 Home](../../README.md)

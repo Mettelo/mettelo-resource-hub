@@ -245,3 +245,183 @@ body[data-page="guide"] .reader-sidebar .toc a.active{border-left-width:4px}
  .resource-card:hover{transform:none;box-shadow:none}
  .button:hover{transform:none}
 }
+
+/* ===============================================================
+   Mobile reading refinements: semantic stacked tables and lists.
+   Do not depend on pinch-zooming or sideways page scrolling.
+   =============================================================== */
+body[data-page="guide"] .markdown-content ol:not(.architecture-grid),
+body[data-page="guide"] .markdown-content ul{
+  list-style-position:outside;
+  padding-inline-start:clamp(24px,4vw,32px)!important;
+  margin-block:14px 21px;
+}
+body[data-page="guide"] .markdown-content ol:not(.architecture-grid){list-style-type:decimal}
+body[data-page="guide"] .markdown-content ul{list-style-type:disc}
+body[data-page="guide"] .markdown-content :is(ol,ul) :is(ol,ul){
+  padding-inline-start:26px!important;
+  margin-block:9px 12px;
+}
+body[data-page="guide"] .markdown-content ol ol{list-style-type:lower-alpha}
+body[data-page="guide"] .markdown-content ol ol ol{list-style-type:lower-roman}
+body[data-page="guide"] .markdown-content ul ul{list-style-type:circle}
+body[data-page="guide"] .markdown-content ul ul ul{list-style-type:square}
+body[data-page="guide"] .markdown-content li:not(.architecture-stage){
+  display:list-item!important;
+  margin:0 0 11px;
+  padding:0 0 0 3px!important;
+  line-height:1.75;
+  min-width:0;
+  break-inside:avoid-page;
+}
+body[data-page="guide"] .markdown-content li:not(.architecture-stage)::marker{
+  color:#8d6019;
+  font-weight:750;
+}
+body[data-page="guide"] .markdown-content li:not(.architecture-stage)>p{
+  margin-block:0 9px;
+}
+body[data-page="guide"] .markdown-content li:not(.architecture-stage)>:is(ol,ul){
+  margin-block:7px 12px;
+}
+body[data-page="guide"] .markdown-content li:not(.architecture-stage) :is(p,a,strong,code){
+  overflow-wrap:anywhere;
+}
+/* Tick-box lists: keep checkboxes at the front of the list text. */
+body[data-page="guide"] .markdown-content li input[type="checkbox"]{
+  width:17px;height:17px;margin:0 8px 0 0;vertical-align:middle;
+}
+body[data-page="guide"] .markdown-content .architecture-stage li{
+  display:list-item!important;
+  line-height:1.55;
+  margin-bottom:8px;
+  padding-left:13px!important;
+}
+body[data-page="guide"] .markdown-content .architecture-stage ul{
+  list-style:none!important;padding:0!important;margin:0 0 17px!important;
+}
+body[data-page="guide"] .markdown-content .architecture-stage li::marker{
+  content:"";
+}
+
+/* Tables remain traditional tables on wide screens. */
+body[data-page="guide"] .table-scroll.is-card-table{
+  border:0;background:transparent;
+}
+body[data-page="guide"] .table-scroll.is-card-table table{
+  border-collapse:collapse;
+}
+@media(max-width:760px){
+ body[data-page="guide"] .markdown-content{
+   font-size:15.5px;
+   overflow-wrap:break-word;
+ }
+ body[data-page="guide"] .markdown-content :is(ol,ul){
+   padding-inline-start:25px!important;
+   margin-block:13px 20px;
+ }
+ body[data-page="guide"] .markdown-content :is(ol,ul) :is(ol,ul){
+   padding-inline-start:22px!important;
+   margin-block:8px 11px;
+ }
+ body[data-page="guide"] .markdown-content li:not(.architecture-stage){
+   margin-bottom:13px;line-height:1.65;
+ }
+ body[data-page="guide"] .markdown-content li:not(.architecture-stage)>p{margin:0 0 7px}
+ body[data-page="guide"] .markdown-content li:not(.architecture-stage)::marker{
+   font-size:.93em;
+ }
+ /* Standard comparison tables are displayed as readable, labelled records.
+    Every row retains its complete set of cells and original hyperlinks. */
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table{
+   display:block!important;overflow:visible!important;
+   margin:20px 0 28px!important;
+   border:0!important;background:transparent!important;
+   max-width:100%!important;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table table{
+   display:block!important;width:100%!important;min-width:0!important;
+   max-width:100%!important;border:0!important;
+   background:transparent!important;font-size:14px!important;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table thead{
+   position:absolute!important;width:1px!important;height:1px!important;
+   overflow:hidden!important;clip:rect(0,0,0,0)!important;
+   white-space:nowrap!important;clip-path:inset(50%)!important;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table tbody{
+   display:grid!important;grid-template-columns:minmax(0,1fr);
+   width:100%;gap:13px;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table tbody tr{
+   display:block!important;min-width:0;width:100%;
+   background:#fff;border:1px solid #ded4c1;border-top:3px solid #303861;
+   border-radius:6px;overflow:hidden;
+   box-shadow:0 5px 18px rgba(20,25,37,.045);
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table tbody td{
+   display:block!important;min-width:0;width:100%!important;
+   padding:13px 15px!important;border:0!important;
+   border-bottom:1px solid #eee8dc!important;
+   background:#fff!important;color:#26313f;
+   line-height:1.64!important;
+   overflow-wrap:anywhere;word-break:normal;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table tbody td:last-child{
+   border-bottom:0!important;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table tbody td::before{
+   content:attr(data-label);
+   display:block;margin-bottom:5px;
+   color:#8d6019;font-weight:800;
+   font-size:11px;line-height:1.4;
+   text-transform:uppercase;letter-spacing:.065em;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table tbody td:first-child{
+   background:#fbf5e9!important;
+   font-weight:650;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table tbody td :is(ul,ol){
+   margin:7px 0 10px!important;
+   padding-left:22px!important;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table tbody td p{
+   margin:0 0 8px;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table tbody td p:last-child{
+   margin-bottom:0;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table tbody td a{
+   overflow-wrap:anywhere;text-underline-offset:3px;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table:focus-visible{
+   outline:none;
+ }
+ /* Complex spreadsheets retain native columns and a clearly labelled
+    horizontal scroll rather than discarding merged-cell relationships. */
+ body[data-page="guide"] .markdown-content .table-scroll:not(.is-card-table){
+   overflow-x:auto;max-width:100%;border-radius:7px;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll:not(.is-card-table) table{
+   width:max-content;min-width:560px;
+ }
+}
+@media(min-width:761px) and (max-width:980px){
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table table{
+   min-width:560px;
+ }
+}
+@media(max-width:360px){
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table tbody td{
+   padding:11px 12px!important;
+ }
+}
+@media print{
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table table{
+   display:table!important;
+ }
+ body[data-page="guide"] .markdown-content .table-scroll.is-card-table thead{
+   position:static!important;width:auto!important;height:auto!important;
+   clip:auto!important;clip-path:none!important;
+ }
+}

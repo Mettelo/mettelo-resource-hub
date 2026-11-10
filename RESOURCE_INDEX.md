@@ -41,7 +41,7 @@
 | [Mettelo GitHub Handbook](technical/github/github-handbook.md) | Beginner-to-advanced hands-on team project workflow | Enhanced/format review pending |
 | [Git & GitHub Command Reference](technical/github/git-github-command-reference.md) | Copyable commands, concrete workflows, recovery and security cautions | Enhanced draft; hands-on command test pending |
 | [GitHub Contribution Guide](technical/github/contribution-guide.md) | Rebuilt 15-section contribution policy with issue/PR templates, data and security safeguards | Enhanced draft; Mettelo policy effective date and adoption remain unconfirmed |
-| [Project Charter & Delivery Framework](technical/project-documentation/project-charter-template.md) | Fully reconstructed 15-section project charter and governance template with 23 readable source-informed tables | Enhanced draft; source reconciliation and owner sign-off pending |
+| [Project Charter & Delivery Framework](technical/project-documentation/project-charter-template.md) | Fully reconstructed 15-section project charter and governance template with 23 readable planning tables | Enhanced draft; final review and owner sign-off pending |
 | [Weekly Project Update](technical/project-documentation/weekly-update-template.md) | Ready-to-copy progress, evidence, risks and decision template with example | Enhanced template |
 | [Retrospective & Lessons Learned](technical/project-documentation/retrospective-template.md) | Facilitate constructive project reviews, assign follow-up actions and record lessons | Enhanced template |
 | [Project Experience & Capability Catalogue guide](technical/project-documentation/project-experience-catalogue-guide.md) | Seven-sheet workbook guide with filled fictional example and evidence-quality instructions | Enhanced guide; interactive Excel companion not hosted |
@@ -60,12 +60,11 @@
 
 [Global Talent tracker instructions](immigration/global-talent/tracker-guide.md) · [All Global Talent resources](immigration/global-talent/README.md)
 
-
 ### Other immigration and practical guidance
 
 | Resource | What it covers | Status |
 | --- | --- | --- |
-| [Innovator Founder preparation guide](immigration/innovator-founder/guide.md) | Business innovation/viability/scalability with eight-week customer validation plan | Enhanced draft; legal/call QA pending |
+| [Innovator Founder preparation guide](immigration/innovator-founder/guide.md) | UK problem discovery, 12 business ideas, market research, buyer interviews, 90-day and 12-month plans | Practical business guide; final legal/link checks pending |
 | [Innovator Founder 20-point checklist](immigration/innovator-founder/checklist.md) | Preparatory tracking | Available; interactive workbook not available |
 | [Innovator Founder tracker instructions](immigration/innovator-founder/tracker-guide.md) | How to use the progress tracker | Guide available; workbook not uploaded |
 | [Nigerian passport renewal from the UK](immigration/nigerian-passport/passport-renewal-uk.md) | Route selection, official NIS checks and practical instructions | Enhanced safety guidance; current route details must be rechecked |

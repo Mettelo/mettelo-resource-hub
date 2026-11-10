@@ -1,7 +1,7 @@
 # Nigerian Passport Renewal from the UK
 
 **Mettelo practical passport and consular guidance · Updated 10 November 2026**  
-[🏠 Resource Hub](../../README.md) · [Immigration](../README.md) · [Start Here](../../START_HERE.md)
+[🏠 Resource Hub](../../README.md) · [UK Visas & Nigerian Passport Services](../README.md) · [Start Here](../../START_HERE.md)
 
 ## Start with the right process
 
@@ -22,4 +22,4 @@ The guide explains how to decide between eligible **contactless renewal** and **
 
 **Important:** Passport application options, prices, booking arrangements and postal instructions can change. Confirm your **own route** directly before paying, mailing an original passport or travelling. Mettelo does not collect personal documents or process applications.
 
-[← Immigration](../README.md) · [🏠 Homepage](../../README.md)
+[← Visa & Passport Resources](../README.md) · [🏠 Homepage](../../README.md)

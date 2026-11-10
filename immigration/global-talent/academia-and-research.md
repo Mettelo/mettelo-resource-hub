@@ -8,6 +8,35 @@ Prepared by **Johnson Taiwo** · Mettelo
 
 > **Important:** Use the research endorsement route that matches your actual appointment, fellowship, approved grant or peer-review eligibility. The 24-month plan is optional career development, not a visa requirement.
 
+## Visual decision architecture — academia and research
+
+Research applications follow **different endorsement routes**, each with its own eligibility and documentation. Do not assemble a generic evidence bundle before identifying your actual route.
+
+```mermaid
+flowchart TD
+    A["Researcher's current professional position"] --> B{"Which official route fits an actual achievement or offer?"}
+    B --> C["Eligible academic/research appointment"]
+    B --> D["Eligible individual fellowship"]
+    B --> E["Approved research grant or funding"]
+    B --> F["Peer-review assessment"]
+    C --> G["Employer / HR and appointment-specific documentation"]
+    D --> H["Award and fellowship eligibility documentation"]
+    E --> I["Grant, funder, host and role-specific proof"]
+    F --> J["Research record, recommendations and expert assessment material"]
+    G --> K["Check current official route-specific rules"]
+    H --> K
+    I --> K
+    J --> K
+    K --> L{"Complete, authentic and eligible?"}
+    L -- "No" --> M["Correct missing evidence or reassess route"]
+    M --> B
+    L -- "Yes" --> N["Endorsement or fast-track process, as applicable"]
+    N --> O["Separate immigration application and decision"]
+```
+
+**Reader note:** This diagram does not mean an applicant may freely choose any of the four routes. Eligibility depends on the actual appointment, award, funding or research record and current official rules.
+
+
 ## Find your research route in two minutes
 
 | What you genuinely have now | Check first | Next real action |

@@ -4,7 +4,7 @@
 
 **Mettelo · Improved edition · 9 November 2026 · Prepared by Johnson Taiwo**
 
-> **Status: Enhanced working guide.** The source was a two-page “250-word STAR AI Guide”, with one prompt and review advice. This edition explains selection, grade alignment, drafting and rigorous review in practical detail. The source's **250-word and blind recruitment defaults are not universal requirements**; follow your vacancy. Original source remains recoverable in Git history.
+> **Using this guide:** Start with the actual job advert, essential criteria and applicant instructions. Examples are illustrative; never invent qualifications, responsibilities, outcomes or metrics. Employer requirements take priority.
 
 ## 1. Understand what a behaviour actually assesses
 
@@ -93,8 +93,6 @@ Read the answer aloud and ask: **What did I decide? Why was it difficult? What d
 ## Official free references
 
 [Success Profiles — Civil Service Behaviours](https://www.gov.uk/government/publications/success-profiles/success-profiles-civil-service-behaviours) · [Civil Service Careers guide](https://www.civil-service-careers.gov.uk/a-guide-to-civil-service-success-profiles/) · [Government Communication Service recruitment tips](https://gcs.civilservice.gov.uk/career/recruitment-guidance/recruitment-top-tips-for-candidates/).
-
-**Source distinction:** The original Mettelo two-page guide emphasised a detailed Action section, ownership, judgement, outcome and applicant review. The new selection worksheet, grade check, fictional illustration and evidence-auditing prompt are editorial additions based on the official framework.
 
 **Final status:** Enhanced draft; individual responses still require candidate review and vacancy-specific checking.
 

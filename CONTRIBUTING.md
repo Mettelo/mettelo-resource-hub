@@ -35,6 +35,12 @@ We welcome corrections, broken-link reports, clearer instructions and proposals 
 
 **Do not change every resource to Published at once.** Each guide needs its own approval record. The [current QA report](QUALITY_ASSURANCE.md) lists outstanding issues.
 
+## Ownership, confidentiality and reuse
+
+Contributors must have permission to contribute original material. Do not paste employer/client work, restricted documents, licensed stock imagery, private research or personal data without authorisation. A contribution does **not** automatically transfer copyright to Mettelo; record an explicit permission or assignment where necessary. Publication and redistribution follow [Copyright and Reuse](COPYRIGHT.md), [Reader Terms](TERMS_OF_USE.md), and [Security Policy](SECURITY.md).
+
+The main repository is a private editorial workspace. Only approved, sanitised resources should go to any public or member-facing website. See [Publishing Controls](PUBLISHING.md) for the current access and release checklist.
+
 ## Practical GitHub contribution standards
 
 Use clear, focused changes; update the relevant category README and [Resource Index](RESOURCE_INDEX.md) when adding or renaming a guide; use **relative Markdown links** for repository files; use one canonical page per subject; and make your pull-request description specific enough that reviewers can verify the work.

@@ -6,7 +6,7 @@ Prepared by **Johnson Taiwo** · Mettelo
 [← Global Talent guides](README.md) · [← Immigration](../README.md) · [← Mettelo Resource Hub](../../README.md)  
 [Route-specific tracker](research-checklist.md) · [Tracker instructions](tracker-guide.md)
 
-> **Status: Enhanced researched draft.** This is a newly developed practical guide, not a full transcription of the original source document (recoverable through Git commit history). Immigration rules and research opportunities change. The 24-month plan develops a real research career and is **not a mandatory visa requirement or approval formula**. Check the applicable current GOV.UK and endorsing-body guidance on your application date.
+> **Important:** Use the research endorsement route that matches your actual appointment, fellowship, approved grant or peer-review eligibility. The 24-month plan is optional career development, not a visa requirement.
 
 ## Introduction — who is this visa for?
 
@@ -281,13 +281,7 @@ Collaborate on substantial research with someone capable of assessing your field
 - [UKRI endorsed funders list](https://www.gov.uk/government/publications/ukri-endorsement-endorsed-funders-global-talent-visa)
 - [UKRI Gateway to Research refresh — 4 November 2026](https://www.ukri.org/news/ukri-launches-faster-easier-to-use-gateway-to-research/)
 
-### Provenance and editorial status
-
-**Original 31-page Mettelo handbook (October 2026):** original edition in Git commit history retains the initial research-route guidance, original 24-month content and DocuSign material. This enhanced guide **does not silently replace or claim to reproduce every original page**.
-
-**New November 2026 content:** Beginner-focused introduction, four-route decision table, explicit job/fellowship/grant/peer-review checklists, named organisations and real opportunity methods, research integrity guidance, 90-day plan, 24 monthly practical action entries, five direct outreach processes and route-specific document register. These are professional-development suggestions, not eligibility conditions.
-
-**Publication status: Enhanced researched draft.** Official eligibility was checked against live November 2026 government and relevant assessor material. A final legal-text audit, research-opportunity deadline check, Markdown rendering and link validation remain outstanding. Applying for **endorsement alone** is not immigration permission. Seek suitably regulated advice on personal immigration deadlines.
+**Publication status: Practical guide, with final specialist review pending.** Official eligibility was checked against live November 2026 government and relevant assessor material. A final legal-text audit, research-opportunity deadline check, Markdown rendering and link validation remain outstanding. Applying for **endorsement alone** is not immigration permission. Seek suitably regulated advice on personal immigration deadlines.
 
 **Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**
 

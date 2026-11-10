@@ -1,11 +1,11 @@
 # Mettelo GitHub Contribution Guide
 
 **Practical contribution, review and project-quality standards for Mettelo Labs**  
-**Source document v1.0 · Reformatted Markdown edition · 9 November 2026**
+**Mettelo contributor standards · Updated 10 November 2026**
 
 [🏠 Home](../../README.md) · [Start Here](../../START_HERE.md) · [GitHub resources](README.md) · [Practical Handbook](github-handbook.md) · [Command Reference](git-github-command-reference.md)
 
-> **Policy status — confirmation required:** The original 16-page Mettelo operating guide is labelled “Approved”, but its **effective date is an unfilled placeholder**. This version preserves the source's responsibilities and expectations and reformats them for real contributors, while adding clearly labelled instructional examples. **Do not claim branch protections, automatic checks or repository policies have been configured unless verified in the actual project.** This reformatted edition requires Mettelo governance review. Original source is recoverable in Git history.
+> **Governance:** Follow the actual repository's access, review and security settings. Mettelo-wide adoption and effective dates must be confirmed by authorised administrators.
 
 ## Start here — contribute something useful in seven steps
 
@@ -279,10 +279,6 @@ The issue and PR templates above are copyable versions of the source's Appendix 
 **For questions:** Project Lead, Repository Maintainer or Mettelo Labs administrator.
 
 ---
-
-## Editorial, legal and policy provenance
-
-**Source:** *Mettelo GitHub Contribution Guide Final.docx*, 16 pages, source version 1.0. All 15 operating subject areas, policy roles, review/merge approach, data security, AI, issue/PR templates and acknowledgement requirements are retained. The earlier text extraction and exact original wording remain recoverable through Git history. Worked example, readable tables and copyable code/template blocks are editorial additions.
 
 **Unresolved policy fact:** The original effective date is `[DD MONTH YYYY]`; no implementation verification has been provided for every Mettelo repository. The original's “Approved” status describes the source, **not independent confirmation that this edited version has been formally adopted**. Obtain owner validation before labelling it final policy.
 

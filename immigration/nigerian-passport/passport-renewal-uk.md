@@ -15,7 +15,7 @@ Your correct process depends on the passport's status, whether any personal deta
 
 Start with the situation table below. Before paying or sending documents, confirm the current instructions on the [Nigeria Immigration Service website](https://immigration.gov.ng/) and with the appropriate [Nigerian mission in the UK](https://www.nigeriahc.org.uk/). Avoid sharing passport numbers, NIN details or payment receipts through informal channels.
 
-## Start here: which application applies to you?
+## Identify the correct passport application
 
 | Situation | Correct first action | Main warning |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ Start with the situation table below. Before paying or sending documents, confir
 
 **Use:** [NIS passport services](https://immigration.gov.ng/passports/) · [NIS contactless](https://immigration.gov.ng/contactless/) · [NIS general renewal instructions](https://immigration.gov.ng/info-center/renewal-of-passport/) · [Nigeria High Commission London](https://www.nigeriahc.org.uk/requirements-for-e-passport/).
 
-## Visual service journey: passport renewal from the UK
+## Passport renewal: process overview
 
 Use this process map as an overview only. The **Nigerian Immigration Service and the relevant Nigerian mission** determine the current eligibility rules, locations and processing instructions.
 

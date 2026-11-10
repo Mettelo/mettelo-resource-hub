@@ -1,6 +1,6 @@
 # UK Global Talent Visa — Academia & Research
 
-**Enhanced Mettelo practical pathway guide · 9 November 2026**  
+**Mettelo Resource Hub · Edition 1.0 · Updated 10 November 2026**  
 Prepared by **Johnson Taiwo** · Mettelo
 
 [← Global Talent guides](README.md) · [← Immigration](../README.md) · [← Mettelo Resource Hub](../../README.md)  
@@ -295,7 +295,7 @@ Collaborate on substantial research with someone capable of assessing your field
 - [UKRI endorsed funders list](https://www.gov.uk/government/publications/ukri-endorsement-endorsed-funders-global-talent-visa)
 - [UKRI Gateway to Research refresh — 4 November 2026](https://www.ukri.org/news/ukri-launches-faster-easier-to-use-gateway-to-research/)
 
-**Publication status: Practical guide, with final specialist review pending.** Official eligibility was checked against live November 2026 government and relevant assessor material. A final legal-text audit, research-opportunity deadline check, Markdown rendering and link validation remain outstanding. Applying for **endorsement alone** is not immigration permission. Seek suitably regulated advice on personal immigration deadlines.
+**Publication status: Practical guide, with final specialist review pending.** Official eligibility was checked against live November 2026 government and relevant assessor material. A specialist legal-content review and periodic checks of research opportunities remain advisable. Applying for **endorsement alone** is not immigration permission. Seek suitably regulated advice on personal immigration deadlines.
 
 **Prepared by Johnson Taiwo · Mettelo — Built for What's Next.**
 

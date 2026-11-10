@@ -1,4 +1,4 @@
-# UK Global Talent Visa — Arts & Culture Pathway
+# UK Global Talent Visa Guide — Arts & Culture Pathway
 
 **Practical, discipline-specific, evidence-led guide with a detailed 24-month development plan**  
 **Mettelo Resource Hub · Edition 1.0 · Updated 10 November 2026**  

@@ -15,3 +15,80 @@
 [hidden]{display:none!important}
 
 .brand-wordmark{font-family:Manrope,sans-serif;font-size:20px;font-weight:800;letter-spacing:.06em;color:#102743}
+
+/* Mettelo Project Studio visual system — official brand tokens */
+:root{--navy:#141925;--navy-2:#303861;--sand:#cf8d24;--cream:#f4ecd8;--line:#d9d2c2;--muted:#505b69;--ink:#141925;--shadow:0 16px 36px rgba(20,25,37,.07)}
+body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink);background:var(--cream)}
+h1,h2,h3,h4{font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+.site-header{background:#141925;border-bottom:1px solid #303861;color:white}
+.header-inner{max-width:1280px;min-height:99px}
+.brand{gap:19px}.brand img.official-logo{width:147px;max-width:147px;max-height:40px;object-fit:contain}
+.brand-divider{height:29px;background:#6e7380}
+.brand-note{color:#f4ecd8;font-size:14px}
+.top-nav a{color:#d7d9de}.top-nav a:hover,.top-nav a.active{color:#f1b653}
+.header-action{border:1px solid #858b9c;color:white;background:transparent}
+.header-action:hover{border-color:#cf8d24;color:#cf8d24}
+.hero{background:#f4ecd8;color:#141925;border-bottom:1px solid #d9d2c2}
+.hero::before{display:none}
+.hero-inner{padding-top:76px;padding-bottom:77px}
+.eyebrow{color:#865410}
+.eyebrow-mark{background:#cf8d24}
+.eyebrow-line{background:#cf8d24}
+.hero h1{color:#141925;font-weight:800;letter-spacing:-.055em}
+.hero-copy{color:#505b69}
+.hero .button-outline{color:#141925;border-color:#141925}
+.button-primary{background:#cf8d24;color:#141925}
+.button-primary:hover{background:#e2a44a}
+.hero-aside{border-left:3px solid #cf8d24;border-top:0;padding:12px 0 15px 28px}
+.aside-number{font-size:66px}.aside-number span{color:#505b69}
+.aside-rule{background:#d9d2c2}.hero-aside p{color:#505b69}
+.aside-footer{color:#865410}
+.search-section{background:#fbf7ee;border-bottom:1px solid #d9d2c2}
+.search-field{border-color:#cfc7b8;box-shadow:none}
+.section-pad{background:#f4ecd8}
+.resource-card{border:1px solid #d9d2c2;border-top:3px solid #141925;border-radius:3px;box-shadow:none;min-height:320px}
+.resource-card:hover{border-color:#cf8d24;border-top-color:#cf8d24}
+.card-category{color:#865410}.card-glyph{color:#e9ddc6}
+.card-bottom{border-color:#e1dbcf}.item-count{background:#fbf7ee}
+.use-section{background:#fbf7ee}.steps>div{border-color:#d9d2c2}.step-no{color:#865410}
+.notice-section{background:#f4ecd8}
+.notice-box{background:#fff9ec;border-left-color:#cf8d24}
+.library-footer{background:#141925}.copyright{border-color:#313747}
+.reader-shell{max-width:1550px;background:#fff}
+.reader-sidebar{background:#fbf7ee;border-color:#e3d9c5}
+.sidebar-label,.reader-pretitle{color:#865410}
+.sidebar-section{color:#7b6e59}
+.sidebar-link{font-size:13px;color:#3d4654}
+.sidebar-link.active{background:#f3e5ca;border-left-color:#cf8d24;color:#141925}
+.sidebar-link:hover,.related-links a:hover{background:#f3e5ca}
+.reader-main{background:#fff}
+.toc-sidebar{background:#fbf7ee;border-color:#e3d9c5}
+.toc a:hover{border-color:#cf8d24}
+.reader-title-block h1,.markdown-content h2,.markdown-content h3,.markdown-content h4{color:#141925}
+.markdown-content h2{border-color:#d9d2c2}
+.markdown-content blockquote{border-left-color:#cf8d24;background:#faf4e7}
+.markdown-content th{background:#f4ecd8;color:#141925}
+.markdown-content td,.markdown-content th{border-color:#d9d2c2}
+.markdown-content a{color:#303861}
+.markdown-content pre{background:#141925}
+.reader-tools button{border-color:#d9d2c2}
+.diagram-frame{border:1px solid #d9d2c2;background:#fff;overflow:hidden;border-radius:4px;padding:0;margin:30px 0 38px;box-shadow:0 8px 28px rgba(20,25,37,.045)}
+.diagram-label{font-size:11px;color:#865410;letter-spacing:.11em;font-weight:800;margin:0}
+.diagram-head{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 18px;background:#fbf7ee;border-bottom:1px solid #e3d9c5}
+.diagram-controls{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.diagram-controls button{background:white;color:#141925;border:1px solid #cfc6b7;border-radius:3px;font-size:12px;font-weight:750;padding:6px 10px;min-height:33px;cursor:pointer}
+.diagram-controls button:hover{border-color:#cf8d24;background:#f9efd9}
+.diagram-viewport{width:100%;height:min(540px,70vh);min-height:310px;overflow:auto;background:white;display:flex;justify-content:center;align-items:flex-start;overscroll-behavior:contain}
+.diagram-canvas{margin:auto;transform-origin:top center;display:flex;justify-content:center;align-items:center;min-width:100%}
+.diagram-canvas svg{display:block;max-width:unset!important;min-width:unset!important;height:auto!important;flex:none}
+.diagram-caption{padding:12px 18px;border-top:1px solid #e3d9c5;color:#505b69;font-size:12px;background:#fff}
+.diagram-frame.diagram-fullscreen{position:fixed;inset:12px;z-index:1200;margin:0;display:flex;flex-direction:column;background:white;box-shadow:0 0 0 100vmax rgba(0,0,0,.7)}
+.diagram-fullscreen .diagram-viewport{flex:1;height:auto;max-height:none}
+.diagram-frame.diagram-fullscreen .diagram-controls .diagram-expand{background:#cf8d24}
+.diagram-fallback{display:block;margin:0;padding:20px;color:#141925;font-size:12px;white-space:pre-wrap}
+.diagram-error{padding:15px;color:#8c300d;border:1px solid #cc8d78;background:#fff7f1}
+.diagram-frame .node rect,.diagram-frame .node polygon{stroke-width:1.8px}
+.diagram-frame svg text{font-weight:600}
+.reader-tools #find-count{min-width:70px}
+@media(max-width:1000px){.top-nav{gap:14px}.header-inner{gap:12px}.reader-shell{grid-template-columns:240px minmax(0,1fr)}}
+@media(max-width:760px){.header-inner{min-height:73px}.brand img.official-logo{max-width:115px;width:115px}.brand-note{font-size:12px}.hero-inner{padding:53px 22px 65px}.hero h1{font-size:42px}.reader-sidebar{background:#fbf7ee}.reader-main{padding:24px 20px 54px}.diagram-head{align-items:flex-start;flex-direction:column;padding:12px}.diagram-viewport{height:430px;min-height:290px}.diagram-canvas{justify-content:flex-start}.diagram-controls button{font-size:11px}.resource-card{min-height:290px}.hero-aside{display:none}}

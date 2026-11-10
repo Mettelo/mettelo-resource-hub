@@ -9,6 +9,20 @@ Prepared by **Johnson Taiwo**, Mettelo
 
 > **Important:** This guide is a practical *career and evidence-development plan*, not a legal eligibility determination or a promise of endorsement. A two-year period is **not** an official application requirement. Some people already have sufficient evidence; others may need considerably longer. This guide includes practical workflows, verified public references and a month-by-month development plan.
 
+## Which parts should you read first?
+
+| Your situation | First useful sections | A realistic first output |
+| --- | --- | --- |
+| **Complete beginner to Global Talent** | [Visa explanation](#start-here--what-is-the-global-talent-visa-for-digital-technology) → [Official rules](#1-understand-the-actual-rules) | Clear understanding of what recognition and evidence mean |
+| **Data analyst, scientist, engineer or developer** | [Professional route selection](#2-choose-the-right-professional-pathway) → [Evidence mapping](#3-map-evidence-to-the-criteria) | Real contribution inventory and gaps |
+| **Founder or product builder** | [Technology product playbook](#5-build-and-validate-a-meaningful-technology-product) → [Referees](#8-develop-real-relationships-with-potential-referees) | Verified product work, customers and recognition strategy |
+| **Little/no independent recognition** | [Evidence-building strategies](#4-choose-one-practical-evidence-building-strategy) → [24-month action options](#10-your-detailed-24-month-implementation-plan) | One concrete project and authentic external-review plan |
+| **Evidence already strong** | [Documents and restrictions](#14-application-document-process-and-submission) → [Readiness checklist](#16-common-failure-points-and-review-checklist) | A truthful evidence pack mapped to actual criteria |
+
+**Vocabulary:** *Endorsement* = specialist recognition assessment; *visa* = separate Home Office immigration decision; *exceptional promise* = potential leadership at an appropriately early career stage, **not** a weaker-document shortcut; *optional criteria* = specific qualifying contribution areas, **not** optional evidence you may simply omit.
+
+---
+
 ## Official-rule verification checkpoint — 10 November 2026
 
 This guide's planning activities are separate from the official endorsement criteria. The following document requirements were cross-checked directly against [GOV.UK's Digital Technology documents page](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement):

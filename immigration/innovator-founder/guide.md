@@ -46,6 +46,32 @@ Ask about the interviewee's **recent actual behaviour**: when the problem occurr
 
 ---
 
+### Verified new-applicant endorsing bodies — 10 November 2026
+
+The official [GOV.UK authorised endorsing-body list](https://www.gov.uk/government/publications/endorsing-bodies-innovator-founder-and-scale-up-visas/innovator-founder-and-scale-up-visas-endorsing-bodies) was last updated **7 August 2026**. For a **new initial Innovator Founder endorsement**, the active business endorsers listed are:
+
+| Listed organisation | How to approach it | Critical limitation |
+| --- | --- | --- |
+| **UK Endorsing Services** | Open its link from the official government directory, study intake conditions, assessment price, evidence and contact process | Listing does not mean your venture will be accepted or that a particular intake is open |
+| **Innovator International** | Review published application criteria, founder role and innovation/market evidence expected | Check all charges and conditions directly |
+| **Envestors Limited** | Examine its current endorsement application process and commercial evidence expectations | Do not confuse endorsement assessment with promised investment |
+| **Global Entrepreneurs Programme (GEP)** | Review the government's invitation-based DBT programme and eligibility before making contact | **Innovator Founder endorsements only, for founders already invited to participate** |
+
+**Do not apply to a body listed only under “Legacy Innovator Endorsing Bodies”** for a new initial endorsement: the government says those organisations generally provide further endorsements only for qualifying existing previously endorsed applicants. The official list may be revised again—confirm it on the day you apply.
+
+### Verified immigration-rule checkpoints
+
+From [Appendix Innovator Founder, updated 29 October 2026](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-innovator-founder):
+
+- An endorsement letter generally must have been issued **no more than three months** before visa application and not withdrawn.
+- The new-business route requires a genuine plan to which the applicant generated or significantly contributed the ideas, and a real **day-to-day role** in development and management.
+- The applicant agrees to **at least two contact-point meetings** during permission.
+- Innovation, viability and scalability need to be separately evidenced; financing assumptions and genuine founder skills matter.
+- Current [GOV.UK eligibility](https://www.gov.uk/innovator-founder-visa/eligibility) describes the personal financial requirement with relevant residence exceptions; **personal maintenance funds are different from business funding**.
+
+**Do not confuse the early customer-discovery exercise above with official endorsement evidence:** interviews, pilots and projections are useful only when genuine, clearly documented and convincing to the actual assessor.
+
+---
 ## Navigate the guide
 
 - [1. Decide whether this route fits](#section-1)

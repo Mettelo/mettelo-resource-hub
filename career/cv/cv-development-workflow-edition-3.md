@@ -325,7 +325,7 @@ Wait for my approval before export.
 
 ### Make it easy to read
 
-Use straightforward headings, consistent dates, readable font size and enough whitespace. A single-column layout is a sensible default for many digital applications **unless the employer requests otherwise**, especially if the original template used complex sidebars. Do not hide contact information or critical achievements in graphics. Keep PDF text selectable and check the extracted reading order.
+Use straightforward headings, consistent dates, readable font size and enough whitespace. A single-column layout is a sensible default for many digital applications **unless the employer requests otherwise**, especially if your design uses complex sidebars. Do not hide contact information or critical achievements in graphics. Keep PDF text selectable and check the extracted reading order.
 
 ### A real final-file test
 

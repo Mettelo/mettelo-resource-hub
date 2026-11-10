@@ -68,7 +68,7 @@ The original materials were prepared in October 2026. Requirements can change. U
 - [Arts and culture](https://www.gov.uk/global-talent-arts-culture)
 - [Research and academia](https://www.gov.uk/global-talent-researcher-academic)
 
-**Editorial status:** Markdown guide and checklist migration completed from the actual Excel workbook fields. Legal accuracy against live requirements and the original workbooks' downloadable hosting remain separate outstanding tasks. These resources are general information, not regulated immigration advice.
+**Status:** Guidance is available for tracking preparation. Legal accuracy against live requirements and the original workbooks' downloadable hosting remain separate outstanding tasks. These resources are general information, not regulated immigration advice.
 
 ---
 

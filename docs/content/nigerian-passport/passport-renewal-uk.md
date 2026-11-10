@@ -12,24 +12,37 @@
 Use this process map as an overview only. The **Nigerian Immigration Service and the relevant Nigerian mission** determine the current eligibility rules, locations and processing instructions.
 
 ```mermaid
-flowchart TD
-    A["Check passport status and applicant details"] --> B["Open current official NIS / mission guidance"]
-    B --> C{"Which renewal process is offered to this applicant?"}
-    C --> D["Eligible contactless / remote renewal"]
-    C --> E["Appointment and in-person process"]
-    D --> F["Complete official application and payment"]
-    E --> F
-    F --> G["Save receipts, confirmation and reference"]
-    G --> H{"Which identity / submission steps are required?"}
-    H --> I["Follow official remote instructions"]
-    H --> J["Book and attend required appointment"]
-    I --> K["Track status through authorised channels"]
-    J --> K
-    K --> L{"Additional action requested?"}
-    L -- "Yes" --> M["Respond through official process"]
-    M --> K
-    L -- "No" --> N["Follow collection / return-delivery instructions"]
-    N --> O["Check new passport data and safeguard old documents"]
+flowchart LR
+  subgraph A["01 · CHECK OFFICIAL PROCESS"]
+    direction TB
+    A1["Confirm passport and applicant details"] --> A2["Check NIS and relevant UK mission instructions"]
+    A2 --> A3{"Which process is available to this applicant?"}
+    A3 -->|Eligible remote| A4["Contactless process"]
+    A3 -->|Appointment required| A5["In-person process"]
+  end
+  subgraph B["02 · APPLY & VERIFY"]
+    direction TB
+    B1["Complete official form and payment"] --> B2["Retain confirmation and reference"]
+    B2 --> B3{"Required identity / submission step?"}
+    B3 -->|Remote| B4["Complete verified remote instructions"]
+    B3 -->|In person| B5["Book and attend appointment"]
+  end
+  subgraph C["03 · TRACK & COMPLETE"]
+    direction TB
+    C1["Track using authorised channels"] --> C2{"Further action requested?"}
+    C2 -->|Yes| C3["Respond using official route"]
+    C3 -.-> C1
+    C2 -->|No| C4["Collection or return delivery"]
+    C4 --> C5["Verify new passport details"]
+  end
+  A4 --> B1
+  A5 --> B1
+  B4 --> C1
+  B5 --> C1
+  classDef gate fill:#fff0cc,stroke:#a66b12,color:#141925,stroke-width:2px;
+  classDef alert fill:#fff5f0,stroke:#bb6b3c,color:#141925;
+  class A3,B3,C2 gate;
+  class C3 alert;
 ```
 
 **Reader note:** Remote renewal is conditional, and not all applicants can use it. Do not assume an appointment, biometric step, postal route or return-envelope rule without checking your actual processing centre.

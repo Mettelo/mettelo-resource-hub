@@ -6,7 +6,7 @@
 
 ## Understand the checklist — what counts as a useful result?
 
-The 20 source items are a **preparation sequence**, not 20 visa points. Do not mark a business task ready simply because a slide, website or unsigned letter exists.
+The 20 tasks are a **business and application preparation sequence**, not 20 visa points. Do not mark a business task ready simply because a slide, website or unsigned letter exists.
 
 | Workstream | Concrete activity worth completing | Evidence of actual progress |
 | --- | --- | --- |
@@ -58,7 +58,7 @@ The 20 source items are a **preparation sequence**, not 20 visa points. Do not m
 
 ## Status, deadlines and evidence fields
 
-The original Excel tracker uses five fields: **What I need to prepare**, **Status**, **Target date**, **Saved file link** and **Reminder and guide section**. The source also warns that a **Ready** status is your own document review, not a decision by an endorsing body or UKVI.
+Use five useful tracking fields: **What I need to prepare**, **Status**, **Target date**, **Saved file link** and **Reminder and guide section**. **Ready** means you have personally reviewed a task; it is not an endorsing body or UKVI decision.
 
 | What I need to prepare | Status | Target date | Saved file link | Reminder |
 | --- | --- | --- | --- | --- |

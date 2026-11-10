@@ -24,6 +24,8 @@
 | **Explore Innovator Founder** | [Innovator Founder overview](immigration/innovator-founder/README.md) | [Preparation checklist](immigration/innovator-founder/checklist.md) |
 | **Renew a Nigerian passport from the UK** | [Passport renewal guide](immigration/nigerian-passport/passport-renewal-uk.md) | Check official NIS/High Commission instructions before taking action |
 
+**Not sure which UK visa or passport service applies?** [Explore UK Visa Pathways & Nigerian Passport Services](immigration/README.md) to choose the correct route before reading a detailed guide.
+
 ## Understanding the labels
 
 **Available — review pending:** A file is on GitHub, but formatting, factual updates or a final comparison with the source is outstanding. It is **not** an independently validated guide.

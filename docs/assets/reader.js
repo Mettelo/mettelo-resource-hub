@@ -70,18 +70,93 @@ async function run(){
     const a=document.createElement('a');a.textContent=clean.length>75?clean.slice(0,72)+'…':clean;a.href='#'+id;a.className=h.tagName==='H3'?'toc-h3':'toc-h2';toc.append(a);
   });
   target.querySelectorAll('table').forEach(t=>{const box=document.createElement('div');box.className='table-scroll';t.parentNode.insertBefore(box,t);box.append(t)});
-  target.querySelectorAll('pre code.language-mermaid').forEach(code=>{
-    const pre=code.closest('pre');const container=document.createElement('div');container.className='diagram-frame';
-    const label=document.createElement('div');label.className='diagram-label';label.textContent='VISUAL PROCESS MAP';
-    const chart=document.createElement('div');chart.className='mermaid';chart.textContent=code.textContent;
-    container.append(label,chart);pre.replaceWith(container);
+  target.querySelectorAll('pre code.language-mermaid').forEach((code,i)=>{
+    const pre=code.closest('pre'), frame=document.createElement('section');
+    frame.className='diagram-frame';frame.setAttribute('aria-label','Interactive decision architecture diagram '+(i+1));
+    const head=document.createElement('div');head.className='diagram-head';
+    const label=document.createElement('strong');label.className='diagram-label';label.textContent='PROCESS ARCHITECTURE · '+String(i+1).padStart(2,'0');
+    const controls=document.createElement('div');controls.className='diagram-controls';
+    for(const [name,action] of [['−','out'],['+','in'],['Fit','fit'],['Expand ↗','expand']]){
+      const button=document.createElement('button');button.type='button';button.textContent=name;button.dataset.diagramAction=action;
+      button.setAttribute('aria-label',{'out':'Zoom out','in':'Zoom in','fit':'Fit diagram to view','expand':'Expand diagram to full screen'}[action]);if(action==='expand')button.classList.add('diagram-expand');controls.append(button);
+    }
+    head.append(label,controls);
+    const viewport=document.createElement('div');viewport.className='diagram-viewport';viewport.tabIndex=0;viewport.setAttribute('aria-label','Diagram. Use buttons to zoom or expand; scroll to pan.');
+    const canvas=document.createElement('div');canvas.className='diagram-canvas';
+    const diagram=document.createElement('div');diagram.className='mermaid';diagram.textContent=code.textContent;
+    canvas.append(diagram);viewport.append(canvas);
+    const caption=document.createElement('p');caption.className='diagram-caption';caption.textContent='Follow the arrows and decision branches. Use Expand for a detailed view, or zoom and scroll to examine each step.';
+    frame.append(head,viewport,caption);pre.replaceWith(frame);
+    frame.dataset.originalDiagram=code.textContent;
   });
   if(window.mermaid && target.querySelector('.mermaid')){
-    try{mermaid.initialize({startOnLoad:false,securityLevel:'strict',theme:'neutral',flowchart:{htmlLabels:false,useMaxWidth:false,curve:'basis'},themeVariables:{primaryColor:'#ecf2f6',primaryTextColor:'#102743',primaryBorderColor:'#9eb0bf',lineColor:'#8393a1',fontFamily:'DM Sans, Arial, sans-serif'}});await mermaid.run({querySelector:'#guide-content .mermaid'});}
-    catch(err){console.warn('Diagram rendering failed; source retained',err);}
+    try{
+      mermaid.initialize({startOnLoad:false,securityLevel:'strict',theme:'base',
+        flowchart:{htmlLabels:false,useMaxWidth:false,curve:'basis',nodeSpacing:40,rankSpacing:62,padding:18},
+        themeVariables:{primaryColor:'#f4ecd8',primaryTextColor:'#141925',primaryBorderColor:'#cf8d24',lineColor:'#303861',
+        secondaryColor:'#f8f7f3',tertiaryColor:'#fff',fontFamily:'system-ui, Segoe UI, sans-serif',fontSize:'17px'}});
+      await mermaid.run({querySelector:'#guide-content .mermaid'});
+      target.querySelectorAll('.diagram-frame').forEach(prepareDiagram);
+    }catch(err){
+      console.error('Mermaid rendering failed',err);
+      target.querySelectorAll('.diagram-frame').forEach(frame=>{
+        if(frame.querySelector('svg')){prepareDiagram(frame);return;}
+        const canvas=frame.querySelector('.diagram-canvas');canvas.replaceChildren();
+        const fallback=document.createElement('pre');fallback.className='diagram-fallback';
+        fallback.textContent=frame.dataset.originalDiagram||'Diagram unavailable';
+        canvas.append(fallback);
+        frame.querySelector('.diagram-caption').textContent='The interactive diagram could not be loaded. This process-map source is provided as a fallback.';
+      });
+    }
+  }else if(target.querySelector('.mermaid')){
+    target.querySelectorAll('.diagram-frame').forEach(frame=>{
+      const canvas=frame.querySelector('.diagram-canvas');canvas.replaceChildren();
+      const fallback=document.createElement('pre');fallback.className='diagram-fallback';fallback.textContent=frame.dataset.originalDiagram||'Diagram unavailable';canvas.append(fallback);
+      frame.querySelector('.diagram-caption').textContent='Diagram library unavailable. Text version displayed.';
+    });
   }
   setupFind(target);
  }catch(err){console.error('Resource loading failed',err);$('render-error').hidden=false;$('reader-intro').textContent='The requested resource could not be retrieved.';}
+}
+function prepareDiagram(frame){
+ const svg=frame.querySelector('svg');if(!svg)return;
+ const viewport=frame.querySelector('.diagram-viewport');
+ const canvas=frame.querySelector('.diagram-canvas');
+ // Retain the complete Mermaid viewBox so all nodes and arrowheads remain visible.
+ let nativeWidth=1000,nativeHeight=650;
+ const box=svg.viewBox?.baseVal;
+ if(box?.width){nativeWidth=box.width;nativeHeight=box.height}
+ else {nativeWidth=parseFloat(svg.getAttribute('width'))||1000;nativeHeight=parseFloat(svg.getAttribute('height'))||650}
+ svg.removeAttribute('width');svg.removeAttribute('height');
+ svg.setAttribute('role','img');svg.setAttribute('aria-label','Process architecture showing the decisions and steps in this immigration pathway');
+ let scale=1;
+ function apply(value,center=false){
+   scale=Math.min(2.5,Math.max(.25,value));
+   const w=Math.ceil(nativeWidth*scale),h=Math.ceil(nativeHeight*scale);
+   svg.style.width=w+'px';svg.style.height=h+'px';
+   canvas.style.width=Math.max(w,viewport.clientWidth)+'px';
+   canvas.style.minHeight=h+'px';
+   if(center){viewport.scrollLeft=Math.max(0,(w-viewport.clientWidth)/2);viewport.scrollTop=0}
+ }
+ function fit(){const space=Math.max(260,viewport.clientWidth-34);apply(Math.min(1.05,space/nativeWidth),true)}
+ frame.querySelectorAll('[data-diagram-action]').forEach(b=>b.addEventListener('click',()=>{
+   const action=b.dataset.diagramAction;
+   if(action==='in')apply(scale*1.3);
+   if(action==='out')apply(scale/1.3);
+   if(action==='fit')fit();
+   if(action==='expand'){
+     const expanded=frame.classList.toggle('diagram-fullscreen');
+     b.textContent=expanded?'Close ✕':'Expand ↗';
+     b.setAttribute('aria-label',expanded?'Close expanded diagram':'Expand diagram to full screen');
+     document.body.style.overflow=expanded?'hidden':'';
+     setTimeout(fit,30);
+   }
+ }));
+ const keyHandler=e=>{if(e.key==='Escape'&&frame.classList.contains('diagram-fullscreen')){frame.querySelector('[data-diagram-action="expand"]').click();}};
+ document.addEventListener('keydown',keyHandler);
+ const resizer=new ResizeObserver(()=>{if(!frame.classList.contains('diagram-fullscreen'))fit()});
+ resizer.observe(viewport);
+ fit();
 }
 function setupFind(root){
  const input=$('find-in-guide'),counter=$('find-count');

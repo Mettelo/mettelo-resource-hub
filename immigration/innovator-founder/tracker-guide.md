@@ -40,7 +40,7 @@ A public Mettelo repository is appropriate for the **blank guide and blank check
 
 GitHub Markdown is excellent for reading, linking and copying a checklist, but unlike Excel it does not provide a private editable status dashboard or automatically save a visitor's ticked items. A member who needs interactive tracking should download or create a private copy of the workbook.
 
-**The original Excel workbook has not been uploaded to this GitHub repository.** Its two worksheet structures and 20 tasks have been reviewed for the Markdown migration; a downloadable attachment can be added later.
+**Interactive tracker:** The preparation tasks and tracker instructions are available in this library. An interactive Excel file is not currently provided.
 
 ## Before applying
 

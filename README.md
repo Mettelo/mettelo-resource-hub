@@ -57,6 +57,12 @@ Welcome. This is Mettelo's organised, GitHub-readable resource library. **You do
 
 Found a broken link, outdated requirement, unclear step or confusing page? [Open an issue](https://github.com/Mettelo/mettelo-resource-hub/issues) with a link to the affected section and, where possible, an authoritative reference. For content changes, follow [CONTRIBUTING.md](CONTRIBUTING.md).
 
+### Copyright, access and publication
+
+**© 2026 Mettelo. All rights reserved in original Mettelo materials, subject to applicable ownership and third-party rights.** Reading the library does not grant permission to redistribute or resell its guides. See [Copyright and Reuse](COPYRIGHT.md) and [Reader Terms of Use](TERMS_OF_USE.md).
+
+This is a **private editorial repository**; approved reader-facing resources should be published through a separate website, rather than by making the entire repository public. Administrators: [Publishing and repository controls](PUBLISHING.md) · [Security reporting](SECURITY.md). Note that disabling forks does not disable cloning by authorised readers.
+
 ### Mettelo links
 
 [Mettelo website](https://mettelo.com/) · [Get started](https://mettelo.com/start/) · [Community project library](https://mettelo.github.io/project-library/)

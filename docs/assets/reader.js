@@ -79,14 +79,38 @@ async function run(){
     const a=document.createElement('a');a.textContent=clean.length>75?clean.slice(0,72)+'…':clean;a.href='#'+id;a.className=h.tagName==='H3'?'toc-h3':'toc-h2';toc.append(a);
   });
   toc.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{if(window.innerWidth<=900){$('reader-sidebar').classList.remove('open');toggle?.setAttribute('aria-expanded','false')}}));
-  target.querySelectorAll('table').forEach((t,i)=>{
-    const box=document.createElement('div');box.className='table-scroll';box.tabIndex=0;
-    box.setAttribute('role','region');box.setAttribute('aria-label','Scrollable guide table '+(i+1));
-    t.parentNode.insertBefore(box,t);box.append(t);
-    const hint=document.createElement('p');hint.className='table-scroll-hint';
-    hint.textContent='Swipe sideways to view the full table';
-    hint.setAttribute('aria-hidden','true');
-    box.insertAdjacentElement('afterend',hint);
+  // Tables retain their semantic HTML on desktop and become labelled records on phones.
+  // Complex cells with spans retain the swipeable table layout.
+  target.querySelectorAll('table').forEach((table,index)=>{
+    const container=document.createElement('div');
+    container.className='table-scroll';
+    container.setAttribute('role','region');
+    container.setAttribute('aria-label','Guide comparison table '+(index+1));
+    table.parentNode.insertBefore(container,table);container.append(table);
+    const headers=[...table.querySelectorAll('thead tr:first-child th')].map(cell=>cell.textContent.trim());
+    const rows=[...table.querySelectorAll('tbody tr')];
+    const complicated=!!table.querySelector('[rowspan],[colspan]')||!headers.length||
+      rows.some(row=>row.children.length!==headers.length);
+    if(!complicated){
+      container.classList.add('is-card-table');
+      rows.forEach(row=>{
+        [...row.children].forEach((cell,position)=>{
+          const columnTitle=headers[position]||'Detail '+(position+1);
+          cell.dataset.label=columnTitle;
+          cell.setAttribute('data-column-index',String(position));
+        });
+      });
+    }else{
+      container.tabIndex=0;
+      const notice=document.createElement('p');notice.className='table-scroll-hint';
+      notice.textContent='Swipe sideways to see the complete table.';
+      container.insertAdjacentElement('afterend',notice);
+    }
+  });
+  // Preserve the list nesting and actual HTML numbering supplied by Markdown.
+  target.querySelectorAll('ol[start]').forEach(list=>{
+    const n=Number.parseInt(list.getAttribute('start'),10);
+    if(Number.isFinite(n))list.style.setProperty('--list-start',String(n));
   });
   // Replace cramped technical Mermaid graphs with full-width editorial process architecture.
   // Each stage is a real HTML section: readable at natural size, accessible, and printable.

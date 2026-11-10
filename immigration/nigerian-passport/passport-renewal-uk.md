@@ -1,6 +1,6 @@
 # Nigerian Passport Renewal from the UK
 
-**Mettelo Practical Guide · Updated 10 November 2026**  
+**Mettelo Practical Guide · Edition 1.0 · Updated 10 November 2026**  
 **Prepared by Johnson Taiwo**
 
 [🏠 Resource Hub](../../README.md) · [Start Here](../../START_HERE.md) · [Immigration resources](../README.md) · [Passport resources](README.md)

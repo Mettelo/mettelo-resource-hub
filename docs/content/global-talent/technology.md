@@ -14,22 +14,43 @@ Prepared by **Johnson Taiwo**, Mettelo
 This diagram is a **planning map**, not an automatic eligibility decision. Check the current official requirements and endorsing-body guidance before relying on any evidence category.
 
 ```mermaid
-flowchart TD
-    A["Professional track record"] --> B{"Qualifying digital technology contribution?"}
-    B -- "Not established" --> X["Develop relevant work and reassess"]
-    B -- "Potentially yes" --> C{"Exceptional Talent or Exceptional Promise?"}
-    C --> D["Mandatory recognition criterion"]
-    D --> E["Select two applicable optional criteria"]
-    E --> F["Map claims to independent, dated evidence"]
-    F --> G{"Evidence attribution, limits and quality checked?"}
-    G -- "No" --> H["Address gaps; remove weak claims"]
-    H --> F
-    G -- "Yes" --> I["Secure qualifying expert recommendation letters"]
-    I --> J["Submit endorsement application"]
-    J --> K{"Endorsed or otherwise eligible under official rules?"}
-    K -- "No" --> L["Read decision and current review guidance"]
-    K -- "Yes" --> M["Separate visa application and immigration checks"]
-    M --> N["Decision and ongoing immigration compliance"]
+flowchart LR
+  subgraph S1["01 · ROUTE & ELIGIBILITY"]
+    direction TB
+    A["Identify product-led digital technology contribution"] --> B{"Relevant qualifying track record?"}
+    B -->|No| C["Develop and document genuine contribution"]
+    C -.-> A
+    B -->|Potentially| D{"Talent or Promise?"}
+  end
+  subgraph S2["02 · CRITERIA & EVIDENCE"]
+    direction TB
+    E["Mandatory recognition criterion"] --> F["Two relevant optional criteria"]
+    F --> G["Map claims to dated, independent evidence"]
+    G --> H{"Attribution and documentary rules met?"}
+    H -->|No| I["Remove weak claims / obtain reliable proof"]
+    I -.-> G
+  end
+  subgraph S3["03 · ENDORSEMENT"]
+    direction TB
+    J["Qualifying expert recommendations"] --> K["Check current assessor instructions"]
+    K --> L["Endorsement submission"]
+    L --> M{"Endorsement outcome"}
+    M -->|Unsuccessful| N["Review decision and official options"]
+  end
+  subgraph S4["04 · IMMIGRATION"]
+    direction TB
+    O["Separate visa eligibility and documents"] --> P["Visa application and decision"]
+    P --> Q["Follow immigration conditions"]
+  end
+  D --> E
+  H -->|Yes| J
+  M -->|Successful| O
+  classDef gate fill:#fff0cc,stroke:#a66b12,color:#141925,stroke-width:2px;
+  classDef action fill:#f4ecd8,stroke:#303861,color:#141925;
+  classDef alert fill:#fff5f0,stroke:#bb6b3c,color:#141925;
+  class B,D,H,M gate;
+  class A,E,F,G,J,K,L,O,P,Q action;
+  class C,I,N alert;
 ```
 
 **How to use this architecture:** Treat each box as a review checkpoint. The criteria and documentary limits are explained in the sections below; practical projects or a 24-month development plan do not replace the official requirements.

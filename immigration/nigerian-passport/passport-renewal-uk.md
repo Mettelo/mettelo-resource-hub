@@ -30,7 +30,7 @@ Prepared by **Johnson Taiwo**
 4. Save the official application reference privately and track progress through the portal. Use app support for technical problems; the [NIS contactless incident notice](https://immigration.gov.ng/nis-addresses-technical-challenges-on-contactless-passport-application-system/) documents payment/OTP and technical challenges.
 5. Protect personal documents and credentials. Never paste NIN, passport number, application codes, receipt images or home addresses into public GitHub issues or AI prompts.
 
-**What changed compared with the original Mettelo handbook?** The source's 11-page process remains below as a reference for eligible contactless renewals, but **postal orders, envelopes, fees, app eligibility and physical appearance cannot be presumed current or universal**. Treat the official current portal as authoritative.
+**What changed compared with the original Mettelo handbook?** Some renewal instructions may not apply to your circumstances; **postal orders, envelopes, fees, app eligibility and physical appearance cannot be presumed current or universal**. Treat the official current portal as authoritative.
 
 ---
 
@@ -64,8 +64,7 @@ The High Commission's published contactless checklist specifies an original pass
 
 ## Full original guide — all 11 pages
 
-The text below follows the original source page by page, preserving its numbered instructions, fees as originally stated, practical tips and references. **Source statements are not automatically current requirements.** For actionable details that may have changed, use the official verification section above.
-
+The steps below should always be checked against current NIS and High Commission instructions. Historical fees or mailing arrangements are not automatically current. For actionable details that may have changed, use the official verification section above.
 
 <a id="section-1"></a>
 
@@ -75,7 +74,6 @@ The text below follows the original source page by page, preserving its numbered
 
 COMPLETE STEP BY STEP GUIDE
 
-
 How to renew your Nigerian
 passport online from the UK
 Checked 23 October 2026 • Version 3.0
@@ -83,7 +81,6 @@ Checked 23 October 2026 • Version 3.0
 Use the contactless renewal service to complete your application and capture your face
 and fingerprints on your phone. After completing it, post your old passport and paperwork
 to the Nigeria High Commission in London.
-
 
 1 Check whether you can use contactless renewal
 This route is for eligible adults renewing an existing Nigerian passport. It is not available to:
@@ -95,7 +92,6 @@ This route is for eligible adults renewing an existing Nigerian passport. It is 
 If you need to change personal details, replace a lost or damaged passport, or the app says
 you are ineligible, use the appropriate application and physical appointment route. The app
 checks eligibility before biometric enrolment. [1, 2]
-
 
 Follow the guide in order
 • Get ready and start online — page 2
@@ -127,7 +123,6 @@ tips are labelled separately. All website and app links are clickable.
 
 STEPS 2 TO 4
 
-
 Get ready and
 start your application
 
@@ -154,7 +149,6 @@ Check your name, date of birth and name order on your NIN match your passport. R
 any mismatch before paying. Practical tip: save clear document scans or photographs
 somewhere easy to find on your phone.
 
-
 3 Open the official passport website
 Overseas passport portal
 https://passportintl.immigration.gov.ng/
@@ -166,7 +160,6 @@ Alternative starting page
 https://passport.immigration.gov.ng/
 
 On that page, first select “Apply from Outside Nigeria”.
-
 
 4 Sign in and verify your identity
 Follow the registration or sign in instructions. Enter your NIN and date of birth when
@@ -184,7 +177,6 @@ details. [2]
 *Original PDF page 3 of 11.*
 
 STEPS 5 TO 7
-
 
 Complete the form
 and pay the booklet fee
@@ -207,7 +199,6 @@ filters. The portal’s photo compliance check decides whether it is acceptable.
 Review every section before submission, especially names, date of birth, email and
 processing mission.
 
-
 6 Pay the passport booklet fee
 Pay through the official portal. Published overseas fees are: [3]
 
@@ -220,7 +211,6 @@ official tables differ; rely on the current payment screen.
 
 Save or download your completed application form, payment receipt, Application ID and
 Reference Number. Keep both identifiers safe: you need them in the app.
-
 
 7 Select the contactless option
 Open “Application Status/Book Appointment”. Choose the contactless option, read the
@@ -239,7 +229,6 @@ is updated. [2]
 
 STEPS 8 AND 9
 
-
 Download NIS Mobile
 and link your application
 
@@ -252,7 +241,6 @@ https://play.google.com/store/apps/details?id=com.irissmart.nismobile
 
 iPhone download
 https://apps.apple.com/gb/app/nis-mobile/id6749002693
-
 
 9 Open the app and link your application
 • Sign in or create an app profile as instructed.
@@ -269,7 +257,6 @@ https://apps.apple.com/gb/app/nis-mobile/id6749002693
 
 If the app says you are ineligible, return to the passport portal and arrange a physical
 appointment. Do not create another paid application just to retry.
-
 
 If your iPhone is not working
 Practical tip from Johnson Taiwo’s experience: try the official app on an Android phone.
@@ -291,7 +278,6 @@ afterwards if the phone is borrowed.
 
 STEPS 10 AND 11
 
-
 Capture your face
 and fingerprints
 
@@ -307,7 +293,6 @@ Allow camera access when requested. Before starting:
 Follow the app’s instructions to capture your live facial image and complete the liveness
 check. Liveness confirms a real person is present: perform whatever movements or actions
 the app requests.
-
 
 11 Capture your fingerprints
 NIS Mobile uses your phone’s camera for this capture. You do not need to buy a fingerprint
@@ -328,7 +313,6 @@ The app decides whether capture is acceptable. Do not rely on scores or techniqu
 in someone else’s experience. It checks live facial images and fingerprints against NIS
 records. [5]
 
-
 If capture keeps failing
 Check camera permissions and install any app update. Adjust lighting and positioning as
 prompted. If using iPhone, try Android as explained on page 4. Contact NIS support if the
@@ -345,7 +329,6 @@ problem continues; avoid repeated new applications or payments.
 *Original PDF page 6 of 11.*
 
 STEPS 12 AND 13
-
 
 Finish submission
 and print your paperwork
@@ -367,7 +350,6 @@ required stage until the app confirms successful submission.
 Finishing the website form alone does not complete contactless renewal. Check that your
 existing booklet payment is linked before authorising any further booklet payment.
 
-
 13 Print your paperwork
 Prepare printed copies of:
 
@@ -380,7 +362,6 @@ Prepare printed copies of:
 ☐ Additional confirmation or documents requested.
 
 Keep copies of everything, including your old passport’s photo page, before posting.
-
 
 Recommended covering note
 Include your full name, Application ID, Reference Number, telephone, email and an item
@@ -402,7 +383,6 @@ instructed.
 
 STEP 14
 
-
 Buy your postal order
 and return envelope
 
@@ -418,12 +398,10 @@ Ask the counter staff for:
 • A separate strong outer envelope large enough for the documents and empty return
    envelope.
 
-
 What to say at the counter
 “I am sending my passport to the Nigeria High Commission. I need a C4 Special Delivery
 envelope with prepaid return postage, plus separate postage for my outward package.
 Please check the return allowance covers my passport and documents.”
-
 
 Set up the return envelope
 ☐ Write YOUR full name and UK delivery address on it.
@@ -438,7 +416,6 @@ Set up the return envelope
 
 Ask for postage suitable for return after passport processing. Check any label use by date;
 do not assume a date specific online label remains usable weeks later.
-
 
 If C4 envelopes are unavailable
 Ask another branch or check the Royal Mail shop, which sells C4 Special Delivery envelopes
@@ -456,7 +433,6 @@ when buying. [7]
 *Original PDF page 8 of 11.*
 
 STEP 15
-
 
 Pack and post
 your documents to London
@@ -477,7 +453,6 @@ envelope:
 
 ☐ Any other documents specifically requested.
 
-
     OUTER ENVELOPE • TO LONDON
 
     Nigeria High Commission
@@ -491,7 +466,6 @@ envelope:
     Your house number and street
     Your town or city
     Your UK postcode
-
 
 Place the documents neatly together. Put your sender address on the back of the outer
 envelope, then seal it. Keep barcode labels visible. The return envelope goes inside; do not
@@ -515,7 +489,6 @@ Keep secure copies of the papers, passport photo page and postal order. [1]
 *Original PDF page 9 of 11.*
 
 STEP 16
-
 
 Track your application
 and follow up
@@ -542,12 +515,10 @@ NIS publishes a 21 day contactless processing standard after successful enrolmen
 there is no objection. It is not a guaranteed delivery date; postal handling and further
 checks can add time. [4]
 
-
 Follow up with London
 Use hc@nigeriahc.org.uk for document or postal enquiries. Practical guidance: follow up if
 the published period has passed without progress, or sooner if tracking or the portal shows
 a problem. Reply in the same email thread.
-
 
 Copy and complete this message
 Subject: Contactless renewal — [Application ID]
@@ -577,7 +548,6 @@ Mail shows a delivery problem, also contact Royal Mail with the relevant trackin
 
 STEP 17
 
-
 Get help if
 something goes wrong
 
@@ -597,14 +567,12 @@ paying again. [6]
 Failed fingerprint capture: update the app, check camera permissions and contact support
 if retries or the Android fallback do not resolve it.
 
-
 London document or postal enquiries
 Email: hc@nigeriahc.org.uk
 General enquiries telephone: 020 7839 1244. [1]
 
 Include your Application ID, Reference Number and a clear description of the problem.
 Never send your password, card PIN or OTP.
-
 
 If you need a physical appointment
 Official appointment website
@@ -616,7 +584,6 @@ https://www.nigeriahc.org.uk/requirements-for-e-passport/
 Under 18s, first time applicants and those found ineligible for contactless need the
 appropriate appointment route. Lost or damaged passports and changes of details have
 separate evidence requirements.
-
 
 If a postal delivery goes wrong
 For an outward package not delivered, contact Royal Mail with the outward reference. For a
@@ -635,7 +602,6 @@ inform the High Commission if unresolved.
 
 BEFORE YOU POST
 
-
 Final check
 and official links
 ☐ Online application and booklet payment completed.
@@ -653,7 +619,6 @@ and official links
 ☐ Prepaid, self addressed return envelope included.
 
 ☐ Copies and both tracking references saved.
-
 
 Official sources and supporting links
 1 London requirements and postal address
@@ -705,7 +670,7 @@ Do not post your passport number, NIN, application ID, reference number, identit
 
 ## Publication notes
 
-- **Source:** *Mettelo Nigerian Passport Renewal UK*, Version 3.0, checked 23 October 2026, 11 pages.
+- 
 - All eleven original source pages have been included in order. Fixed-layout text, lists and external link wording may require minor formatting cleanup before calling the Markdown edition polished.
 - Official references were consulted during migration, but the guide is marked **Draft — editorial review pending**, since application systems, fees and postal instructions can change.
 - This publication does not replace the Nigeria Immigration Service or Nigeria High Commission instructions.

@@ -1,28 +1,28 @@
 (() => {
 'use strict';
 const DATA = {
- 'global-talent/technology':{title:'Digital Technology',category:'Global Talent',intro:'A complete, evidence-led guide to digital technology endorsement, preparation and application.',related:[['Technology checklist','global-talent/technology-checklist'],['Global Talent overview','global-talent/README'],['Tracker guidance','global-talent/tracker-guide']]},
- 'global-talent/arts-and-culture':{title:'Arts & Culture',category:'Global Talent',intro:'Understand discipline-specific endorsement routes, professional recognition and preparation.',related:[['Arts checklist','global-talent/arts-and-culture-checklist'],['Global Talent overview','global-talent/README']]},
- 'global-talent/academia-and-research':{title:'Academia & Research',category:'Global Talent',intro:'Compare research appointments, fellowships, funding and peer-review endorsement routes.',related:[['Research checklist','global-talent/research-checklist'],['Global Talent overview','global-talent/README']]},
- 'innovator-founder/guide':{title:'Innovator Founder Visa',category:'Founders',intro:'From problem discovery and customer validation to an evidence-based business and endorsement case.',related:[['Founder checklist','innovator-founder/checklist'],['Founder tracker guide','innovator-founder/tracker-guide'],['Founder resources','innovator-founder/README']]},
- 'nigerian-passport/passport-renewal-uk':{title:'Nigerian Passport Renewal',category:'Passport Services',intro:'A practical process for renewing a Nigerian passport from the UK.',related:[['Passport resources','nigerian-passport/README']]},
- 'global-talent/technology-checklist':{title:'Digital Technology Checklist',category:'Supporting resource',intro:'An evidence and application readiness checklist.',related:[['Main guide','global-talent/technology']]},
- 'global-talent/arts-and-culture-checklist':{title:'Arts & Culture Checklist',category:'Supporting resource',intro:'Review the correct evidence and route requirements.',related:[['Main guide','global-talent/arts-and-culture']]},
- 'global-talent/research-checklist':{title:'Academia & Research Checklist',category:'Supporting resource',intro:'Route-specific evidence and readiness.',related:[['Main guide','global-talent/academia-and-research']]},
- 'global-talent/tracker-guide':{title:'Global Talent Tracker Guide',category:'Supporting resource',intro:'Plan, record and verify your preparation.',related:[['Global Talent overview','global-talent/README']]},
- 'innovator-founder/checklist':{title:'Innovator Founder Checklist',category:'Supporting resource',intro:'Review business and immigration readiness.',related:[['Main guide','innovator-founder/guide']]},
- 'innovator-founder/tracker-guide':{title:'Innovator Founder Tracker Guide',category:'Supporting resource',intro:'Follow and record your business development activities.',related:[['Main guide','innovator-founder/guide']]},
- 'global-talent/README':{title:'Global Talent Resources',category:'Resource directory',intro:'Choose the relevant Global Talent pathway.',related:[]},
- 'innovator-founder/README':{title:'Innovator Founder Resources',category:'Resource directory',intro:'Guides, checklists and preparation materials.',related:[]},
- 'nigerian-passport/README':{title:'Nigerian Passport Resources',category:'Resource directory',intro:'Renewal guidance for UK-based applicants.',related:[]},
- 'README':{title:'Immigration Resource Directory',category:'Resource directory',intro:'The full immigration resource collection.',related:[]}
+ 'global-talent/technology':{title:'UK Global Talent Visa Guide: Digital Technology',category:'Global Talent Visa Guide',intro:'A free step-by-step guide to the Digital Technology pathway, including endorsement criteria, evidence requirements and application preparation.',related:[['Technology checklist','global-talent/technology-checklist'],['Global Talent overview','global-talent/README'],['Tracker guidance','global-talent/tracker-guide']]},
+ 'global-talent/arts-and-culture':{title:'UK Global Talent Visa Guide: Arts & Culture',category:'Global Talent Visa Guide',intro:'An educational guide to the Arts & Culture pathway, explaining relevant disciplines, endorsement evidence and professional recognition.',related:[['Arts checklist','global-talent/arts-and-culture-checklist'],['Global Talent overview','global-talent/README']]},
+ 'global-talent/academia-and-research':{title:'UK Global Talent Visa Guide: Academia & Research',category:'Global Talent Visa Guide',intro:'A practical guide to research endorsement routes, including qualifying appointments, fellowships, funding and peer review.',related:[['Research checklist','global-talent/research-checklist'],['Global Talent overview','global-talent/README']]},
+ 'innovator-founder/guide':{title:'UK Innovator Founder Visa Guide',category:'Innovator Founder Visa Guide',intro:'A free educational guide to understanding the Innovator Founder visa and preparing an evidence-led business case. Mettelo does not endorse or submit applications.',related:[['Founder checklist','innovator-founder/checklist'],['Founder tracker guide','innovator-founder/tracker-guide'],['Founder resources','innovator-founder/README']]},
+ 'nigerian-passport/passport-renewal-uk':{title:'Nigerian Passport Renewal in the UK: Step-by-Step Guide',category:'Passport Renewal Guide',intro:'A free information guide explaining the official Nigerian passport renewal process for applicants in the UK. Mettelo does not provide passport services.',related:[['Passport resources','nigerian-passport/README']]},
+ 'global-talent/technology-checklist':{title:'UK Global Talent Visa: Digital Technology Checklist',category:'Supporting resource',intro:'An evidence and application readiness checklist.',related:[['Main guide','global-talent/technology']]},
+ 'global-talent/arts-and-culture-checklist':{title:'UK Global Talent Visa: Arts & Culture Checklist',category:'Supporting resource',intro:'Review the correct evidence and route requirements.',related:[['Main guide','global-talent/arts-and-culture']]},
+ 'global-talent/research-checklist':{title:'UK Global Talent Visa: Academia & Research Checklist',category:'Supporting resource',intro:'Route-specific evidence and readiness.',related:[['Main guide','global-talent/academia-and-research']]},
+ 'global-talent/tracker-guide':{title:'UK Global Talent Visa Preparation Tracker Guide',category:'Supporting resource',intro:'Plan, record and verify your preparation.',related:[['Global Talent overview','global-talent/README']]},
+ 'innovator-founder/checklist':{title:'Innovator Founder Visa Preparation Checklist',category:'Supporting resource',intro:'Review business and immigration readiness.',related:[['Main guide','innovator-founder/guide']]},
+ 'innovator-founder/tracker-guide':{title:'Innovator Founder Visa Preparation Tracker Guide',category:'Supporting resource',intro:'Follow and record your business development activities.',related:[['Main guide','innovator-founder/guide']]},
+ 'global-talent/README':{title:'UK Global Talent Visa Guide Collection',category:'Resource directory',intro:'Choose the relevant Global Talent pathway.',related:[]},
+ 'innovator-founder/README':{title:'UK Innovator Founder Visa Guide Resources',category:'Resource directory',intro:'Guides, checklists and preparation materials.',related:[]},
+ 'nigerian-passport/README':{title:'Nigerian Passport Renewal Guide Resources',category:'Resource directory',intro:'Renewal guidance for UK-based applicants.',related:[]},
+ 'README':{title:'Free Immigration Guide Directory',category:'Resource directory',intro:'The full immigration resource collection.',related:[]}
 };
 const params=new URLSearchParams(location.search);
 const requested=params.get('doc')||'global-talent/technology';
 const doc=Object.hasOwn(DATA,requested)?requested:'global-talent/technology';
 const meta=DATA[doc];
 const $=id=>document.getElementById(id);
-document.title=meta.title+' | Mettelo Resource Library';
+document.title=meta.title+' | Free Mettelo Immigration Guides';
 $('reader-title').textContent=meta.title;
 $('reader-category').textContent=meta.category;
 $('reader-intro').textContent=meta.intro;

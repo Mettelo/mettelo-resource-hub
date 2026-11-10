@@ -14,22 +14,39 @@ Prepared by **Johnson Taiwo** · Mettelo — Built for What's Next
 The correct assessment route depends on your **specific creative discipline**. This map separates route selection, documentary evidence and the later visa stage.
 
 ```mermaid
-flowchart TD
-    A["Identify your professional creative discipline"] --> B{"Which official assessment route applies?"}
-    B --> C["General arts and culture"]
-    B --> D["Architecture / fashion / film-TV / design or other specialist route"]
-    C --> E["Review the general-arts Talent or Promise requirements"]
-    D --> F["Read discipline-specific official rules and assessor guidance"]
-    E --> G["Gather qualifying professional record and category-specific proof"]
-    F --> G
-    G --> H["Independent reviews, professional appearances, awards or other applicable evidence"]
-    H --> I{"Do evidence, dates, scope and letters meet the chosen route?"}
-    I -- "No" --> J["Improve real professional record and verify criteria"]
-    J --> G
-    I -- "Yes" --> K["Submit the correct endorsement application"]
-    K --> L{"Endorsement outcome"}
-    L -- "Unsuccessful" --> M["Check decision and official review options"]
-    L -- "Successful" --> N["Separate visa and immigration eligibility stage"]
+flowchart LR
+  subgraph A["01 · CLASSIFY YOUR DISCIPLINE"]
+    direction TB
+    A1["Identify actual creative profession"] --> A2{"Correct official assessment route?"}
+    A2 -->|General arts| A3["General arts criteria"]
+    A2 -->|Specialist discipline| A4["Architecture, fashion, film-TV, design etc."]
+  end
+  subgraph B["02 · BUILD THE RIGHT RECORD"]
+    direction TB
+    B1["Select Talent or Promise where applicable"] --> B2["Professional record and eligible evidence"]
+    B2 --> B3["Independent reviews / appearances / awards where relevant"]
+    B3 --> B4{"Matches this discipline's specific test?"}
+    B4 -->|No| B5["Check rules and develop genuine professional activity"]
+    B5 -.-> B2
+  end
+  subgraph C["03 · ENDORSEMENT ASSESSMENT"]
+    direction TB
+    C1["Check required recommendation letters and documents"] --> C2["Submit under correct assessor"]
+    C2 --> C3{"Endorsement decision"}
+    C3 -->|No| C4["Check decision and review rules"]
+  end
+  subgraph D["04 · VISA STAGE"]
+    direction TB
+    D1["Confirm immigration eligibility"] --> D2["Separate visa application"] --> D3["Decision"]
+  end
+  A3 --> B1
+  A4 --> B1
+  B4 -->|Yes| C1
+  C3 -->|Yes| D1
+  classDef gate fill:#fff0cc,stroke:#a66b12,color:#141925,stroke-width:2px;
+  classDef alert fill:#fff5f0,stroke:#bb6b3c,color:#141925;
+  class A2,B4,C3 gate;
+  class B5,C4 alert;
 ```
 
 **Reader note:** This is a route-selection workflow. Not every evidence category applies to every artistic discipline, and an appearance or review is not automatically qualifying evidence.

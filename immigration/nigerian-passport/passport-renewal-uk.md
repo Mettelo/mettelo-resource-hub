@@ -7,6 +7,34 @@
 
 > **Important:** This is a practical community guide. Nigerian passport services, eligibility, booking locations, fees and postal requirements can change. **Always confirm the instructions for your actual case on the Nigeria Immigration Service (NIS) portal and Nigeria High Commission website before paying, attending or posting a passport.** Do not share NIN, passport numbers or receipts publicly.
 
+## Visual service journey — passport renewal from the UK
+
+Use this process map as an overview only. The **Nigerian Immigration Service and the relevant Nigerian mission** determine the current eligibility rules, locations and processing instructions.
+
+```mermaid
+flowchart TD
+    A["Check passport status and applicant details"] --> B["Open current official NIS / mission guidance"]
+    B --> C{"Which renewal process is offered to this applicant?"}
+    C --> D["Eligible contactless / remote renewal"]
+    C --> E["Appointment and in-person process"]
+    D --> F["Complete official application and payment"]
+    E --> F
+    F --> G["Save receipts, confirmation and reference"]
+    G --> H{"Which identity / submission steps are required?"}
+    H --> I["Follow official remote instructions"]
+    H --> J["Book and attend required appointment"]
+    I --> K["Track status through authorised channels"]
+    J --> K
+    K --> L{"Additional action requested?"}
+    L -- "Yes" --> M["Respond through official process"]
+    M --> K
+    L -- "No" --> N["Follow collection / return-delivery instructions"]
+    N --> O["Check new passport data and safeguard old documents"]
+```
+
+**Reader note:** Remote renewal is conditional, and not all applicants can use it. Do not assume an appointment, biometric step, postal route or return-envelope rule without checking your actual processing centre.
+
+
 ## Start here — which application applies to you?
 
 | Situation | Correct first action | Main warning |

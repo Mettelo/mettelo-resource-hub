@@ -21,7 +21,7 @@ Before collecting documents, read the [official digital technology overview](htt
 
 | Your situation | First useful sections | A realistic first output |
 | --- | --- | --- |
-| **Complete beginner to Global Talent** | [Visa explanation](#start-here-what-is-the-global-talent-visa-for-digital-technology) → [Official rules](#1-understand-the-actual-rules) | Clear understanding of what recognition and evidence mean |
+| **Complete beginner to Global Talent** | [Visa explanation](#how-the-digital-technology-visa-pathway-works) → [Official rules](#1-understand-the-actual-rules) | Clear understanding of what recognition and evidence mean |
 | **Data analyst, scientist, engineer or developer** | [Professional route selection](#2-choose-the-right-professional-pathway) → [Evidence mapping](#3-map-evidence-to-the-criteria) | Real contribution inventory and gaps |
 | **Founder or product builder** | [Technology product playbook](#5-build-and-validate-a-meaningful-technology-product) → [Referees](#8-develop-real-relationships-with-potential-referees) | Verified product work, customers and recognition strategy |
 | **Little/no independent recognition** | [Evidence-building strategies](#4-choose-one-practical-evidence-building-strategy) → [24-month action options](#10-your-detailed-24-month-implementation-plan) | One concrete project and authentic external-review plan |
@@ -142,7 +142,7 @@ The month-by-month table in this resource is **Mettelo's suggested career-develo
 
 ## Guide contents
 
-**New to this route?** [Start here: what is this visa?](#start-here-what-is-the-global-talent-visa-for-digital-technology)
+**New to this route?** [Start here: what is this visa?](#how-the-digital-technology-visa-pathway-works)
 
 1. [Understand the actual rules](#1-understand-the-actual-rules)
 2. [Choose the right professional pathway](#2-choose-the-right-professional-pathway)

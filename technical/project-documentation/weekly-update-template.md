@@ -64,8 +64,6 @@ This says **what is finished, what remains, the dependency and owner**; “80% c
 - [ ] No protected credentials, participant/client or private contributor information in public channels.
 - [ ] Contributors and leader know what is expected next.
 
-**Source distinction:** The original charter Appendix A contains the weekly reporting fields, completed work, next period and support/decision table. This edition expands them into a simple operational template and fictional example; it does not change project approval policy.
-
 ### Find your way around
 
 [← Project documentation](README.md) · [← Charter](project-charter-template.md) · [Start Here](../../START_HERE.md) · [All resources](../../RESOURCE_INDEX.md)

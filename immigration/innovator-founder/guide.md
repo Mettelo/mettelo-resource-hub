@@ -12,24 +12,40 @@
 Use this as a **business-development and evidence workflow**. It is not a substitute for approval by an authorised endorsing body or UK immigration requirements.
 
 ```mermaid
-flowchart TD
-    A["Identify a concrete UK customer or service problem"] --> B["Document affected users and existing alternatives"]
-    B --> C["Interview potential customers; test the problem"]
-    C --> D{"Evidence of genuine demand?"}
-    D -- "Insufficient" --> E["Revise problem statement or target market"]
-    E --> B
-    D -- "Credible" --> F["Design a differentiated business solution"]
-    F --> G["Build prototype / service test / pilot"]
-    G --> H["Measure adoption, delivery costs and user outcomes"]
-    H --> I{"Innovative, viable and scalable case supported?"}
-    I -- "Not yet" --> J["Strengthen product, capability, commercial model"]
-    J --> G
-    I -- "Potentially" --> K["Prepare founder track record and evidence-led business plan"]
-    K --> L["Approach an authorised endorsing body"]
-    L --> M{"Endorsement granted?"}
-    M -- "No" --> N["Review feedback and current options"]
-    M -- "Yes" --> O["Separate visa application and personal eligibility"]
-    O --> P["Operate business and meet applicable check-in and immigration conditions"]
+flowchart LR
+  subgraph A["01 · DISCOVER & VALIDATE"]
+    direction TB
+    A1["Identify a specific UK customer problem"] --> A2["Research alternatives and speak to potential buyers"]
+    A2 --> A3{"Verifiable demand?"}
+    A3 -->|No| A4["Refine problem and repeat discovery"]
+    A4 -.-> A1
+  end
+  subgraph B["02 · BUILD & TEST"]
+    direction TB
+    B1["Explain genuine differentiation"] --> B2["Prototype or pilot"]
+    B2 --> B3["Measure adoption, delivery cost and outcomes"]
+    B3 --> B4{"Evidence for innovation, viability and scalability?"}
+    B4 -->|Not yet| B5["Improve the product and commercial model"]
+    B5 -.-> B2
+  end
+  subgraph C["03 · ENDORSEMENT"]
+    direction TB
+    C1["Founder capability and evidence-led business plan"] --> C2["Authorised endorsing body assessment"]
+    C2 --> C3{"Endorsement approved?"}
+    C3 -->|No| C4["Review response and options"]
+  end
+  subgraph D["04 · IMMIGRATION & OPERATIONS"]
+    direction TB
+    D1["Personal immigration eligibility"] --> D2["Visa submission and decision"]
+    D2 --> D3["Meet relevant business and immigration conditions"]
+  end
+  A3 -->|Yes| B1
+  B4 -->|Potentially| C1
+  C3 -->|Yes| D1
+  classDef gate fill:#fff0cc,stroke:#a66b12,color:#141925,stroke-width:2px;
+  classDef alert fill:#fff5f0,stroke:#bb6b3c,color:#141925;
+  class A3,B4,C3 gate;
+  class A4,B5,C4 alert;
 ```
 
 **Reader note:** Genuine validation improves a business case but does not guarantee that an endorsing body will find it innovative, viable and scalable. Requirements and check-in arrangements must be checked at the time.

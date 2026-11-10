@@ -122,7 +122,7 @@ Then provide the complete candidate-review draft. Audit essential-criterion cove
 | Unsupported metric | No denominator, time period or real record | Remove percentage; state confirmed outcome |
 | NHS service impact overstated | Implies personal clinical outcome from a back-office task | Describe validated reporting/service contribution accurately |
 | CS grade ignored | Example describes only following an instruction in a senior leadership role | Explain actual autonomy, judgement and risk where genuinely present |
-| Forced word count | Original source assumed particular word limits | Follow the exact application field, not the template |
+| Forced word count | A general example's word limit may not match your vacancy | Follow the exact application field, not the template |
 | Uncertain AI permission | Employer/assessment may restrict assistance | Consult the advert and follow its policy; never paste protected data |
 
 ### Free official guidance and references

@@ -420,3 +420,84 @@ body[data-page="guide"] .table-scroll.is-card-table table{
    clip:auto!important;clip-path:none!important;
  }
 }
+
+/* Responsive data cards v4: separate rendering, not squeezed table cells.
+   All original table rows remain in the document for wider screens. */
+body[data-page="guide"] .mobile-table-cards{display:none}
+@media(max-width:980px){
+ body[data-page="guide"] .markdown-content .table-scroll.has-mobile-cards{
+   display:none!important;
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-cards{
+   display:grid!important;
+   grid-template-columns:minmax(0,1fr)!important;
+   width:100%;max-width:100%;min-width:0;
+   margin:17px 0 31px;gap:14px;
+   overflow:visible;
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-card{
+   display:block;min-width:0;max-width:100%;width:100%;
+   background:#fff;border:1px solid #d8cdbb;
+   border-top:3px solid #303861;border-radius:9px;
+   overflow:hidden;box-shadow:0 3px 15px rgba(20,25,37,.055);
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-card-title{
+   margin:0!important;padding:14px 16px!important;
+   font-size:clamp(15px,2.2vw,18px)!important;
+   line-height:1.46!important;font-weight:800;
+   border:0!important;background:#f7efdf;
+   color:#141925;letter-spacing:0;
+   overflow-wrap:break-word;word-break:normal;hyphens:auto;
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-fields{
+   display:block;margin:0;padding:0;max-width:100%;
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-field{
+   display:block;padding:13px 16px 15px;
+   min-width:0;max-width:100%;
+   border-top:1px solid #ece4d8;
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-field dt{
+   display:block;font-size:11px;font-weight:800;
+   line-height:1.45;text-transform:uppercase;
+   letter-spacing:.055em;color:#7e571b;
+   margin:0 0 6px;padding:0;
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-field dd{
+   display:block;margin:0;padding:0;
+   color:#26313f;font-size:14.5px;
+   line-height:1.68;min-width:0;max-width:100%;
+   overflow-wrap:anywhere;
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-field dd :is(p,div){
+   margin:0 0 8px;max-width:100%;
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-field dd :is(p,div):last-child{
+   margin-bottom:0;
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-field dd :is(ol,ul){
+   margin:7px 0 11px!important;padding-left:22px!important;
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-field dd a{
+   overflow-wrap:anywhere;text-underline-offset:3px;
+ }
+}
+@media(min-width:600px) and (max-width:980px){
+ body[data-page="guide"] .markdown-content .mobile-table-cards{
+   grid-template-columns:repeat(2,minmax(0,1fr))!important;
+ }
+}
+@media(max-width:380px){
+ body[data-page="guide"] .markdown-content .mobile-table-card-title{
+   padding:12px!important;
+ }
+ body[data-page="guide"] .markdown-content .mobile-table-field{
+   padding:12px!important;
+ }
+}
+@media print{
+ body[data-page="guide"] .markdown-content .mobile-table-cards{display:none!important}
+ body[data-page="guide"] .markdown-content .table-scroll.has-mobile-cards{
+   display:block!important;
+ }
+}

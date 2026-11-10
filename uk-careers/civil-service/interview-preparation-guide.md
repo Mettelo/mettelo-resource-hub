@@ -4,7 +4,7 @@
 
 **Mettelo · Revised 9 November 2026 · Prepared by Johnson Taiwo**
 
-> **Enhanced working guide.** This improves the original two-page source PDF (separate NHS/Civil Service prompts, STAR, practice and review). The original's assumption that *all* interviews are blind, that questions always last 2–3 minutes and that every interview is competency/values-based has been corrected. Follow the actual invitation, employer AI rules and assessment details.
+> **Using this guide:** Start with the actual job advert, essential criteria and applicant instructions. Examples are illustrative; never invent qualifications, responsibilities, outcomes or metrics. Employer requirements take priority.
 
 ## Begin with the invitation, not a question bank
 
@@ -133,8 +133,6 @@ This pattern describes decisions and assurance. Replace it with your own case, a
 ### Free official references
 
 [Civil Service Careers Success Profiles](https://www.civil-service-careers.gov.uk/a-guide-to-civil-service-success-profiles/) · [Civil Service Behaviours](https://www.gov.uk/government/publications/success-profiles/success-profiles-civil-service-behaviours) · [NHS Employers values-based recruitment](https://www.nhsemployers.org/articles/values-based-recruitment) · [NHS Employers candidate AI guidance](https://www.nhsemployers.org/articles/guidance-use-artificial-intelligence-candidate-applications).
-
-**Source distinction:** The original Mettelo two-page guide introduced NHS/Civil Service prompts, STAR, 5–6 examples and rehearsal. This expanded edition adds format selection, real examples, strengths/technical distinctions, concrete follow-up work and an operational mock interview, while correcting blanket anonymity and length assumptions. Enhanced draft; reader testing pending.
 
 ### Find your way around
 

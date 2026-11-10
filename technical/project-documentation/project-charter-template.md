@@ -3,7 +3,7 @@
 **Controlled project-planning template · Version 1.0 · Improved Markdown edition · 9 November 2026**  
 [🏠 Home](../../README.md) · [Start Here](../../START_HERE.md) · [Project documentation](README.md) · [Weekly updates](weekly-update-template.md) · [Retrospective](retrospective-template.md)
 
-> **Source authority and status:** The 16-page Mettelo Labs Word charter specifies an approval process before controlled project delivery. This version **reconstructs the actual source sections and table structures** as readable Markdown and adds labelled instructional comments where helpful. **This blank template is not an approved charter or evidence that approval was granted.** The underlying source is recoverable from Git history. The original effective/approval dates must be populated by authorised people. Final owner sign-off on this formatted edition is pending.
+> **Project controls:** This is a blank planning template, not authorisation to begin controlled delivery. Obtain approval, assign real accountable roles and protect project data. Owner sign-off remains necessary.
 
 ## Start here — how to complete an actual project charter
 
@@ -145,7 +145,7 @@
 | QA Reviewer | [Name] | Independent assurance and release quality |
 | Documentation Lead | [Name] | Documentation and contribution evidence |
 
-### Original source RACI matrix
+### Roles and responsibility matrix
 
 | Activity | Sponsor | Project Lead | Technical Lead | Contributors | QA |
 | --- | --- | --- | --- | --- | --- |
@@ -156,7 +156,7 @@
 | Release final outputs | **A** | **R** | C | I | **R** |
 | Close project | **A** | **R** | C | I | C |
 
-R = Responsible; A = Accountable; C = Consulted; I = Informed. **The source assigns two R roles on release** (Project Lead and QA); this was retained rather than silently changed. Review operational responsibilities and separation of independent assurance before approving the charter.
+R = Responsible; A = Accountable; C = Consulted; I = Informed. **The release row identifies both Project Lead and QA as Responsible.** Confirm that this reflects your project's approved separation of responsibilities. Review operational responsibilities and separation of independent assurance before approving the charter.
 
 ## 6. Timeline, milestones and cadence
 
@@ -230,7 +230,7 @@ R = Responsible; A = Accountable; C = Consulted; I = Informed. **The source assi
 | Documentation | README, setup, usage, limitations | [Result/link] | [Name] |
 | Security/privacy | Access, secrets, data and release review | [Result/link] | [Name] |
 
-**Five release gates from the source:** (1) Scope/data readiness approved; (2) working increment demonstrated; (3) technical and data QA passed; (4) privacy/security/licensing passed; (5) Sponsor/authorised owner accepts output.
+**Five release gates:** (1) Scope/data readiness approved; (2) working increment demonstrated; (3) technical and data QA passed; (4) privacy/security/licensing passed; (5) Sponsor/authorised owner accepts output.
 
 **Known limitations:** [Record impacts on interpretation, fairness, scale, reliability and maintenance.] Preserve the actual approval records.
 
@@ -335,16 +335,12 @@ The blank table does not authorise any project. Store formal signatures only in 
 
 ## 15. Weekly updates and retrospective
 
-The source's final appendix supplied short weekly progress and retrospective templates. For usability they are maintained as **separate companion templates**, instead of duplicated inside this already long charter.
+Weekly updates and retrospectives use dedicated companion templates. For usability they are maintained as **separate companion templates**, instead of duplicated inside this already long charter.
 
 - [Weekly Project Update](weekly-update-template.md) — genuine progress, risks, decisions and support.
 - [Retrospective & Lessons Learned](retrospective-template.md) — value, blockers, improvements, unresolved work and future lessons.
 
 ---
-
-## Privacy and source record
-
-**Original:** *Mettelo Project Charter & Delivery Framework*, 16-page Word template, version 1.0. This edition rebuilds the original 15 content/appendix sections as real Markdown headings and tables, including source RACI and release responsibilities. It replaces the previously unreadable aligned-text dumps while retaining source provenance in Git history. The added plain-English instructions and fictional transport example are editorial explanations rather than new signed Mettelo policy.
 
 **Status:** Enhanced source-informed template; final review and actual Mettelo governance sign-off on the reformatted edition remain pending. Do not upload filled private charters to this resource library. Maintain appropriate version-controlled approval documentation.
 

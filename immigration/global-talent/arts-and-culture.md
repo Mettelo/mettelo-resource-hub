@@ -9,6 +9,32 @@ Prepared by **Johnson Taiwo** · Mettelo — Built for What's Next
 
 > **Important:** This guide supports professional artistic development. Each discipline may have different endorsement requirements. The 24-month activities are optional and do not guarantee recognition or a visa.
 
+## Visual decision architecture — arts and culture
+
+The correct assessment route depends on your **specific creative discipline**. This map separates route selection, documentary evidence and the later visa stage.
+
+```mermaid
+flowchart TD
+    A["Identify your professional creative discipline"] --> B{"Which official assessment route applies?"}
+    B --> C["General arts and culture"]
+    B --> D["Architecture / fashion / film-TV / design or other specialist route"]
+    C --> E["Review the general-arts Talent or Promise requirements"]
+    D --> F["Read discipline-specific official rules and assessor guidance"]
+    E --> G["Gather qualifying professional record and category-specific proof"]
+    F --> G
+    G --> H["Independent reviews, professional appearances, awards or other applicable evidence"]
+    H --> I{"Do evidence, dates, scope and letters meet the chosen route?"}
+    I -- "No" --> J["Improve real professional record and verify criteria"]
+    J --> G
+    I -- "Yes" --> K["Submit the correct endorsement application"]
+    K --> L{"Endorsement outcome"}
+    L -- "Unsuccessful" --> M["Check decision and official review options"]
+    L -- "Successful" --> N["Separate visa and immigration eligibility stage"]
+```
+
+**Reader note:** This is a route-selection workflow. Not every evidence category applies to every artistic discipline, and an appearance or review is not automatically qualifying evidence.
+
+
 ## Your first decision: which kind of creative professional are you?
 
 | Your actual creative work | Read first | Take this action |

@@ -9,6 +9,27 @@ Prepared by **Johnson Taiwo**, Mettelo
 
 > **Important:** This guide is a practical *career and evidence-development plan*, not a legal eligibility determination or a promise of endorsement. A two-year period is **not** an official application requirement. Some people already have sufficient evidence; others may need considerably longer. The October 2026 source edition is retained in Git commit history, not as a second active guide. This enhanced guide adds independently researched public resources, practical workflows, examples and a month-by-month table. **Source material and new recommendations are distinguished below.**
 
+## Official-rule verification checkpoint — 10 November 2026
+
+This guide's planning activities are separate from the official endorsement criteria. The following document requirements were cross-checked directly against [GOV.UK's Digital Technology documents page](https://www.gov.uk/global-talent-digital-technology/documents-you-need-to-apply-endorsement):
+
+| Requirement | Verified official detail | Your actual check |
+| --- | --- | --- |
+| CV | **Up to three A4 sides**, including relevant publication history | Is the current version within this limit and truthful? |
+| Recommendation authors | **Three established digital-technology experts**, each of whom has known **your work for at least 12 months** | Can each person independently describe distinct real achievements? |
+| Recommendations | Each up to **three single-sided A4 pages**, excluding author credentials/contact details; signed, dated and specifically for Global Talent | Has each author supplied required contact information and supporting credentials? |
+| Recognition evidence | **At least two documents** for exceptional talent/promise recognition | Is the independent recognition evidenced within the relevant period? |
+| Additional criteria | **At least two documents per selected optional criterion**, covering **two** appropriate categories | Do the four documents really demonstrate two criteria? |
+| Evidence maximum | **Ten documents in total**, each up to **three A4 sides**; **no single evidence item reused** for more than one criterion | Does the index uniquely assign each document? |
+| Founders / senior executives | Additional proof of connection to a relevant technology business where required | Is company documentation real and within the specified period? |
+| Visa stage | Home Office endorsement decision is separate; endorsed applicants generally must apply for visa **within three months** | Check actual endorsement date and permission before proceeding |
+
+**Important for existing UK visa holders:** An **endorsement-only** application does not itself extend immigration permission. GOV.UK distinguishes applying for the visa as well as endorsement from applying for endorsement alone. If your permission is near expiry, seek appropriate regulated advice before making assumptions.
+
+**Evidence quality test:** The document count is a *submission format*, not a points score. Having ten pages or ten items without credible independent recognition does not establish eligibility.
+
+---
+
 ## Start here — what is the Global Talent visa for digital technology?
 
 ### What is this visa?

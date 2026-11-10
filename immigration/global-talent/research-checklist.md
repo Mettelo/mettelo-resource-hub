@@ -79,7 +79,6 @@ The original workbook dynamically changes its first six checklist items when you
 - [ ] **5.** Check both letters, independent assessment wording, credentials and contacts.
 - [ ] **6.** Follow the selected academy’s form and any specific additional document instructions.
 
-
 ## Common follow-up items
 
 These six source items apply after choosing the route, subject to the current official requirements.

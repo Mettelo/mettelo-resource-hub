@@ -1,4 +1,4 @@
-# UK Innovator Founder Visa — Build and Validate a UK Business
+# UK Innovator Founder Visa Guide — Business Development and Endorsement Preparation
 
 **Mettelo Practical Business & Innovation Guide**  
 **Prepared by Johnson Taiwo · Updated 10 November 2026**

@@ -92,3 +92,124 @@ h1,h2,h3,h4{font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
 .reader-tools #find-count{min-width:70px}
 @media(max-width:1000px){.top-nav{gap:14px}.header-inner{gap:12px}.reader-shell{grid-template-columns:240px minmax(0,1fr)}}
 @media(max-width:760px){.header-inner{min-height:73px}.brand img.official-logo{max-width:115px;width:115px}.brand-note{font-size:12px}.hero-inner{padding:53px 22px 65px}.hero h1{font-size:42px}.reader-sidebar{background:#fbf7ee}.reader-main{padding:24px 20px 54px}.diagram-head{align-items:flex-start;flex-direction:column;padding:12px}.diagram-viewport{height:430px;min-height:290px}.diagram-canvas{justify-content:flex-start}.diagram-controls button{font-size:11px}.resource-card{min-height:290px}.hero-aside{display:none}}
+
+
+/* Reader revision: one sticky guide-contents sidebar and a generous article column. */
+body[data-page="guide"] .reader-shell{
+ display:grid;grid-template-columns:minmax(238px,282px) minmax(0,1fr);
+ max-width:1480px;margin:0 auto;align-items:stretch;
+}
+body[data-page="guide"] .reader-sidebar{
+ position:sticky;top:0;height:100vh;max-height:100vh;
+ overflow-y:auto;overscroll-behavior:contain;
+ background:#fbf7ee;padding:29px 17px 29px 25px;
+ border-right:1px solid #ded5c3;scrollbar-width:thin;
+}
+body[data-page="guide"] .reader-sidebar .toc{
+ display:flex;flex-direction:column;gap:0;padding:0;margin:10px 0 24px;
+}
+body[data-page="guide"] .reader-sidebar .toc a{
+ display:block;padding:9px 12px;border-left:3px solid transparent;
+ font-size:13px;line-height:1.55;color:#505b69;text-decoration:none;
+ border-radius:0 3px 3px 0;
+}
+body[data-page="guide"] .reader-sidebar .toc a:hover,
+body[data-page="guide"] .reader-sidebar .toc a:focus-visible{
+ background:#f4ecd8;border-left-color:#cf8d24;color:#141925;
+}
+body[data-page="guide"] .reader-sidebar .toc .toc-h3{
+ font-size:12px;padding-left:24px;color:#687381;
+}
+body[data-page="guide"] .sidebar-intro{font-size:12px;color:#687381;margin-bottom:18px}
+body[data-page="guide"] .reader-main{
+ width:100%;min-width:0;max-width:1100px;padding:42px clamp(26px,4.5vw,76px) 90px;
+}
+body[data-page="guide"] .reader-title-block h1{font-size:clamp(32px,3.2vw,48px);line-height:1.2}
+body[data-page="guide"] .reader-title-block p{font-size:16px;line-height:1.85}
+body[data-page="guide"] .markdown-content{
+ font-size:16px;line-height:1.85;color:#26313f;max-width:100%;
+}
+body[data-page="guide"] .markdown-content p{margin:16px 0 21px}
+body[data-page="guide"] .markdown-content li{margin-bottom:9px}
+body[data-page="guide"] .markdown-content h2{font-size:clamp(23px,2.3vw,30px);margin-top:58px;line-height:1.35}
+body[data-page="guide"] .markdown-content h3{font-size:22px;line-height:1.35}
+body[data-page="guide"] .markdown-content table{font-size:13px}
+body[data-page="guide"] .reader-breadcrumb{margin-bottom:29px}
+.guide-switcher{
+ display:flex;align-items:center;flex-wrap:wrap;gap:11px;
+ padding:14px 18px;background:#fbf7ee;border:1px solid #ded5c3;
+ border-left:3px solid #cf8d24;margin:0 0 30px;
+}
+.guide-switcher label{color:#505b69;font-size:13px;font-weight:750;white-space:nowrap}
+.guide-switcher select{
+ flex:1;min-width:230px;min-height:41px;
+ border:1px solid #c6bfae;background:#fff;padding:9px 12px;
+ font:inherit;font-size:13px;color:#141925;border-radius:3px;
+}
+.reader-legal-note{
+ background:#fff9ed;border:1px solid #e7d6ab;
+ border-left:4px solid #cf8d24;padding:20px 22px;margin:22px 0 30px;
+ color:#343c45;
+}
+.reader-legal-note strong{display:block;color:#141925;font-size:14px}
+.reader-legal-note p{font-size:13px;line-height:1.8;margin:7px 0 0}
+body[data-page="guide"] .reader-tools{margin-bottom:45px}
+body[data-page="guide"] .reader-meta{font-size:12px}
+body[data-page="guide"] .toc-sidebar{display:none!important}
+/* Scrollable diagram: do not centre flex content or clip its right/bottom edges. */
+body[data-page="guide"] .diagram-frame{width:100%;max-width:100%;min-width:0;overflow:visible}
+body[data-page="guide"] .diagram-viewport{
+ width:100%;height:570px;min-height:350px;max-width:100%;
+ display:block;overflow-x:auto!important;overflow-y:auto!important;
+ overscroll-behavior:contain;touch-action:pan-x pan-y;
+ scrollbar-width:auto;scrollbar-color:#9b9ca1 #f5f2eb;
+}
+body[data-page="guide"] .diagram-canvas{
+ display:block!important;position:relative;margin:0!important;
+ max-width:none!important;min-width:0;min-height:0;
+ transform:none!important;transform-origin:top left;
+}
+body[data-page="guide"] .diagram-canvas svg{
+ display:block;max-width:none!important;max-height:none!important;
+ margin:0!important;flex:none!important;
+}
+.diagram-zoom-label{display:inline-block;color:#505b69;font-size:12px;font-variant-numeric:tabular-nums;font-weight:750;min-width:40px;margin-right:4px}
+.diagram-controls{gap:7px}
+.diagram-controls button{min-height:38px;padding:7px 12px}
+.diagram-caption{line-height:1.65;margin:0!important}
+body.diagram-is-open{overflow:hidden!important}
+body[data-page="guide"] .diagram-frame.diagram-fullscreen{
+ position:fixed!important;inset:12px!important;z-index:9999!important;
+ max-width:unset!important;width:auto!important;
+ display:flex!important;flex-direction:column;overflow:hidden!important;
+ margin:0!important;background:#fff;
+ box-shadow:0 0 0 100vmax rgba(0,0,0,.75);
+}
+body[data-page="guide"] .diagram-fullscreen .diagram-head,
+body[data-page="guide"] .diagram-fullscreen .diagram-caption{flex:0 0 auto}
+body[data-page="guide"] .diagram-fullscreen .diagram-viewport{
+ flex:1 1 auto!important;height:auto!important;max-height:none!important;
+ min-height:120px!important;overflow:auto!important;
+}
+@media(max-width:900px){
+ body[data-page="guide"] .reader-shell{display:block}
+ body[data-page="guide"] .reader-sidebar{display:none;position:relative;height:auto;max-height:56vh;overflow-y:auto;border-bottom:1px solid #ded5c3}
+ body[data-page="guide"] .reader-sidebar.open{display:block}
+ body[data-page="guide"] .mobile-reader-nav{display:flex}
+ body[data-page="guide"] .reader-main{max-width:none;padding:25px 22px 65px}
+ body[data-page="guide"] .diagram-viewport{height:440px}
+}
+@media(max-width:580px){
+ body[data-page="guide"] .markdown-content{font-size:15px;line-height:1.8}
+ body[data-page="guide"] .markdown-content h2{font-size:23px}
+ body[data-page="guide"] .markdown-content h3{font-size:20px}
+ body[data-page="guide"] .reader-main{padding:21px 17px 55px}
+ .guide-switcher{display:block;padding:14px}
+ .guide-switcher label{display:block;margin-bottom:8px}
+ .guide-switcher select{width:100%;min-width:0}
+ .reader-legal-note{padding:16px}
+ .diagram-head{padding:11px!important}
+ .diagram-controls{gap:5px}
+ .diagram-controls button{font-size:11px;padding:6px 8px}
+ body[data-page="guide"] .diagram-viewport{height:400px}
+}

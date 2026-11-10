@@ -79,7 +79,15 @@ async function run(){
     const a=document.createElement('a');a.textContent=clean.length>75?clean.slice(0,72)+'…':clean;a.href='#'+id;a.className=h.tagName==='H3'?'toc-h3':'toc-h2';toc.append(a);
   });
   toc.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{if(window.innerWidth<=900){$('reader-sidebar').classList.remove('open');toggle?.setAttribute('aria-expanded','false')}}));
-  target.querySelectorAll('table').forEach(t=>{const box=document.createElement('div');box.className='table-scroll';t.parentNode.insertBefore(box,t);box.append(t)});
+  target.querySelectorAll('table').forEach((t,i)=>{
+    const box=document.createElement('div');box.className='table-scroll';box.tabIndex=0;
+    box.setAttribute('role','region');box.setAttribute('aria-label','Scrollable guide table '+(i+1));
+    t.parentNode.insertBefore(box,t);box.append(t);
+    const hint=document.createElement('p');hint.className='table-scroll-hint';
+    hint.textContent='Swipe sideways to view the full table';
+    hint.setAttribute('aria-hidden','true');
+    box.insertAdjacentElement('afterend',hint);
+  });
   // Replace cramped technical Mermaid graphs with full-width editorial process architecture.
   // Each stage is a real HTML section: readable at natural size, accessible, and printable.
   const placeholders=target.querySelectorAll('[data-mettelo-architecture], pre code.language-mermaid');
